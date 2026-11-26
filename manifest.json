@@ -1,0 +1,10 @@
+{
+  "app_id": "bhagavadgita",
+  "display_name": "Bhagavad Gita",
+  "version": "0.3.1",
+  "author": "dragarok",
+  "description": "The Bhagavad Gita offline: Sanskrit in Devanagari, padachheda on or off, long press a word for its parts, grammar and meaning; Annie Besant's translation and notes",
+  "entry": "index.lua",
+  "api": "2.18",
+  "permissions": []
+}
