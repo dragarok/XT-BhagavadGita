@@ -1,0 +1,65 @@
+V	8.12		All the gates closed, the mind confined in the heart, the life-breath fixed in his own head, concentrated by yoga,	The gates of the body, i.e., the sense-organs.	सर्वद्वाराणिसंयम्यमनोहृदिनिरुध्यच~।मूर्ध्न्याधायात्मनःप्राणमास्थितोयोगधारणाम्~॥ १२ ॥	9
+T	सर्वद्वाराणि	सर्व-द्वाराणिall-gates	सर्वfirst part of a compound (pronoun)whole; entire; all; everyद्वाराणि  (द्वार)noun, neuter accusative pluraldoor; gate; passage; entrance
+T	संयम्य	संयम्यhaving restrained	संयम्य  (संयम्)absolutive (having ...)to hold together; to hold in; to hold fast; to restrain
+T	मनो	मनःmind	मनः  (मनस्)noun, neuter accusative singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	हृदि	हृदिin heart	हृदि  (हृद्)noun, neuter locative singularthe heart (as the seat of feelings and emotions); soul; mind (as seat of thought and intellectual operations); breast
+T	निरुध्य	निरुध्यhaving held back	निरुध्य  (निरुध्)absolutive (having ...)to hold back; to stop; to hinder; to shut up
+T	च	चand	चconjunctionand; both; also; moreover
+T	मूर्ध्न्याधायात्मनः	मूर्ध्निin foreheadआधायhaving placedआत्मनःof self	मूर्ध्नि  (मूर्धन्)noun, masculine locative singularthe forehead; head in general; skull; (fig.) the highest or first part of anythingआधाय  (आधा)absolutive (having ...)to place on; to put down; to deposit; to putआत्मनः  (आत्मन्)noun, masculine genitive singularthe breath; the soul; principle of life and sensation; the individual soul
+T	प्राणमास्थितो	प्राणम्breathआस्थितःresorted to	प्राणम्  (प्राण)noun, masculine accusative singularthe breath of life; breath; respiration; lifeआस्थितः  (आस्था)participle, masculine nominative singularto stand or remain on or by; to ascend; to mount; to stay near
+T	योगधारणाम्	योग-धारणाम्yoga-act of holding	योगfirst part of a compoundthe act of yoking; joining; attaching; harnessingधारणाम्  (धारणा)noun, feminine accusative singularthe act of holding; bearing; wearing; supporting
+V	8.13		"Aum!" the one syllabled Eternal, reciting, thinking upon Me, he who goeth forth, abandoning the body, he goeth on the highest path.		ओमित्येकाक्षरंब्रह्मव्याहरन्मामनुस्मरन्~।यःप्रयातित्यजन्देहंसयातिपरमांगतिम्~॥ १३ ॥	10
+T	ओमित्येकाक्षरं	ॐOmइतिthusएक-अक्षरम्one-imperishable	ॐinterjectiona word of solemn affirmation and respectful assentइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soएकfirst part of a compound (number)one; alone; happening only once; single of its kindअक्षरम्  (अक्षर)noun, neuter accusative singularthe syllable om; a vowel; a sound; a word
+T	ब्रह्म	ब्रह्मBrahman	ब्रह्म  (ब्रह्मन्)noun, neuter accusative singularpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	व्याहरन्मामनुस्मरन्	व्याहरत्utteredमाम्meअनुस्मरन्remembering	व्याहरत्  (व्याहृ)verb: imperfect 3rd person singularto utter or pronounce a sound; to speak; to say to (acc.); to converse with (saha)माम्  (मद्)pronoun, accusative singularI; weअनुस्मरन्  (अनुस्मृ)present participle, masculine nominative singularto remember; to recollect
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	प्रयाति	प्रयातिdeparts	प्रयाति  (प्रया)verb: present 3rd person singularto go forth; to set out; to progress; to advance towards or against
+T	त्यजन्देहं	त्यजन्abandoningदेहम्body	त्यजन्  (त्यज्)present participle, masculine nominative singularto leave; to abandon; to quit; to leave a placeदेहम्  (देह)noun, masculine accusative singularform; shape; mass; bulk (as of a cloud)
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	याति	यातिgoes	याति  (या)verb: present 3rd person singularto go; to move; to set out; to travel
+T	परमां	परमाम्supreme	परमाम्  (परम)adjective, feminine accusative singularremotest; extreme; last; chief
+T	गतिम्	गतिम्goal	गतिम्  (गति)noun, feminine accusative singulargoing; moving; gait; deportment
+V	8.14		He who constantly thinketh upon Me, not thinking ever of another, of him I am easily reached, O Pârtha, of this ever-harmonised Yogî.		अनन्यचेताःसततंयोमांस्मरतिनित्यशः~।तस्याहंसुलभःपार्थनित्ययुक्तस्ययोगिनः~॥ १४ ॥	11
+T	अनन्यचेताः	अनन्य-चेताःnot other-mind	अन्negative prefixnotnot; un-; in-अन्यfirst part of a compound (pronoun)other; anotherचेताः  (चेतस्)noun, masculine nominative singularsplendour; consciousness; intelligence; thinking soul
+T	सततं	सततम्always	सततम्adverbalways
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	स्मरति	स्मरतिremembers	स्मरति  (स्मृ)verb: present 3rd person singularto remember; to recollect; to bear in mind; to think of
+T	नित्यशः	नित्यशःalways	नित्यशः  (नित्यशस्)adverbalways; constantly; eternally
+T	तस्याहं	तस्यhisअहम्I	तस्य  (तद्)pronoun, masculine genitive singularthis; gleicherअहम्  (मद्)pronoun, nominative singularI; we
+T	सुलभः	सुलभःeasy to be obtained	सुलभः  (सुलभ)adjective, masculine nominative singulareasy to be obtained; feasible; easy; common
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	नित्ययुक्तस्य	नित्य-युक्तस्यeternal-harmonized	नित्यfirst part of a compound (adjective)innate; native; one's own (opp. to arana); continualयुक्तस्य  (युज्)participle, masculine genitive singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	योगिनः	योगिनःof yogi	योगिनः  (योगिन्)noun, masculine genitive singulara follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+V	8.15		Having come to Me, these Mahâtmâs come not again to birth, the place of pain, non-eternal; they have gone to the highest bliss.		मामुपेत्यपुनर्जन्मदुःखालयमशाश्वतम्~।नाप्नुवन्तिमहात्मानःसंसिद्धिंपरमांगताः~॥ १५ ॥	8
+T	मामुपेत्य	माम्meउपेत्यhaving come to	माम्  (मद्)pronoun, accusative singularI; weउपेत्य  (उपे)absolutive (having ...)to go or come or step near; to approach; to betake one's self to; to arrive at
+T	पुनर्जन्म	पुनर्जन्मrebirth	पुनर्जन्म  (पुनर्जन्मन्)noun, neuter accusative singularre-birth; metempsychosis; [alchemy]
+T	दुःखालयमशाश्वतम्	दुःख-आलयम्pain-houseअशाश्वतम्not permanent	दुःखfirst part of a compounduneasiness; pain; sorrow; troubleआलयम्  (आलय)noun, masculine accusative singulara house; dwelling; a receptacle; asylumअशाश्वतम्  (अशाश्वत)adjective, masculine accusative singularnot permanent or eternal; transient
+T	नाप्नुवन्ति	नnotआप्नुवन्तिobtain	नparticlenot; no; nor; neitherआप्नुवन्ति  (आप्)verb: present 3rd person pluralto reach; to overtake; to meet with; to fall upon
+T	महात्मानः	महात्मानःgreat-souled	महात्मानः  (महात्मन्)adjective, masculine nominative pluralmagnanimous; having a great or noble nature; high-minded; noble
+T	संसिद्धिं	संसिद्धिम्perfection	संसिद्धिम्  (संसिद्धि)noun, feminine accusative singularcomplete accomplishment or fulfilment; perfection; success; perfect state
+T	परमां	परमाम्supreme	परमाम्  (परम)adjective, feminine accusative singularremotest; extreme; last; chief
+T	गताः	गताःgone	गताः  (गम्)participle, masculine nominative pluralto go; to move; to approach; to understand
+V	8.16		The worlds, beginning with the world of Brahmâ, they come and go, O Arjuna; but he who cometh unto Me, O Kaunteya, he knoweth birth no more.		आब्रह्मभुवनाल्लोकाःपुनरावर्तिनोऽर्जुन~।मामुपेत्यतुकौन्तेयपुनर्जन्मनविद्यते~॥ १६ ॥	8
+T	आब्रह्मभुवनाल्लोकाः	आup toब्रह्म-भुवनात्from Brahman-beingलोकाःworlds	आpreposition(prep.) up to; (prep.) until; ah!ब्रह्म  (ब्रह्मन्)first part of a compoundone who Prays; a devot or religious man; a Brâhman who is a knower of Vedic texts or spells; one versed in sacred knowledgeभुवनात्  (भुवन)noun, neuter ablative singulara being; living creature; man; mankindलोकाः  (लोक)noun, masculine nominative pluralfree or open space; room; place; scope
+T	पुनरावर्तिनोऽर्जुन	पुनरावर्तिनःreturningअर्जुनO Arjuna	पुनरावर्तिनः  (पुनरावर्तिन्)adjective, masculine genitive singularreturning (to mundane existence); leading back (to mundane existence); subject to successive birthsअर्जुनnoun, masculine vocative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	मामुपेत्य	माम्meउपेत्यhaving come to	माम्  (मद्)pronoun, accusative singularI; weउपेत्य  (उपे)absolutive (having ...)to go or come or step near; to approach; to betake one's self to; to arrive at
+T	तु	तुbut	तुparticledo; now; then; but
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	पुनर्जन्म	पुनर्जन्मrebirth	पुनर्जन्म  (पुनर्जन्मन्)noun, neuter nominative singularre-birth; metempsychosis; [alchemy]
+T	न	नnot	नparticlenot; no; nor; neither
+T	विद्यते	विद्यतेis known	विद्यते  (विद्)verb: passive present 3rd person singularto find; to discover; to meet or fall in with; to obtain
+V	8.17		The people who know the day of Brahmâ, a thousand ages in duration, and the night a thousand ages in ending, they know day and night.	Yugas.	सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणोविदुः~।रात्रिंयुगसहस्रान्तांतेऽहोरात्रविदोजनाः~॥ १७ ॥	6
+T	सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो	सहस्र-युग-पर्यन्तम्thousand-age-circuitअहःdayयत्whichब्रह्मणःof Brahman	सहस्रfirst part of a compound (number)a thousandth; the thousandthयुगfirst part of a compounda yoke; a pair; couple; braceपर्यन्तम्  (पर्यन्त)noun, neuter accusative singularcircuit; edge; border; sideअहः  (अहर्)noun, neuter accusative singulara dayयत्  (यद्)pronoun, neuter accusative singularwhat; which; whoब्रह्मणः  (ब्रह्मन्)noun, masculine genitive singularone who Prays; a devot or religious man; a Brâhman who is a knower of Vedic texts or spells; one versed in sacred knowledge
+T	विदुः	विदुःknew	विदुः  (विद्)verb: perfect 3rd person pluralto know; to understand; to learn; to be conscious of
+T	रात्रिं	रात्रिम्night	रात्रिम्  (रात्रि)noun, feminine accusative singularnight; the darkness or stillness of night (often personified); turmeric; name of a river in Krauncadvîpa
+T	युगसहस्रान्तां	युग-सहस्र-अन्ताम्age-thousand-end	युगfirst part of a compounda yoke; a pair; couple; braceसहस्रfirst part of a compound (number)a thousandth; the thousandthअन्ताम्  (अन्त)noun, feminine accusative singularend; limit; boundary; term
+T	तेऽहोरात्रविदो	तेtheyअहर्-रात्र-विदःday-= râtri-know	ते  (तद्)pronoun, masculine nominative pluralthis; gleicherअहः  (अहर्)first part of a compounda dayरात्रfirst part of a compound= râtriविदः  (विद्)adjective, masculine nominative pluralknowing; understanding; a knower
+T	जनाः	जनाःpeople	जनाः  (जन)noun, masculine nominative pluralliving being; man; person; name of a man
+V	8.18		From the unmanifested all the manifested stream forth at the coming of day; at the coming of night they dissolve, even in That called the unmanifested.		अव्यक्ताद्व्यक्तयःसर्वाःप्रभवन्त्यहरागमे~।रात्र्यागमेप्रलीयन्तेतत्रैवाव्यक्तसंज्ञके~॥ १८ ॥	6
+T	अव्यक्ताद्व्यक्तयः	अव्यक्तात्from unmanifestव्यक्तयःmanifestations	अव्यक्तात्  (अव्यक्त)noun, neuter ablative singular(in Sânkhya phil.) "the unevolved (Evolver of all things)"; the primary germ of natureव्यक्तयः  (व्यक्ति)noun, feminine nominative pluralvisible appearance or manifestation; becoming evident or known or public; specific appearance; distinctness
+T	सर्वाः	सर्वाःall	सर्वाः  (सर्व)pronoun, feminine nominative pluralwhole; entire; all; every
+T	प्रभवन्त्यहरागमे	प्रभवन्तिcome forthअहर्-आगमेin day-coming	प्रभवन्ति  (प्रभू)verb: present 3rd person pluralto come forth; to spring up; to arise or originate from (abl.); to appearअहः  (अहर्)first part of a compounda dayआगमे  (आगम)noun, masculine locative singulararrival; coming; approach; origin
+T	रात्र्यागमे	रात्रि-आगमेin night-coming	रात्रिfirst part of a compoundnight; the darkness or stillness of night (often personified); turmeric; name of a river in Krauncadvîpaआगमे  (आगम)noun, masculine locative singulararrival; coming; approach; origin
+T	प्रलीयन्ते	प्रलीयन्तेdissolve	प्रलीयन्ते  (प्रली)verb: present 3rd person pluralto become dissolved or reabsorbed into; to disappear; to perish
+T	तत्रैवाव्यक्तसंज्ञके	तत्रthereएवindeedअव्यक्त-संज्ञकेunmanifest-benannt nach	तत्रadverbin that place; there (in comp.); thither; to that placeएवparticleso; just so; exactly so (in the sense of the later evam); indeedअव्यक्तfirst part of a compound(in Sânkhya phil.) "the unevolved (Evolver of all things)"; the primary germ of natureसंज्ञके  (संज्ञक)adjective, masculine locative singularbenannt nach; ... Namen besitzend

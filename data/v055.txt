@@ -1,0 +1,71 @@
+V	9.17		I the Father of this universe, the Mother, the Supporter, the Grandsire, the Holy one to be known, the Word of Power, and also the Rik, Sâma, and Yajur,	Aumkara, the Sacred Word, Aum.The Three Vedas.	पिताऽहमस्यजगतोमाताधातापितामहः~।वेद्यंपवित्रमोङ्कारऋक्सामयजुरेवच~॥ १७ ॥	11
+T	पिताऽहमस्य	पिताfatherअहम्Iअस्यof this	पिता  (पितृ)noun, masculine nominative singulara father; parents; the fathers; forefathersअहम्  (मद्)pronoun, nominative singularI; weअस्य  (इदम्)pronoun, neuter genitive singularthis; (near deictic pronoun in Vedic)
+T	जगतो	जगतःof world	जगतः  (जगन्त्)noun, neuter genitive singularthat which is alive; men and animals; the world; people
+T	माता	माताmother	माता  (मातृ)noun, feminine nominative singulara mother; any mother (applicable to animals); father and mother; parents
+T	धाता	धाताsupporter	धाता  (धातृ)noun, masculine nominative singularestablisher; founder; creator; bearer
+T	पितामहः	पितामहःgrandfather	पितामहः  (पितामह)noun, masculine nominative singulara paternal grandfather; name of Brahmâ; name of several authors; the Pitris
+T	वेद्यं	वेद्यम्to be known	वेद्यम्  (विद्)gerundive (to be ...), neuter nominative singularto know; to understand; to learn; to be conscious of
+T	पवित्रमोङ्कार	पवित्रम्purifierओंकारःsound om	पवित्रम्  (पवित्र)noun, neuter nominative singulara means of purification; filter; strainer; Kusha grassओंकारः  (ओंकार)noun, masculine nominative singularthe sound om
+T	ऋक्	ऋक्	
+T	साम	ऋच्praiseसामmetrical hymn	ऋच्noun, feminine nominative singularpraise; verse; a sacred verse recited in praise of a deity (in contradistinction to the Sâman or verses which were sung and to the Yajus or sacrificial words)साम  (सामन्)noun, neuter nominative singulara metrical hymn or song of praise; a particular kind of sacred text or verse called a Sâman; any song or tune (sacred or profane); melody
+T	यजुरेव	यजुःreligious reverenceएवindeed	यजुः  (यजुस्)noun, neuter nominative singularreligious reverence; veneration; worship; sacrificeएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+V	9.18		The Path, Husband, Lord, Witness, Abode, Shelter, Lover, Origin, Dissolution, Foundation, house, Seed imperishable.		गतिर्भर्ताप्रभुःसाक्षीनिवासःशरणंसुहृत्~।प्रभवःप्रलयःस्थानंनिधानंबीजमव्ययम्~॥ १८ ॥	11
+T	गतिर्भर्ता	गतिःgoalभर्ताsupporter	गतिः  (गति)noun, feminine nominative singulargoing; moving; gait; deportmentभर्ता  (भर्तृ)noun, masculine nominative singulara bearer; one who bears or carries or maintains; a husband
+T	प्रभुः	प्रभुःlord	प्रभुः  (प्रभु)adjective, masculine nominative singularexcelling; mighty; powerful; rich
+T	साक्षी	साक्षीEgo	साक्षी  (साक्षिन्)noun, masculine nominative singularthe Ego or subject (as opp. to the object or to that which is external to the mind); name of a man; a witness
+T	निवासः	निवासःabode	निवासः  (निवास)noun, masculine nominative singularliving; dwelling; residing; passing the night
+T	शरणं	शरणम्refuge	शरणम्  (शरण)noun, neuter nominative singularshelter; place of shelter or refuge or rest; hut; house
+T	सुहृत्	सुहृद्well-wisher	सुहृद्noun, masculine nominative singulara friend; ally; name of the fourth astrol. mansion
+T	प्रभवः	प्रभवःorigin	प्रभवः  (प्रभव)noun, masculine nominative singularproduction; source; origin; cause of existence (as father or mother)
+T	प्रलयः	प्रलयःdissolution	प्रलयः  (प्रलय)noun, masculine nominative singulardissolution; reabsorption; destruction; annihilation
+T	स्थानं	स्थानम्place	स्थानम्  (स्थान)noun, neuter nominative singularthe act of standing; standing firmly; being fixed or stationary; position or posture of the body (in shooting etc.)
+T	निधानं	निधानम्treasure-house	निधानम्  (निधान)noun, neuter nominative singularputting or laying down; depositing; keeping; preserving
+T	बीजमव्ययम्	बीजम्seedअव्ययम्imperishable	बीजम्  (बीज)noun, neuter nominative singularseed (of plants); semen (of men and animals); seed-corn; grainअव्ययम्  (अव्यय)adjective, neuter nominative singularnot liable to change; imperishable; undecaying; parsimonious
+V	9.19		I give heat; I hold back and send forth the rain; immortality and also death, being and non-being am I, Arjuna.	Sat and Asat, the final pair of opposites, beyond which is only the One.	तपाम्यहमहंवर्षंनिगृह्णाम्युत्सृजामिच~।अमृतंचैवमृत्युश्चसदसच्चाहमर्जुन~॥ १९ ॥	8
+T	तपाम्यहमहं	तपामिI heatअहम्Iअहम्I	तपामि  (तप्)verb: present 1st person singularto give out heat; to be hot; to shine (as the sun); to make hot or warmअहम्  (मद्)pronoun, nominative singularI; weअहम्  (मद्)pronoun, nominative singularI; we
+T	वर्षं	वर्षम्rain	वर्षम्  (वर्ष)noun, masculine accusative singularrain; raining; a shower; the rains (pl.)
+T	निगृह्णाम्युत्सृजामि	निगृह्णामिI hold downउत्सृजामिI give up	निगृह्णामि  (निग्रह्)verb: present 1st person singularto hold down; to lower; to depress; to keep or hold backउत्सृजामि  (उत्सृज्)verb: present 1st person singularto let loose; to let off or go; to set free; to open
+T	च	चand	चconjunctionand; both; also; moreover
+T	अमृतं	अमृतम्immortal	अमृतम्  (अमृत)noun, neuter nominative singularcollective body of immortals; world of immortality; heaven; eternity
+T	चैव	चandएवindeed	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	मृत्युश्च	मृत्युःdeathचand	मृत्युः  (मृत्यु)noun, masculine nominative singulardeath; dying; Death personified; the god of disease (sometimes identified with Yama or with Vishnu)चconjunctionand; both; also; moreover
+T	सदसच्चाहमर्जुन	सत्beingअसत्unrealचandअहम्Iअर्जुनO Arjuna	सत्  (अस्)present participle, neuter nominative singularto be; to live; to exist; to be presentअसत्adjective, neuter nominative singularuntrue; wrong; bad; not existingचconjunctionand; both; also; moreoverअहम्  (मद्)pronoun, nominative singularI; weअर्जुनnoun, masculine vocative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+V	9.20		The knowers of the three, the Soma-drinkers, the purified from sin, worshipping Me with sacrifice, pray of Me the way to heaven; they, ascending to the holy world of the Ruler of the Shining Ones, eat in heaven the divine feasts of the Shining Ones.	The Three Vedas.	त्रैविद्यामांसोमपाःपूतपापाःयज्ञैरिष्ट्वास्वर्गतिंप्रार्थयन्ते~।तेपुण्यमासाद्यसुरेन्द्रलोकमश्नन्तिदिव्यान्दिविदेवभोगान्~॥ २० ॥	12
+T	त्रैविद्या	त्रैविद्याःfamiliar with tri-vidyâ	त्रैविद्याः  (त्रैविद्य)adjective, masculine nominative pluralfamiliar with tri-vidyâ
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	सोमपाः	सोमपाःSoma sacrificers	सोमपाः  (सोमप)noun, masculine nominative plurala Soma sacrificer; any sacrificer; name of a being reckoned among the Vishve Devâh; name of one of Skanda's attendants
+T	पूतपापाः	पूत-पापाःpurified-sins	पूत  (पू)first part of a compound (verb)to make clean or clear or pure or bright; to cleanse; to purify; to purgeपापाः  (पाप)noun, masculine nominative pluralevil; misfortune; ill-luck; trouble
+T	यज्ञैरिष्ट्वा	यज्ञैःwith sacrificesइष्ट्वाhaving sacrificed	यज्ञैः  (यज्ञ)noun, masculine instrumental pluralworship; devotion; prayer; praiseइष्ट्वा  (यज्)absolutive (having ...)to worship; to adore; to honour (esp. with sacrifice or oblations); to consecrate
+T	स्वर्गतिं	स्वःsunगतिम्goal	स्वः  (स्वर्)adverbthe sun; sunshine; light; lustreगतिम्  (गति)noun, feminine accusative singulargoing; moving; gait; deportment
+T	प्रार्थयन्ते	प्रार्थयन्तेwish	प्रार्थयन्ते  (प्रार्थय्)verb: present 3rd person pluralto wish or long for; to desire (acc.); to ask a person (acc.) for (acc. or loc.) or ask anything (acc.) from (abl.); to wish to or ask a person to (inf.)
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralthis; gleicher
+T	पुण्यमासाद्य	पुण्यम्holyआसाद्यhaving caused to sit down	पुण्यम्  (पुण्य)adjective, masculine accusative singularauspicious; propitious; fair; pleasantआसाद्य  (आसादय्)absolutive (having ...)to cause to sit down; to set down; to put down; to place
+T	सुरेन्द्रलोकमश्नन्ति	सुर-इन्द्र-लोकम्god-god of the atmosphere and-worldअश्नन्तिattain	सुरfirst part of a compounda god; divinity; the image of a god; an idolइन्द्रfirst part of a compoundthe god of the atmosphere and skyलोकम्  (लोक)noun, masculine accusative singularfree or open space; room; place; scopeअश्नन्ति  (अश्)verb: present 3rd person pluralto eat; to consume
+T	दिव्यान्दिवि	दिव्यान्divineदिविin heaven	दिव्यान्  (दिव्य)adjective, masculine accusative pluraldivine; heavenly; celestial; supernaturalदिवि  (दिव्)noun, masculine locative singularthe sky; heaven
+T	देवभोगान्	देव-भोगान्god-enjoyments	देवfirst part of a compounda deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining onesभोगान्  (भोग)noun, masculine accusative pluralenjoyment; eating; feeding on; possession
+V	9.21		They, having enjoyed the spacious heaven-world, their holiness withered, come back tothis world of death. Following the virtues enjoined by the three, desiring desires, they obtain the transitory.	The fruit of their good deeds finished, their reward exhausted.Vedas.	तेतंभुक्त्वास्वर्गलोकंविशालम्क्षीणेपुण्येमर्त्यलोकंविशन्ति~।एवंत्रयीधर्ममनुप्रपन्नाःगतागतंकामकामालभन्ते~॥ २१ ॥	14
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralthis; gleicher
+T	तं	तम्him	तम्  (तद्)pronoun, masculine accusative singularthis; gleicher
+T	भुक्त्वा	भुक्त्वाhaving enjoyed	भुक्त्वा  (भुज्)absolutive (having ...)to enjoy; to use; to eat; to consume
+T	स्वर्गलोकं	स्वर्ग-लोकम्heaven-world	स्वर्गfirst part of a compoundheaven; the abode of light and of the gods; heavenly bliss; Indra's heaven or paradiseलोकम्  (लोक)noun, masculine accusative singularfree or open space; room; place; scope
+T	विशालम्	विशालम्spacious	विशालम्  (विशाल)adjective, masculine accusative singularspacious; broad; wide; great
+T	क्षीणे	क्षीणेdestroyed	क्षीणे  (क्षि)participle, neuter locative singularto destroy; to corrupt; to ruin; to make an end of (acc.)
+T	पुण्ये	पुण्येin holy	पुण्ये  (पुण्य)noun, neuter locative singularthe good or right; virtue; purity; good work
+T	मर्त्यलोकं	मर्त्य-लोकम्mortal-world	मर्त्यfirst part of a compounda mortal; man; person; the world of mortalsलोकम्  (लोक)noun, masculine accusative singularfree or open space; room; place; scope
+T	विशन्ति	विशन्तिenter	विशन्ति  (विश्)verb: present 3rd person pluralto enter; to enter in or settle down on; to go into; to pervade
+T	एवं	एवम्thus	एवम्adverbthus; in this way; in such a manner; such
+T	त्रयीधर्ममनुप्रपन्नाः	त्रयी-धर्मम्Buddhist triad-dharmaअनुप्रपन्नाःentered	त्रयीfirst part of a compoundthe Buddhist triad; summit; a woman whose husband and children are living; Venonia anthelminthicaधर्मम्  (धर्म)noun, masculine accusative singularthat which is established or firm; steadfast decree; statute; ordinanceअनुप्रपन्नाः  (अनुप्रपद्)participle, masculine nominative pluralto enter or approach or arrive after; to follow; to act in conformance to; to move after
+T	गतागतं	गत-आगतम्gone-come	गत  (गम्)first part of a compound (verb)to go; to move; to approach; to understandआगतम्  (आगम्)participle, masculine accusative singularto come; to make one's appearance; to come near from (abl.) or to (acc. or loc.); to arrive at
+T	कामकामा	काम-कामाःdesire-desires	कामfirst part of a compoundwish; desire; longing; desire forकामाः  (काम)noun, masculine nominative pluralwish; desire; longing; desire for
+T	लभन्ते	लभन्तेobtain	लभन्ते  (लभ्)verb: present 3rd person pluralto take; to seize; to catch; to meet with
+V	9.22		To those men who worship Me alone thinking of no other, to those ever harmonious, I bring full security.		अनन्याश्चिन्तयन्तोमांयेजनाःपर्युपासते~।तेषांनित्याभियुक्तानांयोगक्षेमंवहाम्यहम्~॥ २२ ॥	9
+T	अनन्याश्चिन्तयन्तो	अनन्याःnot othersचिन्तयन्तःthinking of	अन्negative prefixnotnot; un-; in-अन्याः  (अन्य)pronoun, masculine nominative pluralother; anotherचिन्तयन्तः  (चिन्तय्)present participle, masculine nominative pluralto think; to have a thought or idea; to reflect; to consider
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhat; which; who
+T	जनाः	जनाःpeople	जनाः  (जन)noun, masculine nominative pluralliving being; man; person; name of a man
+T	पर्युपासते	पर्युपासतेworship	पर्युपासते  (पर्युपास्)verb: present 3rd person pluralto sit round; to surround; to encompass; to be present at
+T	तेषां	तेषाम्their	तेषाम्  (तद्)pronoun, masculine genitive pluralthis; gleicher
+T	नित्याभियुक्तानां	नित्य-अभियुक्तानाम्eternal-put to for a special	नित्यfirst part of a compound (adjective)innate; native; one's own (opp. to arana); continualअभियुक्तानाम्  (अभियुज्)participle, masculine genitive pluralto put to (as horses to a carriage) for a special purpose (acc.); to attack; to assail; to accuse of (acc.)
+T	योगक्षेमं	योगक्षेमम्security	योगक्षेमम्  (योगक्षेम)noun, neuter accusative singularthe security or secure possession of what has been acquired; the keeping safe of property; welfare; prosperity
+T	वहाम्यहम्	वहामिI carryअहम्I	वहामि  (वह्)verb: present 1st person singularto carry; to transport; to convey; to support i.e. rule the earthअहम्  (मद्)pronoun, nominative singularI; we

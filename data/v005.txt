@@ -1,0 +1,88 @@
+V	1.28	Arjuna said:	Deeply moved to pity, thus uttered in sadness: Seeing these my kinsmen, O Krishna, arrayed, eager to fight,		कृपयापरयाऽऽविष्टोविषीदन्निदमब्रवीत्~।अर्जुनउवाच~।दृष्ट्वेमंस्वजनंकृष्णयुयुत्सुंसमुपस्थितम्~॥ २८ ॥	10
+T	कृपया	कृपयाwith compassion	कृपया  (कृपा)noun, feminine instrumental singularcompassionpity; tenderness; name of a river
+T	परयाऽऽविष्टो	परयाsupremeआविष्टःentered	परया  (पर)pronoun, feminine instrumental singularextremefar; remote; opposite; previousआविष्टः  (आविश्)participle, masculine nominative singularoverwhelmto go or drive in or towards; to approach; to enter; to take possession of
+T	विषीदन्निदमब्रवीत्	विषीदन्being dejectedइदम्thisअब्रवीत्told	विषीदन्  (विषद्)present participle, masculine nominative singulardespairto be exhausted or dejected; to despond; to despair; to sink downइदम्pronoun, neuter accusative singularthisthis; (near deictic pronoun in Vedic)अब्रवीत्  (ब्रू)verb: imperfect 3rd person singularsayto speak; to say; to tell; to speak about any person or thing (acc. with or without prati)
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	दृष्ट्वेमं	दृष्ट्वाhaving seenइमान्theseस्व-जनान्own-peopleकृष्णO Krishna	दृष्ट्वा  (दृश्)absolutive (having ...)seeto behold; to look at; to regard; to considerइमान्  (इदम्)pronoun, masculine accusative pluralthisthis; (near deictic pronoun in Vedic)स्वfirst part of a compound (adjective)own(a)own; one's own; related; akinजनान्  (जन)noun, masculine accusative pluralrelativeliving being; man; person; name of a manकृष्णnoun, masculine vocative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	स्वजनं	स्व-जनम्own-person	स्वfirst part of a compound (adjective)own(a)own; one's own; related; akinजनम्  (जन)noun, masculine accusative singularrelativeliving being; man; person; name of a man
+T	कृष्ण	कृष्णO Krishna	कृष्णnoun, masculine vocative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	युयुत्सुं	युयुत्सुं	
+T	समुपस्थितम्	युयुत्सून्eager to fightसमवस्थितान्stayed	युयुत्सून्  (युयुत्सु)adjective, masculine accusative pluralpugnaciouswishing to fight; eager for battle; pugnaciousसमवस्थितान्  (समवस्था)participle, masculine accusative pluralstayto stay; to dwell; to stand
+V	1.29		My limbs fail and my mouth is parched, my body quivers, and my hair stands on end,		सीदन्तिममगात्राणिमुखंचपरिशुष्यति~।वेपथुश्चशरीरेमेरोमहर्षश्चजायते~॥ २९ ॥	11
+T	सीदन्ति	सीदन्तिsink	सीदन्ति  (सद्)verb: present 3rd person pluralsinkto sit down (esp. at a sacrifice); to sit upon or in or at (acc. or loc.); to sit down before; to besiege
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularmineI; we
+T	गात्राणि	गात्राणिbody parts	गात्राणि  (गात्र)noun, neuter nominative pluralbody parta limb or member of the body; the body; the forequarter of an elephant
+T	मुखं	मुखम्face	मुखम्  (मुख)noun, neuter nominative singularmouththe mouth; face; countenance; the beak of a bird
+T	च	चand	चconjunctionandand; both; also; moreover
+T	परिशुष्यति	परिशुष्यतिdehydrates	परिशुष्यति  (परिशुष्)verb: present 3rd person singulardehydrateto be thoroughly dried up; to shrivel; to wither (lit. and fig.); to pine
+T	वेपथुश्च	वेपथुःtremorचand	वेपथुः  (वेपथु)noun, masculine nominative singulartremorquivering; trembling; tremorचconjunctionandand; both; also; moreover
+T	शरीरे	शरीरेin body	शरीरे  (शरीर)noun, neuter locative singularbodythe body; bodily frame; solid parts of the body; any solid body (opp. to udaka etc.)
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularmineI; we
+T	रोमहर्षश्च	रोमहर्षःthrillचand	रोमहर्षः  (रोमहर्ष)noun, masculine nominative singularthrillthe bristling of the hairs of the body; thrill (caused by joy)चconjunctionandand; both; also; moreover
+T	जायते	जायतेis born	जायते  (जन्)verb: present 3rd person singularhappento come into existence; to grow (as plants); to be born as; to be by birth or nature
+V	1.30		Gândîva slips from my hand, and my skin burns all over, I am not able to stand, my mind is whirling,		गाण्डीवंस्रंसतेहस्तात्त्वक्चैवपरिदह्यते~।नचशक्नोम्यवस्थातुंभ्रमतीवचमेमनः~॥ ३० ॥	11
+T	गाण्डीवं	गाण्डीवम्Gandiva	गाण्डीवम्  (गाण्डीव)noun, neuter nominative singularGândîvaname of a bow
+T	स्रंसते	स्रंसतेfalls down	स्रंसते  (स्रंस्)verb: present 3rd person singularfall downto drop; to fall down
+T	हस्तात्त्वक्चैव	हस्तात्from handत्वच्skinचandएवindeed	हस्तात्  (हस्त)noun, masculine ablative singularhandthe hand; trunk (of an elephant); autograph; [astron.] name of a lunar mansionत्वच्noun, feminine nominative singularskinskin (of men); hide (of goats); a cow's hide (used in pressing out the Soma); a leather bagचconjunctionandand; both; also; moreoverएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	परिदह्यते	परिदह्यतेis burnt	परिदह्यते  (परिदह्)verb: passive present 3rd person singularburnto burn round or through or entirely; to consume by fire; to dry up; to be burnt through or wholly consumed
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	च	चand	चconjunctionandand; both; also; moreover
+T	शक्नोम्यवस्थातुं	शक्नोमिI am ableअवस्थातुम्to be situated	शक्नोमि  (शक्)verb: present 1st person singularcanto be strong or powerful; to be able to or capable of or competent for; to be overcome or subdued; to succumbअवस्थातुम्  (अवस्था)infinitivestandto reach down to; to remain standing; to be separated from; to abide
+T	भ्रमतीव	भ्रमतिconfusesइवlike	भ्रमति  (भ्रम्)verb: present 3rd person singularconfuseto wander or roam about; to rove; to ramble; to cause to wander or roamइवparticlelike; in the same manner as (in this sense = yathâ); as it were; as if
+T	च	चand	चconjunctionandand; both; also; moreover
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularmineI; we
+T	मनः	मनःmind	मनः  (मनस्)noun, neuter nominative singularmindmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+V	1.31		And I see adverse omens, O Keshava. Nor do I foresee any advantage from slaying kinsmen in battle.	"He who has luxurious hair," or, "He who sleeps on the waters."	निमित्तानिचपश्यामिविपरीतानिकेशव~।नचश्रेयोऽनुपश्यामिहत्वास्वजनमाहवे~॥ ३१ ॥	10
+T	निमित्तानि	निमित्तानिomens	निमित्तानि  (निमित्त)noun, neuter accusative pluralomena butt; mark; target; sign
+T	च	चand	चconjunctionandand; both; also; moreover
+T	पश्यामि	पश्यामिI see	पश्यामि  (पश्)verb: present 1st person singularseeto see; to see with the spiritual eye; to compose; to consider
+T	विपरीतानि	विपरीतानिcontrary	विपरीतानि  (विपरीत)adjective, neuter accusative pluralinauspiciousturned round; reversed; inverted; being the reverse of anything
+T	केशव	केशवO Keshava	केशवnoun, masculine vocative singularKrishnaname of Vishnu or Krishna; name of the month Mârgashîrsha; Rottleria tinctoria; name of the author of a lexicon called Kalpadru
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	च	चand	चconjunctionandand; both; also; moreover
+T	श्रेयोऽनुपश्यामि	श्रेयःbetterअनुपश्यामिI see	श्रेयः  (श्रेयस्)noun, neuter accusative singularwell-beingthe better state; the better fortune or condition (sometimes used when the subject of a sentence would seem to require the masc. form)अनुपश्यामि  (अनुपश्)verb: present 1st person singularnoticeto look at; to perceive; to notice; to discover
+T	हत्वा	हत्वाhaving slain	हत्वा  (हन्)absolutive (having ...)killto strike; to beat; to pound; to hammer
+T	स्वजनमाहवे	स्व-जनम्own-personआहवेin battle	स्वfirst part of a compound (adjective)own(a)own; one's own; related; akinजनम्  (जन)noun, masculine accusative singularrelativeliving being; man; person; name of a manआहवे  (आहव)noun, masculine locative singularbattlechallenge; provoking; war; battle
+V	1.32		For I desire not victory, O Krishna, nor kingdom, nor pleasures; what is kingdom to us, O Govinda, what enjoyment or even life?		नकाङ्क्षेविजयंकृष्णनचराज्यंसुखानिच~।किंनोराज्येनगोविन्दकिंभोगैर्जीवितेनवा~॥ ३२ ॥	16
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	काङ्क्षे	काङ्क्षेI desire	काङ्क्षे  (काङ्क्ष्)verb: present 1st person singulardesireto wish; to desire; to long for; to hope for (with acc.)
+T	विजयं	विजयम्victory	विजयम्  (विजय)noun, masculine accusative singularvictorycontest for victory; victory; conquest; triumph
+T	कृष्ण	कृष्णO Krishna	कृष्णnoun, masculine vocative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	च	चand	चconjunctionandand; both; also; moreover
+T	राज्यं	राज्यम्kingdom	राज्यम्  (राज्य)noun, neuter accusative singularkingshiproyalty; kingship; sovereignty; empire
+T	सुखानि	सुखानिhappinesses	सुखानि  (सुख)noun, neuter accusative pluralpleasureease; easiness; comfort; prosperity
+T	च	चand	चconjunctionandand; both; also; moreover
+T	किं	किम्what	किम्  (क)pronoun, neuter nominative singularwhatwho?; what?
+T	नो	नःour	नः  (मद्)pronoun, genitive pluralII; we
+T	राज्येन	राज्येनwith kingdom	राज्येन  (राज्य)noun, neuter instrumental singularkingshiproyalty; kingship; sovereignty; empire
+T	गोविन्द	गोविन्दO Govinda	गोविन्दnoun, masculine vocative singularKrishnaKrishna (or Vishnu); name of the 4th month; a chief herdsman; name of a prince
+T	किं	किम्what	किम्  (क)pronoun, neuter nominative singularwhatwho?; what?
+T	भोगैर्जीवितेन	भोगैःwith enjoymentsजीवितेनwith life	भोगैः  (भोग)noun, masculine instrumental pluralenjoymentenjoyment; eating; feeding on; possessionजीवितेन  (जीवित)noun, neuter instrumental singularlifea living being; life; duration of life; livelihood
+T	वा	वाor	वाconjunctionoreither - or; on the one side - on the other side; optionally
+V	1.33		Those for whose sake we desire kingdom, enjoyments and pleasures, they stand here in battle, abandoning life and riches - 		येषामर्थेकाङ्क्षितंनोराज्यंभोगाःसुखानिच~।तइमेऽवस्थितायुद्धेप्राणांस्त्यक्त्वाधनानिच~॥ ३३ ॥	13
+T	येषामर्थे	येषाम्whoseअर्थेin purpose	येषाम्  (यद्)pronoun, masculine genitive pluralwhichwhat; which; whoअर्थे  (अर्थ)noun, masculine locative singularforaim; purpose; cause; motive
+T	काङ्क्षितं	काङ्क्षितम्desired	काङ्क्षितम्  (काङ्क्ष्)participle, neuter nominative singulardesireto wish; to desire; to long for; to hope for (with acc.)
+T	नो	नःour	नः  (मद्)pronoun, genitive pluralII; we
+T	राज्यं	राज्यम्kingdom	राज्यम्  (राज्य)noun, neuter nominative singularkingshiproyalty; kingship; sovereignty; empire
+T	भोगाः	भोगाःenjoyments	भोगाः  (भोग)noun, masculine nominative pluralenjoymentenjoyment; eating; feeding on; possession
+T	सुखानि	सुखानिhappinesses	सुखानि  (सुख)noun, neuter nominative pluralpleasureease; easiness; comfort; prosperity
+T	च	चand	चconjunctionandand; both; also; moreover
+T	त	तेthey	ते  (तद्)pronoun, masculine nominative pluralhe,she,it (pers. pron.)this; gleicher
+T	इमेऽवस्थिता	इमेtheseअवस्थिताःsituated	इमे  (इदम्)pronoun, masculine nominative pluralthisthis; (near deictic pronoun in Vedic)अवस्थिताः  (अवस्था)participle, masculine nominative pluralstayto reach down to; to remain standing; to be separated from; to abide
+T	युद्धे	युद्धेin battle	युद्धे  (युद्ध)noun, neuter locative singularbattlefight; war; (in astron.) opposition; conflict of the planets
+T	प्राणांस्त्यक्त्वा	प्राणान्breathsत्यक्त्वाhaving abandoned	प्राणान्  (प्राण)noun, masculine accusative plurallifethe breath of life; breath; respiration; lifeत्यक्त्वा  (त्यज्)absolutive (having ...)abandonto leave; to abandon; to quit; to leave a place
+T	धनानि	धनानिwealths	धनानि  (धन)noun, neuter accusative pluralwealththe prize of a contest or the contest itself (lit. a running match); the thing raced for; booty; prey
+T	च	चand	चconjunctionandand; both; also; moreover
+V	1.34		Teachers, fathers, sons, as well as grandfathers, mother's brothers, fathers-in-law, grandsons, brothers-in-law, and other relatives.		आचार्याःपितरःपुत्रास्तथैवचपितामहाः~।मातुलाःश्वशुराःपौत्राःश्यालाःसम्बन्धिनस्तथा~॥ ३४ ॥	10
+T	आचार्याः	आचार्याःteachers	आचार्याः  (आचार्य)noun, masculine nominative pluralgurua spiritual guide or teacher; a name of Drona
+T	पितरः	पितरःfathers	पितरः  (पितृ)noun, masculine nominative pluralfathera father; parents; the fathers; forefathers
+T	पुत्रास्तथैव	पुत्राःsonsतथाlikewiseएवindeed	पुत्राः  (पुत्र)noun, masculine nominative pluralsona son; child; a species of small venomous animal; (in astrol.) name of the fifth houseतथाadverbandin that manner; so; thus; yesएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionandand; both; also; moreover
+T	पितामहाः	पितामहाःgrandfathers	पितामहाः  (पितामह)noun, masculine nominative pluralpaternal grandfathera paternal grandfather; name of Brahmâ; name of several authors; the Pitris
+T	मातुलाः	मातुलाःmaternal uncles	मातुलाः  (मातुल)noun, masculine nominative pluralmaternal unclea maternal uncle (often in respectful or familiar address); name of the solar year; the thorn-apple tree; a species of grain
+T	श्वशुराः	श्वशुराःfather-in-laws	श्वशुराः  (श्वशुर)noun, masculine nominative pluralfather-in-lawa father-in-law; husband's or wife's father (in the oldest language commonly the former); a father and mother-in-law
+T	पौत्राः	पौत्राःgrandsons	पौत्राः  (पौत्र)noun, masculine nominative pluralgrandsona grandson
+T	श्यालाः	स्यालाःbrother-in-laws	स्यालाः  (स्याल)noun, masculine nominative pluralbrother-in-lawthe brother of a bride; a wife's brother (in later literature esp. the brother-in-law or favourite of a king)
+T	सम्बन्धिनस्तथा	सम्बन्धिनःrelatedतथाlikewise	सम्बन्धिनः  (सम्बन्धिन्)adjective, masculine nominative pluralrelatedconnected with; belonging or relating to (gen. or comp.); adjunct; inherentतथाadverbandin that manner; so; thus; yes

@@ -1,0 +1,68 @@
+V	14.8		But Inertia, know thou, born of unwisdom, is the deluder of all dwellers in the body; that bindeth by heedlessness, indolence and sloth, O Bharata.		तमस्त्वज्ञानजंविद्धिमोहनंसर्वदेहिनाम्~।प्रमादालस्यनिद्राभिस्तन्निबध्नातिभारत~॥ ८ ॥	6
+T	तमस्त्वज्ञानजं	तमःdarknessतुbutअज्ञान-जम्ignorance-born	तमः  (तमस्)noun, neuter accusative singularTamasdarkness; gloom; the darkness of hell; hell or a particular division of hellतुparticledo; now; then; butअज्ञानfirst part of a compoundnon-cognizance; ignorance; (in philosophy) spiritual ignorance; Prakritiजम्  (ज)adjective, neuter accusative singularifc. born or descended from; produced or caused by; born or produced in or at or upon; growing in
+T	विद्धि	विद्धिknow!	विद्धि  (विद्)verb: present imperative 2nd person singularto know; to understand; to learn; to be conscious of
+T	मोहनं	मोहनम्depriving of consciousness	मोहनम्  (मोहन)adjective, neuter accusative singulardepriving of consciousness; bewildering; confusing; perplexing
+T	सर्वदेहिनाम्	सर्व-देहिनाम्of all-embodied ones	सर्वfirst part of a compound (pronoun)whole; entire; all; everyदेहिनाम्  (देहिन्)noun, masculine genitive plurala living creature; man; the spirit; soul (enveloped in the body)
+T	प्रमादालस्यनिद्राभिस्तन्निबध्नाति	प्रमाद-आलस्य-निद्राभिःwith heedlessness-sloth-sleepsतत्thatनिबध्नातिbinds	प्रमादfirst part of a compoundintoxication; madness; insanity; negligenceआलस्यfirst part of a compoundidleness; sloth; want of energyनिद्राभिः  (निद्रा)noun, feminine instrumental pluralsleep; slumber; sleepiness; slothतत्  (तद्)pronoun, neuter nominative singularthis; gleicherनिबध्नाति  (निबन्ध्)verb: present 3rd person singularto bind on; to tie; to fasten to; to enchain
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+V	14.9		Harmony attacheth to bliss, Motion to action O Bharata. Inertia, verily, having shrouded wisdom, attacheth on the contrary to heedlessness.		सत्त्वंसुखेसञ्जयतिरजःकर्मणिभारत~।ज्ञानमावृत्यतुतमःप्रमादेसञ्जयत्युत~॥ ९ ॥	11
+T	सत्त्वं	सत्त्वम्goodness	सत्त्वम्  (सत्त्व)noun, neuter nominative singularbeing; existence; reality; true essence
+T	सुखे	सुखेin happiness	सुखे  (सुख)noun, neuter locative singularease; easiness; comfort; prosperity
+T	सञ्जयति	सञ्जयतिcauses to be attached	सञ्जयति  (सञ्जय्)verb: present 3rd person singularto cause to be attached
+T	रजः	रजःpassion	रजः  (रजस्)noun, neuter nominative singularthe sphere of vapour or mist; region of clouds; atmosphere; air
+T	कर्मणि	कर्मणिin action	कर्मणि  (कर्मन्)noun, neuter locative singularact; action; performance; business
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+T	ज्ञानमावृत्य	ज्ञानम्knowledgeआवृत्यhaving covered	ज्ञानम्  (ज्ञान)noun, neuter accusative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)आवृत्य  (आवृ)absolutive (having ...)to cover; to hide; to conceal; to surround
+T	तु	तुbut	तुparticledo; now; then; but
+T	तमः	तमःdarkness	तमः  (तमस्)noun, neuter nominative singulardarkness; gloom; the darkness of hell; hell or a particular division of hell
+T	प्रमादे	प्रमादेin heedlessness	प्रमादे  (प्रमाद)noun, masculine locative singularintoxication; madness; insanity; negligence
+T	सञ्जयत्युत	सञ्जयतिcauses to be attachedउतalso	सञ्जयति  (सञ्जय्)verb: present 3rd person singularto cause to be attachedउतconjunctionand; also; even; or
+V	14.10		Now Harmony prevaileth, having overpowered Motion and Inertia, O Bhârata; now Motion, having overpowered Harmony and Inertia; and now Inertia, having overpowered Harmony and Motion.		रजस्तमश्चाभिभूयसत्त्वंभवतिभारत~।रजःसत्त्वंतमश्चैवतमःसत्त्वंरजस्तथा~॥ १० ॥	10
+T	रजस्तमश्चाभिभूय	रजःpassionतमःdarknessचandअभिभूयhaving overcome	रजः  (रजस्)noun, neuter accusative singularthe sphere of vapour or mist; region of clouds; atmosphere; airतमः  (तमस्)noun, neuter accusative singulardarkness; gloom; the darkness of hell; hell or a particular division of hellचconjunctionand; both; also; moreoverअभिभूय  (अभिभू)absolutive (having ...)to overcome; to overpower; to predominate; to conquer
+T	सत्त्वं	सत्त्वम्goodness	सत्त्वम्  (सत्त्व)noun, neuter nominative singularbeing; existence; reality; true essence
+T	भवति	भवतिis	भवति  (भू)verb: present 3rd person singularto be; to become; to come into being; to happen
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+T	रजः	रजःpassion	रजः  (रजस्)noun, neuter accusative singularthe sphere of vapour or mist; region of clouds; atmosphere; air
+T	सत्त्वं	सत्त्वम्goodness	सत्त्वम्  (सत्त्व)noun, neuter accusative singularbeing; existence; reality; true essence
+T	तमश्चैव	तमःdarknessचandएवindeed	तमः  (तमस्)noun, neuter nominative singulardarkness; gloom; the darkness of hell; hell or a particular division of hellचconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	तमः	तमःdarkness	तमः  (तमस्)noun, neuter accusative singulardarkness; gloom; the darkness of hell; hell or a particular division of hell
+T	सत्त्वं	सत्त्वम्goodness	सत्त्वम्  (सत्त्व)noun, neuter accusative singularbeing; existence; reality; true essence
+T	रजस्तथा	रजःpassionतथाlikewise	रजः  (रजस्)noun, neuter nominative singularthe sphere of vapour or mist; region of clouds; atmosphere; airतथाadverbin that manner; so; thus; yes
+V	14.11		When the wisdom-light streameth forth from all the gates of the body, then it may be known that Harmony is increasing.		सर्वद्वारेषुदेहेऽस्मिन्प्रकाशउपजायते~।ज्ञानंयदातदाविद्याद्विवृद्धंसत्त्वमित्युत~॥ ११ ॥	8
+T	सर्वद्वारेषु	सर्व-द्वारेषुin all-gates	सर्वfirst part of a compound (pronoun)whole; entire; all; everyद्वारेषु  (द्वार)noun, neuter locative pluraldoor; gate; passage; entrance
+T	देहेऽस्मिन्प्रकाश	देहेin bodyअस्मिन्in thisप्रकाशःlight	देहे  (देह)noun, neuter locative singularform; shape; mass; bulk (as of a cloud)अस्मिन्  (इदम्)pronoun, neuter locative singularthis; (near deictic pronoun in Vedic)प्रकाशः  (प्रकाश)noun, masculine nominative singularclearness; brightness; splendour; lustre
+T	उपजायते	उपजायतेarises	उपजायते  (उपजन्)verb: present 3rd person singularto be produced or originate in addition; to be added or put to; to follow (as a consequence); to be born
+T	ज्ञानं	ज्ञानम्knowledge	ज्ञानम्  (ज्ञान)noun, neuter nominative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	यदा	यदाwhen	यदाconjunctionwhen; at what time; whenever
+T	तदा	तदाthen	तदाadverbat that time; then; in that case (often used redundantly)
+T	विद्याद्विवृद्धं	विद्यात्should knowविवृद्धम्increased	विद्यात्  (विद्)verb: present optative 3rd person singularto know; to understand; to learn; to be conscious ofविवृद्धम्  (विवृध्)participle, neuter nominative singularto grow; to increase; to swell; to become large or powerful
+T	सत्त्वमित्युत	सत्त्वम्goodnessइतिthusउतalso	सत्त्वम्  (सत्त्व)noun, neuter nominative singularbeing; existence; reality; true essenceइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soउतconjunctionand; also; even; or
+V	14.12		Greed, outgoing energy, undertaking of actions, restlessness, desire - these are born of the increase of Motion, O best of the Bhâratas.		लोभःप्रवृत्तिरारंभःकर्मणामशमःस्पृहा~।रजस्येतानिजायन्तेविवृद्धेभरतर्षभ~॥ १२ ॥	8
+T	लोभः	लोभःgreed	लोभः  (लोभ)noun, masculine nominative singularperplexity; confusion; impatience; eager desire for or longing after
+T	प्रवृत्तिरारंभः	प्रवृत्तिःactivityआरम्भःundertaking	प्रवृत्तिः  (प्रवृत्ति)noun, feminine nominative singularmoving onwards; advance; progress; coming forthआरम्भः  (आरम्भ)noun, masculine nominative singularundertaking; beginning; a thing begun; origin
+T	कर्मणामशमः	कर्मणाम्of actionsअशमःdisquietude	कर्मणाम्  (कर्मन्)noun, neuter genitive pluralact; action; performance; businessअशमः  (अशम)noun, masculine nominative singulardisquietude; uneasiness
+T	स्पृहा	स्पृहाlonging	स्पृहाnoun, feminine nominative singulareager desire; desire; covetousness; envy
+T	रजस्येतानि	रजसिin passionएतानिthese	रजसि  (रजस्)noun, neuter locative singularthe sphere of vapour or mist; region of clouds; atmosphere; airएतानि  (एतद्)pronoun, neuter nominative pluralthis
+T	जायन्ते	जायन्तेare born	जायन्ते  (जन्)verb: present 3rd person pluralto come into existence; to grow (as plants); to be born as; to be by birth or nature
+T	विवृद्धे	विवृद्धेincreased	विवृद्धे  (विवृध्)participle, neuter locative singularto grow; to increase; to swell; to become large or powerful
+T	भरतर्षभ	भरत-ऋषभO best of the Bharatas	भरतfirst part of a compoundname of Agni (kept alive by the care of men); name of a particular Agni (father of Bharata and Bharatî); a priest; an actorऋषभnoun, masculine vocative singulara bull (as impregnating the flock); any male animal in general; the best or most excellent of any kind or race; the second of the seven notes of the Hindû gamut
+V	14.13		Darkness, stagnation and heedlessness and also delusion - these are born of the increase of Inertia, O joy of the Kurus.		अप्रकाशोऽप्रवृत्तिश्चप्रमादोमोहएवच~।तमस्येतानिजायन्तेविवृद्धेकुरुनन्दन~॥ १३ ॥	9
+T	अप्रकाशोऽप्रवृत्तिश्च	अप्रकाशःnot shiningअप्रवृत्तिःnot proceedingचand	अप्रकाशः  (अप्रकाश)adjective, masculine nominative singularnot shining; dark; not visible; hiddenअप्रवृत्तिः  (अप्रवृत्ति)noun, feminine nominative singularnot proceeding; no further effect or applicability of a precept; abstaining from action; inertionचconjunctionand; both; also; moreover
+T	प्रमादो	प्रमादःheedlessness	प्रमादः  (प्रमाद)noun, masculine nominative singularintoxication; madness; insanity; negligence
+T	मोह	मोहःdelusion	मोहः  (मोह)noun, masculine nominative singularloss of consciousness; bewilderment; perplexity; distraction
+T	एव	एवindeed	एवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+T	तमस्येतानि	तमसिin darknessएतानिthese	तमसि  (तमस्)noun, neuter locative singulardarkness; gloom; the darkness of hell; hell or a particular division of hellएतानि  (एतद्)pronoun, neuter nominative pluralthis
+T	जायन्ते	जायन्तेare born	जायन्ते  (जन्)verb: present 3rd person pluralto come into existence; to grow (as plants); to be born as; to be by birth or nature
+T	विवृद्धे	विवृद्धेincreased	विवृद्धे  (विवृध्)participle, neuter locative singularto grow; to increase; to swell; to become large or powerful
+T	कुरुनन्दन	कुरु-नन्दनO joy of the Kurus	कुरुfirst part of a compoundname of a people of India and of their country (situated near the country of the Pancâlas); = ritvijas (priests); = kartâras ("doers")नन्दनnoun, masculine vocative singulara son; a frog; a kind of poisonous plant; a particular form of temple
+V	14.14		If Harmony verily prevaileth when the embodied goeth to dissolution, then he goeth forth to the spotless worlds of the great Sages.		यदासत्त्वेप्रवृद्धेतुप्रलयंयातिदेहभृत्~।तदोत्तमविदांलोकानमलान्प्रतिपद्यते~॥ १४ ॥	9
+T	यदा	यदाwhen	यदाconjunctionwhen; at what time; whenever
+T	सत्त्वे	सत्त्वेin goodness	सत्त्वे  (सत्त्व)noun, neuter locative singularbeing; existence; reality; true essence
+T	प्रवृद्धे	प्रवृद्धेgrown	प्रवृद्धे  (प्रवृध्)participle, neuter locative singularto exalt; to magnify; to grow up; to grow
+T	तु	तुbut	तुparticledo; now; then; but
+T	प्रलयं	प्रलयम्dissolution	प्रलयम्  (प्रलय)noun, masculine accusative singulardissolution; reabsorption; destruction; annihilation
+T	याति	यातिgoes	याति  (या)verb: present 3rd person singularto go; to move; to set out; to travel
+T	देहभृत्	देहभृत्embodied one	देहभृत्noun, masculine nominative singulara living creature (esp. man); name of Shiva; life; vitality
+T	तदोत्तमविदां	तदाthenउत्तम-विदाम्highest-know	तदाadverbat that time; then; in that case (often used redundantly)उत्तमfirst part of a compound (adjective)uppermost; highest; chief; most elevatedविदाम्  (विद्)adjective, masculine genitive pluralknowing; understanding; a knower
+T	लोकानमलान्प्रतिपद्यते	लोकान्worldsअमलान्spotlessप्रतिपद्यतेsets foot upon	लोकान्  (लोक)noun, masculine accusative pluralfree or open space; room; place; scopeअमलान्  (अमल)adjective, masculine accusative pluralspotless; stainless; clean; pureप्रतिपद्यते  (प्रतिपद्)verb: present 3rd person singularto set foot upon; to enter; to go or resort to; to arrive at

@@ -1,0 +1,34 @@
+V	18.76		O King, remembering, remembering this marvellous and holy dialogue between Keshava and Arjuna, I rejoice again and again.		राजन्संस्मृत्यसंस्मृत्यसंवादमिममद्भुतम्~।केशवार्जुनयोःपुण्यंहृष्यामिचमुहुर्मुहुः~॥ ७६ ॥	8
+T	राजन्संस्मृत्य	राजन्O kingसंस्मृत्यhaving remembered	राजन्noun, masculine vocative singulara king; sovereign; prince; chief (often applied to gods)संस्मृत्य  (संस्मृ)absolutive (having ...)to remember fully; to recollect
+T	संस्मृत्य	संस्मृत्यhaving remembered	संस्मृत्य  (संस्मृ)absolutive (having ...)to remember fully; to recollect
+T	संवादमिममद्भुतम्	संवादम्dialogueइमम्thisअद्भुतम्wondrous	संवादम्  (संवाद)noun, masculine accusative singularspeaking together; conversation; colloquy with (instr. with and without saha loc); appointmentइमम्  (इदम्)pronoun, masculine accusative singularthis; (near deictic pronoun in Vedic)अद्भुतम्  (अद्भुत)adjective, masculine accusative singularextraordinary; supernatural; wonderful; unerforschlich
+T	केशवार्जुनयोः	केशव-अर्जुनयोःof Keshava-Arjunas	केशवfirst part of a compoundname of Vishnu or Krishna; name of the month Mârgashîrsha; Rottleria tinctoria; name of the author of a lexicon called Kalpadruअर्जुनयोः  (अर्जुन)noun, masculine genitive duala peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	पुण्यं	पुण्यम्holy	पुण्यम्  (पुण्य)adjective, masculine accusative singularauspicious; propitious; fair; pleasant
+T	हृष्यामि	हृष्यामिI rejoice	हृष्यामि  (हृष्)verb: present 1st person singularto thrill with rapture; to rejoice; to exult; to be glad or pleased
+T	च	चand	चconjunctionand; both; also; moreover
+T	मुहुर्मुहुः	मुहुःsuddenlyमुहुःsuddenly	मुहुः  (मुहुर्)adverbsuddenly; at once; in a moment (often with a following ); for a momentमुहुः  (मुहुर्)adverbsuddenly; at once; in a moment (often with a following ); for a moment
+V	18.77		Remembering, remembering, also that most marvellous form of Hari, great is my wonder, O King. I rejoice, again and again.		तच्चसंस्मृत्यसंस्मृत्यरूपमत्यद्भुतंहरेः~।विस्मयोमेमहान्राजन्हृष्यामिचपुनःपुनः~॥ ७७ ॥	13
+T	तच्च	तत्thatचand	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherचconjunctionand; both; also; moreover
+T	संस्मृत्य	संस्मृत्यhaving remembered	संस्मृत्य  (संस्मृ)absolutive (having ...)rememberto remember fully; to recollect
+T	संस्मृत्य	संस्मृत्यhaving remembered	संस्मृत्य  (संस्मृ)absolutive (having ...)to remember fully; to recollect
+T	रूपमत्यद्भुतं	रूपम्formअतिveryअद्भुतम्wondrous	रूपम्  (रूप)noun, neuter accusative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapesअतिprepositionvery; extremelyअद्भुतम्  (अद्भुत)adjective, neuter accusative singularextraordinary; supernatural; wonderful; unerforschlich
+T	हरेः	हरेःof yellow	हरेः  (हरि)noun, masculine genitive singularyellow or reddish brown or green (the colour); a horse; steed (esp. of Indra); a lion
+T	विस्मयो	विस्मयःwonder	विस्मयः  (विस्मय)noun, masculine nominative singularwonder; surprise; bewilderment; perplexity (in rhet. one of the sthâyibhâvas)
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	महान्	महान्great	महान्  (महत्)adjective, masculine nominative singulargreat; large; big; huge
+T	राजन्	महान्greatराजन्O king	महान्  (महत्)adjective, masculine nominative singulargreat; large; big; hugeराजन्noun, masculine vocative singulara king; sovereign; prince; chief (often applied to gods)
+T	हृष्यामि	हृष्यामिI rejoice	हृष्यामि  (हृष्)verb: present 1st person singularto thrill with rapture; to rejoice; to exult; to be glad or pleased
+T	च	चand	चconjunctionand; both; also; moreover
+T	पुनः	पुनःagain	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and again
+T	पुनः	पुनःagain	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and again
+V	18.78		Wherever is Krishna, Yoga's Lord, whereveris Pârtha, the archer, assured are there prosperity, victory and happiness. So I think.	Shri Shankaracharya's reading would run, translated: "There is prosperity, victory, happiness, and firm morality."	यत्रयोगेश्वरःकृष्णोयत्रपार्थोधनुर्धरः~।तत्रश्रीर्विजयोभूतिर्ध्रुवानीतिर्मतिर्मम~॥ ७८ ॥	10
+T	यत्र	यत्रwhere	यत्रconjunctionwhere; wherein; wherever; whither
+T	योगेश्वरः	योगेश्वरःKrishna	योगेश्वरः  (योगेश्वर)noun, masculine nominative singularKrishnaa master in magical art; a master or adept in the Yoga; a deity; the object of devout contemplation
+T	कृष्णो	कृष्णःKrishna	कृष्णः  (कृष्ण)noun, masculine nominative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	यत्र	यत्रwhere	यत्रconjunctionwhere; wherein; wherever; whither
+T	पार्थो	पार्थःson of Pritha	पार्थः  (पार्थ)noun, masculine nominative singularArjunapatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	धनुर्धरः	धनुः-धरःbow-carrying	धनुः  (धनुस्)first part of a compoundbowa bow; a measure of length = 4 Hastas or 1/2000 Gavyûti; (geom.) an Arc or past of a circleधरः  (धर)adjective, masculine nominative singularcarryingbearing; supporting; ifc. holding; carrying
+T	तत्र	तत्रthere	तत्रadverbtherein that place; there (in comp.); thither; to that place
+T	श्रीर्विजयो	श्रीःblessedविजयःvictory	श्रीः  (श्री)noun, feminine nominative singularLakshmilight; lustre; radiance; splendourविजयः  (विजय)noun, masculine nominative singularvictorycontest for victory; victory; conquest; triumph
+T	भूतिर्ध्रुवा	भूतिःwell-beingध्रुवाcertain	भूतिः  (भूति)noun, feminine nominative singularwell-beingexistence; being; wellbeing; thrivingध्रुवा  (ध्रुव)adjective, feminine nominative singularcertainfixed; firm; immovable; constant
+T	नीतिर्मतिर्मम	नीतिःgood behaviorमतिःmindममmy	नीतिः  (नीति)noun, feminine nominative singulargood behaviorleading or bringing; guidance; management; conductमतिः  (मति)noun, feminine nominative singularopiniondevotion; prayer; worship; hymnमम  (मद्)pronoun, genitive singularII; we

@@ -1,0 +1,66 @@
+V	6.24		Abandoning without reserve all desires born of the imagination, by the mind curbing in the aggregate of the senses on every side,	Sankalpa.Manah.	सङ्कल्पप्रभावान्कामांस्त्यक्त्वासर्वानशेषतः~।मनसैवेन्द्रियग्रामंविनियम्यसमन्ततः~॥ २४ ॥	5
+T	सङ्कल्पप्रभावान्कामांस्त्यक्त्वा	संकल्प-प्रभवान्intention-originsकामान्desiresत्यक्त्वाhaving abandoned	संकल्पfirst part of a compoundconception or idea or notion formed in the mind or heart; will; volition; desireप्रभवान्  (प्रभव)noun, masculine accusative pluralproduction; source; origin; cause of existence (as father or mother)कामान्  (काम)noun, masculine accusative pluralwish; desire; longing; desire forत्यक्त्वा  (त्यज्)absolutive (having ...)to leave; to abandon; to quit; to leave a place
+T	सर्वानशेषतः	सर्वान्allअशेषतःfully	सर्वान्  (सर्व)pronoun, masculine accusative pluralwhole; entire; all; everyअशेषतः  (अशेषतस्)adverbtotally; without remainder
+T	मनसैवेन्द्रियग्रामं	मनसाwith mindएवindeedइन्द्रिय-ग्रामम्sense-multitude	मनसा  (मनस्)noun, neuter instrumental singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understandingएवparticleso; just so; exactly so (in the sense of the later evam); indeedइन्द्रियfirst part of a compoundpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerग्रामम्  (ग्राम)noun, masculine accusative singularan inhabited place; village; hamlet; the collective inhabitants of a place
+T	विनियम्य	विनियम्यhaving restrained	विनियम्य  (विनियम्)absolutive (having ...)to restrain; to check; to control; to keep in check
+T	समन्ततः	समन्ततःall around	समन्ततःadverball around
+V	6.25		Little by little let him gain tranquillity, by means of Reason controlled by steadiness; having made the mind abide in the Self, let him not think of anything.	Buddhi.Manah.	शनैःशनैरुपरमेद्‌बुद्ध्याधृतिगृहीतया~।आत्मसंस्थंमनःकृत्वानकिञ्चिदपिचिन्तयेत्~॥ २५ ॥	9
+T	शनैःशनैरुपरमेद्‌	शनैःquietlyशनैःquietlyउपरमेत्should ceaseबुद्ध्याwith intellect	शनैः  (शनैस्)adverbquietly; softly; gently; graduallyशनैः  (शनैस्)adverbquietly; softly; gently; graduallyउपरमेत्  (उपरम्)verb: present optative 3rd person singularto cease from motion; to stop; to cease from action; to be inactive or quiet (as a quietist)बुद्ध्या  (बुद्धि)noun, feminine instrumental singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	बुद्ध्या	बुद्ध्याwith intellect	बुद्ध्या  (बुद्धि)noun, feminine instrumental singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	धृतिगृहीतया	धृति-गृहीतयाfirmness-grasped	धृतिfirst part of a compoundholding; seizing; keeping; supportingगृहीतया  (ग्रह्)participle, feminine instrumental singularto seize; to take (by the hand); to grasp; to lay hold of
+T	आत्मसंस्थं	आत्म-संस्थम्self-standing together	आत्म  (आत्मन्)first part of a compoundthe breath; the soul; principle of life and sensation; the individual soulसंस्थम्  (संस्थ)adjective, neuter accusative singularstanding together; standing or staying or resting or being in or on; contained in; being in or with
+T	मनः	मनःmind	मनः  (मनस्)noun, neuter accusative singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	कृत्वा	कृत्वाhaving done	कृत्वा  (कृ)absolutive (having ...)to make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	न	नnot	नparticlenot; no; nor; neither
+T	किञ्चिदपि	किंचिद्someoneअपिalso	किंचिद्  (कश्चित्)pronoun, neuter accusative singularsomeone; something; anyअपिparticlealso; moreover; besides; assuredly
+T	चिन्तयेत्	चिन्तयेत्should think of	चिन्तयेत्  (चिन्तय्)verb: present optative 3rd person singularto think; to have a thought or idea; to reflect; to consider
+V	6.26		As often as the wavering and unsteady mind goeth forth, so often reining it in, let him bring it under the control of the Self.	Manah.	यतोयतोनिश्चरतिमनश्चञ्चलमस्थिरम्~।ततस्ततोनियम्यैतदात्मन्येववशंनयेत्~॥ २६ ॥	8
+T	यतो	यतःwhence	यतः  (यतस्)conjunctionfrom which or what; whence; whereof; wherefrom
+T	यतो	यतःwhence	यतः  (यतस्)conjunctionfrom which or what; whence; whereof; wherefrom
+T	निश्चरति	निश्चरतिcomes forth	निश्चरति  (निश्चर्)verb: present 3rd person singularto come forth; to go out; to issue out; to proceed
+T	मनश्चञ्चलमस्थिरम्	मनःmindचञ्चलम्restlessअस्थिरम्unsteady	मनः  (मनस्)noun, neuter nominative singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understandingचञ्चलम्  (चञ्चल)adjective, neuter nominative singularmoving to and fro; unsteady; flickering; inconstantअस्थिरम्  (अस्थिर)adjective, neuter nominative singularunsteady; trembling; shaking; not permanent
+T	ततस्ततो	ततःthenततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequentlyततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	नियम्यैतदात्मन्येव	नियम्यhaving controlledएतत्thisआत्मनिin selfएवindeed	नियम्य  (नियम्)absolutive (having ...)to stop (trans.); to hold back; to detain with; to stop (intrans.)एतत्  (एतद्)pronoun, neuter accusative singularthisआत्मनि  (आत्मन्)noun, masculine locative singularthe breath; the soul; principle of life and sensation; the individual soulएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	वशं	वशम्control	वशम्  (वश)noun, masculine accusative singularwill; wish; desire; authority
+T	नयेत्	नयेत्should lead	नयेत्  (नी)verb: present optative 3rd person singularto lead; to guide; to conduct; to direct
+V	6.27		Supreme joy is for this Yogi whose mind ispeaceful, whose passion-nature is calmed, who is sinless and of the nature of the Eternal.	Manah.	प्रशान्तमनसंह्येनंयोगिनंसुखमुत्तमम्~।उपैतिशान्तरजसंब्रह्मभूतमकल्मषम्~॥ २७ ॥	7
+T	प्रशान्तमनसं	प्रशान्त-मनसम्become calm-mind	प्रशान्त  (प्रशम्)first part of a compound (verb)to become calm or tranquil; to be pacified or soothed; to settle down (as dust); to be allayed or extinguishedमनसम्  (मनस्)noun, masculine accusative singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	ह्येनं	हिforएनम्him	हिparticlefor; because; on account ofएनम्  (एनद्)pronoun, masculine accusative singularthis; (anaphoric pronoun in Vedic)
+T	योगिनं	योगिनम्yogi	योगिनम्  (योगिन्)noun, masculine accusative singulara follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+T	सुखमुत्तमम्	सुखम्happinessउत्तमम्highest	सुखम्  (सुख)noun, neuter nominative singularease; easiness; comfort; prosperityउत्तमम्  (उत्तम)adjective, neuter nominative singularuppermost; highest; chief; most elevated
+T	उपैति	उपैतिcomes to	उपैति  (उपे)verb: present 3rd person singularto go or come or step near; to approach; to betake one's self to; to arrive at
+T	शान्तरजसं	शान्त-रजसम्calm-passion	शान्त  (शम्)first part of a compound (verb)to toil at; to fatigue one's self; to arrange; to be quietरजसम्  (रजस्)noun, masculine accusative singularthe sphere of vapour or mist; region of clouds; atmosphere; air
+T	ब्रह्मभूतमकल्मषम्	ब्रह्म-भूतम्Brahman-beenअकल्मषम्spotless	ब्रह्म  (ब्रह्मन्)first part of a compoundpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)भूतम्  (भू)participle, masculine accusative singularto be; to become; to come into being; to happenअकल्मषम्  (अकल्मष)adjective, masculine accusative singularspotless; pure
+V	6.28		The Yogî who thus, ever harmonising the self, hath put away sin, he easily enjoyeth the infinite bliss of contact with the Eternal.		युञ्जन्नेवंसदाऽऽत्मानंयोगीविगतकल्मषः~।सुखेनब्रह्मसंस्पर्शमत्यन्तंसुखमश्नुते~॥ २८ ॥	7
+T	युञ्जन्नेवं	युञ्जन्harmonizingएवम्thus	युञ्जन्  (युज्)present participle, masculine nominative singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrangeएवम्adverbthus; in this way; in such a manner; such
+T	सदाऽऽत्मानं	सदाalwaysआत्मानम्self	सदाadverbalways; ever; every time; continuallyआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	योगी	योगीyogi	योगी  (योगिन्)noun, masculine nominative singulara follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+T	विगतकल्मषः	विगत-कल्मषःgone away-impurity	विगत  (विगम्)first part of a compound (verb)to go asunder; to sever; to separate; to go awayकल्मषः  (कल्मष)noun, masculine nominative singulara particular hell; stain; dirt; dregs
+T	सुखेन	सुखेनeasily	सुखेनadverbeasily; pleasantly
+T	ब्रह्मसंस्पर्शमत्यन्तं	ब्रह्म-संस्पर्शम्Brahman-contactअत्यन्तम्absolute	ब्रह्म  (ब्रह्मन्)first part of a compoundbrahmanpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)संस्पर्शम्  (संस्पर्श)noun, masculine accusative singularcontactclose or mutual contact; touch; conjunction; mixtureअत्यन्तम्  (अत्यन्त)adjective, neuter accusative singularabsolutebeyond the proper end or limit; excessive; very great; very strong
+T	सुखमश्नुते	सुखम्happinessअश्नुतेattains	सुखम्  (सुख)noun, neuter accusative singularjoyease; easiness; comfort; prosperityअश्नुते  (अश्)verb: present 3rd person singularreachto come to; to reach; to arrive at; to get
+V	6.29		The self, harmonised by yoga, seeth the Self abiding in all beings, all beings in the Self; everywhere he seeth the same.		सर्वभूतस्थमात्मानंसर्वभूतानिचात्मनि~।ईक्षतेयोगयुक्तात्मासर्वत्रसमदर्शनः~॥ २९ ॥	7
+T	सर्वभूतस्थमात्मानं	सर्व-भूत-स्थम्all-being-abidingआत्मानम्self	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personस्थम्  (स्थ)adjective, masculine accusative singularstanding; staying; abiding; being situated inआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	सर्वभूतानि	सर्व-भूतानिall-beings	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतानि  (भूत)noun, neuter accusative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	चात्मनि	चandआत्मनिin self	चconjunctionand; both; also; moreoverआत्मनि  (आत्मन्)noun, masculine locative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	ईक्षते	ईक्षतेsees	ईक्षते  (ईक्ष्)verb: present 3rd person singularto see; to look; to view; to behold
+T	योगयुक्तात्मा	योग-युक्त-आत्माyoga-harmonized-self	योगfirst part of a compoundthe act of yoking; joining; attaching; harnessingयुक्त  (युज्)first part of a compound (verb)to yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrangeआत्मा  (आत्मन्)noun, masculine nominative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	सर्वत्र	सर्वत्रeverywhere	सर्वत्रadverbeverywhere; in every case; always; at all times
+T	समदर्शनः	सम-दर्शनःequal-vision	समfirst part of a compound (pronoun)even; flat; level; parallelदर्शनः  (दर्शन)noun, masculine nominative singularseeing; observing; looking; noticing
+V	6.30		He who seeth Me everywhere, and seeth everything in Me, of him will I never lose hold, and he shall never lose hold of Me.		योमांपश्यतिसर्वत्रसर्वंचमयिपश्यति~।तस्याहंनप्रणश्यामिसचमेनप्रणश्यति~॥ ३० ॥	16
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	पश्यति	पश्यतिsees	पश्यति  (दृश्)verb: present 3rd person singularto behold; to look at; to regard; to consider
+T	सर्वत्र	सर्वत्रeverywhere	सर्वत्रadverbeverywhere; in every case; always; at all times
+T	सर्वं	सर्वम्all	सर्वम्  (सर्व)pronoun, neuter accusative singularwhole; entire; all; every
+T	च	चand	चconjunctionand; both; also; moreover
+T	मयि	मयिin me	मयि  (मद्)pronoun, locative singularI; we
+T	पश्यति	पश्यतिsees	पश्यति  (दृश्)verb: present 3rd person singularto behold; to look at; to regard; to consider
+T	तस्याहं	तस्यhisअहम्I	तस्य  (तद्)pronoun, masculine genitive singularthis; gleicherअहम्  (मद्)pronoun, nominative singularI; we
+T	न	नnot	नparticlenot; no; nor; neither
+T	प्रणश्यामि	प्रणश्यामिI perish	प्रणश्यामि  (प्रणश्)verb: present 1st person singularto be lost; to disappear; to vanish; to flee
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	च	चand	चconjunctionand; both; also; moreover
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	न	नnot	नparticlenot; no; nor; neither
+T	प्रणश्यति	प्रणश्यतिperishes	प्रणश्यति  (प्रणश्)verb: present 3rd person singularto be lost; to disappear; to vanish; to flee

@@ -1,0 +1,66 @@
+V	1.35		These I do not wish to kill, though myself slain, O Madhusûdana, even for the sake of the kingship of the three worlds; how then for earth?	The slayer of Madhu, a demon.	एतान्नहन्तुमिच्छामिघ्नतोऽपिमधुसूदन~।अपित्रैलोक्यराज्यस्यहेतोःकिंनुमहीकृते~॥ ३५ ॥	10
+T	एतान्न	एतान्theseनnot	एतान्  (एतद्)pronoun, masculine accusative pluralthisthisनparticlenotnot; no; nor; neither
+T	हन्तुमिच्छामि	हन्तुम्to slayइच्छामिI desire	हन्तुम्  (हन्)infinitivekillto strike; to beat; to pound; to hammerइच्छामि  (इष्)verb: present 1st person singulardesireto seek for; to desire; to intend; to assent
+T	घ्नतोऽपि	घ्नतःslayingअपिalso	घ्नतः  (हन्)present participle, masculine accusative pluralkillto strike; to beat; to pound; to hammerअपिparticleevenalso; moreover; besides; assuredly
+T	मधुसूदन	मधुसूदनO Madhusudana	मधुसूदनnoun, masculine vocative singularKrishnaa bee; name of Vishnu-Krishna; name of various scholars
+T	अपि	अपिalso	अपिparticleevenalso; moreover; besides; assuredly
+T	त्रैलोक्यराज्यस्य	त्रैलोक्य-राज्यस्यof Triloka-kingdom	त्रैलोक्यfirst part of a compoundTrilokathe 3 Lokas or worlds; a mystic name of some part of the bodyराज्यस्य  (राज्य)noun, neuter genitive singularkingdomroyalty; kingship; sovereignty; empire
+T	हेतोः	हेतोःfrom cause	हेतोः  (हेतु)noun, masculine ablative singularformotive; cause; cause of; reason for
+T	किं	किम्what	किम्  (क)pronoun, neuter nominative singularwhatwho?; what?
+T	नु	नुnow	नुparticlenownow
+T	महीकृते	मही-कृतेEarth-for	महीfirst part of a compoundEarththe earth; soil; land; countryकृतेadverbforfor; because of
+V	1.36		Slaying these sons of Dhritarâshtra, what pleasure can be ours, O Janârdana? Killing these desperadoes, sin will but take hold of us.	"Destroyer of the people." Shri Krishna as the warrior conquering all forms of evil.	निहत्यधार्तराष्ट्रान्नःकाप्रीतिःस्याज्जनार्दन~।पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः~॥ ३६ ॥	6
+T	निहत्य	निहत्यhaving killed	निहत्य  (निहन्)absolutive (having ...)killto strike or fix in; to hurl in or upon or against; to make an attempt upon; to attack
+T	धार्तराष्ट्रान्नः	धार्तराष्ट्रान्sons of Dhritarashtraनःour	धार्तराष्ट्रान्  (धार्तराष्ट्र)noun, masculine accusative pluralDhârtarâshtraa son of Dhritarâshtra; a Kuru; patr. of Duryodhana; a kind of snakeनः  (मद्)pronoun, genitive pluralII; we
+T	का	काwho	का  (क)pronoun, feminine nominative singularwhatwho?; what?
+T	प्रीतिः	प्रीतिःlove	प्रीतिः  (प्रीति)noun, feminine nominative singularjoyany pleasurable sensation; pleasure; joy; gladness
+T	स्याज्जनार्दन	स्यात्should beजनार्दनO Janardana	स्यात्  (अस्)verb: present optative 3rd person singularexistto be; to live; to exist; to be presentजनार्दनnoun, masculine vocative singularKrishnaVishnu or Krishna; name of several men; name of a locality
+T	पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः	पापम्sinएवindeedआश्रयेत्should resort toअस्मान्usहत्वाhaving slainएतान्theseआततायिनःkilling	पापम्  (पाप)noun, neuter nominative singularsinevil; misfortune; ill-luck; troubleएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeedआश्रयेत्  (आश्रि)verb: present optative 3rd person singularinhereto affix; to apply anything; to join; to adhereअस्मान्  (मद्)pronoun, masculine accusative pluralII; weहत्वा  (हन्)absolutive (having ...)killto strike; to beat; to pound; to hammerएतान्  (एतद्)pronoun, masculine accusative pluralhe,she,it (pers. pron.)thisआततायिनः  (आततायिन्)adjective, masculine accusative pluralkillinghaving one's bow drawn; endeavouring to kill some one; a murderer
+V	1.37		Therefore we should not kill the sons of Dhritarâshtra, our relatives; for how, killing our kinsmen, may we be happy, O Mâdhava?		तस्मान्नार्हावयंहन्तुंधार्तराष्ट्रान्स्वबान्धवान्~।स्वजनंहिकथंहत्वासुखिनःस्याममाधव~॥ ३७ ॥	11
+T	तस्मान्नार्हा	तस्मात्thereforeनnotअर्हाःentitled	तस्मात्adverbthereforethereforeनparticlenotnot; no; nor; neitherअर्हाः  (अर्ह)adjective, masculine nominative pluralentitledmeriting; deserving; worthy of; being entitled to
+T	वयं	वयम्we	वयम्  (मद्)pronoun, nominative pluralII; we
+T	हन्तुं	हन्तुम्to slay	हन्तुम्  (हन्)infinitivekillto strike; to beat; to pound; to hammer
+T	धार्तराष्ट्रान्स्वबान्धवान्	धार्तराष्ट्रान्sons of Dhritarashtraसwithबान्धवान्relatives	धार्तराष्ट्रान्  (धार्तराष्ट्र)noun, masculine accusative pluralDhârtarâshtraa son of Dhritarâshtra; a Kuru; patr. of Duryodhana; a kind of snakeसadverbwith(ibc.) withबान्धवान्  (बान्धव)noun, masculine accusative pluralrelativea kinsman; relation (esp. maternal relation); friend; a brother
+T	स्वजनं	स्व-जनम्own-person	स्वfirst part of a compound (adjective)own(a)own; one's own; related; akinजनम्  (जन)noun, masculine accusative singularrelativeliving being; man; person; name of a man
+T	हि	हिfor	हिparticlebecausefor; because; on account of
+T	कथं	कथम्how	कथम्adverbhowhow?
+T	हत्वा	हत्वाhaving slain	हत्वा  (हन्)absolutive (having ...)killto strike; to beat; to pound; to hammer
+T	सुखिनः	सुखिनःhappy	सुखिनः  (सुखिन्)adjective, masculine nominative pluralhappypossessing or causing happiness or pleasure; happy; joyful; pleasant
+T	स्याम	स्यामwe should be	स्याम  (अस्)verb: present optative 1st person pluralbeto be; to live; to exist; to be present
+T	माधव	माधवO Madhava	माधवnoun, masculine vocative singularKrishnaspring; Bassia Latifolia; Phaseolus Mungo; a son or descendant of Madhu
+V	1.38		Although these, with intelligence overpowered by greed, see no guilt in the destruction of a family, no crime in hostility to friends,		यद्यप्येतेनपश्यन्तिलोभोपहतचेतसः~।कुलक्षयकृतंदोषंमित्रद्रोहेचपातकम्~॥ ३८ ॥	9
+T	यद्यप्येते	यदिifअपिalsoएतेthese	यदिconjunctionifin case that; if; whetherअपिparticleevenalso; moreover; besides; assuredlyएते  (एतद्)pronoun, masculine nominative pluralhe,she,it (pers. pron.)this
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	पश्यन्ति	पश्यन्तिsee	पश्यन्ति  (दृश्)verb: present 3rd person pluralseeto behold; to look at; to regard; to consider
+T	लोभोपहतचेतसः	लोभ-उपहत-चेतसःgreed-ruined-minds	लोभfirst part of a compoundavariceperplexity; confusion; impatience; eager desire for or longing afterउपहत  (उपहन्)first part of a compound (verb)afflictto beat; to hit at; to strike; to touchचेतसः  (चेतस्)noun, masculine nominative pluralmindsplendour; consciousness; intelligence; thinking soul
+T	कुलक्षयकृतं	कुल-क्षय-कृतम्family-destruction-done	कुलfirst part of a compoundfamilya herd; troop; flock; assemblageक्षयfirst part of a compounddestructionloss; waste; wane; diminutionकृतम्  (कृ)participle, masculine accusative singularcauseto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	दोषं	दोषम्fault	दोषम्  (दोष)noun, masculine accusative singularevilfault; vice; deficiency; want
+T	मित्रद्रोहे	मित्र-द्रोहेin friend-hate	मित्रfirst part of a compoundfrienda friend; companion; name of an Âditya (generally invoked together with Varuna); the sunद्रोहे  (द्रोह)noun, masculine locative singularhateinjury; mischief; perfidy; treachery
+T	च	चand	चconjunctionandand; both; also; moreover
+T	पातकम्	पातकम्crime	पातकम्  (पातक)noun, neuter accusative singularcrimesin; crime; loss of caste
+V	1.39		Why should not we learn to turn away from such a sin, O Janârdana, who see the evils in the destruction of a family?		कथंनज्ञेयमस्माभिःपापादस्मान्निवर्तितुम्~।कुलक्षयकृतंदोषंप्रपश्यद्भिर्जनार्दन~॥ ३९ ॥	7
+T	कथं	कथम्how	कथम्adverbhowhow?
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	ज्ञेयमस्माभिः	ज्ञेयम्to be knownअस्माभिःby us	ज्ञेयम्  (ज्ञा)gerundive (to be ...), neuter nominative singularknowto know; to have knowledge; to become acquainted with; to perceiveअस्माभिः  (मद्)pronoun, instrumental pluralII; we
+T	पापादस्मान्निवर्तितुम्	पापात्from sinअस्मात्from thisनिवर्तितुम्to turn back	पापात्  (पाप)noun, neuter ablative singularsinevil; misfortune; ill-luck; troubleअस्मात्  (इदम्)pronoun, neuter ablative singularthisthis; (near deictic pronoun in Vedic)निवर्तितुम्  (निवृत्)infinitiveturn awayto turn back; to stop (trans. and intrans.); to return from (abl.) to; to return into life
+T	कुलक्षयकृतं	कुल-क्षय-कृतम्family-destruction-done	कुलfirst part of a compoundfamilya herd; troop; flock; assemblageक्षयfirst part of a compounddestructionloss; waste; wane; diminutionकृतम्  (कृ)participle, masculine accusative singularcauseto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	दोषं	दोषम्fault	दोषम्  (दोष)noun, masculine accusative singularevilfault; vice; deficiency; want
+T	प्रपश्यद्भिर्जनार्दन	प्रपश्यद्भिःbeholdingजनार्दनO Janardana	प्रपश्यद्भिः  (प्रपश्)present participle, masculine instrumental pluralseeto see before one's eyes; to look at; to observe; to beholdजनार्दनnoun, masculine vocative singularKrishnaVishnu or Krishna; name of several men; name of a locality
+V	1.40		In the destruction of a family the immemorialfamily traditions perish; in the perishing of tradition, lawlessness overcomes the whole family;	Dharma; this is a wide word, primarily meaning the essential nature of a thing, that which makes it to be what it is externally: hence, the laws of its being, its duty: and it includes religious rites, appropriate to those laws, customs, also righteousness.	कुलक्षयेप्रणश्यन्तिकुलधर्माःसनातनाः~।धर्मेनष्टेकुलंकृत्स्नमधर्मोऽभिभवत्युत~॥ ४० ॥	8
+T	कुलक्षये	कुल-क्षयेin family-destruction	कुलfirst part of a compoundfamilya herd; troop; flock; assemblageक्षये  (क्षय)noun, masculine locative singulardestructionloss; waste; wane; diminution
+T	प्रणश्यन्ति	प्रणश्यन्तिperish	प्रणश्यन्ति  (प्रणश्)verb: present 3rd person pluralperishto be lost; to disappear; to vanish; to flee
+T	कुलधर्माः	कुल-धर्माःfamily-dharmas	कुलfirst part of a compoundfamilya herd; troop; flock; assemblageधर्माः  (धर्म)noun, masculine nominative pluralDharmathat which is established or firm; steadfast decree; statute; ordinance
+T	सनातनाः	सनातनाःeternal	सनातनाः  (सनातन)adjective, masculine nominative pluraleverlastingperpetual; permanent; everlasting; primeval
+T	धर्मे	धर्मेin dharma	धर्मे  (धर्म)noun, masculine locative singularDharmathat which is established or firm; steadfast decree; statute; ordinance
+T	नष्टे	नष्टेperished	नष्टे  (नश्)participle, masculine locative singularperishto be lost; to perish; to disappear; to be gone
+T	कुलं	कुलम्family	कुलम्  (कुल)noun, neuter accusative singularfamilya herd; troop; flock; assemblage
+T	कृत्स्नमधर्मोऽभिभवत्युत	कृत्स्नम्wholeअधर्मःadharmaअभिभवतिovercomesउतalso	कृत्स्नम्  (कृत्स्न)adjective, neuter accusative singularwholeall; whole; entireअधर्मः  (अधर्म)noun, masculine nominative singularAdharmaunrighteousness; injustice; irreligion; wickednessअभिभवति  (अभिभू)verb: present 3rd person singularovercometo overcome; to overpower; to predominate; to conquerउतconjunctionbesidesand; also; even; or
+V	1.41		Owing to predominance of lawlessness, O Krishna, the women of the family become corrupt; women corrupted, O Vârshneya, there ariseth caste confusion;	Belonging to the family of Vrishni.	अधर्माभिभवात्कृष्णप्रदुष्यन्तिकुलस्त्रियः~।स्त्रीषुदुष्टासुवार्ष्णेयजायतेवर्णसङ्करः~॥ ४१ ॥	8
+T	अधर्माभिभवात्कृष्ण	अधर्म-अभिभवात्from adharma-predominanceकृष्णO Krishna	अधर्मfirst part of a compoundAdharmaunrighteousness; injustice; irreligion; wickednessअभिभवात्  (अभिभव)noun, masculine ablative singularpredominanceprevailing; overpowering; predominance; defeatकृष्णnoun, masculine vocative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	प्रदुष्यन्ति	प्रदुष्यन्तिcorrupt	प्रदुष्यन्ति  (प्रदुष्)verb: present 3rd person pluralcorruptto become worse; to deteriorate; to be defiled or polluted; to fall (morally)
+T	कुलस्त्रियः	कुल-स्त्रियःfamily-women	कुलfirst part of a compoundfamilya herd; troop; flock; assemblageस्त्रियः  (स्त्री)noun, feminine nominative pluralwomana woman; female; wife; the female of any animal
+T	स्त्रीषु	स्त्रीषुin women	स्त्रीषु  (स्त्री)noun, feminine locative pluralwomana woman; female; wife; the female of any animal
+T	दुष्टासु	दुष्टासुcorrupted	दुष्टासु  (दुष्)participle, feminine locative pluralcorruptto become bad or corrupted; to be defiled or impure; to be ruined; to perish
+T	वार्ष्णेय	वार्ष्णेयO Krishna	वार्ष्णेयnoun, masculine vocative singularKrishnapatr. of Shûsha; name of Cekitâna; name of Krishna; name of Nala's charioteer (who afterwards became a servant of Rituparna)
+T	जायते	जायतेis born	जायते  (जन्)verb: present 3rd person singularhappento come into existence; to grow (as plants); to be born as; to be by birth or nature
+T	वर्णसङ्करः	वर्ण-संकरःcaste-confusion	वर्णfirst part of a compoundcastea covering; cloak; mantle; a coverसंकरः  (संकर)noun, masculine nominative singularmixmixing together; commingling; intermixture; the offspring of a mixed marriage

@@ -1,0 +1,70 @@
+V	18.69		Nor is there any among men who performeth dearer service to Me than he, nor any other shall be more beloved by Me on earth than he.		नचतस्मान्मनुष्येषुकश्चिन्मेप्रियकृत्तमः~।भवितानचमेतस्मादन्यःप्रियतरोभुवि~॥ ६९ ॥	12
+T	न	नnot	नparticlenot; no; nor; neither
+T	च	चand	चconjunctionand; both; also; moreover
+T	तस्मान्मनुष्येषु	तस्मात्thereforeमनुष्येषुin humans	तस्मात्adverbthereforeमनुष्येषु  (मनुष्य)noun, masculine locative plurala man; human being; a man (as opp. to woman); a husband
+T	कश्चिन्मे	कश्चिद्someoneमेmy	कश्चिद्  (कश्चित्)pronoun, masculine nominative singularsomeone; something; anyमे  (मद्)pronoun, genitive singularI; we
+T	प्रियकृत्तमः	प्रिय-कृत्तमःdear-doing most of	प्रियfirst part of a compound (adjective)beloved; dear to; liked; favouriteकृत्तमः  (कृत्तम)adjective, masculine nominative singular(ifc.) doing most of ...
+T	भविता	भविताwill be	भविता  (भू)verb: future 3rd person singularto be; to become; to come into being; to happen
+T	न	नnot	नparticlenot; no; nor; neither
+T	च	चand	चconjunctionand; both; also; moreover
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	तस्मादन्यः	तस्मात्thereforeअन्यःother	तस्मात्adverbthereforeअन्यः  (अन्य)pronoun, masculine nominative singularother; another
+T	प्रियतरो	प्रियतरःdearer	प्रियतरः  (प्रियतर)adjective, masculine nominative singulardearerdearer
+T	भुवि	भुविin be	भुवि  (भू)noun, feminine locative singularEarthErde; the act of arising; space; world
+V	18.70		And he who shall study this sacred dialogue of ours, by him I shall be worshipped with the sacrifice of wisdom. Such is My mind.		अध्येष्यतेचयइमंधर्म्यंसंवादमावयोः~।ज्ञानयज्ञेनतेनाहमिष्टःस्यामितिमेमतिः~॥ ७० ॥	11
+T	अध्येष्यते	अध्येष्यतेwill read	अध्येष्यते  (अधी)verb: future 3rd person singularreadto turn the mind towards; to observe; to understand; to study
+T	च	चand	चconjunctionand; both; also; moreover
+T	य	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	इमं	इमम्this	इमम्  (इदम्)pronoun, masculine accusative singularthis; (near deictic pronoun in Vedic)
+T	धर्म्यं	धर्म्यम्righteous	धर्म्यम्  (धर्म्य)adjective, masculine accusative singularlegal; legitimate; usual; customary
+T	संवादमावयोः	संवादम्dialogueआवयोःour	संवादम्  (संवाद)noun, masculine accusative singulardialoguespeaking together; conversation; colloquy with (instr. with and without saha loc); appointmentआवयोः  (मद्)pronoun, genitive dualI; we
+T	ज्ञानयज्ञेन	ज्ञान-यज्ञेनwith knowledge-sacrifice	ज्ञानfirst part of a compoundknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)यज्ञेन  (यज्ञ)noun, masculine instrumental singularworship; devotion; prayer; praise
+T	तेनाहमिष्टः	तेनby himअहम्Iइष्टःsacrificed	तेन  (तद्)pronoun, masculine instrumental singularthis; gleicherअहम्  (मद्)pronoun, nominative singularI; weइष्टः  (यज्)participle, masculine nominative singularto worship; to adore; to honour (esp. with sacrifice or oblations); to consecrate
+T	स्यामिति	स्याम्I should beइतिthus	स्याम्  (अस्)verb: present optative 1st person singularto be; to live; to exist; to be presentइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	मतिः	मतिःmind	मतिः  (मति)noun, feminine nominative singulardevotion; prayer; worship; hymn
+V	18.71		The man also who, full of faith, merely heareth it unreviling, even he, freed from evil, obtaineth the radiant worlds of the righteous.		श्रद्धावाननसूयश्चशृणुयादपियोनरः~।सोऽपिमुक्तःशुभांल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्~॥ ७१ ॥	7
+T	श्रद्धावाननसूयश्च	श्रद्धावान्full of faithअनसूयःnot grumbling atचand	श्रद्धावान्  (श्रद्धावत्)adjective, masculine nominative singularconsenting; assenting; faithful; trustingअन्negative prefixnotnot; un-; in-असूयः  (असूय)adjective, masculine nominative singulargrumbling at; displeased withचconjunctionand; both; also; moreover
+T	शृणुयादपि	शृणुयात्should hearअपिalso	शृणुयात्  (श्रु)verb: present optative 3rd person singularlistento hear; to listen to; to studyअपिparticlealso; moreover; besides; assuredly
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	नरः	नरःman	नरः  (नर)noun, masculine nominative singulara man; a male; a person; husband
+T	सोऽपि	सःheअपिalso	सः  (तद्)pronoun, masculine nominative singularthis; gleicherअपिparticlealso; moreover; besides; assuredly
+T	मुक्तः	मुक्तःfreed	मुक्तः  (मुच्)participle, masculine nominative singularto loose; to let loose; to release; to liberate from
+T	शुभांल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्	शुभान्auspiciousलोकान्worldsप्राप्नुयात्should attainपुण्य-कर्मणाम्of holy-actions	शुभान्  (शुभ)adjective, masculine accusative pluralsplendid; bright; beautiful; pleasantलोकान्  (लोक)noun, masculine accusative pluralfree or open space; room; place; scopeप्राप्नुयात्  (प्राप्)verb: present optative 3rd person singularto attain to; to reach; to arrive at; to meet withपुण्यfirst part of a compound (adjective)auspicious; propitious; fair; pleasantकर्मणाम्  (कर्मन्)noun, masculine genitive pluralact; action; performance; business
+V	18.72		Hath this been heard, O son of Prithâ, with one-pointed mind? Has thy delusion, caused by unwisdom, been destroyed, O Dhananjaya?		कच्चिदेतच्छ्रुतंपार्थत्वयैकाग्रेणचेतसा~।कच्चिदज्ञानसम्मोहःप्रणष्टस्तेधनञ्जय~॥ ७२ ॥	7
+T	कच्चिदेतच्छ्रुतं	कच्चित्is it thatएतत्thisश्रुतम्heard	कच्चित्adverb(interrogative particle)एतत्  (एतद्)pronoun, neuter nominative singularthisश्रुतम्  (श्रु)participle, neuter nominative singularto hear; to listen to; to study
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	त्वयैकाग्रेण	त्वयाby youएकाग्रेणconcentrated	त्वया  (त्वद्)pronoun, instrumental singularyouएकाग्रेण  (एकाग्र)adjective, neuter instrumental singularconcentratedone-pointed; having one point; fixing one's attention upon one point or object; closely attentive
+T	चेतसा	चेतसाwith mind	चेतसा  (चेतस्)noun, neuter instrumental singularmindsplendour; consciousness; intelligence; thinking soul
+T	कच्चिदज्ञानसम्मोहः	कच्चित्is it thatअज्ञान-संमोहःignorance-bewilderment	कच्चित्adverb(interrogative particle)अज्ञानfirst part of a compoundnon-cognizance; ignorance; (in philosophy) spiritual ignorance; Prakritiसंमोहः  (सम्मोह)noun, masculine nominative singularstupefaction; bewilderment; confusion; insensibility
+T	प्रणष्टस्ते	प्रनष्टःperishedतेyour	प्रनष्टः  (प्रणश्)participle, masculine nominative singularto be lost; to disappear; to vanish; to fleeते  (त्वद्)pronoun, genitive singularyou
+T	धनञ्जय	धनंजयO Dhananjaya	धनंजयnoun, masculine vocative singularArjunafire; a particular vital air supposed to nourish the body; Plumbago Zeylanica; name of Arjuna
+V	18.73	Arjuna said:	Destroyed is my delusion. I have gained knowledge through Thy grace, O Immutable one. I am firm, my doubts have fled away. I will do according to Thy word.	Literally "memory".	अर्जुनउवाच~।नष्टोमोहःस्मूतिर्लब्धात्वत्प्रसादान्मयाऽच्युत~।स्थितोऽस्मिगतसन्देहःकरिष्येवचनंतव~॥ ७३ ॥	11
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	नष्टो	नष्टःperished	नष्टः  (नश्)participle, masculine nominative singularto be lost; to perish; to disappear; to be gone
+T	मोहः	मोहःdelusion	मोहः  (मोह)noun, masculine nominative singularloss of consciousness; bewilderment; perplexity; distraction
+T	स्मूतिर्लब्धा	स्मृतिःmemoryलब्धाobtained	स्मृतिः  (स्मृति)noun, feminine nominative singularremembrance; reminiscence; thinking of or upon; calling to mindलब्धा  (लभ्)participle, feminine nominative singularto take; to seize; to catch; to meet with
+T	त्वत्प्रसादान्मयाऽच्युत	त्वद्-प्रसादात्from your-serenityमयाby meअच्युतO Achyuta	त्वद्first part of a compound (pronoun)youप्रसादात्  (प्रसाद)noun, masculine ablative singularclearness; brightness; pellucidnees; purityमया  (मद्)pronoun, instrumental singularI; weअच्युतnoun, masculine vocative singularname of Vishnu; name of Krishna; name of a physician; the plant Morinda Tinctoria
+T	स्थितोऽस्मि	स्थितःstoodअस्मिI am	स्थितः  (स्था)participle, masculine nominative singularto stand; to station one's self; to get upon; to stayअस्मि  (अस्)verb: present 1st person singularto be; to live; to exist; to be present
+T	गतसन्देहः	गत-संदेहःgone-conglomeration	गत  (गम्)first part of a compound (verb)to go; to move; to approach; to understandसंदेहः  (संदेह)noun, masculine nominative singulara conglomeration or conglutination (of material elements); doubt; uncertainty about; (in rhet.) a figure of speech expressive of doubt
+T	करिष्ये	करिष्येI will do	करिष्ये  (कृ)verb: future 1st person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	वचनं	वचनम्word	वचनम्  (वचन)noun, neuter accusative singularthe act of speaking; utterance; pronunciation; statement
+T	तव	तवyour	तव  (त्वद्)pronoun, genitive singularyou
+V	18.74	Sanjaya said:	I heard this marvellous dialogue of Vâsudeva, and of the great-souled Partha, causing my hair to stand on end.		सञ्जयउवाच~।इत्यहंवासुदेवस्यपार्थस्यचमहात्मनः~।संवादमिममश्रौषमद्भुतंरोमहर्षणम्~॥ ७४ ॥	9
+T	सञ्जय	संजयःSanjaya	संजयः  (संजय)noun, masculine nominative singularconquest; victory; a kind of military array; name of a chief of the Yakshas
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	इत्यहं	इतिthusअहम्I	इतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soअहम्  (मद्)pronoun, nominative singularI; we
+T	वासुदेवस्य	वासुदेवस्यof Vasudeva	वासुदेवस्य  (वासुदेव)noun, masculine genitive singularpatr. of Krishna; name of a king of the Pundras; name of a class of beings peculiar to the Jainas; a horse
+T	पार्थस्य	पार्थस्यof son of Pritha	पार्थस्य  (पार्थ)noun, masculine genitive singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	च	चand	चconjunctionand; both; also; moreover
+T	महात्मनः	महात्मनःgreat-souled	महात्मनः  (महात्मन्)adjective, masculine genitive singularmagnanimous; having a great or noble nature; high-minded; noble
+T	संवादमिममश्रौषमद्भुतं	संवादम्dialogueइमम्thisअश्रौषम्I heardअद्भुतम्wondrous	संवादम्  (संवाद)noun, masculine accusative singulardialoguespeaking together; conversation; colloquy with (instr. with and without saha loc); appointmentइमम्  (इदम्)pronoun, masculine accusative singularthis; (near deictic pronoun in Vedic)अश्रौषम्  (श्रु)verb: perfect 1st person singularto hear; to listen to; to studyअद्भुतम्  (अद्भुत)adjective, masculine accusative singularextraordinary; supernatural; wonderful; unerforschlich
+T	रोमहर्षणम्	रोम-हर्षणम्hair on the body of men-causing the hair of the	रोम  (रोमन्)first part of a compoundthe hair on the body of men and animals; (esp.) short hair; bristles; woolहर्षणम्  (हर्षण)adjective, masculine accusative singularcausing the hair of the body to stand erect; thrilling with joy or desire; gladdening; delightful
+V	18.75		By the favour of Vyâsa I listened to this secret and supreme yoga from the Lord of Yoga, Krishna Himself, speaking before mine eyes.		व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहंपरम्~।योगंयोगेश्वरात्कृष्णात्साक्षात्कथयतःस्वयम्~॥ ७५ ॥	6
+T	व्यासप्रसादाच्छ्रुतवानेतद्	व्यास-प्रसादात्from Vyasa-serenityश्रुतवान्heardएतत्thisगुह्यम्secretअहम्I	व्यासfirst part of a compoundsevering; separation; division; a kind of drawl (as a fault in pronunciation)प्रसादात्  (प्रसाद)noun, masculine ablative singularclearness; brightness; pellucidnees; purityश्रुतवान्  (श्रु)participle, masculine nominative singularto hear; to listen to; to studyएतत्  (एतद्)pronoun, neuter accusative singularthisगुह्यम्  (गुह्य)adjective, neuter accusative singularto be covered or concealed or hidden or kept secret; concealable; private; secretअहम्  (मद्)pronoun, nominative singularI; we
+T	गुह्यमहं	गुह्यमहं	
+T	परम्	परम्supreme	परम्  (पर)pronoun, neuter accusative singularfar; remote; opposite; previous
+T	योगं	योगम्yoga	योगम्  (योग)noun, masculine accusative singularthe act of yoking; joining; attaching; harnessing
+T	योगेश्वरात्कृष्णात्साक्षात्कथयतः	योगेश्वरात्from Krishnaकृष्णात्from Krishnaसाक्षात्personallyकथयतःtelling	योगेश्वरात्  (योगेश्वर)noun, masculine ablative singularKrishnaa master in magical art; a master or adept in the Yoga; a deity; the object of devout contemplationकृष्णात्  (कृष्ण)noun, masculine ablative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelopeसाक्षात्adverbpersonallywith the eyes; with one's own eyes; before one's eyes; evidentlyकथयतः  (कथय्)present participle, masculine ablative singulartellto call; to name; to tell; to designate
+T	स्वयम्	स्वयम्oneself	स्वयम्adverbpersonallyself; one's self (applicable to all persons); of or by one's self spontaneously; voluntarily

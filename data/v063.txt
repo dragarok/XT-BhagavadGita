@@ -1,0 +1,72 @@
+V	10.38		Of rulers I am the sceptre; of those that seek victory I am statesmanship; and of secrets I am also silence; the knowledge of knowers am I.		दण्डोदमयतामस्मिनीतिरस्मिजिगीषताम्~।मौनंचैवास्मिगुह्यानांज्ञानंज्ञानवतामहम्~॥ ३८ ॥	9
+T	दण्डो	दण्डःstick	दण्डः  (दण्ड)noun, masculine nominative singulara stick; staff; rod; pole
+T	दमयतामस्मि	दमयताम्subduingअस्मिI am	दमयताम्  (दमय्)present participle, masculine genitive pluralto subdue; to overpowerअस्मि  (अस्)verb: present 1st person singularto be; to live; to exist; to be present
+T	नीतिरस्मि	नीतिःleadingअस्मिI am	नीतिः  (नीति)noun, feminine nominative singularleading or bringing; guidance; management; conductअस्मि  (अस्)verb: present 1st person singularto be; to live; to exist; to be present
+T	जिगीषताम्	जिगीषताम्wanting to overcome	जिगीषताम्  (जिगीष्)present participle, masculine genitive pluralto want to overcome; to want to win; to strive to gain; to wish to defeat
+T	मौनं	मौनम्office	मौनम्  (मौन)noun, neuter nominative singularthe office or position of a Muni or holy sage; silence; taciturnity
+T	चैवास्मि	चandएवindeedअस्मिI am	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeedअस्मि  (अस्)verb: present 1st person singularto be; to live; to exist; to be present
+T	गुह्यानां	गुह्यानाम्of secrets	गुह्यानाम्  (गुह्य)noun, neuter genitive plurala secret; mystery; the pudenda; the anus
+T	ज्ञानं	ज्ञानम्knowledge	ज्ञानम्  (ज्ञान)noun, neuter nominative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	ज्ञानवतामहम्	ज्ञानवताम्wiseअहम्I	ज्ञानवताम्  (ज्ञानवत्)adjective, masculine genitive pluralknowing; endowed with knowledge or science; intelligent; wiseअहम्  (मद्)pronoun, nominative singularI; we
+V	10.39		And whatsoever is the seed of all beings, that am I, O Arjuna; nor is there aught, moving or unmoving, that may exist bereft of Me.		यच्चापिसर्वभूतानांबीजंतदहमर्जुन~।नतदस्तिविनायत्स्यान्मयाभूतंचराचरम्~॥ ३९ ॥	10
+T	यच्चापि	यत्whichचandअपिalso	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoचconjunctionand; both; also; moreoverअपिparticlealso; moreover; besides; assuredly
+T	सर्वभूतानां	सर्व-भूतानाम्of all-beings	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतानाम्  (भूत)noun, neuter genitive pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	बीजं	बीजम्seed	बीजम्  (बीज)noun, neuter nominative singularseed (of plants); semen (of men and animals); seed-corn; grain
+T	तदहमर्जुन	तत्thatअहम्Iअर्जुनO Arjuna	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherअहम्  (मद्)pronoun, nominative singularI; weअर्जुनnoun, masculine vocative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	न	नnot	नparticlenot; no; nor; neither
+T	तदस्ति	तत्thatअस्तिis	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherअस्ति  (अस्)verb: present 3rd person singularto be; to live; to exist; to be present
+T	विना	विनाwithout	विनाadverbwithout; except; short or exclusive of
+T	यत्स्यान्मया	यत्whichस्यात्should beमयाby me	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoस्यात्  (अस्)verb: present optative 3rd person singularto be; to live; to exist; to be presentमया  (मद्)pronoun, instrumental singularI; we
+T	भूतं	भूतम्been	भूतम्  (भू)participle, neuter nominative singularto be; to become; to come into being; to happen
+T	चराचरम्	चराचरम्aggregate of all created	चराचरम्  (चराचर)noun, neuter nominative singularthe aggregate of all created things whether animate or inanimate; world
+V	10.40		There is no end of My divine powers, O Parantapa. What has been declared is illustrative of My infinite glory.		नान्तोऽस्तिममदिव्यानांविभूतीनांपरन्तप~।एषतूद्देशतःप्रोक्तोविभूतेर्विस्तरोमया~॥ ४० ॥	10
+T	नान्तोऽस्ति	नnotअन्तःendअस्तिis	नparticlenot; no; nor; neitherअन्तः  (अन्त)noun, masculine nominative singularend; limit; boundary; termअस्ति  (अस्)verb: present 3rd person singularto be; to live; to exist; to be present
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularI; we
+T	दिव्यानां	दिव्यानाम्divine	दिव्यानाम्  (दिव्य)adjective, feminine genitive pluraldivine; heavenly; celestial; supernatural
+T	विभूतीनां	विभूतीनाम्of glories	विभूतीनाम्  (विभूति)noun, feminine genitive pluraldevelopment; multiplication; expansion; plenty
+T	परन्तप	परंतपO scorcher of foes	परंतपadjective, masculine vocative singulardestroying foes (said of heroes)
+T	एष	एषthis	एष  (एतद्)pronoun, masculine nominative singularthis
+T	तूद्देशतः	तुbutउद्देशतःfrom act of pointing to	तुparticledo; now; then; butउद्देशतः  (उद्देश)noun, masculine ablative singularthe act of pointing to or at; direction; ascertainment; brief statement
+T	प्रोक्तो	प्रोक्तःdeclared	प्रोक्तः  (प्रवच्)participle, masculine nominative singularto proclaim; to announce; to praise; to commend
+T	विभूतेर्विस्तरो	विभूतेःof gloryविस्तरःdetail	विभूतेः  (विभूति)noun, feminine genitive singulardevelopment; multiplication; expansion; plentyविस्तरः  (विस्तर)noun, masculine nominative singularspreading; extension; expansion; prolixity
+T	मया	मयाby me	मया  (मद्)pronoun, instrumental singularI; we
+V	10.41		Whatsoever is glorious, good, beautiful, and mighty, understand thou that to go forth from a fragment of My splendour.		यद्यद्विभूतिमत्सत्त्वंश्रीमदूर्जितमेववा~।तत्तदेवावगच्छत्वंममतेजोंऽशसम्भवम्~॥ ४१ ॥	7
+T	यद्यद्विभूतिमत्सत्त्वं	यत्whichयत्whichविभूतिमत्gloriousसत्त्वम्goodness	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoयत्  (यद्)pronoun, neuter nominative singularwhat; which; whoविभूतिमत्adjective, neuter nominative singularglorious; powerfulसत्त्वम्  (सत्त्व)noun, neuter nominative singularbeing; existence; reality; true essence
+T	श्रीमदूर्जितमेव	श्रीमत्beautifulऊर्जितम्strengthenedएवindeed	श्रीमत्adjective, neuter nominative singularbeautiful; charming; lovely; pleasantऊर्जितम्  (ऊर्जय्)participle, neuter nominative singularto strengthenएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	वा	वाor	वाconjunctioneither - or; on the one side - on the other side; optionally
+T	तत्तदेवावगच्छ	तत्thatतत्thatएवindeedअवगच्छgo down!	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherतत्  (तद्)pronoun, neuter accusative singularthis; gleicherएवparticleso; just so; exactly so (in the sense of the later evam); indeedअवगच्छ  (अवगम्)verb: present imperative 2nd person singularto go down; to descend to (acc. or loc.); to come to; to visit
+T	त्वं	त्वम्you	त्वम्  (त्वद्)pronoun, nominative singularyou
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularI; we
+T	तेजोंऽशसम्भवम्	तेजः-अंश-संभवम्splendour-part-origin	तेजः  (तेजस्)first part of a compoundthe sharp edge (of a knife etc.); point or top of a flame or ray; glow; glareअंशfirst part of a compoundshare; portion; part; partyसंभवम्  (सम्भव)noun, neuter accusative singularbeing or coming together; meeting; union; intercourse (esp. sexual intercourse)
+V	10.42		But what is the knowledge of all these details to thee, O Arjuna? Having pervaded this whole universe with one fragment of Myself, I remain.		अथवाबहुनैतेनकिंज्ञातेनतवार्जुन~।विष्टभ्याहमिदंकृत्स्नमेकांशेनस्थितोजगत्~॥ ४२ ॥	9
+T	अथवा	अथवाor	अथवाconjunctionor; rather; (when repeated) either or; perhaps
+T	बहुनैतेन	बहुनाmanyएतेनby this	बहुना  (बहु)adjective, neuter instrumental singularmuch; many; abundant; great in quantityएतेन  (एतद्)pronoun, neuter instrumental singularthis
+T	किं	किम्what	किम्  (क)pronoun, neuter nominative singularwho?; what?
+T	ज्ञातेन	ज्ञातेनknown	ज्ञातेन  (ज्ञा)participle, neuter instrumental singularto know; to have knowledge; to become acquainted with; to perceive
+T	तवार्जुन	तवyourअर्जुनO Arjuna	तव  (त्वद्)pronoun, genitive singularyouअर्जुनnoun, masculine vocative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	विष्टभ्याहमिदं	विष्टभ्यhaving fixed asunderअहम्Iइदम्this	विष्टभ्य  (विष्टम्भ्)absolutive (having ...)to fix asunder; to hold or keep apart; to prop; to fixअहम्  (मद्)pronoun, nominative singularI; weइदम्pronoun, neuter accusative singularthis; (near deictic pronoun in Vedic)
+T	कृत्स्नमेकांशेन	कृत्स्नम्wholeएक-अंशेनwith one-part	कृत्स्नम्  (कृत्स्न)adjective, neuter accusative singularall; whole; entireएकfirst part of a compound (number)one; alone; happening only once; single of its kindअंशेन  (अंश)noun, masculine instrumental singularshare; portion; part; party
+T	स्थितो	स्थितःstood	स्थितः  (स्था)participle, masculine nominative singularto stand; to station one's self; to get upon; to stay
+T	जगत्	जगत्world	जगत्  (जगन्त्)noun, neuter accusative singularthat which is alive; men and animals; the world; people
+V	11.1	Arjuna said:	This word of the supreme Secret concerning the Self, Thou hast spoken out of compassion; by this my delusion is taken away.		अर्जुनउवाच~।मदनुग्रहायपरमंगुह्यमध्यात्मसंज्ञितम्~।यत्त्वयोक्तंवचस्तेनमोहोऽयंविगतोमम~॥ १ ॥	10
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	मदनुग्रहाय	मद्-अनुग्रहायfor my-favour	मद्first part of a compound (pronoun)I; weअनुग्रहाय  (अनुग्रह)noun, masculine dative singularfavour; kindness; showing favour; conferring benefits
+T	परमं	परमम्supreme	परमम्  (परम)adjective, neuter nominative singularremotest; extreme; last; chief
+T	गुह्यमध्यात्मसंज्ञितम्	गुह्यम्secretअध्यात्म-संज्ञितम्inner Self-called	गुह्यम्  (गुह्य)noun, neuter nominative singulara secret; mystery; the pudenda; the anusअध्यात्मfirst part of a compoundthe Supreme spiritसंज्ञितम्  (संज्ञित)adjective, neuter nominative singularmade known; communicated; apprised by a sign or gesture; called
+T	यत्त्वयोक्तं	यत्whichत्वयाby youउक्तम्said	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoत्वया  (त्वद्)pronoun, instrumental singularyouउक्तम्  (वच्)participle, neuter nominative singularto speak; to say; to tell; to declare
+T	वचस्तेन	वचःwordतेनby that	वचः  (वचस्)noun, neuter nominative singularspeech; voice; word; singingतेन  (तद्)pronoun, neuter instrumental singularthis; gleicher
+T	मोहोऽयं	मोहःdelusionअयम्this	मोहः  (मोह)noun, masculine nominative singularloss of consciousness; bewilderment; perplexity; distractionअयम्  (इदम्)pronoun, masculine nominative singularthis; (near deictic pronoun in Vedic)
+T	विगतो	विगतःgone away	विगतः  (विगम्)participle, masculine nominative singularto go asunder; to sever; to separate; to go away
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularI; we
+V	11.2		The production and destruction of beings have been heard by me in detail from Thee, O Lotus-eyed, and also Thy imperishable greatness.		भवाप्ययौहिभूतानांश्रुतौविस्तरशोमया~।त्वत्तःकमलपत्राक्षमाहात्म्यमपिचाव्ययम्~॥ २ ॥	10
+T	भवाप्ययौ	भव-अप्ययौcoming info existence-joints	भवfirst part of a compoundcoming info existence; birth; production; originअप्ययौ  (अप्यय)noun, masculine nominative dualjoint; juncture; pouring out (of a river); destruction (?)
+T	हि	हिfor	हिparticlefor; because; on account of
+T	भूतानां	भूतानाम्of beings	भूतानाम्  (भूत)noun, masculine genitive pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	श्रुतौ	श्रुतौheard	श्रुतौ  (श्रु)participle, masculine nominative dualto hear; to listen to; to study
+T	विस्तरशो	विस्तरशःextensively	विस्तरशःadverbextensively
+T	मया	मयाby me	मया  (मद्)pronoun, instrumental singularI; we
+T	त्वत्तः	त्वत्तःfrom you	त्वत्तः  (त्वद्)pronoun, masculine ablative singularyou
+T	कमलपत्राक्ष	कमल-पत्र-अक्षO lotus-leaf-eye	कमलfirst part of a compoundlotus; lotusflower; Nelumbium speciosum Willd.; Nymphaea lotus Linn.पत्र  (पत्त्र)first part of a compoundthe wing of a bird; pinion; feather; the feather of an arrowअक्षnoun, masculine vocative singularthe eye
+T	माहात्म्यमपि	माहात्म्यम्magnanimityअपिalso	माहात्म्यम्  (माहात्म्य)noun, neuter nominative singularmagnanimity; highmindedness; exalted state or position; majestyअपिparticlealso; moreover; besides; assuredly
+T	चाव्ययम्	चandअव्ययम्imperishable	चconjunctionand; both; also; moreoverअव्ययम्  (अव्यय)adjective, neuter nominative singularnot liable to change; imperishable; undecaying; parsimonious

@@ -1,0 +1,69 @@
+V	3.21		Whatsoever a great man doeth, that other men also do; the standard he setteth up, by that the people go.		यद्यदाचरतिश्रेष्ठस्तत्तदेवेतरोजनः~।सयत्प्रमाणंकुरुतेलोकस्तदनुवर्तते~॥ २१ ॥	7
+T	यद्यदाचरति	यत्whichयत्whichआचरतिperforms	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoयत्  (यद्)pronoun, neuter accusative singularwhat; which; whoआचरति  (आचर्)verb: present 3rd person singularto come near to (acc.); to approach; to lead hither (as a path); to address
+T	श्रेष्ठस्तत्तदेवेतरो	श्रेष्ठःbestतत्thatतत्thatएवindeedइतरःother	श्रेष्ठः  (श्रेष्ठ)adjective, masculine nominative singularmost splendid or beautiful; most beautiful of or amongतत्  (तद्)pronoun, neuter accusative singularthis; gleicherतत्  (तद्)pronoun, neuter accusative singularthis; gleicherएवparticleso; just so; exactly so (in the sense of the later evam); indeedइतरः  (इतर)pronoun, masculine nominative singularthe other (of two); another
+T	जनः	जनःperson	जनः  (जन)noun, masculine nominative singularliving being; man; person; name of a man
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	यत्प्रमाणं	यत्whichप्रमाणम्measure	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoप्रमाणम्  (प्रमाण)noun, neuter accusative singularmeasure; scale; standard; measure of any kind (as size)
+T	कुरुते	कुरुतेdoes	कुरुते  (कृ)verb: present 3rd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	लोकस्तदनुवर्तते	लोकःworldतत्thatअनुवर्ततेfollows	लोकः  (लोक)noun, masculine nominative singularfree or open space; room; place; scopeतत्  (तद्)pronoun, neuter accusative singularthis; gleicherअनुवर्तते  (अनुवृत्)verb: present 3rd person singularto go after; to follow; to pursue; to follow from a previous rule
+V	3.22		There is nothing in the three worlds, O Pârtha, that should be done by Me, nor anything unattained that might be attained; yet I mingle in action.		नमेपार्थास्तिकर्तव्यंत्रिषुलोकेषुकिञ्चन~।नानवाप्तमवाप्तव्यंवर्तएवचकर्मणि~॥ २२ ॥	12
+T	न	नnot	नparticlenot; no; nor; neither
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	पार्थास्ति	पार्थO son of Prithaअस्तिis	पार्थnoun, masculine vocative singularArjunapatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjunaअस्ति  (अस्)verb: present 3rd person singularto be; to live; to exist; to be present
+T	कर्तव्यं	कर्तव्यम्to be done	कर्तव्यम्  (कृ)gerundive (to be ...), neuter nominative singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	त्रिषु	त्रिषुthree	त्रिषु  (त्रि)number, masculine locative pluralthree
+T	लोकेषु	लोकेषुin worlds	लोकेषु  (लोक)noun, masculine locative pluralLokafree or open space; room; place; scope
+T	किञ्चन	किंचनanyone	किंचन  (कश्चन)pronoun, neuter nominative singularsomething; anything
+T	नानवाप्तमवाप्तव्यं	नnotअनवाप्तम्not obtainedअवाप्तव्यम्to be attained	नparticlenot; no; nor; neitherअनवाप्तम्  (अनवाप्त)adjective, neuter nominative singularnot obtainedअवाप्तव्यम्  (अवाप्)gerundive (to be ...), neuter nominative singularto reach; to attain; to obtain; to gain
+T	वर्त	वर्तेI abide	वर्ते  (वृत्)verb: present 1st person singularto turn; to turn round; to revolve; to roll
+T	एव	एवindeed	एवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+T	कर्मणि	कर्मणिin action	कर्मणि  (कर्मन्)noun, neuter locative singularact; action; performance; business
+V	3.23		For if I mingled not ever in action unwearied, men all around would follow My path, O son of Prithâ.		यदिह्यहंनवर्तेयंजातुकर्मण्यतन्द्रितः~।ममवर्त्मानुवर्तन्तेमनुष्याःपार्थसर्वशः~॥ २३ ॥	11
+T	यदि	यदिif	यदिconjunctionin case that; if; whether
+T	ह्यहं	हिforअहम्I	हिparticlefor; because; on account ofअहम्  (मद्)pronoun, nominative singularI; we
+T	न	नnot	नparticlenot; no; nor; neither
+T	वर्तेयं	वर्तेयम्I should abide	वर्तेयम्  (वृत्)verb: present optative 1st person singularto turn; to turn round; to revolve; to roll
+T	जातु	जातुever	जातुadverbat all; ever; once
+T	कर्मण्यतन्द्रितः	कर्मणिin actionअतन्द्रितःunwearied	कर्मणि  (कर्मन्)noun, neuter locative singularact; action; performance; businessअतन्द्रितः  (अतन्द्रित)adjective, masculine nominative singularunwearied
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularI; we
+T	वर्त्मानुवर्तन्ते	वर्त्मpathअनुवर्तन्तेfollow	वर्त्म  (वर्त्मन्)noun, neuter accusative singularthe track or rut of a wheel; path; road; wayअनुवर्तन्ते  (अनुवृत्)verb: present 3rd person pluralto go after; to follow; to pursue; to follow from a previous rule
+T	मनुष्याः	मनुष्याःhumans	मनुष्याः  (मनुष्य)noun, masculine nominative plurala man; human being; a man (as opp. to woman); a husband
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularArjunapatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	सर्वशः	सर्वशःwholly	सर्वशः  (सर्वशस्)adverbwholly; completely; entirely; thoroughly
+V	3.24		These worlds would fall into ruin, if I did not perform action; I should be the author of confusion of castes, and should destroy these creatures.		उत्सीदेयुरिमेलोकानकुर्यांकर्मचेदहम्~।सङ्करस्यचकर्तास्यामुपहन्यामिमाःप्रजाः~॥ २४ ॥	11
+T	उत्सीदेयुरिमे	उत्सीदेयुःshould sit upwardsइमेthese	उत्सीदेयुः  (उत्सद्)verb: present optative 3rd person pluralto sit upwards; to raise one's self or rise up to (acc.); to withdraw; to leave offइमे  (इदम्)pronoun, masculine nominative pluralthis; (near deictic pronoun in Vedic)
+T	लोका	लोकाःworlds	लोकाः  (लोक)noun, masculine nominative pluralfree or open space; room; place; scope
+T	न	नnot	नparticlenot; no; nor; neither
+T	कुर्यां	कुर्याम्I should do	कुर्याम्  (कृ)verb: present optative 1st person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	चेदहम्	चेद्ifअहम्I	चेद्conjunction(never found at the beginning of a sentence or verse) = ca; whenअहम्  (मद्)pronoun, nominative singularI; we
+T	सङ्करस्य	संकरस्यof confusion	संकरस्य  (संकर)noun, masculine genitive singularmixing together; commingling; intermixture; the offspring of a mixed marriage
+T	च	चand	चconjunctionand; both; also; moreover
+T	कर्ता	कर्ताdoer	कर्ता  (कर्तृ)noun, masculine nominative singularthe creator of the world; name of Vishnu; name of Brahman; name of Shiva
+T	स्यामुपहन्यामिमाः	स्याम्I should beउपहन्याम्I should ruinइमाःthese	स्याम्  (अस्)verb: present optative 1st person singularto be; to live; to exist; to be presentउपहन्याम्  (उपहन्)verb: present optative 1st person singularto beat; to hit at; to strike; to touchइमाः  (इदम्)pronoun, feminine accusative pluralthis; (near deictic pronoun in Vedic)
+T	प्रजाः	प्रजाःcreatures	प्रजाः  (प्रजा)noun, feminine accusative pluralprocreation; propagation; birth; offspring
+V	3.25		As the ignorant act from attachment to action, O Bhârata, so should the wise act without attachment, desiring the welfare of the world.		सक्ताःकर्मण्यविद्वांसोयथाकुर्वन्तिभारत~।कुर्याद्विद्वांस्तथाऽसक्तश्चिकीर्षुर्लोकसङ्ग्रहम्~॥ २५ ॥	6
+T	सक्ताः	सक्ताःclung	सक्ताः  (सञ्ज्)participle, masculine nominative pluralto cling or stick or adhere to; to be attached to or engaged in or occupied with; to be attached or fastened; to adhere
+T	कर्मण्यविद्वांसो	कर्मणिin actionअविद्वांसःnot known	कर्मणि  (कर्मन्)noun, neuter locative singularact; action; performance; businessअnegative prefixnotnot; un-; in-विद्वांसः  (विद्)past participle, masculine nominative pluralto know; to understand; to learn; to be conscious of
+T	यथा	यथाas	यथाparticleaccording; as; like
+T	कुर्वन्ति	कुर्वन्तिdo	कुर्वन्ति  (कृ)verb: present 3rd person pluralto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+T	कुर्याद्विद्वांस्तथाऽसक्तश्चिकीर्षुर्लोकसङ्ग्रहम्	कुर्यात्should doविद्वान्knownतथाlikewiseअसक्तःnot clungचिकीर्षुःintending to makeलोक-संग्रहम्world-welfare	कुर्यात्  (कृ)verb: present optative 3rd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to becomeविद्वान्  (विद्)past participle, masculine nominative singularto know; to understand; to learn; to be conscious ofतथाadverbin that manner; so; thus; yesअnegative prefixnotnot; un-; in-सक्तः  (सञ्ज्)participle, masculine nominative singularto cling or stick or adhere to; to be attached to or engaged in or occupied with; to be attached or fastened; to adhereचिकीर्षुः  (चिकीर्षु)adjective, masculine nominative singularintending to make or do or perform (with acc. or ifc.); wishing to exercise one's self in the use of (acc.)लोकfirst part of a compoundfree or open space; room; place; scopeसंग्रहम्  (संग्रह)noun, masculine accusative singularholding together; seizing; grasping; taking
+V	3.26		Let no wise man unsettle the mind of ignorant people attached to action; but acting in harmony with Me let him render all action attractive.		नबुद्धिभेदंजनयेदज्ञानांकर्मसङ्गिनाम्~।जोषयेत्सर्वकर्माणिविद्वान्युक्तःसमाचरन्~॥ २६ ॥	7
+T	न	नnot	नparticlenot; no; nor; neither
+T	बुद्धिभेदं	बुद्धि-भेदम्intellect-distinction	बुद्धिfirst part of a compoundthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectभेदम्  (भेद)noun, masculine accusative singularbreaking; splitting; cleaving; rending
+T	जनयेदज्ञानां	जनयेत्should generateअज्ञानाम्not knowing	जनयेत्  (जनय्)verb: present optative 3rd person singularto generate; to produce; to createअज्ञानाम्  (अज्ञ)adjective, masculine genitive pluralnot knowing; ignorant; inexperienced; unconscious
+T	कर्मसङ्गिनाम्	कर्म-सङ्गिनाम्action-hanging on	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessसङ्गिनाम्  (सङ्गिन्)adjective, masculine genitive pluralhanging on; sticking in; clinging or adhering to (comp.); coming into contact with
+T	जोषयेत्सर्वकर्माणि	जोषयेत्should loveसर्व-कर्माणिall-actions	जोषयेत्  (जोषय्)verb: present optative 3rd person singularto love; to behave kindly towards; to delight in; Gefallen findenसर्वfirst part of a compound (pronoun)whole; entire; all; everyकर्माणि  (कर्मन्)noun, neuter accusative pluralact; action; performance; business
+T	विद्वान्युक्तः	विद्वान्one who knowsयुक्तःharmonized	विद्वान्  (विद्वस्)adjective, masculine nominative singularone who knows; knowing; learned; wiseयुक्तः  (युज्)participle, masculine nominative singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	समाचरन्	समाचरन्performing	समाचरन्  (समाचर्)present participle, masculine nominative singularto act or behave or conduct one's self towards; to practise; to perform thoroughly; to do
+V	3.27		All actions are wrought by the qualities of nature only. The self, deluded by egoism, thinketh: "I am the doer."	Gunas.Ahamkâra, the separate "I am."	प्रकृतेःक्रियमाणानिगुणैःकर्माणिसर्वशः~।अहङ्कारविमूढात्माकर्ताऽहमितिमन्यते~॥ २७ ॥	8
+T	प्रकृतेः	प्रकृतेःof nature	प्रकृतेः  (प्रकृति)noun, feminine genitive singularthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; origin
+T	क्रियमाणानि	क्रियमाणानिbeing done	क्रियमाणानि  (कृ)present participle, neuter accusative pluralto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	गुणैः	गुणैःwith qualities	गुणैः  (गुण)noun, masculine instrumental plurala single thread or strand of a cord or twine; string or thread; rope; a garland
+T	कर्माणि	कर्माणिactions	कर्माणि  (कर्मन्)noun, neuter accusative pluralact; action; performance; business
+T	सर्वशः	सर्वशःwholly	सर्वशः  (सर्वशस्)adverbwholly; completely; entirely; thoroughly
+T	अहङ्कारविमूढात्मा	अहंकार-विमूढ-आत्माegoism-bewildered-self	अहंकारfirst part of a compoundconception of one's individuality; self-consciousness; the making of self; thinking of selfविमूढ  (विमुह्)first part of a compound (verb)to be confused; to become bewildered or stupefied; to faint awayआत्मा  (आत्मन्)noun, masculine nominative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	कर्ताऽहमिति	कर्ताहम्I will doइतिthus	कर्ताहम्  (कृ)verb: future 1st person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to becomeइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	मन्यते	मन्यतेthinks	मन्यते  (मन्)verb: present 3rd person singularto think; to believe; to imagine; to suppose

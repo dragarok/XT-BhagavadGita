@@ -1,0 +1,68 @@
+V	14.15		Having gone to dissolution in Motion, he is born among those attached to action; if dissolved in Inertia, he is born in the wombs of the senseless.		रजसिप्रलयंगत्वाकर्मसङ्गिषुजायते~।तथाप्रलीनस्तमसिमूढयोनिषुजायते~॥ १५ ॥	9
+T	रजसि	रजसिin passion	रजसि  (रजस्)noun, neuter locative singularthe sphere of vapour or mist; region of clouds; atmosphere; air
+T	प्रलयं	प्रलयम्dissolution	प्रलयम्  (प्रलय)noun, masculine accusative singulardissolution; reabsorption; destruction; annihilation
+T	गत्वा	गत्वाhaving gone	गत्वा  (गम्)absolutive (having ...)to go; to move; to approach; to understand
+T	कर्मसङ्गिषु	कर्म-सङ्गिषुaction-hanging on	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessसङ्गिषु  (सङ्गिन्)adjective, masculine locative pluralhanging on; sticking in; clinging or adhering to (comp.); coming into contact with
+T	जायते	जायतेis born	जायते  (जन्)verb: present 3rd person singularto come into existence; to grow (as plants); to be born as; to be by birth or nature
+T	तथा	तथाlikewise	तथाadverbin that manner; so; thus; yes
+T	प्रलीनस्तमसि	प्रलीनःdissolvedतमसिin darkness	प्रलीनः  (प्रली)participle, masculine nominative singularto become dissolved or reabsorbed into; to disappear; to perishतमसि  (तमस्)noun, neuter locative singulardarkness; gloom; the darkness of hell; hell or a particular division of hell
+T	मूढयोनिषु	मूढ-योनिषुin deluded-wombs	मूढ  (मुह्)first part of a compound (verb)to become stupefied or unconscious; to be bewildered or perplexed; to err; to be mistakenयोनिषु  (योनि)noun, feminine locative pluralthe womb; uterus; vulva; vagina
+T	जायते	जायतेis born	जायते  (जन्)verb: present 3rd person singularto come into existence; to grow (as plants); to be born as; to be by birth or nature
+V	14.16		It is said the fruit of a good action is harmonious and spotless; verily the fruit of Motion is pain, and the fruit of Inertia unwisdom		कर्मणःसुकृतस्याहुःसात्त्विकंनिर्मलंफलम्~।रजसस्तुफलंदुःखमज्ञानंतमसःफलम्~॥ १६ ॥	10
+T	कर्मणः	कर्मणःof action	कर्मणः  (कर्मन्)noun, neuter genitive singularact; action; performance; business
+T	सुकृतस्याहुः	सुwellकृतस्यdoneआहुःsaid	सुadverb[ibc.] good-; [ibc.] very; quite; feinकृतस्य  (कृ)participle, neuter genitive singularto make like or similar; to consider equivalent; to reduce anything to; to cause to becomeआहुः  (अह्)verb: perfect 3rd person pluralto say; to call; to consider; to declare
+T	सात्त्विकं	सात्त्विकम्pure	सात्त्विकम्  (सात्त्विक)adjective, neuter accusative singularspirited; vigorous; energetic; relating to or endowed with the quality Sattva
+T	निर्मलं	निर्मलम्spotless	निर्मलम्  (निर्मल)adjective, neuter accusative singularspotless; unsullied; clean; shining
+T	फलम्	फलम्fruit	फलम्  (फल)noun, neuter accusative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	रजसस्तु	रजसःof passionतुbut	रजसः  (रजस्)noun, neuter genitive singularthe sphere of vapour or mist; region of clouds; atmosphere; airतुparticledo; now; then; but
+T	फलं	फलम्fruit	फलम्  (फल)noun, neuter accusative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	दुःखमज्ञानं	दुःखम्painअज्ञानम्ignorance	दुःखम्  (दुःख)noun, neuter accusative singularuneasiness; pain; sorrow; troubleअज्ञानम्  (अज्ञान)noun, neuter accusative singularnon-cognizance; ignorance; (in philosophy) spiritual ignorance; Prakriti
+T	तमसः	तमसःof darkness	तमसः  (तमस्)noun, neuter genitive singulardarkness; gloom; the darkness of hell; hell or a particular division of hell
+T	फलम्	फलम्fruit	फलम्  (फल)noun, neuter accusative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+V	14.17		From Harmony wisdom is born, and also greed from Motion; heedlessness and delusion are of Inertia and also unwisdom.		सत्त्वात्सञ्जायतेज्ञानंरजसोलोभएवच~।प्रमादमोहौतमसोभवतोऽज्ञानमेवच~॥ १७ ॥	10
+T	सत्त्वात्सञ्जायते	सत्त्वात्from goodnessसंजायतेarises	सत्त्वात्  (सत्त्व)noun, neuter ablative singularbeing; existence; reality; true essenceसंजायते  (संजन्)verb: present 3rd person singularto be born or produced together with (abl.); to be born from; to arise or come forth from (abl.); to come into existence
+T	ज्ञानं	ज्ञानम्knowledge	ज्ञानम्  (ज्ञान)noun, neuter nominative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	रजसो	रजसःfrom passion	रजसः  (रजस्)noun, neuter ablative singularthe sphere of vapour or mist; region of clouds; atmosphere; air
+T	लोभ	लोभःgreed	लोभः  (लोभ)noun, masculine nominative singularperplexity; confusion; impatience; eager desire for or longing after
+T	एव	एवindeed	एवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+T	प्रमादमोहौ	प्रमाद-मोहौheedlessness-delusions	प्रमादfirst part of a compoundintoxication; madness; insanity; negligenceमोहौ  (मोह)noun, masculine nominative dualloss of consciousness; bewilderment; perplexity; distraction
+T	तमसो	तमसःfrom darkness	तमसः  (तमस्)noun, neuter ablative singulardarkness; gloom; the darkness of hell; hell or a particular division of hell
+T	भवतोऽज्ञानमेव	भवतःareअज्ञानम्ignoranceएवindeed	भवतः  (भू)verb: present 3rd person dualto be; to become; to come into being; to happenअज्ञानम्  (अज्ञान)noun, neuter nominative singularnon-cognizance; ignorance; (in philosophy) spiritual ignorance; Prakritiएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+V	14.18		They rise upwards who are settled in Harmony; the Active dwell in the mid-most place: the Inert go downwards, enveloped in the vilest		ऊर्ध्वंगच्छन्तिसत्त्वस्थामध्येतिष्ठन्तिराजसाः~।जघन्यगुणवृत्तिस्थाअधोगच्छन्तितामसाः~॥ १८ ॥	10
+T	ऊर्ध्वं	ऊर्ध्वम्upward	ऊर्ध्वम्adverbfurthermore; after; upward
+T	गच्छन्ति	गच्छन्तिgo	गच्छन्ति  (गम्)verb: present 3rd person pluralto go; to move; to approach; to understand
+T	सत्त्वस्था	सत्त्व-स्थाःgoodness-abiding	सत्त्वfirst part of a compoundbeing; existence; reality; true essenceस्थाः  (स्थ)adjective, masculine nominative pluralstanding; staying; abiding; being situated in
+T	मध्ये	मध्येin middle	मध्ये  (मध्य)noun, neuter locative singularthe middle; midst; centre; inside
+T	तिष्ठन्ति	तिष्ठन्तिstand	तिष्ठन्ति  (स्था)verb: present 3rd person pluralto stand; to station one's self; to get upon; to stay
+T	राजसाः	राजसाःpassionate	राजसाः  (राजस)adjective, masculine nominative pluralbelonging or relating to the quality rajas; endowed with or influenced by the quality of passion
+T	जघन्यगुणवृत्तिस्था	जघन्य-गुण-वृत्त-स्थाःhindmost-quality-behavior-abiding	जघन्यfirst part of a compound (adjective)hindmost; last; latest; worstगुणfirst part of a compounda single thread or strand of a cord or twine; string or thread; rope; a garlandवृत्तfirst part of a compoundbehavior; acting; act; daily routineस्थाः  (स्थ)adjective, masculine nominative pluralstanding; staying; abiding; being situated in
+T	अधो	अधःbelow	अधः  (अधस्)adverbbelow; down; in the lower region; beneath
+T	गच्छन्ति	गच्छन्तिgo	गच्छन्ति  (गम्)verb: present 3rd person pluralto go; to move; to approach; to understand
+T	तामसाः	तामसाःdull	तामसाः  (तामस)adjective, masculine nominative pluraldark; appertaining to or affected by the quality tamas; ignorant; various
+V	14.19		When the Seer perceiveth no agent other than the qualities, and knoweth That which is higher than the qualities, he entereth into My Nature.	Gunas.Gunas.	नान्यंगुणेभ्यःकर्तारंयदाद्रष्टाऽनुपश्यति~।गुणेभ्यश्चपरंवेत्तिमद्भावंसोऽधिगच्छति~॥ १९ ॥	10
+T	नान्यं	नnotअन्यम्other	नparticlenot; no; nor; neitherअन्यम्  (अन्य)pronoun, masculine accusative singularother; another
+T	गुणेभ्यः	गुणेभ्यःfrom qualities	गुणेभ्यः  (गुण)noun, masculine ablative plurala single thread or strand of a cord or twine; string or thread; rope; a garland
+T	कर्तारं	कर्तारम्doer	कर्तारम्  (कर्तृ)adjective, masculine accusative singularone who makes or does or acts or effects; a doer; maker; agent
+T	यदा	यदाwhen	यदाconjunctionwhen; at what time; whenever
+T	द्रष्टाऽनुपश्यति	द्रष्टाseeingअनुपश्यतिsees	द्रष्टा  (द्रष्टृ)adjective, masculine nominative singularseeing; perceivingअनुपश्यति  (अनुपश्)verb: present 3rd person singularto look at; to perceive; to notice; to discover
+T	गुणेभ्यश्च	गुणेभ्यःfrom qualitiesचand	गुणेभ्यः  (गुण)noun, masculine ablative plurala single thread or strand of a cord or twine; string or thread; rope; a garlandचconjunctionand; both; also; moreover
+T	परं	परम्supreme	परम्  (पर)pronoun, masculine accusative singularfar; remote; opposite; previous
+T	वेत्ति	वेत्तिknows	वेत्ति  (विद्)verb: present 3rd person singularto know; to understand; to learn; to be conscious of
+T	मद्भावं	मद्-भावम्my-state	मद्first part of a compound (pronoun)I; weभावम्  (भाव)noun, masculine accusative singularbecoming; being; existing; occurring
+T	सोऽधिगच्छति	सःheअधिगच्छतिattains	सः  (तद्)pronoun, masculine nominative singularthis; gleicherअधिगच्छति  (अधिगम्)verb: present 3rd person singularto go up to; to approach; to overtake; to approach for sexual intercourse
+V	14.20		When the dweller in the body hath crossed over these three qualities, whence all bodies have been produced, liberated from birth, death, old age and sorrow, he drinketh the nectar of immortality.	Gunas.The Amrita.	गुणानेतानतीत्यत्रीन्देहीदेहसमुद्भवान्~।जन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते~॥ २० ॥	4
+T	गुणानेतानतीत्य	गुणान्qualitiesएतान्theseअतीत्यhaving transcended	गुणान्  (गुण)noun, masculine accusative plurala single thread or strand of a cord or twine; string or thread; rope; a garlandएतान्  (एतद्)pronoun, masculine accusative pluralthisअतीत्य  (अती)absolutive (having ...)to pass by; to elapse; to pass over; to overflow
+T	त्रीन्देही	त्रीन्threeदेहीembodied one	त्रीन्  (त्रि)number, masculine accusative pluralthreeदेही  (देहिन्)noun, masculine nominative singulara living creature; man; the spirit; soul (enveloped in the body)
+T	देहसमुद्भवान्	देह-समुद्भवान्body-arisings	देहfirst part of a compoundform; shape; mass; bulk (as of a cloud)समुद्भवान्  (समुद्भव)noun, masculine accusative pluralexistence; production; origin; coming to life again
+T	जन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते	जन्म-मृत्यु-जरा-दुःखैःwith birth-death-old age-painsविमुक्तःliberatedअमृतम्immortalअश्नुतेattains	जन्म  (जन्मन्)first part of a compoundbirth; origin; existence; lifeमृत्युfirst part of a compounddeath; dying; Death personified; the god of disease (sometimes identified with Yama or with Vishnu)जराfirst part of a compoundthe act of becoming old; old age; digestion; decrepitudeदुःखैः  (दुःख)noun, neuter instrumental pluraluneasiness; pain; sorrow; troubleविमुक्तः  (विमुच्)participle, masculine nominative singularto unloose; to unharness; to unyoke; to take off (clothes)अमृतम्  (अमृत)noun, neuter accusative singularcollective body of immortals; world of immortality; heaven; eternityअश्नुते  (अश्)verb: present 3rd person singularto come to; to reach; to arrive at; to get
+V	14.21	Arjuna said:	What are the marks of him who hath crossed over the three qualities, O Lord? How acteth he, and how doth he go beyond these three qualities?	Gunas.Gunas.	अर्जुनउवाच~।कैर्लिङ्गैस्त्रीन्गुणानेतानतीतोभवतिप्रभो~।किमाचारःकथंचैतांस्त्रीन्गुणानतिवर्तते~॥ २१ ॥	8
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	कैर्लिङ्गैस्त्रीन्गुणानेतानतीतो	कैःby whatलिङ्गैःwith marksत्रीन्threeगुणान्qualitiesएतान्theseअतीतःtranscended	कैः  (क)pronoun, neuter instrumental pluralwho?; what?लिङ्गैः  (लिङ्ग)noun, neuter instrumental plurala mark; spot; sign; tokenत्रीन्  (त्रि)number, masculine accusative pluralthreeगुणान्  (गुण)noun, masculine accusative plurala single thread or strand of a cord or twine; string or thread; rope; a garlandएतान्  (एतद्)pronoun, masculine accusative pluralthisअतीतः  (अती)participle, masculine nominative singularto pass by; to elapse; to pass over; to overflow
+T	भवति	भवतिis	भवति  (भू)verb: present 3rd person singularto be; to become; to come into being; to happen
+T	प्रभो	प्रभोO lord	प्रभो  (प्रभु)noun, masculine vocative singulara master; lord; king; the chief or leader of a sect
+T	किमाचारः	किमाचारःbeing of what conduct	किमाचारः  (किमाचार)adjective, masculine nominative singularbeing of what conduct or behaviour?
+T	कथं	कथम्how	कथम्adverbhow?
+T	चैतांस्त्रीन्गुणानतिवर्तते	चandएतान्theseत्रीन्threeगुणान्qualitiesअतिवर्ततेpasses beyond	चconjunctionand; both; also; moreoverएतान्  (एतद्)pronoun, masculine accusative pluralthisत्रीन्  (त्रि)number, masculine accusative pluralthreeगुणान्  (गुण)noun, masculine accusative plurala single thread or strand of a cord or twine; string or thread; rope; a garlandअतिवर्तते  (अतिवृत्)verb: present 3rd person singularto pass beyond; to surpass; to cross; to get over

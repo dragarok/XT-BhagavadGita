@@ -1,0 +1,70 @@
+V	13.29		Seeing indeed everywhere the same Lord equally dwelling, he doth not destroy the Self, and thus treads the highest Path.		समंपश्यन्हिसर्वत्रसमवस्थितमीश्वरम्~।नहिनस्त्यात्मनाऽऽत्मानंततोयातिपरांगतिम्~॥ २९ ॥	10
+T	समं	समम्equal	समम्  (सम)pronoun, neuter accusative singulareven; flat; level; parallel
+T	पश्यन्हि	पश्यन्seeingहिfor	पश्यन्  (दृश्)present participle, masculine nominative singularto behold; to look at; to regard; to considerहिparticlefor; because; on account of
+T	सर्वत्र	सर्वत्रeverywhere	सर्वत्रadverbeverywhere; in every case; always; at all times
+T	समवस्थितमीश्वरम्	समवस्थितम्stayedईश्वरम्Lord	समवस्थितम्  (समवस्था)participle, masculine accusative singularto stay; to dwell; to standईश्वरम्  (ईश्वर)noun, masculine accusative singulara husband; God; the Supreme Being; king
+T	न	नnot	नparticlenot; no; nor; neither
+T	हिनस्त्यात्मनाऽऽत्मानं	हिनस्तिinjuresआत्मनाwith selfआत्मानम्self	हिनस्ति  (हिंस्)verb: present 3rd person singularto injure; to harm; to killआत्मना  (आत्मन्)noun, masculine instrumental singularthe breath; the soul; principle of life and sensation; the individual soulआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	ततो	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	याति	यातिgoes	याति  (या)verb: present 3rd person singularto go; to move; to set out; to travel
+T	परां	पराम्supreme	पराम्  (पर)pronoun, feminine accusative singularfar; remote; opposite; previous
+T	गतिम्	गतिम्goal	गतिम्  (गति)noun, feminine accusative singulargoing; moving; gait; deportment
+V	13.30		He who seeth that Matter verily performeth all actions, and that the Self is actionless, he seeth.	Prakriti.	प्रकृत्यैवचकर्माणिक्रियमाणानिसर्वशः~।यःपश्यतितथाऽऽत्मानमकर्तारंसपश्यति~॥ ३० ॥	10
+T	प्रकृत्यैव	प्रकृत्याwith natureएवindeed	प्रकृत्या  (प्रकृति)noun, feminine instrumental singularthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; originएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+T	कर्माणि	कर्माणिactions	कर्माणि  (कर्मन्)noun, neuter accusative pluralact; action; performance; business
+T	क्रियमाणानि	क्रियमाणानिbeing done	क्रियमाणानि  (कृ)present participle, neuter accusative pluralto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	सर्वशः	सर्वशःwholly	सर्वशः  (सर्वशस्)adverbwholly; completely; entirely; thoroughly
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	पश्यति	पश्यतिsees	पश्यति  (दृश्)verb: present 3rd person singularto behold; to look at; to regard; to consider
+T	तथाऽऽत्मानमकर्तारं	तथाlikewiseआत्मानम्selfअकर्तारम्not an agent	तथाadverbin that manner; so; thus; yesआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soulअकर्तारम्  (अकर्तृ)noun, masculine accusative singularnot an agent; not active
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	पश्यति	पश्यतिsees	पश्यति  (दृश्)verb: present 3rd person singularto behold; to look at; to regard; to consider
+V	13.31		When he perceiveth the diversified existence of beings as rooted in One, and spreading forth from it, then he reacheth the Eternal		यदाभूतपृथग्भावमेकस्थमनुपश्यति~।ततएवचविस्तारंब्रह्मसंपद्यतेतदा~॥ ३१ ॥	9
+T	यदा	यदाwhen	यदाconjunctionwhen; at what time; whenever
+T	भूतपृथग्भावमेकस्थमनुपश्यति	भूत-पृथग्भावम्being-separate stateएकस्थम्gathered in oneअनुपश्यतिsees	भूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personपृथग्भावम्  (पृथग्भाव)noun, masculine accusative singularseparate state or condition; difference; distinctness; individualityएकस्थम्  (एकस्थ)adjective, masculine accusative singularstanding together; remaining in the same place; conjoined; combinedअनुपश्यति  (अनुपश्)verb: present 3rd person singularto look at; to perceive; to notice; to discover
+T	तत	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	एव	एवindeed	एवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+T	विस्तारं	विस्तारम्spreading	विस्तारम्  (विस्तार)noun, masculine accusative singularspreading; expansion; extent; width
+T	ब्रह्म	ब्रह्मBrahman	ब्रह्म  (ब्रह्मन्)noun, neuter accusative singularbrahmanpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	संपद्यते	सम्पद्यतेendowments	सम्पद्यते  (सम्पद्)verb: present 3rd person singularto turn out well; to accrue to; to amount to; to meet with
+T	तदा	तदाthen	तदाadverbat that time; then; in that case (often used redundantly)
+V	13.32		Being beginningless and without qualities, the imperishable supreme Self, though seated in the body, O Kaunteya, worketh not nor is affected.	Gunas.	अनादित्वान्निर्गुणत्वात्परमात्माऽयमव्ययः~।शरीरस्थोऽपिकौन्तेयनकरोतिनलिप्यते~॥ ३२ ॥	7
+T	अनादित्वान्निर्गुणत्वात्परमात्माऽयमव्ययः	अनादि-त्वात्from beginninglessnessनिर्गुण-त्वात्from having no qualitiesnessपरमात्माSupreme Selfअयम्thisअव्ययःimperishable	अनादिfirst part of a compound (adjective)having no beginning; existing from eternityत्वात्  (त्व)noun, neuter ablative singular(suffix creating abstract nouns)निर्गुणfirst part of a compound (adjective)having no qualities; having no cord; bad; viciousत्वात्  (त्व)noun, neuter ablative singular(suffix creating abstract nouns)परमात्मा  (परमात्मन्)noun, masculine nominative singularall the heart; the Supreme spiritअयम्  (इदम्)pronoun, masculine nominative singularthis; (near deictic pronoun in Vedic)अव्ययः  (अव्यय)adjective, masculine nominative singularnot liable to change; imperishable; undecaying; parsimonious
+T	शरीरस्थोऽपि	शरीर-स्थःbody-abidingअपिalso	शरीरfirst part of a compoundthe body; bodily frame; solid parts of the body; any solid body (opp. to udaka etc.)स्थः  (स्थ)adjective, masculine nominative singularstanding; staying; abiding; being situated inअपिparticlealso; moreover; besides; assuredly
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	न	नnot	नparticlenot; no; nor; neither
+T	करोति	करोतिdoes	करोति  (कृ)verb: present 3rd person singularactto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	न	नnot	नparticlenot; no; nor; neither
+T	लिप्यते	लिप्यतेis stained	लिप्यते  (लिप्)verb: passive present 3rd person singularto smear; to besmear; to anoint with (instr.); to stain
+V	13.33		As the omnipresent ether is not affected, by reason of its subtlety, so seated everywhere in the body the Self is not affected.		यथासर्वगतंसौक्ष्म्यादाकाशंनोपलिप्यते~।सर्वत्रावस्थितोदेहेतथाऽऽमानोपलिप्यते~॥ ३३ ॥	8
+T	यथा	यथाas	यथाparticleaccording; as; like
+T	सर्वगतं	सर्व-गतम्all-gone	सर्वfirst part of a compound (pronoun)whole; entire; all; everyगतम्  (गम्)participle, neuter nominative singularto go; to move; to approach; to understand
+T	सौक्ष्म्यादाकाशं	सौक्ष्म्यात्from minutenessआकाशम्space	सौक्ष्म्यात्  (सौक्ष्म्य)noun, neuter ablative singularminuteness; fineness; subtletyआकाशम्  (आकाश)noun, neuter nominative singulara free or open space; vacuity; the ether; sky or atmosphere
+T	नोपलिप्यते	नnotउपलिप्यतेis defiled	नparticlenot; no; nor; neitherउपलिप्यते  (उपलिप्)verb: passive present 3rd person singularto defile; to besmear (esp. with cow-dung); to smear; to anoint
+T	सर्वत्रावस्थितो	सर्वत्रeverywhereअवस्थितःsituated	सर्वत्रadverbeverywhere; in every case; always; at all timesअवस्थितः  (अवस्था)participle, masculine nominative singularto reach down to; to remain standing; to be separated from; to abide
+T	देहे	देहेin body	देहे  (देह)noun, masculine locative singularform; shape; mass; bulk (as of a cloud)
+T	तथाऽऽमा	तथाlikewiseआत्माself	तथाadverbin that manner; so; thus; yesआत्मा  (आत्मन्)noun, masculine nominative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	नोपलिप्यते	नnotउपलिप्यतेis defiled	नparticlenot; no; nor; neitherउपलिप्यते  (उपलिप्)verb: passive present 3rd person singularto defile; to besmear (esp. with cow-dung); to smear; to anoint
+V	13.34		As the one sun illumineth the whole earth, so the Lord of the Field illumineth the whole Field, O Bhârata.		यथाप्रकाशयत्येकःकृत्स्नंलोकमिमंरविः~।क्षेत्रंक्षेत्रीतथाकृत्स्नंप्रकाशयतिभारत~॥ ३४ ॥	11
+T	यथा	यथाas	यथाparticleaccording; as; like
+T	प्रकाशयत्येकः	प्रकाशयतिilluminesएकःone	प्रकाशयति  (प्रकाशय्)verb: present 3rd person singularto make visible; to cause to appear or shine; to illumine; to irradiateएकः  (एक)number, masculine nominative singularone; alone; happening only once; single of its kind
+T	कृत्स्नं	कृत्स्नम्whole	कृत्स्नम्  (कृत्स्न)adjective, masculine accusative singularall; whole; entire
+T	लोकमिमं	लोकम्worldइमम्this	लोकम्  (लोक)noun, masculine accusative singularfree or open space; room; place; scopeइमम्  (इदम्)pronoun, masculine accusative singularthis; (near deictic pronoun in Vedic)
+T	रविः	रविःparticular form of the sun	रविः  (रवि)noun, masculine nominative singulara particular form of the sun (sometimes regarded as one of the 12 Âdityas); the sun (in general) or the sun-god; Sunday; Calotropis Gigantea
+T	क्षेत्रं	क्षेत्रम्field	क्षेत्रम्  (क्षेत्र)noun, neuter accusative singularlanded property; land; soil; name of a kind of tutelary deity
+T	क्षेत्री	क्षेत्रीowner of a field	क्षेत्री  (क्षेत्रिन्)noun, masculine nominative singularthe owner of a field; an agriculturist; husbandman; a husband
+T	तथा	तथाlikewise	तथाadverbin that manner; so; thus; yes
+T	कृत्स्नं	कृत्स्नम्whole	कृत्स्नम्  (कृत्स्न)adjective, neuter accusative singularall; whole; entire
+T	प्रकाशयति	प्रकाशयतिillumines	प्रकाशयति  (प्रकाशय्)verb: present 3rd person singularto make visible; to cause to appear or shine; to illumine; to irradiate
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+V	13.35		They who by the eyes of Wisdom perceive this difference between the Field and the Knower of the Field, and the liberation of beings from Matter they go to the Supreme.	Prakriti	क्षेत्रक्षेत्रज्ञयोरेवमन्तरंज्ञानचक्षुषा~।भूतप्रकृतिमोक्षंचयेविदुर्यान्तितेपरम्~॥ ३५ ॥	8
+T	क्षेत्रक्षेत्रज्ञयोरेवमन्तरं	क्षेत्र-क्षेत्रज्ञयोःof field-knowers of the fieldएवम्thusअन्तरम्inner	क्षेत्रfirst part of a compoundlanded property; land; soil; name of a kind of tutelary deityक्षेत्रज्ञयोः  (क्षेत्रज्ञ)noun, masculine genitive dualthe individual soulएवम्adverbthus; in this way; in such a manner; suchअन्तरम्  (अन्तर)noun, neuter accusative singularthe interior; a hole; opening; the interior part of a thing
+T	ज्ञानचक्षुषा	ज्ञान-चक्षुषाwith knowledge-eye	ज्ञानfirst part of a compoundknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)चक्षुषा  (चक्षुस्)noun, neuter instrumental singularfaculty of seeing; sight; a look; the eye
+T	भूतप्रकृतिमोक्षं	भूत-प्रकृति-मोक्षम्being-nature-liberation	भूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personप्रकृतिfirst part of a compoundthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; originमोक्षम्  (मोक्ष)noun, masculine accusative singularemancipation; liberation; release from; release from worldly existence or transmigration
+T	च	चand	चconjunctionand; both; also; moreover
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhat; which; who
+T	विदुर्यान्ति	विदुःknewयान्तिgo	विदुः  (विद्)verb: perfect 3rd person pluralto know; to understand; to learn; to be conscious ofयान्ति  (या)verb: present 3rd person pluralto go; to move; to set out; to travel
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralthis; gleicher
+T	परम्	परम्supreme	परम्  (पर)pronoun, neuter accusative singularfar; remote; opposite; previous

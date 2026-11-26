@@ -1,0 +1,65 @@
+V	16.20		Cast into demoniacal wombs, deluded birth after birth, attaining not to Me, O Kaunteya, they sink into the lowest depths.		आसुरींयोनिमापन्नामूढाजन्मनिजन्मनि~।मामप्राप्यैवकौन्तेयततोयान्त्यधमांगतिम्~॥ २० ॥	10
+T	आसुरीं	आसुरीम्female demon	आसुरीम्  (आसुरी)noun, feminine accusative singulara female demon; a division of medicine; Sinapis ramosa; the urethra
+T	योनिमापन्ना	योनिम्wombआपन्नाःcome	योनिम्  (योनि)noun, feminine accusative singularthe womb; uterus; vulva; vaginaआपन्नाः  (आपद्)participle, masculine nominative pluralto come; to walk near; to approach; to enter
+T	मूढा	मूढाःdeluded	मूढाः  (मुह्)participle, masculine nominative pluralto become stupefied or unconscious; to be bewildered or perplexed; to err; to be mistaken
+T	जन्मनि	जन्मनिin birth	जन्मनि  (जन्मन्)noun, neuter locative singularbirth; origin; existence; life
+T	जन्मनि	जन्मनिin birth	जन्मनि  (जन्मन्)noun, neuter locative singularbirth; origin; existence; life
+T	मामप्राप्यैव	माम्meअप्राप्यnot having attainedएवindeed	माम्  (मद्)pronoun, accusative singularI; weअnegative prefixnotnot; un-; in-प्राप्य  (प्राप्)absolutive (having ...)to attain to; to reach; to arrive at; to meet withएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	ततो	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	यान्त्यधमां	यान्तिgoअधमाम्lowest	यान्ति  (या)verb: present 3rd person pluralto go; to move; to set out; to travelअधमाम्  (अधम)adjective, feminine accusative singularlowest; vilest; worst; very low or vile or bad (often ifc)
+T	गतिम्	गतिम्goal	गतिम्  (गति)noun, feminine accusative singulargoing; moving; gait; deportment
+V	16.21		Triple is the gate of this hell, destructive of the self - lust, wrath, and greed; therefore let man renounce these three.		त्रिविधंनरकस्येदंद्वारंनाशनमात्मनः~।कामःक्रोधस्तथालोभस्तस्मादेतत्त्रयंत्यजेत्~॥ २१ ॥	8
+T	त्रिविधं	त्रिविधम्threefold	त्रिविधम्  (त्रिविध)adjective, neuter nominative singularof 3 kinds; triple; threefold
+T	नरकस्येदं	नरकस्यof hellइदम्this	नरकस्य  (नरक)noun, masculine genitive singularhell; place of tormentइदम्pronoun, neuter nominative singularthis; (near deictic pronoun in Vedic)
+T	द्वारं	द्वारम्gate	द्वारम्  (द्वार)noun, neuter nominative singulardoor; gate; passage; entrance
+T	नाशनमात्मनः	नाशनम्destroyingआत्मनःof self	नाशनम्  (नाशन)adjective, neuter nominative singulardestroying; destructiveआत्मनः  (आत्मन्)noun, masculine genitive singularthe breath; the soul; principle of life and sensation; the individual soul
+T	कामः	कामःdesire	कामः  (काम)noun, masculine nominative singularwish; desire; longing; desire for
+T	क्रोधस्तथा	क्रोधःangerतथाlikewise	क्रोधः  (क्रोध)noun, masculine nominative singularanger; wrath; passion; Anger (personified as a child of Lobha and Nikriti)तथाadverbin that manner; so; thus; yes
+T	लोभस्तस्मादेतत्त्रयं	लोभःgreedतस्मात्from thatएतत्thisत्रयम्triad	लोभः  (लोभ)noun, masculine nominative singularperplexity; confusion; impatience; eager desire for or longing afterतस्मात्  (तद्)pronoun, neuter ablative singularthis; gleicherएतत्  (एतद्)pronoun, neuter accusative singularthisत्रयम्  (त्रय)noun, neuter accusative singulara triad (chiefly ifc.); [medic.] = samnipâta
+T	त्यजेत्	त्यजेत्should abandon	त्यजेत्  (त्यज्)verb: present optative 3rd person singularto leave; to abandon; to quit; to leave a place
+V	16.22		A man liberated from these three gates of darkness, O son of Kunti, accomplisheth his own welfare, and thus reacheth the highest goal.		एतैर्विमुक्तःकौन्तेयतमोद्वारैस्त्रिभिर्नरः~।आचरत्यात्मनःश्रेयस्ततोयातिपरांगतिम्~॥ २२ ॥	8
+T	एतैर्विमुक्तः	एतैःby theseविमुक्तःliberated	एतैः  (एतद्)pronoun, neuter instrumental pluralthisविमुक्तः  (विमुच्)participle, masculine nominative singularto unloose; to unharness; to unyoke; to take off (clothes)
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	तमोद्वारैस्त्रिभिर्नरः	तमः-द्वारैःwith darkness-gatesत्रिभिःthreeनरःman	तमः  (तमस्)first part of a compounddarkness; gloom; the darkness of hell; hell or a particular division of hellद्वारैः  (द्वार)noun, neuter instrumental pluraldoor; gate; passage; entranceत्रिभिः  (त्रि)number, neuter instrumental pluralthreeनरः  (नर)noun, masculine nominative singulara man; a male; a person; husband
+T	आचरत्यात्मनः	आचरतिperformsआत्मनःof self	आचरति  (आचर्)verb: present 3rd person singularto come near to (acc.); to approach; to lead hither (as a path); to addressआत्मनः  (आत्मन्)noun, masculine genitive singularthe breath; the soul; principle of life and sensation; the individual soul
+T	श्रेयस्ततो	श्रेयःbetterततःthen	श्रेयः  (श्रेयस्)noun, neuter accusative singularthe better state; the better fortune or condition (sometimes used when the subject of a sentence would seem to require the masc. form)ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	याति	यातिgoes	याति  (या)verb: present 3rd person singularto go; to move; to set out; to travel
+T	परां	पराम्supreme	पराम्  (पर)pronoun, feminine accusative singularfar; remote; opposite; previous
+T	गतिम्	गतिम्goal	गतिम्  (गति)noun, feminine accusative singulargoing; moving; gait; deportment
+V	16.23		He who, having cast aside the ordinances of the Scriptures, followeth the promptings of desire, attaineth not to perfection, nor happiness, nor the highest goal.		यःशास्त्रविधिमुत्सृज्यवर्ततेकामकारतः~।नससिद्धिमवाप्नोतिनसुखंनपरांगतिम्~॥ २३ ॥	12
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	शास्त्रविधिमुत्सृज्य	शास्त्र-विधिम्scripture-ordinanceउत्सृज्यhaving given up	शास्त्रfirst part of a compoundan order; command; precept; ruleविधिम्  (विधि)noun, masculine accusative singulara rule; formula; injunction; ordinanceउत्सृज्य  (उत्सृज्)absolutive (having ...)to let loose; to let off or go; to set free; to open
+T	वर्तते	वर्ततेabides	वर्तते  (वृत्)verb: present 3rd person singularto turn; to turn round; to revolve; to roll
+T	कामकारतः	कामकारतःfrom act of following one's	कामकारतः  (कामकार)noun, masculine ablative singularthe act of following one's own inclinations; spontaneous deed; voluntary action; acting of one's own free will
+T	न	नnot	नparticlenot; no; nor; neither
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	सिद्धिमवाप्नोति	सिद्धिम्successअवाप्नोतिattains	सिद्धिम्  (सिद्धि)noun, feminine accusative singularaccomplishment; performance; fulfilment; complete attainment (of any object)अवाप्नोति  (अवाप्)verb: present 3rd person singularto reach; to attain; to obtain; to gain
+T	न	नnot	नparticlenot; no; nor; neither
+T	सुखं	सुखम्happiness	सुखम्  (सुख)noun, neuter accusative singularease; easiness; comfort; prosperity
+T	न	नnot	नparticlenot; no; nor; neither
+T	परां	पराम्supreme	पराम्  (पर)pronoun, feminine accusative singularfar; remote; opposite; previous
+T	गतिम्	गतिम्goal	गतिम्  (गति)noun, feminine accusative singulargoing; moving; gait; deportment
+V	16.24		Therefore let the Scriptures be thy authority, in determining what ought to be done, or what ought not to be done. Knowing what hath beendeclared by the ordinances of the Scriptures, thou oughtest to work in this world.		तस्माच्छास्त्रंप्रमाणंतेकार्याकार्यव्यवस्थितौ~।ज्ञात्वाशास्त्रविधानोक्तंकर्मकर्तुमिहार्हसि~॥ २४ ॥	8
+T	तस्माच्छास्त्रं	तस्मात्thereforeशास्त्रम्scripture	तस्मात्adverbthereforeशास्त्रम्  (शास्त्र)noun, neuter nominative singularan order; command; precept; rule
+T	प्रमाणं	प्रमाणम्measure	प्रमाणम्  (प्रमाण)noun, neuter nominative singularmeasure; scale; standard; measure of any kind (as size)
+T	ते	तेyour	ते  (त्वद्)pronoun, genitive singularyou
+T	कार्याकार्यव्यवस्थितौ	कार्य-अकार्य-व्यवस्थितौin duty-wrong action-staying	कार्यfirst part of a compoundwork or business to be done; duty; affair; a religious action or performanceअकार्यfirst part of a compoundcriminal actionव्यवस्थितौ  (व्यवस्थिति)noun, feminine locative singularstaying; stay; position
+T	ज्ञात्वा	ज्ञात्वाhaving known	ज्ञात्वा  (ज्ञा)absolutive (having ...)to know; to have knowledge; to become acquainted with; to perceive
+T	शास्त्रविधानोक्तं	शास्त्र-विधान-उक्तम्scripture-order-said	शास्त्रfirst part of a compoundan order; command; precept; ruleविधानfirst part of a compoundorder; measure; disposition; arrangementउक्तम्  (वच्)participle, neuter accusative singularto speak; to say; to tell; to declare
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	कर्तुमिहार्हसि	कर्तुम्to doइहhereअर्हसिyou ought	कर्तुम्  (कृ)infinitiveto make like or similar; to consider equivalent; to reduce anything to; to cause to becomeइहadverbin this place; here; to this place; in this worldअर्हसि  (अर्ह्)verb: present 2nd person singularto deserve; to merit; to be worthy of; to be allowed to
+V	17.1	Arjuna said:	Those that sacrifice full of faith, but casting aside the ordinances of the Scriptures, what is verily their condition, O Krishna? Is it one of Purity, Passion, or Darkness?	Shraddhâ.The three qualities, Sattva, Rajah, Tamah, are here used in their moral correspondences, and are therefore translated as Purity, Passion, and Darkness	अर्जुनउवाच~।येशास्त्रविधिमुत्सृज्ययजन्तेश्रद्धयाऽन्विताः~।तेषांनिष्ठातुकाकृष्णसत्त्वमाहोरजस्तमः~॥ १ ॥	13
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhat; which; who
+T	शास्त्रविधिमुत्सृज्य	शास्त्र-विधिम्scripture-ordinanceउत्सृज्यhaving given up	शास्त्रfirst part of a compoundan order; command; precept; ruleविधिम्  (विधि)noun, masculine accusative singulara rule; formula; injunction; ordinanceउत्सृज्य  (उत्सृज्)absolutive (having ...)to let loose; to let off or go; to set free; to open
+T	यजन्ते	यजन्तेsacrifice	यजन्ते  (यज्)verb: present 3rd person pluralto worship; to adore; to honour (esp. with sacrifice or oblations); to consecrate
+T	श्रद्धयाऽन्विताः	श्रद्धयाwith faithअन्विताःendowed with	श्रद्धया  (श्रद्धा)noun, feminine instrumental singularfaith; confidence; trustfulness; faithfulnessअन्विताः  (अन्वित)adjective, masculine nominative pluralgone along with; joined; attended; accompanied by
+T	तेषां	तेषाम्their	तेषाम्  (तद्)pronoun, masculine genitive pluralthis; gleicher
+T	निष्ठा	निष्ठाpath	निष्ठाnoun, feminine nominative singularstate; condition; position; firmness
+T	तु	तुbut	तुparticledo; now; then; but
+T	का	काwho	का  (क)pronoun, feminine nominative singularwho?; what?
+T	कृष्ण	कृष्णO Krishna	कृष्णnoun, masculine vocative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	सत्त्वमाहो	सत्त्वम्goodnessआहोuve!	सत्त्वम्  (सत्त्व)noun, neuter nominative singularbeing; existence; reality; true essenceआहोinterjectionuve!
+T	रजस्तमः	रजःpassionतमःdarkness	रजः  (रजस्)noun, neuter nominative singularthe sphere of vapour or mist; region of clouds; atmosphere; airतमः  (तमस्)noun, neuter nominative singulardarkness; gloom; the darkness of hell; hell or a particular division of hell

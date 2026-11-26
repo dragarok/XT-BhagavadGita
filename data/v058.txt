@@ -1,0 +1,87 @@
+V	10.3		He who knoweth Me, unborn, beginningless, the great Lord of the world, he among mortals without delusion, is liberated from all sin.		योमामजमनादिंचवेत्तिलोकमहेश्वरम्~।असम्मूढःसमर्त्येषुसर्वपापैःप्रमुच्यते~॥ ३ ॥	10
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	मामजमनादिं	माम्meअजम्unbornअनादिम्beginningless	माम्  (मद्)pronoun, accusative singularI; weअजम्  (अज)adjective, masculine accusative singularnot born; existing from all eternityअनादिम्  (अनादि)adjective, masculine accusative singularhaving no beginning; existing from eternity
+T	च	चand	चconjunctionand; both; also; moreover
+T	वेत्ति	वेत्तिknows	वेत्ति  (विद्)verb: present 3rd person singularto know; to understand; to learn; to be conscious of
+T	लोकमहेश्वरम्	लोक-महा-ईश्वरम्world-great-Lord	लोकfirst part of a compoundfree or open space; room; place; scopeमहा  (महत्)first part of a compound (adjective)great; large; big; hugeईश्वरम्  (ईश्वर)noun, masculine accusative singulara husband; God; the Supreme Being; king
+T	असम्मूढः	असंमूढःundeluded	असंमूढः  (असंमूढ)adjective, masculine nominative singularnot confused; deliberate
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	मर्त्येषु	मर्त्येषुin mortals	मर्त्येषु  (मर्त्य)noun, masculine locative plurala mortal; man; person; the world of mortals
+T	सर्वपापैः	सर्व-पापैःwith all-sins	सर्वfirst part of a compound (pronoun)whole; entire; all; everyपापैः  (पाप)noun, neuter instrumental pluralevil; misfortune; ill-luck; trouble
+T	प्रमुच्यते	प्रमुच्यतेis seted free	प्रमुच्यते  (प्रमुच्)verb: passive present 3rd person singularto set free; to let go; to liberate; to release from (abl.)
+V	10.4		Reason, wisdom, non-illusion, forgiveness, truth, self-restraint, calmness, pleasure, pain, existence, non-existence, fear, and also courage	Buddhi.	बुद्धिर्ज्ञानमसम्मोहःक्षमासत्यंदमःशमः~।सुखंदुःखंभवोऽभावोभयंचाभयमेवच~॥ ४ ॥	11
+T	बुद्धिर्ज्ञानमसम्मोहः	बुद्धिःintellectज्ञानम्knowledgeअसंमोहःcalmness	बुद्धिः  (बुद्धि)noun, feminine nominative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectज्ञानम्  (ज्ञान)noun, neuter nominative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)असंमोहः  (असंमोह)noun, masculine nominative singularcalmness; composure; deliberateness
+T	क्षमा	क्षमाforgiveness	क्षमाnoun, feminine nominative singularpatience; forbearance; indulgence (one of the sâmânyadharmâs i.e. an obligation to all castes); patience personified
+T	सत्यं	सत्यम्truth	सत्यम्  (सत्य)noun, neuter nominative singulartruth; sincerity; vow; dogma
+T	दमः	दमःself-control	दमः  (दम)noun, masculine nominative singularself-restraint; selfcontrol; self-command; taming
+T	शमः	शमःcalm	शमः  (शम)noun, masculine nominative singulartranquillity; rest; equanimity; quietism
+T	सुखं	सुखम्happiness	सुखम्  (सुख)noun, neuter nominative singularease; easiness; comfort; prosperity
+T	दुःखं	दुःखम्pain	दुःखम्  (दुःख)noun, neuter nominative singularuneasiness; pain; sorrow; trouble
+T	भवोऽभावो	भवःcoming info existenceअभावःnon-existence	भवः  (भव)noun, masculine nominative singularcoming info existence; birth; production; originअभावः  (अभाव)noun, masculine nominative singularnon-existence; nullity; absence; non-entity
+T	भयं	भयम्fear	भयम्  (भय)noun, neuter nominative singularfear; alarm; fear of; terror
+T	चाभयमेव	चandअभयम्fearlessnessएवindeed	चconjunctionand; both; also; moreoverअभयम्  (अभय)noun, neuter nominative singularabsence or removal of fear; peace; safety; securityएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+V	10.5		Harmlessness, equanimity, content, austerity, almsgiving, fame and obloquy are the various characteristics of beings issuing from Me.		अहिंसासमतातुष्टिस्तपोदानंयशोऽयशः~।भवन्तिभावाभूतानांमत्तएवपृथग्विधाः~॥ ५ ॥	11
+T	अहिंसा	अहिंसाnon-violence	अहिंसाnoun, feminine nominative singularnot injuring anything; harmlessness (one of the cardinal virtues of most Hindû sects); security; safeness
+T	समता	सम-ताequal-ifc. abstracta	समfirst part of a compound (pronoun)even; flat; level; parallelताnoun, feminine nominative singularifc. abstracta; name of Lakshmî
+T	तुष्टिस्तपो	तुष्टिःsatisfactionतपःausterity	तुष्टिः  (तुष्टि)noun, feminine nominative singularsatisfaction; contentment; name of a Kalâ of the moon; the plant vriddhiतपः  (तपस्)noun, neuter nominative singularwarmth; heat; pain; suffering
+T	दानं	दानम्giving	दानम्  (दान)noun, neuter nominative singularthe act of giving; giving in marriage; giving up; communicating
+T	यशोऽयशः	यशःfameअयशःnot fame	यशः  (यशस्)noun, neuter nominative singularbeautiful appearance; beauty; splendour; worthअnegative prefixnotnot; un-; in-यशः  (यशस्)noun, neuter nominative singularbeautiful appearance; beauty; splendour; worth
+T	भवन्ति	भवन्तिare	भवन्ति  (भू)verb: present 3rd person pluralto be; to become; to come into being; to happen
+T	भावा	भावाःstates	भावाः  (भाव)noun, masculine nominative pluralbecoming; being; existing; occurring
+T	भूतानां	भूतानाम्of beings	भूतानाम्  (भूत)noun, masculine genitive pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	मत्त	मत्तःfrom me	मत्तः  (मद्)pronoun, masculine ablative singularI; we
+T	एव	एवindeed	एवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	पृथग्विधाः	पृथग्विधाःdiverse	पृथग्विधाः  (पृथग्विध)adjective, masculine nominative pluralof distinct kinds; manifold; various; distinct from (abl.)
+V	10.6		The seven great Rishis, the ancient Four, and also the Manus, were born of My nature, and mind; of them this race was generated.	The four Kumaras, or Virgin Youths, the highest in the occult Hierarchy of this earth.The heads and legislators of a race.	महर्षयःसप्तपूर्वेचत्वारोमनवस्तथा~।मद्भावामानसाजातायेषांलोकइमाःप्रजाः~॥ ६ ॥	12
+T	महर्षयः	महा-ऋषयःgreat-sages	महा  (महत्)first part of a compound (adjective)great; large; big; hugeऋषयः  (ऋषि)noun, masculine nominative plurala singer of sacred hymns; an inspired poet or sage; any person who alone or with others invokes the deities in rhythmical speech or song of a sacred character
+T	सप्त	सप्तseven	सप्त  (सप्तन्)number, masculine nominative pluralseven
+T	पूर्वे	पूर्वेformer	पूर्वे  (पूर्व)pronoun, masculine nominative pluralbeing before or in front fore; first; eastern; to the east of (abl.)
+T	चत्वारो	चत्वारःfour	चत्वारः  (चतुर्)number, masculine nominative pluralfour
+T	मनवस्तथा	मनवःManusतथाlikewise	मनवः  (मनु)noun, masculine nominative pluralman; mankind; the Man par excellence or the representative man and father of the human race; thoughtतथाadverbin that manner; so; thus; yes
+T	मद्भावा	मद्-भावाःmy-states	मद्first part of a compound (pronoun)I; weभावाः  (भाव)noun, masculine nominative pluralbecoming; being; existing; occurring
+T	मानसा	मानसाःmind	मानसाः  (मानस)adjective, masculine nominative pluralbelonging to the spirit; mental; performed in thought; silent
+T	जाता	जाताःborn	जाताः  (जन्)participle, masculine nominative pluralto come into existence; to grow (as plants); to be born as; to be by birth or nature
+T	येषां	येषाम्whose	येषाम्  (यद्)pronoun, masculine genitive pluralwhat; which; who
+T	लोक	लोकेin world	लोके  (लोक)noun, masculine locative singularfree or open space; room; place; scope
+T	इमाः	इमाःthese	इमाः  (इदम्)pronoun, feminine nominative pluralthis; (near deictic pronoun in Vedic)
+T	प्रजाः	प्रजाःcreatures	प्रजाः  (प्रजा)noun, feminine nominative pluralprocreation; propagation; birth; offspring
+V	10.7		He who knows in essence that sovereignty and yoga of Mine, he is harmonised by unfaltering yoga; there is no doubt thereof.		एतांविभूतिंयोगंचममयोवेत्तितत्त्वतः~।सोऽविकम्पेनयोगेनयुज्यतेनात्रसंशयः~॥ ७ ॥	13
+T	एतां	एताम्this	एताम्  (एतद्)pronoun, feminine accusative singularthis
+T	विभूतिं	विभूतिम्glory	विभूतिम्  (विभूति)noun, feminine accusative singulardevelopment; multiplication; expansion; plenty
+T	योगं	योगम्yoga	योगम्  (योग)noun, masculine accusative singularthe act of yoking; joining; attaching; harnessing
+T	च	चand	चconjunctionand; both; also; moreover
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularI; we
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	वेत्ति	वेत्तिknows	वेत्ति  (विद्)verb: present 3rd person singularto know; to understand; to learn; to be conscious of
+T	तत्त्वतः	तत्त्वतःfrom truth	तत्त्वतः  (तत्त्व)noun, neuter ablative singulartrue or real state; truth; reality; (in phil.) a true principle
+T	सोऽविकम्पेन	सःheअविकम्पेनnot trembling	सः  (तद्)pronoun, masculine nominative singularthis; gleicherअविकम्पेन  (अविकम्प)adjective, masculine instrumental singularnot trembling; unshakable
+T	योगेन	योगेनwith yoga	योगेन  (योग)noun, masculine instrumental singularthe act of yoking; joining; attaching; harnessing
+T	युज्यते	युज्यतेis harmonized	युज्यते  (युज्)verb: passive present 3rd person singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	नात्र	नnotअत्रhere	नparticlenot; no; nor; neitherअत्रadverbin this matter; in this respect; in this place; here
+T	संशयः	संशयःdoubt	संशयः  (संशय)noun, masculine nominative singularlying down to rest or sleep; uncertainty; irresolution; hesitation
+V	10.8		I am the Generator of all; all evolves from Me; understanding thus, the wise adore Me in rapt emotion.		अहंसर्वस्यप्रभवोमत्तःसर्वंप्रवर्तते~।इतिमत्वाभजन्तेमांबुधाभावसमन्विताः~॥ ८ ॥	12
+T	अहं	अहम्I	अहम्  (मद्)pronoun, nominative singularI; we
+T	सर्वस्य	सर्वस्यall	सर्वस्य  (सर्व)pronoun, neuter genitive singularwhole; entire; all; every
+T	प्रभवो	प्रभवःorigin	प्रभवः  (प्रभव)noun, masculine nominative singularproduction; source; origin; cause of existence (as father or mother)
+T	मत्तः	मत्तःfrom me	मत्तः  (मद्)pronoun, masculine ablative singularI; we
+T	सर्वं	सर्वम्all	सर्वम्  (सर्व)pronoun, neuter nominative singularwhole; entire; all; every
+T	प्रवर्तते	प्रवर्ततेengages	प्रवर्तते  (प्रवृत्)verb: present 3rd person singularto roll or go onwards (as a carriage); to be set in motion or going; to set out; to depart
+T	इति	इतिthus	इतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	मत्वा	मत्वाhaving thought	मत्वा  (मन्)absolutive (having ...)to think; to believe; to imagine; to suppose
+T	भजन्ते	भजन्तेworship	भजन्ते  (भज्)verb: present 3rd person pluralto divide; to distribute; to allot or apportion to (dat. or gen.); to share with (instr.)
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	बुधा	बुधाःwise one	बुधाः  (बुध)adjective, masculine nominative pluralawaking; intelligent; clever; wise
+T	भावसमन्विताः	भाव-समन्विताःstate-connected	भावfirst part of a compoundbecoming; being; existing; occurringसमन्विताः  (समन्वित)adjective, masculine nominative pluralconnected or associated with; completely possessed of; fully endowed with; possessing
+V	10.9		Mindful of Me, their life hidden in Me, illumining each other, ever conversing about Me, they are content and joyful.		मच्चित्तामद्गतप्राणाबोधयन्तःपरस्परम्~।कथयन्तश्चमांनित्यंतुष्यन्तिचरमन्तिच~॥ ९ ॥	11
+T	मच्चित्ता	मद्-चित्ताःmy-minds	मद्first part of a compound (pronoun)I; weचित्ताः  (चित्त)noun, masculine nominative pluralattending; observing; thinking; reflecting
+T	मद्गतप्राणा	मद्-गत-प्राणाःmy-gone-breaths	मद्first part of a compound (pronoun)I; weगत  (गम्)first part of a compound (verb)to go; to move; to approach; to understandप्राणाः  (प्राण)noun, masculine nominative pluralthe breath of life; breath; respiration; life
+T	बोधयन्तः	बोधयन्तःwaking up	बोधयन्तः  (बोधय्)present participle, masculine nominative pluralto wake up; to arouse; to restore to life or consciousness; to revive the scent (of a perfume)
+T	परस्परम्	परस्परम्mutual	परस्परम्  (परस्पर)pronoun, masculine accusative singularmutual; each other's; like one another
+T	कथयन्तश्च	कथयन्तःtellingचand	कथयन्तः  (कथय्)present participle, masculine nominative pluralto call; to name; to tell; to designateचconjunctionand; both; also; moreover
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	नित्यं	नित्यम्always	नित्यम्adverbalways
+T	तुष्यन्ति	तुष्यन्तिare pleased	तुष्यन्ति  (तुष्)verb: present 3rd person pluralto become calm; to be satisfied; to satisfy; to appease
+T	च	चand	चconjunctionand; both; also; moreover
+T	रमन्ति	रमन्तिdelight	रमन्ति  (रम्)verb: present 3rd person pluralto stop; to calm; to set at rest; to delight
+T	च	चand	चconjunctionand; both; also; moreover

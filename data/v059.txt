@@ -1,0 +1,71 @@
+V	10.10		To these, ever harmonious, worshipping in love, I give the yoga of discrimination by which they come unto Me.	Buddhi-Yoga.	तेषांसततयुक्तानांभजतांप्रीतिपूर्वकम्~।ददामिबुद्धियोगंतंयेनमामुपयान्तिते~॥ १० ॥	10
+T	तेषां	तेषाम्their	तेषाम्  (तद्)pronoun, masculine genitive pluralthis; gleicher
+T	सततयुक्तानां	सतत-युक्तानाम्constant-harmonized	सततfirst part of a compound (adjective)constant; perpetual; continualयुक्तानाम्  (युज्)participle, masculine genitive pluralto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	भजतां	भजताम्worshiping	भजताम्  (भज्)present participle, masculine genitive pluralto divide; to distribute; to allot or apportion to (dat. or gen.); to share with (instr.)
+T	प्रीतिपूर्वकम्	प्रीति-पूर्वकम्love-preceded by	प्रीतिfirst part of a compoundany pleasurable sensation; pleasure; joy; gladnessपूर्वकम्  (पूर्वक)adjective, neuter accusative singularearlier; previous; first
+T	ददामि	ददामिI give	ददामि  (दा)verb: present 1st person singularto give; to offer to; to yield; to give (a daughter) in marriage
+T	बुद्धियोगं	बुद्धि-योगम्intellect-yoga	बुद्धिfirst part of a compoundthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectयोगम्  (योग)noun, masculine accusative singularthe act of yoking; joining; attaching; harnessing
+T	तं	तम्him	तम्  (तद्)pronoun, masculine accusative singularthis; gleicher
+T	येन	येनby whom	येन  (यद्)pronoun, masculine instrumental singularwhat; which; who
+T	मामुपयान्ति	माम्meउपयान्तिcome up	माम्  (मद्)pronoun, accusative singularI; weउपयान्ति  (उपया)verb: present 3rd person pluralto come up; to come near; to go near or towards; to approach
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralthis; gleicher
+V	10.11		Out of pure compassion for them, dwelling within their Self, I destroy the ignorance-born darkness by the shining lamp of wisdom.		तेषामेवानुकम्पार्थमहमज्ञानजंतमः~।नाशयाम्यात्मभावस्थोज्ञानदीपेनभास्वता~॥ ११ ॥	5
+T	तेषामेवानुकम्पार्थमहमज्ञानजं	तेषाम्theirएवindeedअनुकम्पा-अर्थम्pity-purposeअहम्Iअज्ञान-जम्ignorance-born	तेषाम्  (तद्)pronoun, masculine genitive pluralthis; gleicherएवparticleso; just so; exactly so (in the sense of the later evam); indeedअनुकम्पाfirst part of a compoundpity; friendlinessअर्थम्  (अर्थ)noun, masculine accusative singularaim; purpose; cause; motiveअहम्  (मद्)pronoun, nominative singularI; weअज्ञानfirst part of a compoundnon-cognizance; ignorance; (in philosophy) spiritual ignorance; Prakritiजम्  (ज)adjective, neuter accusative singularifc. born or descended from; produced or caused by; born or produced in or at or upon; growing in
+T	तमः	तमःdarkness	तमः  (तमस्)noun, neuter accusative singulardarkness; gloom; the darkness of hell; hell or a particular division of hell
+T	नाशयाम्यात्मभावस्थो	नाशयामिI cause to be lostआत्म-भाव-स्थःself-state-abiding	नाशयामि  (नाशय्)verb: present 1st person singularto cause to be lost; to remove; to destroy; to loseआत्म  (आत्मन्)first part of a compoundthe breath; the soul; principle of life and sensation; the individual soulभावfirst part of a compoundbecoming; being; existing; occurringस्थः  (स्थ)adjective, masculine nominative singularstanding; staying; abiding; being situated in
+T	ज्ञानदीपेन	ज्ञान-दीपेनwith knowledge-light	ज्ञानfirst part of a compoundknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)दीपेन  (दीप)noun, masculine instrumental singulara light; lamp; lantern; name of a king
+T	भास्वता	भास्वताluminous	भास्वता  (भास्वत्)adjective, masculine instrumental singularluminous; splendid; shining
+V	10.12	Arjuna said:	Thou art the supreme Eternal, the supreme Abode, the supreme Purity, eternal divine man, primeval Deity, unborn, the Lord!		अर्जुनउवाच~।परंब्रह्मपरंधामपवित्रंपरमंभवान्~।पुरुषंशाश्वतंदिव्यमादिदेवमजंविभुम्~॥ १२ ॥	13
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	परं	परम्supreme	परम्  (पर)pronoun, neuter nominative singularfar; remote; opposite; previous
+T	ब्रह्म	ब्रह्मBrahman	ब्रह्म  (ब्रह्मन्)noun, neuter nominative singularpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	परं	परम्supreme	परम्  (पर)pronoun, neuter nominative singularfar; remote; opposite; previous
+T	धाम	धामabode	धाम  (धामन्)noun, neuter nominative singulardwelling-place; house; abode; domain (esp. seat of the gods)
+T	पवित्रं	पवित्रम्purifier	पवित्रम्  (पवित्र)noun, neuter nominative singulara means of purification; filter; strainer; Kusha grass
+T	परमं	परमम्supreme	परमम्  (परम)adjective, neuter nominative singularremotest; extreme; last; chief
+T	भवान्	भवान्you, sir	भवान्  (भवत्)adjective, masculine nominative singularyour honour; your worship; your lordship or ladyship; you (lit. "the gentleman or lady present")
+T	पुरुषं	पुरुषम्person	पुरुषम्  (पुरुष)noun, masculine accusative singulara man; male; human being (people); a person
+T	शाश्वतं	शाश्वतम्everlasting	शाश्वतम्  (शाश्वत)adjective, masculine accusative singulareternal; constant; perpetual; all
+T	दिव्यमादिदेवमजं	दिव्यम्divineआदिदेवम्Brahmanअजम्unborn	दिव्यम्  (दिव्य)adjective, masculine accusative singulardivine; heavenly; celestial; supernaturalआदिदेवम्  (आदिदेव)noun, masculine accusative singularname of Brahman; Vishnu; Shiva; Ganeshaअजम्  (अज)adjective, masculine accusative singularnot born; existing from all eternity
+T	विभुम्	विभुम्bestowing richly	विभुम्  (विभु)adjective, masculine accusative singularbestowing richly; liberal; mighty
+V	10.13		All the Rishis have thus acclaimed Thee, as also the divine Rishi, Nârada; so Asita, Devala, and Vyâsa; and now Thou Thyself tellest it me.		आहुस्त्वामृषयःसर्वेदेवर्षिर्नारदस्तथा~।असितोदेवलोव्यासःस्वयंचैवब्रवीषिमे~॥ १३ ॥	10
+T	आहुस्त्वामृषयः	आहुःsaidत्वाम्youऋषयःsages	आहुः  (अह्)verb: perfect 3rd person pluralto say; to call; to consider; to declareत्वाम्  (त्वद्)pronoun, accusative singularyouऋषयः  (ऋषि)noun, masculine nominative plurala singer of sacred hymns; an inspired poet or sage; any person who alone or with others invokes the deities in rhythmical speech or song of a sacred character
+T	सर्वे	सर्वेall	सर्वे  (सर्व)pronoun, masculine nominative pluralwhole; entire; all; every
+T	देवर्षिर्नारदस्तथा	देव-ऋषिःgod-sageनारदःRishiतथाlikewise	देवfirst part of a compounda deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining onesऋषिः  (ऋषि)noun, masculine nominative singulara singer of sacred hymns; an inspired poet or sage; any person who alone or with others invokes the deities in rhythmical speech or song of a sacred characterनारदः  (नारद)noun, masculine nominative singularname of a Rishi; name of a son of Vishvâmitra; name of one of the 24 mythic. Buddhas; name of several menतथाadverbin that manner; so; thus; yes
+T	असितो	असितःpoisonous animal	असितः  (असित)noun, masculine nominative singulara poisonous animal (said to be a kind of mouse); name of the lord of darkness and magic; name of a descendant of Kashyapa; name of a man
+T	देवलो	देवलःattendant upon an idol	देवलः  (देवल)noun, masculine nominative singularan attendant upon an idol (who subsists on the offerings made to it); a virtuous or pious man; name of a descendant of Kashyapa; name of Asita or a son of âsita
+T	व्यासः	व्यासःVyasa	व्यासः  (व्यास)noun, masculine nominative singularsevering; separation; division; a kind of drawl (as a fault in pronunciation)
+T	स्वयं	स्वयम्oneself	स्वयम्adverbself; one's self (applicable to all persons); of or by one's self spontaneously; voluntarily
+T	चैव	चandएवindeed	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	ब्रवीषि	ब्रवीषिyou tell	ब्रवीषि  (ब्रू)verb: present 2nd person singularto speak; to say; to tell; to speak about any person or thing (acc. with or without prati)
+T	मे	मेfor me	मे  (मद्)pronoun, dative singularI; we
+V	10.14		All this I believe true that Thou sayest to me, O Keshava. Thy manifestation, O Blessed Lord, neither Shining Ones nor Dânavas comprehend.	Demigods, in the Greek sense.	सर्वमेतदृतंमन्येयन्मांवदसिकेशव~।नहितेभगवन्व्यक्तिंविदुर्देवानदानवाः~॥ १४ ॥	12
+T	सर्वमेतदृतं	सर्वम्allएतत्thisऋतम्oath	सर्वम्  (सर्व)pronoun, neuter accusative singularwhole; entire; all; everyएतत्  (एतद्)pronoun, neuter accusative singularthisऋतम्  (ऋत)noun, neuter accusative singularoath; vow; truth personified (as an object of worship); water
+T	मन्ये	मन्येI think	मन्ये  (मन्)verb: present 1st person singularto think; to believe; to imagine; to suppose
+T	यन्मां	यत्whichमाम्me	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoमाम्  (मद्)pronoun, accusative singularI; we
+T	वदसि	वदसिyou speak	वदसि  (वद्)verb: present 2nd person singularto speak; to say; to tell; to talk with
+T	केशव	केशवO Keshava	केशवnoun, masculine vocative singularname of Vishnu or Krishna; name of the month Mârgashîrsha; Rottleria tinctoria; name of the author of a lexicon called Kalpadru
+T	न	नnot	नparticlenot; no; nor; neither
+T	हि	हिfor	हिparticlefor; because; on account of
+T	ते	तेyour	ते  (त्वद्)pronoun, genitive singularyou
+T	भगवन्व्यक्तिं	भगवन्O Lordव्यक्तिम्manifestation	भगवन्  (भगवन्त्)noun, masculine vocative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuव्यक्तिम्  (व्यक्ति)noun, feminine accusative singularvisible appearance or manifestation; becoming evident or known or public; specific appearance; distinctness
+T	विदुर्देवा	विदुःknewदेवाःgods	विदुः  (विद्)verb: perfect 3rd person pluralto know; to understand; to learn; to be conscious ofदेवाः  (देव)noun, masculine nominative plurala deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining ones
+T	न	नnot	नparticlenot; no; nor; neither
+T	दानवाः	दानवाःclasses of demons often	दानवाः  (दानव)noun, masculine nominative plurala class of demons often identified with the Daityas or Asuras and held to be implacable enemies of the gods or Devas
+V	10.15		Thyself indeed knowest Thyself by Thyself, O Purushottama; Source of beings, Lord of beings, Shining One of Shining Ones, Ruler of the world!		स्वयमेवात्मनाऽऽत्मानंवेत्थत्वंपुरुषोत्तम~।भूतभावनभूतेशदेवदेवजगत्पते~॥ १५ ॥	8
+T	स्वयमेवात्मनाऽऽत्मानं	स्वयम्oneselfएवindeedआत्मनाwith selfआत्मानम्self	स्वयम्adverbself; one's self (applicable to all persons); of or by one's self spontaneously; voluntarilyएवparticleso; just so; exactly so (in the sense of the later evam); indeedआत्मना  (आत्मन्)noun, masculine instrumental singularthe breath; the soul; principle of life and sensation; the individual soulआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	वेत्थ	वेत्थyou knew	वेत्थ  (विद्)verb: perfect 2nd person singularto know; to understand; to learn; to be conscious of
+T	त्वं	त्वम्you	त्वम्  (त्वद्)pronoun, nominative singularyou
+T	पुरुषोत्तम	पुरुषोत्तमO Supreme Person	पुरुषोत्तमnoun, masculine vocative singularthe highest being; Supreme spirit; name of Vishnu; name of Krishna
+T	भूतभावन	भूतभावनO Shiva	भूतभावनnoun, masculine vocative singularname of Shiva; name of Vishnu; name of Brahmâ
+T	भूतेश	भूतेशO Brahmâ	भूतेशnoun, masculine vocative singularname of Brahmâ; name of the sun; name of Shiva; name of Krishna
+T	देवदेव	देवदेवO Brahmâ	देवदेवnoun, masculine vocative singularname of Brahmâ; name of Rudra-Shiva; name of Vishnu-Krishna; name of Ganesha
+T	जगत्पते	जगत्पतेO lord of the world	जगत्पते  (जगत्पति)noun, masculine vocative singularthe lord of the world; Brahmâ; Shiva; Vishnu or Krishna
+V	10.16		Deign to tell without reserve of Thine own divine glories, by which glories Thou remainest, pervading these worlds.		वक्तुमर्हस्यशेषेणदिव्याह्यात्मविभूतयः~।याभिर्विभूतिभिर्लोकानिमांस्त्वंव्याप्यतिष्ठसि~॥ १६ ॥	6
+T	वक्तुमर्हस्यशेषेण	वक्तुम्to sayअर्हसिyou oughtअशेषेणcompletely	वक्तुम्  (वच्)infinitiveto speak; to say; to tell; to declareअर्हसि  (अर्ह्)verb: present 2nd person singularto deserve; to merit; to be worthy of; to be allowed toअशेषेणadverbwholly; totally
+T	दिव्या	दिव्याःdivine	दिव्याः  (दिव्य)adjective, feminine nominative pluraldivine; heavenly; celestial; supernatural
+T	ह्यात्मविभूतयः	हिforआत्म-विभूतयःself-glories	हिparticlefor; because; on account ofआत्म  (आत्मन्)first part of a compoundthe breath; the soul; principle of life and sensation; the individual soulविभूतयः  (विभूति)noun, feminine nominative pluraldevelopment; multiplication; expansion; plenty
+T	याभिर्विभूतिभिर्लोकानिमांस्त्वं	याभिःby whomविभूतिभिःwith gloriesलोकान्worldsइमान्theseत्वम्you	याभिः  (यद्)pronoun, feminine instrumental pluralwhat; which; whoविभूतिभिः  (विभूति)noun, feminine instrumental pluraldevelopment; multiplication; expansion; plentyलोकान्  (लोक)noun, masculine accusative pluralfree or open space; room; place; scopeइमान्  (इदम्)pronoun, masculine accusative pluralthis; (near deictic pronoun in Vedic)त्वम्  (त्वद्)pronoun, nominative singularyou
+T	व्याप्य	व्याप्यhaving reached	व्याप्य  (व्याप्)absolutive (having ...)to reach or spread through; to pervade; to permeate; to cover
+T	तिष्ठसि	तिष्ठसिyou stand	तिष्ठसि  (स्था)verb: present 2nd person singularto stand; to station one's self; to get upon; to stay

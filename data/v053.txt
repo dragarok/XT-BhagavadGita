@@ -1,0 +1,72 @@
+V	9.3		Men without faith in this knowledge, O Parantapa, not reaching Me, return to the paths of this world of death.	Dharma.	अश्रद्दधानाःपुरुषाधर्मस्यास्यपरन्तप~।अप्राप्यमांनिवर्तन्तेमृत्युसंसारवर्त्मनि~॥ ३ ॥	8
+T	अश्रद्दधानाः	अश्रद्दधानाःnot faithing	अnegative prefixnotnot; un-; in-श्रद्दधानाः  (श्रद्धा)present participle, masculine nominative pluralto have faith or faithfulness; to have belief or confidence; to believe; to be true or trustful
+T	पुरुषा	पुरुषाःpeople	पुरुषाः  (पुरुष)noun, masculine nominative plurala man; male; human being (people); a person
+T	धर्मस्यास्य	धर्मस्यof dharmaअस्यof this	धर्मस्य  (धर्म)noun, masculine genitive singularthat which is established or firm; steadfast decree; statute; ordinanceअस्य  (इदम्)pronoun, masculine genitive singularthis; (near deictic pronoun in Vedic)
+T	परन्तप	परंतपO scorcher of foes	परंतपadjective, masculine vocative singulardestroying foes (said of heroes)
+T	अप्राप्य	अप्राप्यnot having attained	अnegative prefixnotnot; un-; in-प्राप्य  (प्राप्)absolutive (having ...)to attain to; to reach; to arrive at; to meet with
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	निवर्तन्ते	निवर्तन्तेturn back	निवर्तन्ते  (निवृत्)verb: present 3rd person pluralto turn back; to stop (trans. and intrans.); to return from (abl.) to; to return into life
+T	मृत्युसंसारवर्त्मनि	मृत्यु-संसार-वर्त्मनिin death-worldly existence-path	मृत्युfirst part of a compounddeath; dying; Death personified; the god of disease (sometimes identified with Yama or with Vishnu)संसारfirst part of a compoundgoing or wandering through; undergoing transmigration; course; passageवर्त्मनि  (वर्त्मन्)noun, neuter locative singularthe track or rut of a wheel; path; road; way
+V	9.4		By Me all this world is pervaded in My unmanifested aspect; all beings have root in Me, I am not rooted in them.		मयाततमिदंसर्वंजगदव्यक्तमूर्तिना~।मत्स्थानिसर्वभूतानिनचाहंतेष्ववस्थितः~॥ ४ ॥	9
+T	मया	मयाby me	मया  (मद्)pronoun, instrumental singularI; we
+T	ततमिदं	ततम्pervadedइदम्this	ततम्  (तन्)participle, neuter nominative singularto extend; to spread; to be diffused (as light) over; to shineइदम्pronoun, neuter nominative singularthis; (near deictic pronoun in Vedic)
+T	सर्वं	सर्वम्all	सर्वम्  (सर्व)pronoun, neuter nominative singularwhole; entire; all; every
+T	जगदव्यक्तमूर्तिना	जगत्worldअव्यक्त-मूर्तिनाwith unmanifest-form	जगत्  (जगन्त्)noun, neuter nominative singularthat which is alive; men and animals; the world; peopleअव्यक्तfirst part of a compound (adjective)undeveloped; not manifest; unapparent; indistinctमूर्तिना  (मूर्ति)noun, masculine instrumental singularany solid body or material form; embodiment; manifestation; incarnation
+T	मत्स्थानि	मद्-स्थानिmy-abiding	मद्first part of a compound (pronoun)I; weस्थानि  (स्थ)adjective, neuter nominative pluralstanding; staying; abiding; being situated in
+T	सर्वभूतानि	सर्व-भूतानिall-beings	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतानि  (भूत)noun, neuter nominative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	न	नnot	नparticlenot; no; nor; neither
+T	चाहं	चandअहम्I	चconjunctionand; both; also; moreoverअहम्  (मद्)pronoun, nominative singularI; we
+T	तेष्ववस्थितः	तेषुin thoseअवस्थितःsituated	तेषु  (तद्)pronoun, neuter locative pluralthis; gleicherअवस्थितः  (अवस्था)participle, masculine nominative singularto reach down to; to remain standing; to be separated from; to abide
+V	9.5		Nor have beings root in Me; behold My sovereign Yoga! The support of beings, yet not rooted in beings, My Self their efficient cause.		नचमत्स्थानिभूतानिपश्यमेयोगमैश्वरम्~।भूतभृन्नचभूतस्थोममात्माभूतभावनः~॥ ५ ॥	12
+T	न	नnot	नparticlenot; no; nor; neither
+T	च	चand	चconjunctionand; both; also; moreover
+T	मत्स्थानि	मद्-स्थानिmy-abiding	मद्first part of a compound (pronoun)I; weस्थानि  (स्थ)adjective, neuter nominative pluralstanding; staying; abiding; being situated in
+T	भूतानि	भूतानिbeings	भूतानि  (भूत)noun, neuter nominative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	पश्य	पश्यsee!	पश्य  (पश्)verb: present imperative 2nd person singularto see; to see with the spiritual eye; to compose; to consider
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	योगमैश्वरम्	योगम्yogaऐश्वरम्sovereign	योगम्  (योग)noun, masculine accusative singularthe act of yoking; joining; attaching; harnessingऐश्वरम्  (ऐश्वर)adjective, masculine accusative singularrelating to or coming from a mighty lord or king; mighty; majestic; belonging to or coming from Shiva
+T	भूतभृन्न	भूत-भृत्being-bearingनnot	भूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personभृत्adjective, masculine nominative singularbearing; carrying; bringing; procuringनparticlenot; no; nor; neither
+T	च	चand	चconjunctionand; both; also; moreover
+T	भूतस्थो	भूत-स्थःbeing-abiding	भूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personस्थः  (स्थ)adjective, masculine nominative singularstanding; staying; abiding; being situated in
+T	ममात्मा	ममmyआत्माself	मम  (मद्)pronoun, genitive singularI; weआत्मा  (आत्मन्)noun, masculine nominative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	भूतभावनः	भूत-भावनःsource of beings	भूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personभावनः  (भावन)adjective, masculine nominative singularcausing to be; effecting; producing; displaying
+V	9.6		As the mighty air everywhere moving is rooted in the Ether, so all beings rest rooted in Me - thus know thou.	Akâsha.	यथाऽऽकाशस्थितोनित्यंवायुःसर्वत्रगोमहान्~।तथासर्वाणिभूतानिमत्स्थानीत्युपधारय~॥ ६ ॥	9
+T	यथाऽऽकाशस्थितो	यथाasआकाश-स्थितःspace-stood	यथाparticleaccording; as; likeआकाशfirst part of a compounda free or open space; vacuity; the ether; sky or atmosphereस्थितः  (स्था)participle, masculine nominative singularto stand; to station one's self; to get upon; to stay
+T	नित्यं	नित्यम्always	नित्यम्adverbalways
+T	वायुः	वायुःwind	वायुः  (वायु)noun, masculine nominative singularwind; air (as one of the 5 elements); the god of the wind; breathing
+T	सर्वत्रगो	सर्वत्रगःall-pervading	सर्वत्रगः  (सर्वत्रग)adjective, masculine nominative singularall-pervading; omnipresent
+T	महान्	महान्great	महान्  (महत्)adjective, masculine nominative singulargreat; large; big; huge
+T	तथा	तथाlikewise	तथाadverbin that manner; so; thus; yes
+T	सर्वाणि	सर्वाणिall	सर्वाणि  (सर्व)pronoun, neuter nominative pluralwhole; entire; all; every
+T	भूतानि	भूतानिbeings	भूतानि  (भूत)noun, neuter nominative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	मत्स्थानीत्युपधारय	मद्-स्थानिmy-abidingइतिthusउपधारयhold up!	मद्first part of a compound (pronoun)I; weस्थानि  (स्थ)adjective, neuter nominative pluralstanding; staying; abiding; being situated inइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soउपधारय  (उपधारय्)verb: present imperative 2nd person singularto hold up; to support; to bear; to hold as
+V	9.7		All beings, O Kaunteya, enter my lower nature at the end of a world-age; at the beginning of a world-age again I emanate them.	Prakriti.Kalpa, a period of activity, of manifestation.Kalpa, a period of activity, of manifestation.	सर्वभूतानिकौन्तेयप्रकृतिंयान्तिमामिकाम्~।कल्पक्षयेपुनस्तानिकल्पादौविसृजाम्यहम्~॥ ७ ॥	9
+T	सर्वभूतानि	सर्व-भूतानिall-beings	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतानि  (भूत)noun, neuter nominative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	प्रकृतिं	प्रकृतिम्nature	प्रकृतिम्  (प्रकृति)noun, feminine accusative singularthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; origin
+T	यान्ति	यान्तिgo	यान्ति  (या)verb: present 3rd person pluralto go; to move; to set out; to travel
+T	मामिकाम्	मामिकाम्mine	मामिकाम्  (मामक)adjective, feminine accusative singularmine
+T	कल्पक्षये	कल्प-क्षयेin law-destruction	कल्पfirst part of a compoundlaw; rule; practice; alternativeक्षये  (क्षय)noun, masculine locative singularloss; waste; wane; diminution
+T	पुनस्तानि	पुनःagainतानिthose	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and againतानि  (तद्)pronoun, neuter accusative pluralthis; gleicher
+T	कल्पादौ	कल्प-आदौin law-beginning	कल्पfirst part of a compoundlaw; rule; practice; alternativeआदौ  (आदि)noun, masculine locative singularbeginning; commencement; a firstling; first-fruits
+T	विसृजाम्यहम्	विसृजामिI cast asideअहम्I	विसृजामि  (विसृज्)verb: present 1st person singularto send or pour forth; to let go or run or flow; to discharge; to emitअहम्  (मद्)pronoun, nominative singularI; we
+V	9.8		Hidden in Nature, which is mine own, I emanate again and again all this multitude of beings, helpless, by the force of Nature.	Prakriti.Prakriti.	प्रकृतिंस्वामवष्टभ्यविसृजामिपुनःपुनः~।भूतग्राममिमंकृत्स्नमवशंप्रकृतेर्वशात्~॥ ८ ॥	8
+T	प्रकृतिं	प्रकृतिम्nature	प्रकृतिम्  (प्रकृति)noun, feminine accusative singularthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; origin
+T	स्वामवष्टभ्य	स्वाम्ownअवष्टभ्यhaving leaned	स्वाम्  (स्व)adjective, feminine accusative singularown; one's own; related; akinअवष्टभ्य  (अवष्टम्भ्)absolutive (having ...)to lean or rest upon; to bar; to barricade; to seize
+T	विसृजामि	विसृजामिI cast aside	विसृजामि  (विसृज्)verb: present 1st person singularto send or pour forth; to let go or run or flow; to discharge; to emit
+T	पुनः	पुनःagain	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and again
+T	पुनः	पुनःagain	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and again
+T	भूतग्राममिमं	भूत-ग्रामम्being-multitudeइमम्this	भूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personग्रामम्  (ग्राम)noun, masculine accusative singularan inhabited place; village; hamlet; the collective inhabitants of a placeइमम्  (इदम्)pronoun, masculine accusative singularthis; (near deictic pronoun in Vedic)
+T	कृत्स्नमवशं	कृत्स्नम्wholeअवशम्helpless	कृत्स्नम्  (कृत्स्न)adjective, masculine accusative singularall; whole; entireअवशम्  (अवश)adjective, masculine accusative singularunsubmissive to another's will; independent; unrestrained; free
+T	प्रकृतेर्वशात्	प्रकृतेःof natureवशात्from control	प्रकृतेः  (प्रकृति)noun, feminine genitive singularthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; originवशात्  (वश)noun, masculine ablative singularwill; wish; desire; authority
+V	9.9		Nor do these works bind me, O Dhananjaya, enthroned on high unattached to actions.		नचमांतानिकर्माणिनिबध्नन्तिधनञ्जय~।उदासीनवदासीनमसक्तंतेषुकर्मसु~॥ ९ ॥	10
+T	न	नnot	नparticlenot; no; nor; neither
+T	च	चand	चconjunctionand; both; also; moreover
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	तानि	तानिthose	तानि  (तद्)pronoun, neuter nominative pluralthis; gleicher
+T	कर्माणि	कर्माणिactions	कर्माणि  (कर्मन्)noun, neuter nominative pluralact; action; performance; business
+T	निबध्नन्ति	निबध्नन्तिbind	निबध्नन्ति  (निबन्ध्)verb: present 3rd person pluralto bind on; to tie; to fasten to; to enchain
+T	धनञ्जय	धनंजयO Dhananjaya	धनंजयnoun, masculine vocative singularArjunafire; a particular vital air supposed to nourish the body; Plumbago Zeylanica; name of Arjuna
+T	उदासीनवदासीनमसक्तं	उदासीन-वत्neutral-likeआसीनम्satअसक्तम्not clung	उदासीनfirst part of a compound (adjective)sitting apart; indifferent; free from affection; inertवत्adverb(Vergleichspartikel)आसीनम्  (आस्)participle, masculine accusative singularto sit; to sit down; to rest; to lieअnegative prefixnotnot; un-; in-सक्तम्  (सञ्ज्)participle, masculine accusative singularto cling or stick or adhere to; to be attached to or engaged in or occupied with; to be attached or fastened; to adhere
+T	तेषु	तेषुin those	तेषु  (तद्)pronoun, neuter locative pluralthis; gleicher
+T	कर्मसु	कर्मसुin actions	कर्मसु  (कर्मन्)noun, neuter locative pluralact; action; performance; business

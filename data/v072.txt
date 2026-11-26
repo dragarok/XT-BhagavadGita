@@ -1,0 +1,73 @@
+V	11.46		Diademed, mace and discus in Thy hand. Again I fain would see Thee as before; Put on again Thy four-armed shape, O Lord, O thousand-armed, of forms innumerate.		किरीटिनंगदिनंचक्रहस्तमिच्छामित्वांद्रष्टुमहंतथैव~।तेनैवरूपेणचतुर्भुजेनसहस्रबाहोभवविश्वमूर्ते~॥ ४६ ॥	12
+T	किरीटिनं	किरीटिनम्crowned	किरीटिनम्  (किरीटिन्)adjective, masculine accusative singulardecorated with a diadem
+T	गदिनं	गदिनम्sick	गदिनम्  (गदिन्)adjective, masculine accusative singularsick; armed with a club (said of Krishna)
+T	चक्रहस्तमिच्छामि	चक्र-हस्तम्wheel-handइच्छामिI desire	चक्रfirst part of a compounda wheel; a potter's wheel; a discus; an oil-millहस्तम्  (हस्त)noun, masculine accusative singularthe hand; trunk (of an elephant); autograph; [astron.] name of a lunar mansionइच्छामि  (इष्)verb: present 1st person singularto seek for; to desire; to intend; to assent
+T	त्वां	त्वाम्you	त्वाम्  (त्वद्)pronoun, accusative singularyou
+T	द्रष्टुमहं	द्रष्टुम्to seeअहम्I	द्रष्टुम्  (दृश्)infinitiveto behold; to look at; to regard; to considerअहम्  (मद्)pronoun, nominative singularI; we
+T	तथैव	तथाlikewiseएवindeed	तथाadverbin that manner; so; thus; yesएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	तेनैव	तेनby thatएवindeed	तेन  (तद्)pronoun, neuter instrumental singularthis; gleicherएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	रूपेण	रूपेणwith form	रूपेण  (रूप)noun, neuter instrumental singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	चतुर्भुजेन	चतुर्-भुजेनwith four-arm	चतुः  (चतुर्)first part of a compound (number)fourभुजेन  (भुज)noun, neuter instrumental singularthe arm; the hand; the trunk of an elephant; a branch
+T	सहस्रबाहो	सहस्रबाहोO Shiva	सहस्रबाहो  (सहस्रबाहु)noun, masculine vocative singularname of Shiva; name of Arjuna; name of one of Skanda's attendants; name of the Asura Bâna
+T	भव	भवbe!	भव  (भू)verb: present imperative 2nd person singularto be; to become; to come into being; to happen
+T	विश्वमूर्ते	विश्वमूर्तेO kind of mixture	विश्वमूर्ते  (विश्वमूर्ति)noun, masculine vocative singulara kind of mixture; name of Vishnu; name of Shiva
+V	11.47	The Blessed Lord said:	Arjuna, by My favour thou hast seen, This loftiest Form by yoga's self revealed! Radiant, all-penetrating, endless, first, That none except thyself hath ever seen.		श्रीभगवानुवाच~।मयाप्रसन्नेनतवार्जुनेदम्रूपंपरंदर्शितमात्मयोगात्~।तेजोमयंविश्वमनन्तमाद्यम्यन्मेत्वदन्येननदृष्टपूर्वम्~॥ ४७ ॥	13
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	मया	मयाby me	मया  (मद्)pronoun, instrumental singularI; we
+T	प्रसन्नेन	प्रसन्नेनgracious	प्रसन्नेन  (प्रसद्)participle, masculine instrumental singularto fall into the power of (acc.); to settle down; to grow clear and bright; to become placid or tranquil (as the sea or sky)
+T	तवार्जुनेदम्	तवyourअर्जुनO Arjunaइदम्this	तव  (त्वद्)pronoun, genitive singularyouअर्जुनnoun, masculine vocative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a manइदम्pronoun, neuter nominative singularthis; (near deictic pronoun in Vedic)
+T	रूपं	रूपम्form	रूपम्  (रूप)noun, neuter nominative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	परं	परम्supreme	परम्  (पर)pronoun, neuter nominative singularfar; remote; opposite; previous
+T	दर्शितमात्मयोगात्	दर्शितम्showedआत्म-योगात्from self-yoga	दर्शितम्  (दर्शय्)participle, neuter nominative singularto prove; to demonstrate; to produce; to showआत्म  (आत्मन्)first part of a compoundthe breath; the soul; principle of life and sensation; the individual soulयोगात्  (योग)noun, masculine ablative singularthe act of yoking; joining; attaching; harnessing
+T	तेजोमयं	तेजः-मयम्splendour-made of	तेजः  (तेजस्)first part of a compoundthe sharp edge (of a knife etc.); point or top of a flame or ray; glow; glareमयम्  (मय)adjective, neuter nominative singularconsisting or made of
+T	विश्वमनन्तमाद्यम्	विश्वम्allअनन्तम्endlessआद्यम्primal	विश्वम्  (विश्व)adjective, neuter nominative singularall; every; every one; wholeअनन्तम्  (अनन्त)adjective, neuter nominative singularendless; boundless; eternal; infiniteआद्यम्  (आद्य)adjective, neuter nominative singularimmediately preceding (e.g. ekâdashâdya); earlier; older; being at the head
+T	यन्मे	यत्whichमेmy	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoमे  (मद्)pronoun, genitive singularI; we
+T	त्वदन्येन	त्वद्-अन्येनyour-other	त्वद्first part of a compound (pronoun)youअन्येन  (अन्य)pronoun, masculine instrumental singularother; another
+T	न	नnot	नparticlenot; no; nor; neither
+T	दृष्टपूर्वम्	दृष्ट-पूर्वम्seen-former	दृष्ट  (दृश्)first part of a compound (verb)to behold; to look at; to regard; to considerपूर्वम्  (पूर्व)pronoun, neuter nominative singularbeing before or in front fore; first; eastern; to the east of (abl.)
+V	11.48		Nor sacrifice, nor Vedas, alms, nor works, Nor sharp austerity, nor study deep, Can win the vision of this Form for man, Foremost of Kurus, thou alone hast seen.		नवेदयज्ञाध्ययनैर्नदानैर्नचक्रियाभिर्नतपोभिरुग्रैः~।एवंरूपःशक्यअहंनृलोकेद्रष्टुंत्वदन्येनकुरुप्रवीर~॥ ४८ ॥	13
+T	न	नnot	नparticlenot; no; nor; neither
+T	वेदयज्ञाध्ययनैर्न	वेद-यज्ञ-अध्ययनैःwith Veda-sacrifice-readingsनnot	वेदfirst part of a compoundknowledge; true or sacred knowledge or lore; knowledge of ritualयज्ञfirst part of a compoundworship; devotion; prayer; praiseअध्ययनैः  (अध्ययन)noun, neuter instrumental pluralreading; studyingनparticlenot; no; nor; neither
+T	दानैर्न	दानैःwith givingsनnot	दानैः  (दान)noun, neuter instrumental pluralthe act of giving; giving in marriage; giving up; communicatingनparticlenot; no; nor; neither
+T	च	चand	चconjunctionand; both; also; moreover
+T	क्रियाभिर्न	क्रियाभिःwith activitiesनnot	क्रियाभिः  (क्रिया)noun, feminine instrumental pluraldoing; performing; performance; occupation with (in comp.)नparticlenot; no; nor; neither
+T	तपोभिरुग्रैः	तपोभिःwith austeritiesउग्रैःfierce	तपोभिः  (तपस्)noun, neuter instrumental pluralwarmth; heat; pain; sufferingउग्रैः  (उग्र)adjective, neuter instrumental pluralpowerful; violent; mighty; impetuous
+T	एवंरूपः	एवंरूपःof such a form	एवंरूपः  (एवंरूप)adjective, masculine nominative singularof such a form or kind
+T	शक्य	शक्यpossible	शक्यadjective, masculine nominative singularable; possible; practicable; capable of being
+T	अहं	अहम्I	अहम्  (मद्)pronoun, nominative singularI; we
+T	नृलोके	नृ-लोकेin man-world	नृfirst part of a compoundman; people; human being; a heroलोके  (लोक)noun, masculine locative singularfree or open space; room; place; scope
+T	द्रष्टुं	द्रष्टुम्to see	द्रष्टुम्  (दृश्)infinitiveto behold; to look at; to regard; to consider
+T	त्वदन्येन	त्वद्-अन्येनyour-other	त्वद्first part of a compound (pronoun)youअन्येन  (अन्य)pronoun, masculine instrumental singularother; another
+T	कुरुप्रवीर	कुरु-प्रवीरO hero of the Kurus	कुरुfirst part of a compoundname of a people of India and of their country (situated near the country of the Pancâlas); = ritvijas (priests); = kartâras ("doers")प्रवीरnoun, masculine vocative singulara hero; prince; chief among (gen. or comp.); a person excellent or distinguished by (comp.)
+V	11.49		Be not bewildered, be thou not afraid, Because thou hast beheld this awful Form; Cast fear away, and let thy heart rejoice; Behold again Mine own familiar shape.		मातेव्यथामाचविमूढभावोदृष्ट्वारूपंघोरमीदृङ्ममेदम्~।व्यपेतभीःप्रीतमनाःपुनस्त्वम्तदेवमेरूपमिदंप्रपश्य~॥ ४९ ॥	16
+T	मा	माnot	माparticlenot
+T	ते	तेyour	ते  (त्वद्)pronoun, genitive singularyou
+T	व्यथा	व्यथाagitation	व्यथाnoun, feminine nominative singularagitation; perturbation; alarm; uneasiness
+T	मा	माnot	माparticlenot
+T	च	चand	चconjunctionand; both; also; moreover
+T	विमूढभावो	विमूढ-भावःbewildered-state	विमूढ  (विमुह्)first part of a compound (verb)to be confused; to become bewildered or stupefied; to faint awayभावः  (भाव)noun, masculine nominative singularbecoming; being; existing; occurring
+T	दृष्ट्वा	दृष्ट्वाhaving seen	दृष्ट्वा  (दृश्)absolutive (having ...)to behold; to look at; to regard; to consider
+T	रूपं	रूपम्form	रूपम्  (रूप)noun, neuter accusative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	घोरमीदृङ्ममेदम्	घोरम्terribleईदृश्endowed with suchममmyइदम्this	घोरम्  (घोर)adjective, neuter accusative singularvenerable; awful; terrific; dreadfulईदृश्adjective, neuter accusative singularendowed with such qualities; suchमम  (मद्)pronoun, genitive singularI; weइदम्pronoun, neuter accusative singularthis; (near deictic pronoun in Vedic)
+T	व्यपेतभीः	व्यपेत-भीःgone apart-fear	व्यपेत  (व्यपे)first part of a compound (verb)to go apart or asunder; to separate; to cease; to disappearभीः  (भी)noun, masculine nominative singularfear; apprehension; fright; alarm
+T	प्रीतमनाः	प्रीत-मनाःliked-mind	प्रीत  (प्री)first part of a compound (verb)to like; to love; to be kind to (acc.); to pleaseमनाः  (मनस्)noun, masculine nominative singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	पुनस्त्वम्	पुनःagainत्वम्you	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and againत्वम्  (त्वद्)pronoun, nominative singularyou
+T	तदेव	तत्thatएवindeed	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	रूपमिदं	रूपम्formइदम्this	रूपम्  (रूप)noun, neuter accusative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapesइदम्pronoun, neuter accusative singularthis; (near deictic pronoun in Vedic)
+T	प्रपश्य	प्रपश्यbehold!	प्रपश्य  (प्रपश्)verb: present imperative 2nd person singularto see before one's eyes; to look at; to observe; to behold
+V	11.50	Sanjaya said:	Vâsudeva, having thus spoken to Arjuna, again manifested His own Form, and consoled the terrified one, the Mahâtman again assuming a gentle form.		सञ्जयउवाच~।इत्यर्जुनंवासुदेवस्तथोक्त्वास्वकंरूपंदर्शयामासभूयः~।आश्वासयामासचभीतमेनम्भूत्वापुनःसौम्यवपुर्महात्मा~॥ ५० ॥	14
+T	सञ्जय	संजयःSanjaya	संजयः  (संजय)noun, masculine nominative singularconquest; victory; a kind of military array; name of a chief of the Yakshas
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	इत्यर्जुनं	इतिthusअर्जुनम्Arjuna	इतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soअर्जुनम्  (अर्जुन)noun, masculine accusative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	वासुदेवस्तथोक्त्वा	वासुदेवःVasudevaतथाlikewiseउक्त्वाhaving said	वासुदेवः  (वासुदेव)noun, masculine nominative singularpatr. of Krishna; name of a king of the Pundras; name of a class of beings peculiar to the Jainas; a horseतथाadverbin that manner; so; thus; yesउक्त्वा  (वच्)absolutive (having ...)to speak; to say; to tell; to declare
+T	स्वकं	स्वकम्one's own	स्वकम्  (स्वक)adjective, neuter accusative singularone's own
+T	रूपं	रूपम्form	रूपम्  (रूप)noun, neuter accusative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	दर्शयामास	दर्शयामासshowed	दर्शयामास  (दर्शय्)verb: perfect 3rd person singularto prove; to demonstrate; to produce; to show
+T	भूयः	भूयःagain	भूयः  (भूयस्)adverbagain; further; furthermore; in addition
+T	आश्वासयामास	आश्वासयामासencouraged	आश्वासयामास  (आश्वासय्)verb: perfect 3rd person singularto encourage; to comfort; to calm; to console
+T	च	चand	चconjunctionand; both; also; moreover
+T	भीतमेनम्	भीतम्fearedएनम्him	भीतम्  (भी)participle, masculine accusative singularto fear; to be afraid ofएनम्  (एनद्)pronoun, masculine accusative singularthis; (anaphoric pronoun in Vedic)
+T	भूत्वा	भूत्वाhaving been	भूत्वा  (भू)absolutive (having ...)to be; to become; to come into being; to happen
+T	पुनः	पुनःagain	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and again
+T	सौम्यवपुर्महात्मा	सौम्य-वपुःgentle-formमहात्माgreat-souled	सौम्यfirst part of a compound (adjective)relating to Soma; cool and moist; northern; placidवपुः  (वपुस्)noun, masculine nominative singularform; figure; a beautiful form or figure; wonderful appearanceमहात्मा  (महात्मन्)adjective, masculine nominative singularmagnanimous; having a great or noble nature; high-minded; noble

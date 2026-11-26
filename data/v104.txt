@@ -1,0 +1,77 @@
+V	18.48		Congenital duty, O son of Kunti, though defective, ought not to be abandoned. All undertakings indeed are clouded by defects as fire by smoke.	Karma.	सहजंकर्मकौन्तेयसदोषमपिनत्यजेत्~।सर्वारम्भाहिदोषेणधूमेनाग्निरिवावृताः~॥ ४८ ॥	10
+T	सहजं	सहजम्natural	सहजम्  (सहज)adjective, neuter accusative singularnaturalalways the same as from the beginning; born together; innate (<> yuktikrita); original
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	सदोषमपि	सwithदोषम्faultअपिalso	सadverb(ibc.) withदोषम्  (दोष)noun, neuter accusative singularfault; vice; deficiency; wantअपिparticlealso; moreover; besides; assuredly
+T	न	नnot	नparticlenot; no; nor; neither
+T	त्यजेत्	त्यजेत्should abandon	त्यजेत्  (त्यज्)verb: present optative 3rd person singularto leave; to abandon; to quit; to leave a place
+T	सर्वारम्भा	सर्व-आरम्भाःall-undertakings	सर्वfirst part of a compound (pronoun)whole; entire; all; everyआरम्भाः  (आरम्भ)noun, masculine nominative pluralundertaking; beginning; a thing begun; origin
+T	हि	हिfor	हिparticlefor; because; on account of
+T	दोषेण	दोषेणwith fault	दोषेण  (दोष)noun, masculine instrumental singularfault; vice; deficiency; want
+T	धूमेनाग्निरिवावृताः	धूमेनwith smokeअग्निःfireइवlikeआवृताःcovered	धूमेन  (धूम)noun, masculine instrumental singularsmoke; vapour; mist; smoke as a sternutatory (in 5 forms)अग्निः  (अग्नि)noun, masculine nominative singularfire; sacrificial fire (of three kinds); the number three; the god of fireइवparticlelike; in the same manner as (in this sense = yathâ); as it were; as ifआवृताः  (आवृ)participle, masculine nominative pluralto cover; to hide; to conceal; to surround
+V	18.49		He whose Reason is everywhere unattached, the self-subdued, dead to desires, he goeth by renunciation to the supreme perfection of freedom from obligation.	Buddhi.Karma.	असक्तबुद्धिःसर्वत्रजितात्माविगतस्पृहः~।नैष्कर्म्यसिद्धिंपरमांसंन्यासेनाधिगच्छति~॥ ४९ ॥	7
+T	असक्तबुद्धिः	असक्त-बुद्धिःnot clung-intellect	अnegative prefixnotnot; un-; in-सक्त  (सञ्ज्)first part of a compound (verb)to cling or stick or adhere to; to be attached to or engaged in or occupied with; to be attached or fastened; to adhereबुद्धिः  (बुद्धि)noun, masculine nominative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	सर्वत्र	सर्वत्रeverywhere	सर्वत्रadverbeverywhere; in every case; always; at all times
+T	जितात्मा	जित-आत्माconquered-self	जित  (जि)first part of a compound (verb)to win or aquire; to conquer (in a battle); to defeat; to surpassआत्मा  (आत्मन्)noun, masculine nominative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	विगतस्पृहः	विगत-स्पृहःgone away-longing	विगत  (विगम्)first part of a compound (verb)to go asunder; to sever; to separate; to go awayस्पृहः  (स्पृहा)noun, masculine nominative singulareager desire; desire; covetousness; envy
+T	नैष्कर्म्यसिद्धिं	नैष्कर्म्य-सिद्धिम्inactivity-success	नैष्कर्म्यfirst part of a compoundinactivity; abstinence or exemption from acts and their consequencesसिद्धिम्  (सिद्धि)noun, feminine accusative singularaccomplishment; performance; fulfilment; complete attainment (of any object)
+T	परमां	परमाम्supreme	परमाम्  (परम)adjective, feminine accusative singularremotest; extreme; last; chief
+T	संन्यासेनाधिगच्छति	संन्यासेनwith renunciationअधिगच्छतिattains	संन्यासेन  (संन्यास)noun, masculine instrumental singularputting or throwing down; laying aside; resignation; abandonment of (gen. or comp.)अधिगच्छति  (अधिगम्)verb: present 3rd person singularto go up to; to approach; to overtake; to approach for sexual intercourse
+V	18.50		How he who hath attained perfection obtaineth the Eternal, that highest state of wisdom, learn thou from Me only succinctly, O Kaunteya.		सिद्धिंप्राप्तोयथाब्रह्मतथाऽऽप्नोतिनिबोधमे~।समासेनैवकौन्तेयनिष्ठाज्ञानस्ययापरा~॥ ५० ॥	13
+T	सिद्धिं	सिद्धिम्success	सिद्धिम्  (सिद्धि)noun, feminine accusative singularaccomplishment; performance; fulfilment; complete attainment (of any object)
+T	प्राप्तो	प्राप्तःattained	प्राप्तः  (प्राप्)participle, masculine nominative singularto attain to; to reach; to arrive at; to meet with
+T	यथा	यथाas	यथाparticleaccording; as; like
+T	ब्रह्म	ब्रह्मBrahman	ब्रह्म  (ब्रह्मन्)noun, neuter accusative singularpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	तथाऽऽप्नोति	तथाlikewiseआप्नोतिobtains	तथाadverbin that manner; so; thus; yesआप्नोति  (आप्)verb: present 3rd person singularto reach; to overtake; to meet with; to fall upon
+T	निबोध	निबोधknow!	निबोध  (निबुध्)verb: present imperative 2nd person singularto learn or hear anything (acc.) from any one; to attend or listen to; to know; to understand
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	समासेनैव	समासेनbrieflyएवindeed	समासेनadverbconciselycollectively; in short; brieflyएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	निष्ठा	निष्ठाpath	निष्ठाnoun, feminine nominative singularstate; condition; position; firmness
+T	ज्ञानस्य	ज्ञानस्यof knowledge	ज्ञानस्य  (ज्ञान)noun, neuter genitive singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	या	याwho	या  (यद्)pronoun, feminine nominative singularwhat; which; who
+T	परा	पराsupreme	परा  (पर)pronoun, feminine nominative singularfar; remote; opposite; previous
+V	18.51		United to this Reason, purified, controlling the self by firmness, having abandoned sound and the other objects of the senses, having laid aside passion and malice,	Buddhi.	बुद्ध्याविशुद्धयायुक्तोधृत्याऽऽत्मानंनियस्यच~।शब्दादीन्विषयांस्त्यक्त्वारागद्वेषौव्युदस्यच~॥ ५१ ॥	10
+T	बुद्ध्या	बुद्ध्याwith intellect	बुद्ध्या  (बुद्धि)noun, feminine instrumental singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	विशुद्धया	विशुद्धयाbecome perfectly pure	विशुद्धया  (विशुध्)participle, feminine instrumental singularto become perfectly pure (esp. in ritual sense); to become clear (said of the senses); (in alg.) to remain naught
+T	युक्तो	युक्तःharmonized	युक्तः  (युज्)participle, masculine nominative singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	धृत्याऽऽत्मानं	धृत्यhaving heldआत्मानम्self	धृत्य  (धृ)absolutive (having ...)to hold; to bear; to carry; to maintainआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	नियस्य	नियम्यhaving controlled	नियम्य  (नियम्)absolutive (having ...)to stop (trans.); to hold back; to detain with; to stop (intrans.)
+T	च	चand	चconjunctionand; both; also; moreover
+T	शब्दादीन्विषयांस्त्यक्त्वा	शब्द-आदीन्sound-beginningsविषयान्sense-objectsत्यक्त्वाhaving abandoned	शब्दfirst part of a compoundnoise; voice; tone; noteआदीन्  (आदि)noun, masculine accusative pluralbeginning; commencement; a firstling; first-fruitsविषयान्  (विषय)noun, masculine accusative pluralsphere (of influence or activity); dominion; kingdom; territoryत्यक्त्वा  (त्यज्)absolutive (having ...)to leave; to abandon; to quit; to leave a place
+T	रागद्वेषौ	राग-द्वेषौpassion-hatreds	रागfirst part of a compoundthe act of colouring or dyeing; colour; hue; tintद्वेषौ  (द्वेष)noun, masculine accusative dualhatred; dislike; repugnance; enmity to (comp.)
+T	व्युदस्य	व्युदस्यhaving thrown about	व्युदस्य  (व्युदस्)absolutive (having ...)to throw about; to scatter; to discharge; to emit
+T	च	चand	चconjunctionand; both; also; moreover
+V	18.52		Dwelling in solitude, abstemious, speech, body and mind subdued, constantly fixed in meditation and yoga, taking refuge in dispassion,	Manah.Some read "dhyânayoga", Yoga of "meditation."	विविक्तसेवीलघ्वाशीयतवाक्कायमानसः~।ध्यानयोगपरोनित्यंवैराग्यंसमुपाश्रितः~॥ ५२ ॥	7
+T	विविक्तसेवी	विविक्त-सेवीseparation-going	विविक्तfirst part of a compoundseparation; solitude; a lonely place; clearnessसेवी  (सेविन्)adjective, masculine nominative singular(only ifc.) going or resorting to; frequenting; inhabiting; attending on
+T	लघ्वाशी	लघु-आशीlight-ifc. eating	लघुfirst part of a compound (adjective)light; swift; active; nimbleआशी  (आशिन्)adjective, masculine nominative singularifc. eating; consuming
+T	यतवाक्कायमानसः	यत-वाच्-काय-मानसःcontrolled-speech-body-mind	यत  (यम्)first part of a compound (verb)concentrateto sustain; to hold; to support; to raiseवाच्first part of a compoundspeechspeech; voice; talk; languageकायfirst part of a compoundbodythe body; the trunk of a tree; the body of a lute (the whole except the wires); assemblageमानसः  (मानस)noun, masculine nominative singularmindthe mental powers; mind; spirit; heart
+T	ध्यानयोगपरो	ध्यान-योग-परःmeditation-yoga-supreme	ध्यानfirst part of a compoundcontemplationmeditation; thought; reflection; profound and abstract religious meditationयोगfirst part of a compoundyogathe act of yoking; joining; attaching; harnessingपरः  (पर)pronoun, masculine nominative singulardevoted(p)far; remote; opposite; previous
+T	नित्यं	नित्यम्always	नित्यम्adverbalwaysalways
+T	वैराग्यं	वैराग्यम्dispassion	वैराग्यम्  (वैराग्य)noun, neuter accusative singularemotionlessnesschange or loss of colour; growing pale; disgust; aversion
+T	समुपाश्रितः	समुपाश्रितःleaned against	समुपाश्रितः  (समुपाश्रि)participle, masculine nominative singularto lean against; to resort to; to occupy one's self with
+V	18.53		Having cast aside egoism, violence, arrogance, desire, wrath, covetousness, selfless and peaceful - he is fit to become the Eternal.		अहङ्कारंबलंदर्पंकामंक्रोधंपरिग्रहम्~।विमुच्यनिर्ममःशान्तोब्रह्मभूयायकल्पते~॥ ५३ ॥	11
+T	अहङ्कारं	अहंकारम्egoism	अहंकारम्  (अहंकार)noun, masculine accusative singularself-consciousnessconception of one's individuality; self-consciousness; the making of self; thinking of self
+T	बलं	बलम्strength	बलम्  (बल)noun, neuter accusative singularviolencepower; strength; might; vigour
+T	दर्पं	दर्पम्pride	दर्पम्  (दर्प)noun, masculine accusative singulararrogancepride; arrogance; haughtiness; insolence
+T	कामं	कामम्desire	कामम्  (काम)noun, masculine accusative singularsexual desirewish; desire; longing; desire for
+T	क्रोधं	क्रोधम्anger	क्रोधम्  (क्रोध)noun, masculine accusative singularangeranger; wrath; passion; Anger (personified as a child of Lobha and Nikriti)
+T	परिग्रहम्	परिग्रहम्possession	परिग्रहम्  (परिग्रह)noun, masculine accusative singularpossessionlaying hold of on all sides; surrounding; enclosing; fencing round (esp. the Vedi or sacrificial altar by means of three lines or furrows)
+T	विमुच्य	विमुच्यhaving liberated	विमुच्य  (विमुच्)absolutive (having ...)to unloose; to unharness; to unyoke; to take off (clothes)
+T	निर्ममः	निर्ममःunpossessive	निर्ममः  (निर्मम)adjective, masculine nominative singularunselfish; free from all wordly connections; indifferent to
+T	शान्तो	शान्तःcalm	शान्तः  (शम्)participle, masculine nominative singularto toil at; to fatigue one's self; to arrange; to be quiet
+T	ब्रह्मभूयाय	ब्रह्म-भूयायfor Brahman-more	ब्रह्म  (ब्रह्मन्)first part of a compoundpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)भूयाय  (भूय)noun, neuter dative singularbecoming; being; the state of ...; Status
+T	कल्पते	कल्पतेis fitting	कल्पते  (क्ﾱप्)verb: present 3rd person singularsuitto be well ordered or regulated; to be well managed; to succeed; to bear suitable relation to anything
+V	18.54		Becoming the Eternal, serene in the Self, he neither grieveth nor desireth; the same to all beings, he obtaineth supreme devotion unto Me.		ब्रह्मभूतःप्रसन्नात्मानशोचतिनकाङ्क्षति~।समःसर्वेषुभूतेषुमद्भक्तिंलभतेपराम्~॥ ५४ ॥	12
+T	ब्रह्मभूतः	ब्रह्म-भूतःBrahman-been	ब्रह्म  (ब्रह्मन्)first part of a compoundpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)भूतः  (भू)participle, masculine nominative singularto be; to become; to come into being; to happen
+T	प्रसन्नात्मा	प्रसन्न-आत्माgracious-self	प्रसन्न  (प्रसद्)first part of a compound (verb)to fall into the power of (acc.); to settle down; to grow clear and bright; to become placid or tranquil (as the sea or sky)आत्मा  (आत्मन्)noun, masculine nominative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	न	नnot	नparticlenot; no; nor; neither
+T	शोचति	शोचतिgrieves	शोचति  (शुच्)verb: present 3rd person singularto shine; to gleam; to glow; to burn
+T	न	नnot	नparticlenot; no; nor; neither
+T	काङ्क्षति	काङ्क्षतिdesires	काङ्क्षति  (काङ्क्ष्)verb: present 3rd person singularto wish; to desire; to long for; to hope for (with acc.)
+T	समः	समःequal	समः  (सम)pronoun, masculine nominative singulareven; flat; level; parallel
+T	सर्वेषु	सर्वेषुall	सर्वेषु  (सर्व)pronoun, neuter locative pluralwhole; entire; all; every
+T	भूतेषु	भूतेषुin beings	भूतेषु  (भूत)noun, neuter locative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	मद्भक्तिं	मद्-भक्तिम्my-devotion	मद्first part of a compound (pronoun)I; weभक्तिम्  (भक्ति)noun, feminine accusative singulardistribution; partition; separation; a division
+T	लभते	लभतेobtains	लभते  (लभ्)verb: present 3rd person singularto take; to seize; to catch; to meet with
+T	पराम्	पराम्supreme	पराम्  (पर)pronoun, feminine accusative singularfar; remote; opposite; previous

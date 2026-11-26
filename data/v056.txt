@@ -1,0 +1,79 @@
+V	9.23		Even the devotees of other Shining Ones, who worship full of faith, they also worship Me, O son of Kuntî, though contrary to the ancient rule.		येऽप्यन्यदेवताभक्तायजन्तेश्रद्धयाऽन्विताः~।तेऽपिमामेवकौन्तेययजन्त्यविधिपूर्वकम्~॥ २३ ॥	7
+T	येऽप्यन्यदेवताभक्ता	येwhoअपिalsoअन्य-देवताःother-deitiesभक्ताःdevotees	ये  (यद्)pronoun, masculine nominative pluralwhat; which; whoअपिparticlealso; moreover; besides; assuredlyअन्यfirst part of a compound (pronoun)other; anotherदेवताः  (देवता)noun, feminine accusative pluralgodhead; divinity (abstr. & concr.); image of a deity; idolभक्ताः  (भक्त)noun, masculine nominative plurala worshipper; votary (esp. as name of a division of the Shâktas)
+T	यजन्ते	यजन्तेsacrifice	यजन्ते  (यज्)verb: present 3rd person pluralto worship; to adore; to honour (esp. with sacrifice or oblations); to consecrate
+T	श्रद्धयाऽन्विताः	श्रद्धयाwith faithअन्विताःendowed with	श्रद्धया  (श्रद्धा)noun, feminine instrumental singularfaith; confidence; trustfulness; faithfulnessअन्विताः  (अन्वित)adjective, masculine nominative pluralgone along with; joined; attended; accompanied by
+T	तेऽपि	तेtheyअपिalso	ते  (तद्)pronoun, masculine nominative pluralthis; gleicherअपिparticlealso; moreover; besides; assuredly
+T	मामेव	माम्meएवindeed	माम्  (मद्)pronoun, accusative singularI; weएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	यजन्त्यविधिपूर्वकम्	यजन्तिsacrificeअविधि-पूर्वकम्= "a-vidhana"-preceded by	यजन्ति  (यज्)verb: present 3rd person pluralto worship; to adore; to honour (esp. with sacrifice or oblations); to consecrateअविधिfirst part of a compound= "a-vidhana"पूर्वकम्  (पूर्वक)adjective, neuter accusative singularearlier; previous; first
+V	9.24		I am indeed the enjoyer of all sacrifices andalso the Lord, but they know Me not in Essence, and hence they fall.		अहंहिसर्वयज्ञानांभोक्ताचप्रभुरेवच~।नतुमामभिजानन्तितत्त्वेनातश्च्यवन्तिते~॥ २४ ॥	12
+T	अहं	अहम्I	अहम्  (मद्)pronoun, nominative singularI; we
+T	हि	हिfor	हिparticlefor; because; on account of
+T	सर्वयज्ञानां	सर्व-यज्ञानाम्of all-sacrifices	सर्वfirst part of a compound (pronoun)whole; entire; all; everyयज्ञानाम्  (यज्ञ)noun, masculine genitive pluralworship; devotion; prayer; praise
+T	भोक्ता	भोक्ताenjoyer	भोक्ता  (भोक्तृ)adjective, masculine nominative singularenjoying; eating
+T	च	चand	चconjunctionand; both; also; moreover
+T	प्रभुरेव	प्रभुःlordएवindeed	प्रभुः  (प्रभु)noun, masculine nominative singulara master; lord; king; the chief or leader of a sectएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+T	न	नnot	नparticlenot; no; nor; neither
+T	तु	तुbut	तुparticledo; now; then; but
+T	मामभिजानन्ति	माम्meअभिजानन्तिknow	माम्  (मद्)pronoun, accusative singularI; weअभिजानन्ति  (अभिज्ञा)verb: present 3rd person pluralto recognize; to perceive; to know; to be or become aware of
+T	तत्त्वेनातश्च्यवन्ति	तत्त्वेनwith truthअतःhenceच्यवन्तिmove to and fro	तत्त्वेन  (तत्त्व)noun, neuter instrumental singulartrue or real state; truth; reality; (in phil.) a true principleअतः  (अतस्)adverbfrom this; than this; hence; henceforthच्यवन्ति  (च्यु)verb: present 3rd person pluralto move to and fro; to shake about; to stir; to move from one's place
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralthis; gleicher
+V	9.25		They who worship the Shining Ones go to the Shining Ones; to the Ancestors go the Ancestor-worshippers; to the Elements go those who sacrifice to Elementals; but My worshippers come unto Me.	Pitris.Bhutas, Elementals or nature-spirits.	यान्तिदेवव्रतादेवान्पितॄन्यान्तिपितृव्रताः~।भूतानियान्तिभूतेज्यायान्तिमद्याजिनोऽपिमाम्~॥ २५ ॥	11
+T	यान्ति	यान्तिgo	यान्ति  (या)verb: present 3rd person pluralgoto go; to move; to set out; to travel
+T	देवव्रता	देव-व्रताःgod-vows	देवfirst part of a compoundDevaa deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining onesव्रताः  (व्रत)noun, masculine nominative pluralwill; command; law; ordinance
+T	देवान्	देवान्gods	देवान्  (देव)noun, masculine accusative pluralDevaa deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining ones
+T	पितॄन्यान्ति	पितॄन्fathersयान्तिgo	पितॄन्  (पितृ)noun, masculine accusative pluralPitria father; parents; the fathers; forefathersयान्ति  (या)verb: present 3rd person pluralgoto go; to move; to set out; to travel
+T	पितृव्रताः	पितृ-व्रताःfather-vows	पितृfirst part of a compoundPitria father; parents; the fathers; forefathersव्रताः  (व्रत)noun, masculine nominative pluralwill; command; law; ordinance
+T	भूतानि	भूतानिbeings	भूतानि  (भूत)noun, neuter accusative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	यान्ति	यान्तिgo	यान्ति  (या)verb: present 3rd person pluralto go; to move; to set out; to travel
+T	भूतेज्या	भूत-इज्याःbeing-sacrifices	भूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personइज्याः  (इज्या)noun, masculine nominative plurala sacrifice; making offerings to the gods or manes; a gift; donation
+T	यान्ति	यान्तिgo	यान्ति  (या)verb: present 3rd person pluralto go; to move; to set out; to travel
+T	मद्याजिनोऽपि	मद्-याजिनःmy-worshipperअपिalso	मद्first part of a compound (pronoun)I; weयाजिनः  (याजिन्)adjective, masculine nominative plural(mostly ifc.) worshipping; sacrificing; a sacrificerअपिparticlealso; moreover; besides; assuredly
+T	माम्	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+V	9.26		He who offereth to Me with devotion a leaf, a flower, a fruit, water, that I accept from the striving self, offered as it is with devotion.		पत्रंपुष्पंफलंतोयंयोमेभक्त्याप्रयच्छति~।तदहंभक्त्युपहृतमश्नामिप्रयतात्मनः~॥ २६ ॥	11
+T	पत्रं	पत्रम्leaf	पत्रम्  (पत्त्र)noun, neuter accusative singularthe wing of a bird; pinion; feather; the feather of an arrow
+T	पुष्पं	पुष्पम्flower	पुष्पम्  (पुष्प)noun, neuter accusative singulara flower; blossom; the menstrual flux; a particular disease of the eye
+T	फलं	फलम्fruit	फलम्  (फल)noun, neuter accusative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	तोयं	तोयम्water	तोयम्  (तोय)noun, neuter accusative singularwater; [min.] !!
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	मे	मेfor me	मे  (मद्)pronoun, dative singularI; we
+T	भक्त्या	भक्त्याwith devotion	भक्त्या  (भक्ति)noun, feminine instrumental singulardistribution; partition; separation; a division
+T	प्रयच्छति	प्रयच्छतिholds out towards	प्रयच्छति  (प्रयम्)verb: present 3rd person singularto hold out towards; to stretch forth; to extend; to place upon
+T	तदहं	तत्thatअहम्I	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherअहम्  (मद्)pronoun, nominative singularI; we
+T	भक्त्युपहृतमश्नामि	भक्ति-उपहृतम्devotion-brought nearअश्नामिI attain	भक्तिfirst part of a compounddistribution; partition; separation; a divisionउपहृतम्  (उपहृ)participle, neuter accusative singularto bring near; to reach forth; to proffer; to offerअश्नामि  (अश्)verb: present 1st person singularto eat; to consume
+T	प्रयतात्मनः	प्रयत-आत्मनःof held out towards-self	प्रयत  (प्रयम्)first part of a compound (verb)to hold out towards; to stretch forth; to extend; to place uponआत्मनः  (आत्मन्)noun, masculine genitive singularthe breath; the soul; principle of life and sensation; the individual soul
+V	9.27		Whatsoever thou doest, whatsoever thou eatest, whatsoever thou offerest, whatsoever thou givest, whatsoever thou doest of austerity, O Kaunteya, do thou that as an offering unto Me.		यत्करोषियदश्नासियज्जुहोषिददासियत्~।यत्तपस्यसिकौन्तेयतत्कुरुष्वमदर्पणम्~॥ २७ ॥	9
+T	यत्करोषि	यत्whichकरोषिyou do	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoकरोषि  (कृ)verb: present 2nd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	यदश्नासि	यत्whichअश्नासिyou attain	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoअश्नासि  (अश्)verb: present 2nd person singularto eat; to consume
+T	यज्जुहोषि	यत्whichजुहोषिyou offer	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoजुहोषि  (हु)verb: present 2nd person singularto sacrifice (esp. pour butter into the fire); to offer or present an oblation (acc. or gen.) to (dat.) or in; to sacrifice to
+T	ददासि	ददासिyou give	ददासि  (दा)verb: present 2nd person singularto give; to offer to; to yield; to give (a daughter) in marriage
+T	यत्	यत्which	यत्  (यद्)pronoun, neuter accusative singularwhat; which; who
+T	यत्तपस्यसि	यत्whichतपस्यसिyou practice austerities	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoतपस्यसि  (तपस्य्)verb: present 2nd person singularto practice austerities
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularArjunametron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	तत्कुरुष्व	तत्thatकुरुष्वdo!	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherकुरुष्व  (कृ)verb: present imperative 2nd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	मदर्पणम्	मद्-अर्पणम्my-inserting	मद्first part of a compound (pronoun)I; weअर्पणम्  (अर्पण)noun, neuter accusative singularinserting; fixing; piercing; placing in or upon
+V	9.28		Thus shalt thou be liberated from the bonds of action, yielding good and evil fruits; thyself harmonised by the yoga of renunciation, thou shalt come unto Me when set free.		शुभाशुभफलैरेवंमोक्ष्यसेकर्मबन्धनैः~।संन्यासयोगयुक्तात्माविमुक्तोमामुपैष्यसि~॥ २८ ॥	6
+T	शुभाशुभफलैरेवं	शुभ-अशुभ-फलैःwith auspicious-evil-fruitsएवम्thus	शुभfirst part of a compound (adjective)splendid; bright; beautiful; pleasantअशुभfirst part of a compound (adjective)not beautiful or agreeable; disagreeable; inauspicious; badफलैः  (फल)noun, neuter instrumental pluralfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalansएवम्adverbthus; in this way; in such a manner; such
+T	मोक्ष्यसे	मोक्ष्यसेyou will free	मोक्ष्यसे  (मुच्)verb: future 2nd person singularto loose; to let loose; to release; to liberate from
+T	कर्मबन्धनैः	कर्म-बन्धनैःwith action-acts of binding	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessबन्धनैः  (बन्धन)noun, neuter instrumental pluralthe act of binding; tying; fastening; fettering
+T	संन्यासयोगयुक्तात्मा	संन्यास-योग-युक्त-आत्माrenunciation-yoga-harmonized-self	संन्यासfirst part of a compoundputting or throwing down; laying aside; resignation; abandonment of (gen. or comp.)योगfirst part of a compoundthe act of yoking; joining; attaching; harnessingयुक्त  (युज्)first part of a compound (verb)to yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrangeआत्मा  (आत्मन्)noun, masculine nominative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	विमुक्तो	विमुक्तःliberated	विमुक्तः  (विमुच्)participle, masculine nominative singularto unloose; to unharness; to unyoke; to take off (clothes)
+T	मामुपैष्यसि	माम्meउपैष्यसिyou will come to	माम्  (मद्)pronoun, accusative singularI; weउपैष्यसि  (उपे)verb: future 2nd person singularto go or come or step near; to approach; to betake one's self to; to arrive at
+V	9.29		The same am I to all beings; there is none hateful to Me nor dear. They verily who worship Me with devotion, they are in Me, and I also in them.		समोऽहंसर्वभूतेषुनमेद्वेष्योऽस्तिनप्रियः~।येभजन्तितुमांभक्त्यामयितेतेषुचाप्यहम्~॥ २९ ॥	16
+T	समोऽहं	समःequalअहम्I	समः  (सम)pronoun, masculine nominative singulareven; flat; level; parallelअहम्  (मद्)pronoun, nominative singularI; we
+T	सर्वभूतेषु	सर्व-भूतेषुin all-beings	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतेषु  (भूत)noun, neuter locative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	न	नnot	नparticlenot; no; nor; neither
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	द्वेष्योऽस्ति	द्वेष्यःto be hatedअस्तिis	द्वेष्यः  (द्विष्)gerundive (to be ...), masculine nominative singularto hate; to show hatred against; to be hostile or unfriendly; to be a rival or a match forअस्ति  (अस्)verb: present 3rd person singularto be; to live; to exist; to be present
+T	न	नnot	नparticlenot; no; nor; neither
+T	प्रियः	प्रियःdear	प्रियः  (प्रिय)adjective, masculine nominative singularbeloved; dear to; liked; favourite
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhat; which; who
+T	भजन्ति	भजन्तिworship	भजन्ति  (भज्)verb: present 3rd person pluralto divide; to distribute; to allot or apportion to (dat. or gen.); to share with (instr.)
+T	तु	तुbut	तुparticledo; now; then; but
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	भक्त्या	भक्त्याwith devotion	भक्त्या  (भक्ति)noun, feminine instrumental singulardistribution; partition; separation; a division
+T	मयि	मयिin me	मयि  (मद्)pronoun, locative singularI; we
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralthis; gleicher
+T	तेषु	तेषुin them	तेषु  (तद्)pronoun, masculine locative pluralthis; gleicher
+T	चाप्यहम्	चandअपिalsoअहम्I	चconjunctionand; both; also; moreoverअपिparticlealso; moreover; besides; assuredlyअहम्  (मद्)pronoun, nominative singularI; we

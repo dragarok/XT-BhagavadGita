@@ -1,0 +1,71 @@
+V	10.17		How may I know thee, O Yogi, by constant meditation? In what, in what aspects art Thou to be thought of by me, O blessed Lord?		कथंविद्यामहंयोगिंस्त्वांसदापरिचिन्तयन्~।केषुकेषुचभावेषुचिन्त्योऽसिभगवन्मया~॥ १७ ॥	11
+T	कथं	कथम्how	कथम्adverbhow?
+T	विद्यामहं	विद्याम्I should knowअहम्I	विद्याम्  (विद्)verb: present optative 1st person singularto know; to understand; to learn; to be conscious ofअहम्  (मद्)pronoun, nominative singularI; we
+T	योगिंस्त्वां	योगिन्O yogiत्वाम्you	योगिन्noun, masculine vocative singulara follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; asceticत्वाम्  (त्वद्)pronoun, accusative singularyou
+T	सदा	सदाalways	सदाadverbalways; ever; every time; continually
+T	परिचिन्तयन्	परिचिन्तयन्thinking about	परिचिन्तयन्  (परिचिन्तय्)present participle, masculine nominative singularto think about; to meditate on; to reflect; to consider
+T	केषु	केषुin whom	केषु  (क)pronoun, masculine locative pluralwho?; what?
+T	केषु	केषुin whom	केषु  (क)pronoun, masculine locative pluralwho?; what?
+T	च	चand	चconjunctionand; both; also; moreover
+T	भावेषु	भावेषुin states	भावेषु  (भाव)noun, masculine locative pluralbecoming; being; existing; occurring
+T	चिन्त्योऽसि	चिन्त्यःto be thought ofअसिyou are	चिन्त्यः  (चिन्तय्)gerundive (to be ...), masculine nominative singularto think; to have a thought or idea; to reflect; to considerअसि  (अस्)verb: present 2nd person singularto be; to live; to exist; to be present
+T	भगवन्मया	भगवत्O Lordमयाby me	भगवत्  (भगवन्त्)noun, masculine vocative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuमया  (मद्)pronoun, instrumental singularI; we
+V	10.18		In detail tell me again of Thy yoga and glory, O Janardana; for me there is never satiety in hearing thy life-giving words.		विस्तरेणात्मनोयोगंविभूतिंचजनार्दन~।भूयःकथयतृप्तिर्हिशृण्वतोनास्तिमेऽमृतम्~॥ १८ ॥	11
+T	विस्तरेणात्मनो	विस्तरेणwith detailआत्मनःof self	विस्तरेण  (विस्तर)noun, masculine instrumental singularspreading; extension; expansion; prolixityआत्मनः  (आत्मन्)noun, masculine genitive singularthe breath; the soul; principle of life and sensation; the individual soul
+T	योगं	योगम्yoga	योगम्  (योग)noun, masculine accusative singularthe act of yoking; joining; attaching; harnessing
+T	विभूतिं	विभूतिम्glory	विभूतिम्  (विभूति)noun, feminine accusative singulardevelopment; multiplication; expansion; plenty
+T	च	चand	चconjunctionand; both; also; moreover
+T	जनार्दन	जनार्दनO Janardana	जनार्दनnoun, masculine vocative singularVishnu or Krishna; name of several men; name of a locality
+T	भूयः	भूयःagain	भूयः  (भूयस्)adverbagain; further; furthermore; in addition
+T	कथय	कथयtell!	कथय  (कथय्)verb: present imperative 2nd person singularto call; to name; to tell; to designate
+T	तृप्तिर्हि	तृप्तिःsatisfactionहिfor	तृप्तिः  (तृप्ति)noun, feminine nominative singularsatisfaction; disgustहिparticlefor; because; on account of
+T	शृण्वतो	शृण्वतःhearing	शृण्वतः  (श्रु)present participle, masculine genitive singularto hear; to listen to; to study
+T	नास्ति	नnotअस्तिis	नparticlenot; no; nor; neitherअस्ति  (अस्)verb: present 3rd person singularto be; to live; to exist; to be present
+T	मेऽमृतम्	मेmyअमृतम्immortal	मे  (मद्)pronoun, genitive singularI; weअमृतम्  (अमृत)noun, neuter accusative singularcollective body of immortals; world of immortality; heaven; eternity
+V	10.19	The Blessed Lord said:	Blessed be thou! I will declare to thee My divine glory by its chief characteristics, O best of the Kurus; there is no end to details of Me.		श्रीभगवानुवाच~।हन्ततेकथयिष्यामिदिव्याह्यात्मविभूतयः~।प्राधान्यतःकुरुश्रेष्ठनास्त्यन्तोविस्तरस्यमे~॥ १९ ॥	11
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	हन्त	हन्तwell now	हन्तinterjectionan exclamation or inceptive particle (expressive of an exhortation to do anything or asking attention); come!; well
+T	ते	तेfor you	ते  (त्वद्)pronoun, dative singularyou
+T	कथयिष्यामि	कथयिष्यामिI will tell	कथयिष्यामि  (कथय्)verb: future 1st person singularto call; to name; to tell; to designate
+T	दिव्या	दिव्याःdivine	दिव्याः  (दिव्य)adjective, feminine nominative pluraldivine; heavenly; celestial; supernatural
+T	ह्यात्मविभूतयः	हिforआत्म-विभूतयःself-glories	हिparticlefor; because; on account ofआत्म  (आत्मन्)first part of a compoundthe breath; the soul; principle of life and sensation; the individual soulविभूतयः  (विभूति)noun, feminine nominative pluraldevelopment; multiplication; expansion; plenty
+T	प्राधान्यतः	प्राधान्यतःfrom predominance	प्राधान्यतः  (प्राधान्य)noun, neuter ablative singularpredominance; prevalence; ascendency; supremacy
+T	कुरुश्रेष्ठ	कुरुश्रेष्ठO Arjuna	कुरुश्रेष्ठnoun, masculine vocative singularname of Arjuna; name of Yudhishthira
+T	नास्त्यन्तो	नnotअस्तिisअन्तःend	नparticlenot; no; nor; neitherअस्ति  (अस्)verb: present 3rd person singularto be; to live; to exist; to be presentअन्तः  (अन्त)noun, masculine nominative singularend; limit; boundary; term
+T	विस्तरस्य	विस्तरस्यof detail	विस्तरस्य  (विस्तर)noun, masculine genitive singularspreading; extension; expansion; prolixity
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+V	10.20		I, O Gudakesha, am the Self, seated in the heart of all beings; I am the beginning, the middle, and also the end of all beings.		अहमात्मागुडाकेशसर्वभूताशयस्थितः~।अहमादिश्चमध्यंचभूतानामन्तएवच~॥ २० ॥	9
+T	अहमात्मा	अहम्Iआत्माself	अहम्  (मद्)pronoun, nominative singularI; weआत्मा  (आत्मन्)noun, masculine nominative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	गुडाकेश	गुडाकेशO Gudakesha	गुडाकेशnoun, masculine vocative singularthe hero Arjuna; Shiva
+T	सर्वभूताशयस्थितः	सर्व-भूत-आशय-स्थितःall-being-resting-place-stood	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personआशयfirst part of a compoundresting-place; bed; seat; placeस्थितः  (स्था)participle, masculine nominative singularto stand; to station one's self; to get upon; to stay
+T	अहमादिश्च	अहम्Iआदिःbeginningचand	अहम्  (मद्)pronoun, nominative singularI; weआदिः  (आदि)noun, masculine nominative singularbeginning; commencement; a firstling; first-fruitsचconjunctionand; both; also; moreover
+T	मध्यं	मध्यम्middle	मध्यम्  (मध्य)noun, neuter nominative singularthe middle; midst; centre; inside
+T	च	चand	चconjunctionand; both; also; moreover
+T	भूतानामन्त	भूतानाम्of beingsअन्तःend	भूतानाम्  (भूत)noun, masculine genitive pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personअन्तः  (अन्त)noun, masculine nominative singularend; limit; boundary; term
+T	एव	एवindeed	एवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+V	10.21		Of the Adityas I am Vishnu; of radiances the glorious sun; I am Marîchi of the Maruts; of the asterisms the Moon am I.		आदित्यानामहंविष्णुर्ज्योतिषांरविरंशुमान्~।मरीचिर्मरुतामस्मिनक्षत्राणामहंशशी~॥ २१ ॥	6
+T	आदित्यानामहं	आदित्यानाम्of Adityasअहम्I	आदित्यानाम्  (आदित्य)noun, masculine genitive pluralname of seven deities of the heavenly sphere; name of a god in general; name of Sûrya (the sun); name of Vishnuअहम्  (मद्)pronoun, nominative singularI; we
+T	विष्णुर्ज्योतिषां	विष्णुःVishnuज्योतिषाम्of lights	विष्णुः  (विष्णु)noun, masculine nominative singularname of one of the principal Hindû deities; name of the month Caitra; name of an author; name of a son of Manu Sâvarna and Bhautyaज्योतिषाम्  (ज्योतिस्)noun, neuter genitive plurallight; brightness (of the sky); fire; flash of lightning
+T	रविरंशुमान्	रविःparticular form of the sunअंशुमान्sun	रविः  (रवि)noun, masculine nominative singulara particular form of the sun (sometimes regarded as one of the 12 Âdityas); the sun (in general) or the sun-god; Sunday; Calotropis Giganteaअंशुमान्  (अंशुमन्त्)noun, masculine nominative singularsun; moon; name of a son of Asamanjas; one of the horses of the moon
+T	मरीचिर्मरुतामस्मि	मरीचिःPrajâpatiमरुताम्of Marutsअस्मिI am	मरीचिः  (मरीचि)noun, masculine nominative singularname of a Prajâpati; name of the star in the great Bear; name of Krishna (as a Marut); name of a Daityaमरुताम्  (मरुत्)noun, masculine genitive pluralthe storm-gods (Indra's companions); the god of the wind (father of Hanumat and regent of the north-west quarter of the sky); wind; airअस्मि  (अस्)verb: present 1st person singularto be; to live; to exist; to be present
+T	नक्षत्राणामहं	नक्षत्राणाम्of starsअहम्I	नक्षत्राणाम्  (नक्षत्र)noun, neuter genitive plurala star or any heavenly body; the sun; sometimes collectively "the stars"; an asterism or constellation through which the moon passesअहम्  (मद्)pronoun, nominative singularI; we
+T	शशी	शशीmoon	शशी  (शशिन्)noun, masculine nominative singularthe moon; name of the number one; camphor; a kind of metre
+V	10.22		Of the Vedas I am the Sâma-Veda; I am Vâsava of the Shining Ones; and of the senses I am the mind; I am of living beings the intelligence.	Manah.Chetana.	वेदानांसामवेदोऽस्मिदेवानामस्मिवासवः~।इन्द्रियाणांमनश्चास्मिभूतानामस्मिचेतना~॥ २२ ॥	8
+T	वेदानां	वेदानाम्of Vedas	वेदानाम्  (वेद)noun, masculine genitive pluralknowledge; true or sacred knowledge or lore; knowledge of ritual
+T	सामवेदोऽस्मि	सामवेदःone of the threeअस्मिI am	सामवेदः  (सामवेद)noun, masculine nominative singularname of one of the three principal Vedasअस्मि  (अस्)verb: present 1st person singularto be; to live; to exist; to be present
+T	देवानामस्मि	देवानाम्of godsअस्मिI am	देवानाम्  (देव)noun, masculine genitive plurala deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining onesअस्मि  (अस्)verb: present 1st person singularto be; to live; to exist; to be present
+T	वासवः	वासवःIndra	वासवः  (वासव)noun, masculine nominative singularname of Indra (as chief of the Vasus); a son of (king) Vasu; name of a Sâman; name of Shiva
+T	इन्द्रियाणां	इन्द्रियाणाम्of senses	इन्द्रियाणाम्  (इन्द्रिय)noun, neuter genitive pluralsense organpower; force; the quality which belongs especially to the mighty Indra; exhibition of power
+T	मनश्चास्मि	मनःmindचandअस्मिI am	मनः  (मनस्)noun, neuter nominative singularManasmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understandingचconjunctionandand; both; also; moreoverअस्मि  (अस्)verb: present 1st person singularbeto be; to live; to exist; to be present
+T	भूतानामस्मि	भूतानाम्of beingsअस्मिI am	भूतानाम्  (भूत)noun, neuter genitive pluralmahâbhûtathat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personअस्मि  (अस्)verb: present 1st person singularbeto be; to live; to exist; to be present
+T	चेतना	चेतनाmind	चेतनाnoun, feminine nominative singularmindconsciousness; understanding; sense; intelligence
+V	10.23		And of the Rudras Shankara am I; Vittesha of the Yakshas and Râkshasas; and of the Vasus I am Pâvaka; Meru of high mountains am I.	Celestial beings.Semi-human beings.Celestial beings.	रुद्राणांशङ्करश्चास्मिवित्तेशोयक्षरक्षसाम्~।वसूनांपावकश्चास्मिमेरुःशिखरिणामहम्~॥ २३ ॥	8
+T	रुद्राणां	रुद्राणाम्of Rudras	रुद्राणाम्  (रुद्र)noun, masculine genitive pluralRudraname of the god of tempests and father and ruler of the Rudras and Maruts; the eleventh; (in astrol.) name of the first Muhûrta
+T	शङ्करश्चास्मि	शंकरःShivaचandअस्मिI am	शंकरः  (शंकर)noun, masculine nominative singularShivaname of Rudra or Shiva; name of a son of Kashyapa and Danu; name of Skanda; name of a serpentdemonचconjunctionandand; both; also; moreoverअस्मि  (अस्)verb: present 1st person singularbeto be; to live; to exist; to be present
+T	वित्तेशो	वित्तेशःKubera	वित्तेशः  (वित्तेश)noun, masculine nominative singularKuberaKubera
+T	यक्षरक्षसाम्	यक्ष-रक्षसाम्of Yaksha-demons	यक्षfirst part of a compoundYakshaname of a class of semi-divine beings (attendants of Kubera); a kind of plant; = yakshataru; thirteenरक्षसाम्  (रक्षस्)noun, neuter genitive pluralRâkshasaharm; injury; damage; an evil being or demon
+T	वसूनां	वसूनाम्of Vasus	वसूनाम्  (वसु)noun, masculine genitive pluraldwelling or dweller; name of the gods; name of a particular class of gods; a symbolical name of the number eight
+T	पावकश्चास्मि	पावकःfireचandअस्मिI am	पावकः  (पावक)noun, masculine nominative singularname of a particular Agni (in the Purânas said to be a son of Agni Abhimânin and Svâhâ or of Antardhâna and Shikhandinî); fire; a saint; Premna Spinosaचconjunctionand; both; also; moreoverअस्मि  (अस्)verb: present 1st person singularto be; to live; to exist; to be present
+T	मेरुः	मेरुःfabulous mountain	मेरुः  (मेरु)noun, masculine nominative singularname of a fabulous mountain; a particular kind of temple; the central or most prominent bead in a rosary
+T	शिखरिणामहम्	शिखरिणाम्of peaked mountainsअहम्I	शिखरिणाम्  (शिखरिन्)noun, masculine genitive plurala peaked mountain; any mountain; name of a mountain; a hill-postअहम्  (मद्)pronoun, nominative singularI; we

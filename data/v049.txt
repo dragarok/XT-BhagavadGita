@@ -1,0 +1,64 @@
+V	8.6		Whosoever at the end abandoneth the body, thinking upon any being, to that being only he goeth, O Kaunteya, ever to that conformed in nature.		यंयंवापिस्मरन्भावंत्यजत्यन्तेकलेवरम्~।तंतमेवैतिकौन्तेयसदातद्भावभावितः~॥ ६ ॥	11
+T	यं	यम्whom	यम्  (यद्)pronoun, masculine accusative singularwhat; which; who
+T	यं	यम्whom	यम्  (यद्)pronoun, masculine accusative singularwhat; which; who
+T	वापि	वाorअपिalso	वाconjunctioneither - or; on the one side - on the other side; optionallyअपिparticlealso; moreover; besides; assuredly
+T	स्मरन्भावं	स्मरन्rememberingभावम्state	स्मरन्  (स्मृ)present participle, masculine nominative singularto remember; to recollect; to bear in mind; to think ofभावम्  (भाव)noun, masculine accusative singularbecoming; being; existing; occurring
+T	त्यजत्यन्ते	त्यजतिabandonsअन्तेin end	त्यजति  (त्यज्)verb: present 3rd person singularto leave; to abandon; to quit; to leave a placeअन्ते  (अन्त)noun, masculine locative singularend; limit; boundary; term
+T	कलेवरम्	कलेवरम्body	कलेवरम्  (कलेवर)noun, neuter accusative singularthe body
+T	तं	तम्him	तम्  (तद्)pronoun, masculine accusative singularthis; gleicher
+T	तमेवैति	तम्himएवindeedएतिgoes	तम्  (तद्)pronoun, masculine accusative singularthis; gleicherएवparticleso; just so; exactly so (in the sense of the later evam); indeedएति  (इ)verb: present 3rd person singularto go; to walk; to flow; to blow
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	सदा	सदाalways	सदाadverbalways; ever; every time; continually
+T	तद्भावभावितः	तद्-भाव-भावितःthat-state-nourished	तद्first part of a compound (pronoun)this; gleicherभावfirst part of a compoundbecoming; being; existing; occurringभावितः  (भावय्)participle, masculine nominative singularto cause to be or become; to call into existence or life; to originate; to produce
+V	8.7		Therefore at all times think upon Me only and fight. With mind and Reason set on Me, without doubt thou shalt come to Me.	Manah.Buddhi.	तस्मात्सर्वेषुकालेषुमामनुस्मरयुध्यच~।मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम्~॥ ७ ॥	6
+T	तस्मात्सर्वेषु	तस्मात्thereforeसर्वेषुall	तस्मात्adverbthereforeसर्वेषु  (सर्व)pronoun, masculine locative pluralwhole; entire; all; every
+T	कालेषु	कालेषुin times	कालेषु  (काल)noun, masculine locative pluraltime; the proper time or season for; a spot; tense
+T	मामनुस्मर	माम्meअनुस्मरremember!	माम्  (मद्)pronoun, accusative singularI; weअनुस्मर  (अनुस्मृ)verb: present imperative 2nd person singularto remember; to recollect
+T	युध्य	युध्यfight!	युध्य  (युध्)verb: present imperative 2nd person singularto fight; to wage war; to fight with
+T	च	चand	चconjunctionand; both; also; moreover
+T	मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम्	मयिin meअर्पित-मनः-बुद्धिःdirected-mind-intellectमाम्meएवindeedएष्यसिyou will goअसंशयःcertain	मयि  (मद्)pronoun, locative singularII; weअर्पित  (अर्पय्)first part of a compound (verb)directto cause to move; to throw; to cast; to cast throughमनः  (मनस्)first part of a compoundmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understandingबुद्धिः  (बुद्धि)noun, masculine nominative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectमाम्  (मद्)pronoun, accusative singularI; weएवparticleso; just so; exactly so (in the sense of the later evam); indeedएष्यसि  (इ)verb: future 2nd person singularto go; to walk; to flow; to blowअसंशयः  (असंशय)adjective, masculine nominative singularcertain; sure
+V	8.8		With the mind not wandering after aught else, harmonised by continual practice, constantly meditating, O Pârtha, one goeth to the Spirit supreme, divine.	Chetah.	अभ्यासयोगयुक्तेनचेतसानान्यगामिना~।परमंपुरुषंदिव्यंयातिपार्थानुचिन्तयन्~॥ ८ ॥	8
+T	अभ्यासयोगयुक्तेन	अभ्यास-योग-युक्तेनpractice-yoga-harmonized	अभ्यासfirst part of a compoundthe act of adding anything; (in Gr.) "what is prefixed"; the first syllable of a reduplicated radical; reduplicationयोगfirst part of a compoundthe act of yoking; joining; attaching; harnessingयुक्तेन  (युज्)participle, neuter instrumental singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	चेतसा	चेतसाwith mind	चेतसा  (चेतस्)noun, neuter instrumental singularsplendour; consciousness; intelligence; thinking soul
+T	नान्यगामिना	नnotअन्य-गामिनाother-going anywhere	नparticlenot; no; nor; neitherअन्यfirst part of a compound (pronoun)other; anotherगामिना  (गामिन्)adjective, neuter instrumental singulargoing anywhere
+T	परमं	परमम्supreme	परमम्  (परम)adjective, masculine accusative singularremotest; extreme; last; chief
+T	पुरुषं	पुरुषम्person	पुरुषम्  (पुरुष)noun, masculine accusative singulara man; male; human being (people); a person
+T	दिव्यं	दिव्यम्divine	दिव्यम्  (दिव्य)adjective, masculine accusative singulardivine; heavenly; celestial; supernatural
+T	याति	यातिgoes	याति  (या)verb: present 3rd person singularto go; to move; to set out; to travel
+T	पार्थानुचिन्तयन्	पार्थO son of Prithaअनुचिन्तयन्meditating	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjunaअनुचिन्तयन्  (अनुचिन्तय्)present participle, masculine nominative singularto meditate; to consider; to recall to mind
+V	8.9		He who thinketh upon the Ancient, the Omniscient, the All-Ruler, minuter than the minute, the supporter of all, of form unimaginable, refulgent as the sun beyond the darkness,		कविंपुराणमनुशासितारमणोरणीयांसमनुस्मरेद्यः~।सर्वस्यधातारमचिन्त्यरूपमादित्यवर्णंतमसःपरस्तात्~॥ ९ ॥	6
+T	कविं	कविम्seer	कविम्  (कवि)noun, masculine accusative singulara thinker; intelligent man; man of understanding; leader
+T	पुराणमनुशासितारमणोरणीयांसमनुस्मरेद्यः	पुराणम्ancientअनुशासितारम्governingअणोःfineअणीयांसम्smallerअनुस्मरेत्should rememberयःwho	पुराणम्  (पुराण)adjective, masculine accusative singularancient; old; traditionalअनुशासितारम्  (अनुशासितृ)adjective, masculine accusative singulargoverning; instructingअणोः  (अणु)adjective, masculine ablative singularfine; minute; emaciatedअणीयांसम्  (अणीयस्)adjective, masculine accusative singularsmaller; finerअनुस्मरेत्  (अनुस्मृ)verb: present optative 3rd person singularto remember; to recollectयः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	सर्वस्य	सर्वस्यall	सर्वस्य  (सर्व)pronoun, neuter genitive singularwhole; entire; all; every
+T	धातारमचिन्त्यरूपमादित्यवर्णं	धातारम्supporterअचिन्त्य-रूपम्inconceivable-formआदित्य-वर्णम्Aditya-caste	धातारम्  (धातृ)noun, masculine accusative singularestablisher; founder; creator; bearerअचिन्त्यfirst part of a compound (adjective)inconceivable; surpassing thoughtरूपम्  (रूप)noun, masculine accusative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapesआदित्यfirst part of a compoundname of seven deities of the heavenly sphere; name of a god in general; name of Sûrya (the sun); name of Vishnuवर्णम्  (वर्ण)noun, masculine accusative singulara covering; cloak; mantle; a cover
+T	तमसः	तमसःfrom darkness	तमसः  (तमस्)noun, neuter ablative singulardarkness; gloom; the darkness of hell; hell or a particular division of hell
+T	परस्तात्	परस्तात्further away	परस्तात्adverbfurther away; further on; towards; above
+V	8.10		In the time of forthgoing, with unshaken mind, fixed in devotion, by the power of yoga drawing together his life-breath in the centre of the two eyebrows, he goeth to this Spirit, supreme, divine.	Manah.	प्रयाणकालेमनसाऽचलेनभक्त्यायुक्तोयोगबलेनचैव~।भ्रुवोर्मध्येप्राणमावेश्यसम्यक्सतंपरंपुरुषमुपैतिदिव्यम्~॥ १० ॥	14
+T	प्रयाणकाले	प्रयाण-कालेin departure-time	प्रयाणfirst part of a compoundsetting out; starting; advancing; motion onwardsकाले  (काल)noun, masculine locative singulartime; the proper time or season for; a spot; tense
+T	मनसाऽचलेन	मनसाwith mindअचलेनunmoving	मनसा  (मनस्)noun, neuter instrumental singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understandingअचलेन  (अचल)adjective, neuter instrumental singularnot moving; immovable; firm
+T	भक्त्या	भक्त्याwith devotion	भक्त्या  (भक्ति)noun, feminine instrumental singulardistribution; partition; separation; a division
+T	युक्तो	युक्तःharmonized	युक्तः  (युज्)participle, masculine nominative singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	योगबलेन	योग-बलेनwith yoga-strength	योगfirst part of a compoundthe act of yoking; joining; attaching; harnessingबलेन  (बल)noun, neuter instrumental singularpower; strength; might; vigour
+T	चैव	चandएवindeed	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	भ्रुवोर्मध्ये	भ्रुवोःof eyebrowsमध्येin middle	भ्रुवोः  (भ्रू)noun, feminine genitive dualan eyebrowमध्ये  (मध्य)noun, neuter locative singularthe middle; midst; centre; inside
+T	प्राणमावेश्य	प्राणम्breathआवेश्यhaving fixed	प्राणम्  (प्राण)noun, masculine accusative singularthe breath of life; breath; respiration; lifeआवेश्य  (आवेशय्)absolutive (having ...)to cause to reach or obtain; to deliver; to offer; to present
+T	सम्यक्	सम्यक्rightlyसhe	सम्यक्adverbrichtig; angemessenस  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicher
+T	तं	तम्him	तम्  (तद्)pronoun, masculine accusative singularthis; gleicher
+T	परं	परम्supreme	परम्  (पर)pronoun, masculine accusative singularfar; remote; opposite; previous
+T	पुरुषमुपैति	पुरुषम्personउपैतिcomes to	पुरुषम्  (पुरुष)noun, masculine accusative singulara man; male; human being (people); a personउपैति  (उपे)verb: present 3rd person singularto go or come or step near; to approach; to betake one's self to; to arrive at
+T	दिव्यम्	दिव्यम्divine	दिव्यम्  (दिव्य)adjective, masculine accusative singulardivine; heavenly; celestial; supernatural
+V	8.11		That which is declared indestructible by the Veda-knowers, that which the controlled and passion-free enter, that desiring which Brahmacharya is performed, that path I will declare to thee with brevity.	The vow of continence.	यदक्षरंवेदविदोवदन्तिविशन्तियद्यतयोवीतरागाः~।यदिच्छन्तोब्रह्मचर्यंचरन्तितत्तेपदंसङ्ग्रहेणप्रवक्ष्ये~॥ ११ ॥	13
+T	यदक्षरं	यत्whichअक्षरम्imperishable	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoअक्षरम्  (अक्षर)noun, neuter accusative singularthe syllable om; a vowel; a sound; a word
+T	वेदविदो	वेद-विदःVeda-know	वेदfirst part of a compoundknowledge; true or sacred knowledge or lore; knowledge of ritualविदः  (विद्)adjective, masculine nominative pluralknowing; understanding; a knower
+T	वदन्ति	वदन्तिspeak	वदन्ति  (वद्)verb: present 3rd person pluralto speak; to say; to tell; to talk with
+T	विशन्ति	विशन्तिenter	विशन्ति  (विश्)verb: present 3rd person pluralto enter; to enter in or settle down on; to go into; to pervade
+T	यद्यतयो	यत्whichयतयःascetics	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoयतयः  (यति)noun, masculine nominative plurala disposer; an ascetic; devotee; one who has restrained his passions and abandoned the world
+T	वीतरागाः	वीत-रागाःpassed-passion	वीत  (वी)first part of a compound (verb)to pass through; to traverse; to go apart; to divergeरागाः  (राग)noun, masculine nominative pluralthe act of colouring or dyeing; colour; hue; tint
+T	यदिच्छन्तो	यत्whichइच्छन्तःdesiring	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoइच्छन्तः  (इष्)present participle, masculine nominative pluralto seek for; to desire; to intend; to assent
+T	ब्रह्मचर्यं	ब्रह्मचर्यम्study of the Veda	ब्रह्मचर्यम्  (ब्रह्मचर्य)noun, neuter accusative singularstudy of the Veda; the state of an unmarried religious student; a state of continence and chastity; Vedic studentship
+T	चरन्ति	चरन्तिmove	चरन्ति  (चर्)verb: present 3rd person plural[alchemy]; [alchemy] grâs karnâ; to observe (a vow); (Kuh) weiden
+T	तत्ते	तत्thatतेfor you	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherते  (त्वद्)pronoun, dative singularyou
+T	पदं	पदम्abode	पदम्  (पद)noun, neuter accusative singulara step; pace; stride; a footstep
+T	सङ्ग्रहेण	संग्रहेणwith welfare	संग्रहेण  (संग्रह)noun, masculine instrumental singularholding together; seizing; grasping; taking
+T	प्रवक्ष्ये	प्रवक्ष्येI will declare	प्रवक्ष्ये  (प्रवच्)verb: future 1st person singularto proclaim; to announce; to praise; to commend

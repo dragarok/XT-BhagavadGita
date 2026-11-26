@@ -1,0 +1,71 @@
+V	2.47		Thy business is with the action only, never with its fruits; so let not the fruit of action be thy motive, nor be thou to inaction attached.		कर्मण्येवाधिकारस्तेमाफलेषुकदाचन~।माकर्मफलहेतुर्भूर्मातेसङ्गोऽस्त्वकर्मणि~॥ ४७ ॥	8
+T	कर्मण्येवाधिकारस्ते	कर्मणिin actionएवindeedअधिकारःrightतेyour	कर्मणि  (कर्मन्)noun, neuter locative singularact; action; performance; businessएवparticleso; just so; exactly so (in the sense of the later evam); indeedअधिकारः  (अधिकार)noun, masculine nominative singulartopic; paragraph or minor section; governing-rule; authorityते  (त्वद्)pronoun, genitive singularyou
+T	मा	माnot	माparticlenot
+T	फलेषु	फलेषुin fruits	फलेषु  (फल)noun, neuter locative pluralfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	कदाचन	कदाचनever	कदाचनadverbever; sometimes; at any time
+T	मा	माnot	माparticlenot
+T	कर्मफलहेतुर्भूर्मा	कर्म-फल-हेतुःaction-fruit-causeभूःbeमाnot	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessफलfirst part of a compoundfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalansहेतुः  (हेतु)noun, masculine nominative singularmotive; cause; cause of; reason forभूः  (भू)verb: perfect injunctive 2nd person singularto be; to become; to come into being; to happenमाparticlenot
+T	ते	तेyour	ते  (त्वद्)pronoun, genitive singularyou
+T	सङ्गोऽस्त्वकर्मणि	सङ्गःattachmentअस्तुlet it beअकर्मणिin inaction	सङ्गः  (सङ्ग)noun, masculine nominative singularsticking; clinging to; touch; contact withअस्तु  (अस्)verb: present imperative 3rd person singularto be; to live; to exist; to be presentअकर्मणि  (अकर्मन्)noun, neuter locative singularabsence of work; observances; improper work; crime
+V	2.48		Perform action, O Dhananjaya, dwelling in union with the divine, renouncing attachments and balanced evenly in success and failure: equilibrium is called yoga.	Dwelling in yoga, union.	योगस्थःकुरुकर्माणिसङ्गंत्यक्त्वाधनञ्जय~।सिद्ध्यसिद्ध्योःसमोभूत्वासमत्वंयोगउच्यते~॥ ४८ ॥	12
+T	योगस्थः	योग-स्थःyoga-abiding	योगfirst part of a compoundthe act of yoking; joining; attaching; harnessingस्थः  (स्थ)adjective, masculine nominative singularstanding; staying; abiding; being situated in
+T	कुरु	कुरुdo!	कुरु  (कृ)verb: present imperative 2nd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	कर्माणि	कर्माणिactions	कर्माणि  (कर्मन्)noun, neuter accusative pluralact; action; performance; business
+T	सङ्गं	सङ्गम्attachment	सङ्गम्  (सङ्ग)noun, masculine accusative singularsticking; clinging to; touch; contact with
+T	त्यक्त्वा	त्यक्त्वाhaving abandoned	त्यक्त्वा  (त्यज्)absolutive (having ...)to leave; to abandon; to quit; to leave a place
+T	धनञ्जय	धनंजयO Dhananjaya	धनंजयnoun, masculine vocative singularfire; a particular vital air supposed to nourish the body; Plumbago Zeylanica; name of Arjuna
+T	सिद्ध्यसिद्ध्योः	सिद्धि-असिद्ध्योःin success-failures	सिद्धिfirst part of a compoundaccomplishment; performance; fulfilment; complete attainment (of any object)असिद्ध्योः  (असिद्धि)noun, feminine locative dualimperfect accomplishment; failure; (in logic) want of proof; conclusion not warranted by the premises
+T	समो	समःequal	समः  (सम)pronoun, masculine nominative singulareven; flat; level; parallel
+T	भूत्वा	भूत्वाhaving been	भूत्वा  (भू)absolutive (having ...)to be; to become; to come into being; to happen
+T	समत्वं	सम-त्वम्equalness	समfirst part of a compound (pronoun)even; flat; level; parallelत्वम्  (त्व)noun, neuter nominative singular(suffix creating abstract nouns)
+T	योग	योगःyoga	योगः  (योग)noun, masculine nominative singularthe act of yoking; joining; attaching; harnessing
+T	उच्यते	उच्यतेis said	उच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare
+V	2.49		Far lower than the Yoga of Discrimination is action, O Dhananjaya. Take thou refuge in the Pure Reason; pitiable are they who work for fruit.	Union with Buddhi, the innermost sheath (or vehicle) of Atma.Buddhi.	दूरेणह्यवरंकर्मबुद्धियोगाद्धनञ्जय~।बुद्धौशरणमन्विच्छकृपणाःफलहेतवः~॥ ४९ ॥	8
+T	दूरेण	दूरेणdistant	दूरेण  (दूर)adjective, neuter instrumental singulardistant; far; remote; long (away)
+T	ह्यवरं	हिforअवरम्below	हिparticlefor; because; on account ofअवरम्  (अवर)adjective, neuter nominative singularbelow; low; mean; unimportant
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter nominative singularact; action; performance; business
+T	बुद्धियोगाद्धनञ्जय	बुद्धि-योगात्from intellect-yogaधनंजयO Dhananjaya	बुद्धिfirst part of a compoundthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectयोगात्  (योग)noun, masculine ablative singularthe act of yoking; joining; attaching; harnessingधनंजयnoun, masculine vocative singularfire; a particular vital air supposed to nourish the body; Plumbago Zeylanica; name of Arjuna
+T	बुद्धौ	बुद्धौin intellect	बुद्धौ  (बुद्धि)noun, feminine locative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	शरणमन्विच्छ	शरणम्refugeअन्विच्छseek!	शरणम्  (शरण)noun, neuter accusative singularshelter; place of shelter or refuge or rest; hut; houseअन्विच्छ  (अन्विष्)verb: present imperative 2nd person singularto seek; to desire; to search; to aim at
+T	कृपणाः	कृपणाःpitiable	कृपणाः  (कृपण)adjective, masculine nominative pluralpitiable; miserable; poor; wretched
+T	फलहेतवः	फल-हेतवःfruit-causes	फलfirst part of a compoundfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalansहेतवः  (हेतु)noun, masculine nominative pluralmotive; cause; cause of; reason for
+V	2.50		United to the Pure Reason one abandoneth here both good and evil deeds; therefore cleave thou to yoga; yoga is skill in action.	Buddhi.	बुद्धियुक्तोजहातीहउभेसुकृतदुष्कृते~।तस्माद्योगाययुज्यस्वयोगःकर्मसुकौशलम्~॥ ५० ॥	9
+T	बुद्धियुक्तो	बुद्धि-युक्तःintellect-harmonized	बुद्धिfirst part of a compoundthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectयुक्तः  (युज्)participle, masculine nominative singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	जहातीह	जहातिcasts offइहhere	जहाति  (हा)verb: present 3rd person singularto leave; to abandon; to desert; to quitइहadverbin this place; here; to this place; in this world
+T	उभे	उभेboth	उभे  (उभ्)pronoun, neuter accusative dualboth
+T	सुकृतदुष्कृते	सुकृत-दुष्कृतेgood deed-evil deeds	सुकृतfirst part of a compounda good or righteous deed; meritorious act; virtue; a benefitदुष्कृते  (दुष्कृत)noun, neuter accusative dualevil action; sin; guilt; a particular class of sins
+T	तस्माद्योगाय	तस्मात्thereforeयोगायfor yoga	तस्मात्adverbthereforeयोगाय  (योग)noun, masculine dative singularthe act of yoking; joining; attaching; harnessing
+T	युज्यस्व	युज्यस्वlet it be harmonized	युज्यस्व  (युज्)verb: passive present imperative 2nd person singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	योगः	योगःyoga	योगः  (योग)noun, masculine nominative singularthe act of yoking; joining; attaching; harnessing
+T	कर्मसु	कर्मसुin actions	कर्मसु  (कर्मन्)noun, neuter locative pluralact; action; performance; business
+T	कौशलम्	कौशलम्well-being	कौशलम्  (कौशल)noun, neuter nominative singularwell-being; welfare; good fortune; prosperity
+V	2.51		The Sages, united to the Pure Reason, renounce the fruit which action yieldeth, and, liberated from the bonds of birth, they go to the blissful seat.	Buddhi.	कर्मजंबुद्धियुक्ताहिफलंत्यक्त्वामनीषिणः~।जन्मबन्धविनिर्मुक्ताःपदंगच्छन्त्यनामयम्~॥ ५१ ॥	9
+T	कर्मजं	कर्म-जम्action-born	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessजम्  (ज)adjective, neuter accusative singularifc. born or descended from; produced or caused by; born or produced in or at or upon; growing in
+T	बुद्धियुक्ता	बुद्धि-युक्ताःintellect-harmonized	बुद्धिfirst part of a compoundthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectयुक्ताः  (युज्)participle, masculine nominative pluralto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	हि	हिfor	हिparticlefor; because; on account of
+T	फलं	फलम्fruit	फलम्  (फल)noun, neuter accusative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	त्यक्त्वा	त्यक्त्वाhaving abandoned	त्यक्त्वा  (त्यज्)absolutive (having ...)to leave; to abandon; to quit; to leave a place
+T	मनीषिणः	मनीषिणःwise	मनीषिणः  (मनीषिन्)adjective, masculine nominative pluralthoughtful; intelligent; wise; sage
+T	जन्मबन्धविनिर्मुक्ताः	जन्म-बन्ध-विनिर्मुक्ताःbirth-bondage-abandoned	जन्म  (जन्मन्)first part of a compoundbirth; origin; existence; lifeबन्धfirst part of a compoundbinding; tying; a bond; tieविनिर्मुक्ताः  (विनिर्मुच्)participle, masculine nominative pluralto abandon; to relinquish (the body); to let loose; to free
+T	पदं	पदम्abode	पदम्  (पद)noun, neuter accusative singulara step; pace; stride; a footstep
+T	गच्छन्त्यनामयम्	गच्छन्तिgoअनामयम्healthy	गच्छन्ति  (गम्)verb: present 3rd person pluralto go; to move; to approach; to understandअनामयम्  (अनामय)adjective, neuter accusative singularhealthy; salubrious
+V	2.52		When thy mind shall escape from this tangle of delusion, then thou shalt rise to indifference as to what has been heard and shall be heard.	Buddhi.	यदातेमोहकलिलंबुद्धिर्व्यतितरिष्यति~।तदागन्तासिनिर्वेदंश्रोतव्यस्यश्रुतस्यच~॥ ५२ ॥	10
+T	यदा	यदाwhen	यदाconjunctionwhen; at what time; whenever
+T	ते	तेyour	ते  (त्वद्)pronoun, genitive singularyou
+T	मोहकलिलं	मोह-कलिलम्delusion-large heap	मोहfirst part of a compoundloss of consciousness; bewilderment; perplexity; distractionकलिलम्  (कलिल)noun, neuter accusative singulara large heap; thicket; confusion; disorder
+T	बुद्धिर्व्यतितरिष्यति	बुद्धिःintellectव्यतितरिष्यतिwill pass completely across	बुद्धिः  (बुद्धि)noun, feminine nominative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectव्यतितरिष्यति  (व्यतितृ)verb: future 3rd person singularto pass completely across; to overcome
+T	तदा	तदाthen	तदाadverbat that time; then; in that case (often used redundantly)
+T	गन्तासि	गन्तासिyou will go	गन्तासि  (गम्)verb: future 2nd person singularto go; to move; to approach; to understand
+T	निर्वेदं	निर्वेदम्despair	निर्वेदम्  (निर्वेद)noun, masculine accusative singulardespair; complete indifference; disregard of worldly objects; loathing
+T	श्रोतव्यस्य	श्रोतव्यस्यto be heard	श्रोतव्यस्य  (श्रु)gerundive (to be ...), neuter genitive singularto hear; to listen to; to study
+T	श्रुतस्य	श्रुतस्यheard	श्रुतस्य  (श्रु)participle, neuter genitive singularto hear; to listen to; to study
+T	च	चand	चconjunctionand; both; also; moreover
+V	2.53		When thy mind, bewildered by the Scriptures, shall stand immovable, fixed in contemplation, then shalt thou attain unto yoga.	Buddhi.Sruti.To union with Atma, the Self; yoga implies harmony with the divine will. The word translated contemplation is, as before, Samâdhi.	श्रुतिविप्रतिपन्नातेयदास्थास्यतिनिश्चला~।समाधावचलाबुद्धिस्तदायोगमवाप्स्यसि~॥ ५३ ॥	8
+T	श्रुतिविप्रतिपन्ना	श्रुति-विप्रतिपन्नाhearing-gone in different	श्रुतिfirst part of a compoundhearing; listening; the ear; organ or power of hearingविप्रतिपन्ना  (विप्रतिपद्)participle, feminine nominative singularto go in different or opposite directions; to turn here and there; to roam; to wander (said of the senses)
+T	ते	तेyour	ते  (त्वद्)pronoun, genitive singularyou
+T	यदा	यदाwhen	यदाconjunctionwhen; at what time; whenever
+T	स्थास्यति	स्थास्यतिwill stand	स्थास्यति  (स्था)verb: future 3rd person singularto stand; to station one's self; to get upon; to stay
+T	निश्चला	निश्चलाmotionless	निश्चला  (निश्चल)adjective, feminine nominative singularmotionless; immovable; fixed; steady
+T	समाधावचला	समाधौin samadhiअचलाunmoving	समाधौ  (समाधि)noun, masculine locative singularputting together; joining or combining with (instr.); a joint or a particular position of the neck; unionअचला  (अचल)adjective, feminine nominative singularnot moving; immovable; firm
+T	बुद्धिस्तदा	बुद्धिःintellectतदाthen	बुद्धिः  (बुद्धि)noun, feminine nominative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectतदाadverbat that time; then; in that case (often used redundantly)
+T	योगमवाप्स्यसि	योगम्yogaअवाप्स्यसिyou will attain	योगम्  (योग)noun, masculine accusative singularthe act of yoking; joining; attaching; harnessingअवाप्स्यसि  (अवाप्)verb: future 2nd person singularto reach; to attain; to obtain; to gain

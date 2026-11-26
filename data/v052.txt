@@ -1,0 +1,66 @@
+V	8.25		Smoke, night-time, the dark fortnight also, the six months of the southern path - then the Yogî, obtaining the moonlight, returneth.	Of the sun.The Lunar, or astral body. Until this is slain the soul returns to birth.	धूमोरात्रिस्तथाकृष्णःषण्मासादक्षिणायनम्~।तत्रचान्द्रमसंज्योतिर्योगीप्राप्यनिवर्तते~॥ २५ ॥	10
+T	धूमो	धूमःsmoke	धूमः  (धूम)noun, masculine nominative singularsmoke; vapour; mist; smoke as a sternutatory (in 5 forms)
+T	रात्रिस्तथा	रात्रिःnightतथाlikewise	रात्रिः  (रात्रि)noun, feminine nominative singularnight; the darkness or stillness of night (often personified); turmeric; name of a river in Krauncadvîpaतथाadverbin that manner; so; thus; yes
+T	कृष्णः	कृष्णःKrishna	कृष्णः  (कृष्ण)noun, masculine nominative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	षण्मासा	षष्-मासाःsix-months	षष्first part of a compound (number)six; (in gram) a tech. name for numerals ending in sh and n and words like katiमासाः  (मास)noun, masculine nominative pluralthe moon; a month or the 12th part of the Hindû year
+T	दक्षिणायनम्	दक्षिणायनम्way to Yama's quarter	दक्षिणायनम्  (दक्षिणायन)noun, neuter nominative singularway to Yama's quarter; the winter half-year
+T	तत्र	तत्रthere	तत्रadverbin that place; there (in comp.); thither; to that place
+T	चान्द्रमसं	चान्द्रमसम्lunar	चान्द्रमसम्  (चान्द्रमस)adjective, neuter accusative singularlunar; relating to the moon
+T	ज्योतिर्योगी	ज्योतिःlightयोगीyogi	ज्योतिः  (ज्योतिस्)noun, neuter accusative singularlight; brightness (of the sky); fire; flash of lightningयोगी  (योगिन्)noun, masculine nominative singulara follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+T	प्राप्य	प्राप्यhaving attained	प्राप्य  (प्राप्)absolutive (having ...)to attain to; to reach; to arrive at; to meet with
+T	निवर्तते	निवर्ततेturns back	निवर्तते  (निवृत्)verb: present 3rd person singularto turn back; to stop (trans. and intrans.); to return from (abl.) to; to return into life
+V	8.26		Light and darkness, these are thought to be the world's everlasting paths; by the one he goeth who returneth not, by the other he who returneth again.		शुक्लकृष्णेगतीह्येतेजगतःशाश्वतेमते~।एकयायात्यनावृत्तिमन्ययाऽऽवर्ततेपुनः~॥ २६ ॥	9
+T	शुक्लकृष्णे	शुक्ल-कृष्णेbright-Krishna	शुक्लfirst part of a compound (adjective)bright; light; whitish; pureकृष्णे  (कृष्ण)adjective, feminine nominative dualblack; dark; dark-blue; wicked
+T	गती	गतीgoals	गती  (गति)noun, feminine nominative dualgoing; moving; gait; deportment
+T	ह्येते	हिforएतेthese	हिparticlefor; because; on account ofएते  (एतद्)pronoun, feminine nominative dualthis
+T	जगतः	जगतःof world	जगतः  (जगन्त्)noun, neuter genitive singularthat which is alive; men and animals; the world; people
+T	शाश्वते	शाश्वतेeverlasting	शाश्वते  (शाश्वत)adjective, feminine nominative dualeternal; constant; perpetual; all
+T	मते	मतेthought	मते  (मन्)participle, feminine nominative dualto think; to believe; to imagine; to suppose
+T	एकया	एकयाone	एकया  (एक)number, feminine instrumental singularone; alone; happening only once; single of its kind
+T	यात्यनावृत्तिमन्ययाऽऽवर्तते	यातिgoesअनावृत्तिम्non-return to a bodyअन्ययाotherआवर्ततेturns	याति  (या)verb: present 3rd person singularto go; to move; to set out; to travelअनावृत्तिम्  (अनावृत्ति)noun, feminine accusative singularnon-return to a body; final emancipationअन्यया  (अन्य)pronoun, feminine instrumental singularother; anotherआवर्तते  (आवृत्)verb: present 3rd person singularto turn or draw round or back or near; to turn or go towards; to turn round or back; to return
+T	पुनः	पुनःagain	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and again
+V	8.27		Knowing these paths, O Pârtha, the Yogi is nowise perplexed. Therefore in all times be firm in yoga, O Arjuna.		नैतेसृतीपार्थजानन्योगीमुह्यतिकश्चन~।तस्मात्सर्वेषुकालेषुयोगयुक्तोभवार्जुन~॥ २७ ॥	10
+T	नैते	नnotएतेthese	नparticlenot; no; nor; neitherएते  (एतद्)pronoun, feminine accusative dualthis
+T	सृती	सृतीroads	सृती  (सृति)noun, feminine accusative duala road; path; wandering; transmigration
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	जानन्योगी	जानन्knowingयोगीyogi	जानन्  (ज्ञा)present participle, masculine nominative singularto know; to have knowledge; to become acquainted with; to perceiveयोगी  (योगिन्)noun, masculine nominative singulara follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+T	मुह्यति	मुह्यतिis deluded	मुह्यति  (मुह्)verb: present 3rd person singularto become stupefied or unconscious; to be bewildered or perplexed; to err; to be mistaken
+T	कश्चन	कश्चनanyone	कश्चनpronoun, masculine nominative singularsomething; anything
+T	तस्मात्सर्वेषु	तस्मात्thereforeसर्वेषुall	तस्मात्adverbthereforeसर्वेषु  (सर्व)pronoun, masculine locative pluralwhole; entire; all; every
+T	कालेषु	कालेषुin times	कालेषु  (काल)noun, masculine locative pluraltime; the proper time or season for; a spot; tense
+T	योगयुक्तो	योग-युक्तःyoga-harmonized	योगfirst part of a compoundthe act of yoking; joining; attaching; harnessingयुक्तः  (युज्)participle, masculine nominative singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	भवार्जुन	भवbe!अर्जुनO Arjuna	भव  (भू)verb: present imperative 2nd person singularto be; to become; to come into being; to happenअर्जुनnoun, masculine vocative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+V	8.28		The fruit of meritorious deeds, attached in the Vedas to sacrifices, to austerities, and also to almsgiving, the Yogî passeth all these by having known this, and goeth to the supreme and ancient Seat.		वेदेषुयज्ञेषुतपःसुचैवदानेषुयत्पुण्यफलंप्रदिष्टम्~।अत्येतितत्सर्वमिदंविदित्वायोगीपरंस्थानमुपैतिचाद्यम्~॥ २८ ॥	14
+T	वेदेषु	वेदेषुin Vedas	वेदेषु  (वेद)noun, masculine locative pluralknowledge; true or sacred knowledge or lore; knowledge of ritual
+T	यज्ञेषु	यज्ञेषुin sacrifices	यज्ञेषु  (यज्ञ)noun, masculine locative pluralworship; devotion; prayer; praise
+T	तपःसु	तपःसुin austerities	तपःसु  (तपस्)noun, neuter locative pluralwarmth; heat; pain; suffering
+T	चैव	चandएवindeed	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	दानेषु	दानेषुin givings	दानेषु  (दान)noun, neuter locative pluralthe act of giving; giving in marriage; giving up; communicating
+T	यत्पुण्यफलं	यत्whichपुण्य-फलम्holy-fruit	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoपुण्यfirst part of a compound (adjective)auspicious; propitious; fair; pleasantफलम्  (फल)noun, neuter nominative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	प्रदिष्टम्	प्रदिष्टम्indicated	प्रदिष्टम्  (प्रदिश्)participle, neuter nominative singularto indicate; to point out; to ordain; to describe
+T	अत्येति	अत्येतिtranscends	अत्येति  (अती)verb: present 3rd person singularto pass by; to elapse; to pass over; to overflow
+T	तत्सर्वमिदं	तत्thatसर्वम्allइदम्this	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherसर्वम्  (सर्व)pronoun, neuter accusative singularwhole; entire; all; everyइदम्pronoun, neuter accusative singularthis; (near deictic pronoun in Vedic)
+T	विदित्वा	विदित्वाhaving known	विदित्वा  (विद्)absolutive (having ...)to know; to understand; to learn; to be conscious of
+T	योगी	योगीyogi	योगी  (योगिन्)noun, masculine nominative singulara follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+T	परं	परम्supreme	परम्  (पर)pronoun, neuter accusative singularfar; remote; opposite; previous
+T	स्थानमुपैति	स्थानम्placeउपैतिcomes to	स्थानम्  (स्थान)noun, neuter accusative singularthe act of standing; standing firmly; being fixed or stationary; position or posture of the body (in shooting etc.)उपैति  (उपे)verb: present 3rd person singularto go or come or step near; to approach; to betake one's self to; to arrive at
+T	चाद्यम्	चandआद्यम्primal	चconjunctionand; both; also; moreoverआद्यम्  (आद्य)adjective, neuter accusative singularimmediately preceding (e.g. ekâdashâdya); earlier; older; being at the head
+V	9.1	The Blessed Lord said:	To thee, the uncarping, verily shall I declare this profoundest Secret, wisdom with knowledge combined, which, having known, thou shalt be freed from evil.		श्रीभगवानुवाच~।इदंतुतेगुह्यतमंप्रवक्ष्याम्यनसूयवे~।ज्ञानंविज्ञानसहितंयज्ज्ञात्वामोक्ष्यसेऽशुभात्~॥ १ ॥	10
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	इदं	इदम्this	इदम्pronoun, neuter accusative singularthis; (near deictic pronoun in Vedic)
+T	तु	तुbut	तुparticledo; now; then; but
+T	ते	तेfor you	ते  (त्वद्)pronoun, dative singularyou
+T	गुह्यतमं	गुह्यतमम्most secret	गुह्यतमम्  (गुह्यतम)adjective, neuter accusative singularmost secret
+T	प्रवक्ष्याम्यनसूयवे	प्रवक्ष्यामिI will declareअनसूयवेnot spiteful	प्रवक्ष्यामि  (प्रवच्)verb: future 1st person singularto proclaim; to announce; to praise; to commendअनसूयवे  (अनसूयु)adjective, masculine dative singularnot spiteful or envious
+T	ज्ञानं	ज्ञानम्knowledge	ज्ञानम्  (ज्ञान)noun, neuter accusative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	विज्ञानसहितं	विज्ञान-सहितम्realization-accompanied by	विज्ञानfirst part of a compoundthe act of distinguishing or discerning; understanding; comprehending; recognizingसहितम्  (सहित)adjective, neuter accusative singularaccompanied by; possessed of; (in astron.) being in conjunction with
+T	यज्ज्ञात्वा	यत्whichज्ञात्वाhaving known	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoज्ञात्वा  (ज्ञा)absolutive (having ...)to know; to have knowledge; to become acquainted with; to perceive
+T	मोक्ष्यसेऽशुभात्	मोक्ष्यसेyou will freeअशुभात्evil	मोक्ष्यसे  (मुच्)verb: future 2nd person singularto loose; to let loose; to release; to liberate fromअशुभात्  (अशुभ)adjective, neuter ablative singularnot beautiful or agreeable; disagreeable; inauspicious; bad
+V	9.2		Kingly Science, kingly Secret, supreme Purifier, this; intuitional, according to righteousness, very easy to perform, imperishable.	Dharma.	राजविद्याराजगुह्यंपवित्रमिदमुत्तमम्~।प्रत्यक्षावगमंधर्म्यंसुसुखंकर्तुमव्ययम्~॥ २ ॥	7
+T	राजविद्या	राज-विद्याking-learning	राज  (राजन्)first part of a compounda king; sovereign; prince; chief (often applied to gods)विद्याnoun, feminine nominative singularknowledge; science; learning; scholarship
+T	राजगुह्यं	राज-गुह्यम्king-secret	राज  (राजन्)first part of a compounda king; sovereign; prince; chief (often applied to gods)गुह्यम्  (गुह्य)noun, neuter nominative singulara secret; mystery; the pudenda; the anus
+T	पवित्रमिदमुत्तमम्	पवित्रम्purifierइदम्thisउत्तमम्highest	पवित्रम्  (पवित्र)noun, neuter nominative singulara means of purification; filter; strainer; Kusha grassइदम्pronoun, neuter nominative singularthis; (near deictic pronoun in Vedic)उत्तमम्  (उत्तम)adjective, neuter nominative singularuppermost; highest; chief; most elevated
+T	प्रत्यक्षावगमं	प्रत्यक्ष-अवगमम्present before the eyes-understanding	प्रत्यक्षfirst part of a compound (adjective)present before the eyes; visible; perceptible (opp. to paro'ksha); clearअवगमम्  (अवगम)noun, neuter nominative singularunderstanding; comprehension; intelligence
+T	धर्म्यं	धर्म्यम्righteous	धर्म्यम्  (धर्म्य)adjective, neuter nominative singularlegal; legitimate; usual; customary
+T	सुसुखं	सुwellसुखम्happiness	सुadverb[ibc.] good-; [ibc.] very; quite; feinसुखम्  (सुख)adjective, neuter nominative singularrunning swiftly or easily (only applied to cars or chariots); easy; pleasant (rarely with this meaning in Veda); agreeable
+T	कर्तुमव्ययम्	कर्तुम्to doअव्ययम्imperishable	कर्तुम्  (कृ)infinitiveto make like or similar; to consider equivalent; to reduce anything to; to cause to becomeअव्ययम्  (अव्यय)adjective, neuter nominative singularnot liable to change; imperishable; undecaying; parsimonious

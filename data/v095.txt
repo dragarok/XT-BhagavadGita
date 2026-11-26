@@ -1,0 +1,70 @@
+V	17.15		Speech causing no annoyance, truthful, pleasant and beneficial, the practice of the study of the Scriptures, are called the austerity of speech.		अनुद्वेगकरंवाक्यंसत्यंप्रियहितंचयत्~।स्वाध्यायाभ्यसनंचैववाङ्मयंतपउच्यते~॥ १५ ॥	11
+T	अनुद्वेगकरं	अनुद्वेग-करम्not trembling-making	अन्negative prefixnotnot; un-; in-उद्वेगfirst part of a compoundtrembling; waving; shaking; agitationकरम्  (कर)adjective, neuter nominative singularproducing; causing; making; helping
+T	वाक्यं	वाक्यम्word	वाक्यम्  (वाक्य)noun, neuter nominative singularspeech; saying; assertion; statement
+T	सत्यं	सत्यम्truth	सत्यम्  (सत्य)adjective, neuter nominative singulartrue; real; actual; genuine
+T	प्रियहितं	प्रिय-हितम्dear-welfare	प्रियfirst part of a compound (adjective)beloved; dear to; liked; favouriteहितम्  (हित)adjective, neuter nominative singularput; laid upon; situated in; established
+T	च	चand	चconjunctionand; both; also; moreover
+T	यत्	यत्which	यत्  (यद्)pronoun, neuter nominative singularwhat; which; who
+T	स्वाध्यायाभ्यसनं	स्वाध्याय-अभ्यसनम्scripture study-practice	स्वाध्यायfirst part of a compoundreciting or repeating or rehearsing to one's self; repetition or recitation of the Veda in a low voice to one's self; repeating the Veda aloudअभ्यसनम्  (अभ्यसन)noun, neuter nominative singularpractice; exercise
+T	चैव	चandएवindeed	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	वाङ्मयं	वाच्-मयम्speech-made of	वाच्first part of a compoundspeech; voice; talk; languageमयम्  (मय)adjective, neuter nominative singularconsisting or made of
+T	तप	तपःausterity	तपः  (तपस्)noun, neuter nominative singularwarmth; heat; pain; suffering
+T	उच्यते	उच्यतेis said	उच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare
+V	17.16		Mental happiness, equilibrium, silence, self-control, purity of nature - these are called the austerity of the mind.	Manah.	मनःप्रसादःसौम्यत्वंमौनमात्मविनिग्रहः~।भावसंशुद्धिरित्येतत्तपोमानसमुच्यते~॥ १६ ॥	5
+T	मनःप्रसादः	मनः-प्रसादःmind-serenity	मनः  (मनस्)first part of a compoundmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understandingप्रसादः  (प्रसाद)noun, masculine nominative singularclearness; brightness; pellucidnees; purity
+T	सौम्यत्वं	सौम्य-त्वम्gentleness	सौम्यfirst part of a compound (adjective)relating to Soma; cool and moist; northern; placidत्वम्  (त्व)noun, neuter nominative singular(suffix creating abstract nouns)
+T	मौनमात्मविनिग्रहः	मौनम्officeआत्म-विनिग्रहःself-separation	मौनम्  (मौन)noun, neuter nominative singularthe office or position of a Muni or holy sage; silence; taciturnityआत्म  (आत्मन्)first part of a compoundthe breath; the soul; principle of life and sensation; the individual soulविनिग्रहः  (विनिग्रह)noun, masculine nominative singularseparation; division; restraining; checking
+T	भावसंशुद्धिरित्येतत्तपो	भाव-संशुद्धिःstate-perfect purificationइतिthusएतत्thisतपःausterity	भावfirst part of a compoundbecoming; being; existing; occurringसंशुद्धिः  (संशुद्धि)noun, feminine nominative singularperfect purification or purity (also in a ritual sense); cleaning (the body); acquittal; acquittanceइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soएतत्  (एतद्)pronoun, neuter nominative singularthisतपः  (तपस्)noun, neuter nominative singularwarmth; heat; pain; suffering
+T	मानसमुच्यते	मानसम्mindउच्यतेis said	मानसम्  (मानस)adjective, neuter nominative singularbelonging to the spirit; mental; performed in thought; silentउच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare
+V	17.17		This threefold austerity, performed by men with the utmost faith, without desire for fruit, harmonised, is said to be pure.		श्रद्धयापरयातप्तंतपस्तत्त्रिविधंनरैः~।अफलाकाङ्क्षिभिर्युक्तैःसात्त्विकंपरिचक्षते~॥ १७ ॥	8
+T	श्रद्धया	श्रद्धयाwith faith	श्रद्धया  (श्रद्धा)noun, feminine instrumental singularfaith; confidence; trustfulness; faithfulness
+T	परया	परयाsupreme	परया  (पर)pronoun, feminine instrumental singularfar; remote; opposite; previous
+T	तप्तं	तप्तम्heated	तप्तम्  (तप्)participle, neuter accusative singularto give out heat; to be hot; to shine (as the sun); to make hot or warm
+T	तपस्तत्त्रिविधं	तपःausterityतत्thatत्रिविधम्threefold	तपः  (तपस्)noun, neuter accusative singularwarmth; heat; pain; sufferingतत्  (तद्)pronoun, neuter accusative singularthis; gleicherत्रिविधम्  (त्रिविध)adjective, neuter accusative singularof 3 kinds; triple; threefold
+T	नरैः	नरैःwith men	नरैः  (नर)noun, masculine instrumental plurala man; a male; a person; husband
+T	अफलाकाङ्क्षिभिर्युक्तैः	अफल-आकाङ्क्षिभिःnot fruit-desiringयुक्तैःharmonized	अnegative prefixnotnot; un-; in-फलfirst part of a compoundfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalansआकाङ्क्षिभिः  (आकाङ्क्षिन्)adjective, masculine instrumental pluralifc. wishing; desirous; hoping; expectingयुक्तैः  (युज्)participle, masculine instrumental pluralto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	सात्त्विकं	सात्त्विकम्pure	सात्त्विकम्  (सात्त्विक)adjective, neuter accusative singularspirited; vigorous; energetic; relating to or endowed with the quality Sattva
+T	परिचक्षते	परिचक्षतेoverlook	परिचक्षते  (परिचक्ष्)verb: present 3rd person pluralto overlook; to pass over; to despise; to reject
+V	17.18		The austerity which is practised with the object of gaining respect, honour and worship, and for ostentation, is said to be of passion, unstable and fleeting.		सत्कारमानपूजार्थंतपोदम्भेनचैवयत्~।क्रियतेतदिहप्रोक्तंराजसंचलमध्रुवम्~॥ १८ ॥	10
+T	सत्कारमानपूजार्थं	सत्कार-मान-पूजा-अर्थम्kind treatment-honour-honour-purpose	सत्कारfirst part of a compoundkind treatment; honour; favour; reverenceमानfirst part of a compoundopinion; notion; conception; ideaपूजाfirst part of a compoundhonour; worship; respect; reverenceअर्थम्  (अर्थ)noun, masculine accusative singularaim; purpose; cause; motive
+T	तपो	तपःausterity	तपः  (तपस्)noun, neuter nominative singularwarmth; heat; pain; suffering
+T	दम्भेन	दम्भेनwith hypocrisy	दम्भेन  (दम्भ)noun, masculine instrumental singulardeceit; fraud; feigning; hypocrisy
+T	चैव	चandएवindeed	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	यत्	यत्which	यत्  (यद्)pronoun, neuter nominative singularwhat; which; who
+T	क्रियते	क्रियतेis done	क्रियते  (कृ)verb: passive present 3rd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	तदिह	तत्thatइहhere	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherइहadverbin this place; here; to this place; in this world
+T	प्रोक्तं	प्रोक्तम्declared	प्रोक्तम्  (प्रवच्)participle, neuter nominative singularto proclaim; to announce; to praise; to commend
+T	राजसं	राजसम्passionate	राजसम्  (राजस)adjective, neuter nominative singularbelonging or relating to the quality rajas; endowed with or influenced by the quality of passion
+T	चलमध्रुवम्	चलम्movingअध्रुवम्not firm	चलम्  (चल)adjective, neuter nominative singularmoving; trembling; shaking; looseअध्रुवम्  (अध्रुव)adjective, neuter nominative singularnot firm; mobile
+V	17.19		That austerity done under a deluded understanding, with self-torture, or with the object of destroying another, that is declared of darkness.		मूढग्राहेणात्मनोयत्पीडयाक्रियतेतपः~।परस्योत्सादनार्थंवातत्तामसमुदाहृतम्~॥ १९ ॥	7
+T	मूढग्राहेणात्मनो	मूढ-ग्राहेणwith deluded-rapacious animal livingआत्मनःof self	मूढ  (मुह्)first part of a compound (verb)to become stupefied or unconscious; to be bewildered or perplexed; to err; to be mistakenग्राहेण  (ग्राह)noun, masculine instrumental singulara rapacious animal living in fresh or sea water; any large fish or marine animal; Gangetic alligator; water elephantआत्मनः  (आत्मन्)noun, masculine genitive singularthe breath; the soul; principle of life and sensation; the individual soul
+T	यत्पीडया	यत्whichपीडयाwith pain	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoपीडया  (पीडा)noun, feminine instrumental singularpain; suffering; annoyance; harm
+T	क्रियते	क्रियतेis done	क्रियते  (कृ)verb: passive present 3rd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	तपः	तपःausterity	तपः  (तपस्)noun, neuter nominative singularwarmth; heat; pain; suffering
+T	परस्योत्सादनार्थं	परस्यsupremeउत्सादन-अर्थम्putting away-purpose	परस्य  (पर)pronoun, masculine genitive singularfar; remote; opposite; previousउत्सादनfirst part of a compoundputting away or aside; suspending; interrupting; omittingअर्थम्  (अर्थ)noun, masculine accusative singularaim; purpose; cause; motive
+T	वा	वाor	वाconjunctioneither - or; on the one side - on the other side; optionally
+T	तत्तामसमुदाहृतम्	तत्thatतामसम्dullउदाहृतम्declared	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherतामसम्  (तामस)adjective, neuter nominative singulardark; appertaining to or affected by the quality tamas; ignorant; variousउदाहृतम्  (उदाहृ)participle, neuter nominative singularto set up; to put up; to relate; to declare
+V	17.20		That alms given to one who does nothing in return, believing that a gift ought to be made in a fit place and time to a worthy person, that alms is accounted pure.		दातव्यमितियद्दानंदीयतेऽनुपकारिणे~।देशेकालेचपात्रेचतद्दानंसात्त्विकंस्मृतम्~॥ २० ॥	11
+T	दातव्यमिति	दातव्यम्to be givenइतिthus	दातव्यम्  (दा)gerundive (to be ...), neuter nominative singularto give; to offer to; to yield; to give (a daughter) in marriageइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	यद्दानं	यत्whichदानम्giving	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoदानम्  (दान)noun, neuter nominative singularthe act of giving; giving in marriage; giving up; communicating
+T	दीयतेऽनुपकारिणे	दीयतेis givenअनुपकारिणेnot assisting	दीयते  (दा)verb: passive present 3rd person singularto give; to offer to; to yield; to give (a daughter) in marriageअनुपकारिणे  (अनुपकारिन्)adjective, masculine dative singularnot assisting; disobliging; ungrateful; not making a return for benefits received
+T	देशे	देशेin place	देशे  (देश)noun, masculine locative singularpoint; region; spot; place
+T	काले	कालेin time	काले  (काल)noun, masculine locative singulartime; the proper time or season for; a spot; tense
+T	च	चand	चconjunctionand; both; also; moreover
+T	पात्रे	पात्रेin drinking-vessel	पात्रे  (पात्र)noun, neuter locative singulara drinking-vessel; goblet; bowl; cup
+T	च	चand	चconjunctionand; both; also; moreover
+T	तद्दानं	तत्thatदानम्giving	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherदानम्  (दान)noun, neuter nominative singularthe act of giving; giving in marriage; giving up; communicating
+T	सात्त्विकं	सात्त्विकम्pure	सात्त्विकम्  (सात्त्विक)adjective, neuter nominative singularspirited; vigorous; energetic; relating to or endowed with the quality Sattva
+T	स्मृतम्	स्मृतम्remembered	स्मृतम्  (स्मृ)participle, neuter nominative singularto remember; to recollect; to bear in mind; to think of
+V	17.21		That given with a view to receiving in return, or looking for fruit again, or grudgingly, that alms is accounted of passion.		यत्तुप्रत्युपकारार्थंफलमुद्दिश्यवापुनः~।दीयतेचपरिक्लिष्टंतद्दानंराजसंस्मृतम्~॥ २१ ॥	11
+T	यत्तु	यत्whichतुbut	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoतुparticledo; now; then; but
+T	प्रत्युपकारार्थं	प्रत्युपकार-अर्थम्returning a service-purpose	प्रत्युपकारfirst part of a compoundreturning a service or favour; gratitudeअर्थम्  (अर्थ)noun, masculine accusative singularaim; purpose; cause; motive
+T	फलमुद्दिश्य	फलम्fruitउद्दिश्यhaving intended	फलम्  (फल)noun, neuter accusative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalansउद्दिश्य  (उद्दिश्)absolutive (having ...)intendto show or direct towards; to point out; to signify; to declare
+T	वा	वाor	वाconjunctioneither - or; on the one side - on the other side; optionally
+T	पुनः	पुनःagain	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and again
+T	दीयते	दीयतेis given	दीयते  (दा)verb: passive present 3rd person singularto give; to offer to; to yield; to give (a daughter) in marriage
+T	च	चand	चconjunctionand; both; also; moreover
+T	परिक्लिष्टं	परिक्लिष्टम्pained	परिक्लिष्टम्  (परिक्लिश्)participle, neuter nominative singularto pain; to torment; to vex; to harass
+T	तद्दानं	तत्thatदानम्giving	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherदानम्  (दान)noun, neuter nominative singularthe act of giving; giving in marriage; giving up; communicating
+T	राजसं	राजसम्passionate	राजसम्  (राजस)adjective, neuter nominative singularbelonging or relating to the quality rajas; endowed with or influenced by the quality of passion
+T	स्मृतम्	स्मृतम्remembered	स्मृतम्  (स्मृ)participle, neuter nominative singularto remember; to recollect; to bear in mind; to think of

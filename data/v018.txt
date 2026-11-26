@@ -1,0 +1,65 @@
+V	2.67		Such of the roving senses as the mind yieldeth to, that hurries away the understanding, justas the gale hurries away a ship upon the waters.	Manah.Prajnâ.	इन्द्रियाणांहिचरतांयन्मनोऽनुविधीयते~।तदस्यहरतिप्रज्ञांवायुर्नावमिवाम्भसि~॥ ६७ ॥	9
+T	इन्द्रियाणां	इन्द्रियाणाम्of senses	इन्द्रियाणाम्  (इन्द्रिय)noun, neuter genitive pluralpower; force; the quality which belongs especially to the mighty Indra; exhibition of power
+T	हि	हिfor	हिparticlefor; because; on account of
+T	चरतां	चरताम्moving	चरताम्  (चर्)present participle, neuter genitive plural[alchemy]; [alchemy] grâs karnâ; to observe (a vow); (Kuh) weiden
+T	यन्मनोऽनु	यत्whichमनःmind	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoमनः  (मनस्)noun, neuter nominative singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	विधीयते	अनुविधीयतेis greeted respectfully	अनुविधीयते  (अनुविधा)verb: passive present 3rd person singularto greet respectfully; to distribute; to act accordingly to
+T	तदस्य	तत्thatअस्यof this	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherअस्य  (इदम्)pronoun, masculine genitive singularthis; (near deictic pronoun in Vedic)
+T	हरति	हरतिcarries away	हरति  (हृ)verb: present 3rd person singularto take; to bear; to carry in or on; to take away
+T	प्रज्ञां	प्रज्ञाम्wisdom	प्रज्ञाम्  (प्रज्ञा)noun, feminine accusative singularwisdom; intelligence; knowledge; discrimination
+T	वायुर्नावमिवाम्भसि	वायुःwindनावम्shipइवlikeअम्भसिin body of water	वायुः  (वायु)noun, masculine nominative singularwindwind; air (as one of the 5 elements); the god of the wind; breathingनावम्  (नौ)noun, feminine accusative singularshipa ship; boat; vessel; name of a particular appearance of the moonइवparticlelikelike; in the same manner as (in this sense = yathâ); as it were; as ifअम्भसि  (अम्भस्)noun, neuter locative singularbody of waterwater; the celestial waters; power; fruitfulness
+V	2.68		Therefore, O mighty-armed, whose senses are all completely restrained from the objects of sense, of him the understanding is well poised.		तस्माद्यस्यमहाबाहोनिगृहीतानिसर्वशः~।इन्द्रियाणीन्द्रियार्थेभ्यस्तस्यप्रज्ञाप्रतिष्ठिता~॥ ६८ ॥	7
+T	तस्माद्यस्य	तस्मात्thereforeयस्यwhose	तस्मात्adverbthereforeयस्य  (यद्)pronoun, masculine genitive singularwhat; which; who
+T	महाबाहो	महा-बाहोO mighty-armed	महा  (महत्)first part of a compound (adjective)great; large; big; hugeबाहो  (बाहु)noun, masculine vocative singularthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	निगृहीतानि	निगृहीतानिheld down	निगृहीतानि  (निग्रह्)participle, neuter nominative pluralto hold down; to lower; to depress; to keep or hold back
+T	सर्वशः	सर्वशःwholly	सर्वशः  (सर्वशस्)adverbwholly; completely; entirely; thoroughly
+T	इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य	इन्द्रियाणिsensesइन्द्रिय-अर्थेभ्यःfrom sense-purposesतस्यhis	इन्द्रियाणि  (इन्द्रिय)noun, neuter nominative pluralpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerइन्द्रियfirst part of a compoundpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerअर्थेभ्यः  (अर्थ)noun, masculine ablative pluralaim; purpose; cause; motiveतस्य  (तद्)pronoun, masculine genitive singularthis; gleicher
+T	प्रज्ञा	प्रज्ञाwisdom	प्रज्ञाnoun, feminine nominative singularwisdom; intelligence; knowledge; discrimination
+T	प्रतिष्ठिता	प्रतिष्ठिताestablished	प्रतिष्ठिता  (प्रतिष्ठा)participle, feminine nominative singularto stand; to stay; to abide; to dwell
+V	2.69		That which is the night of all beings, for the disciplined man is the time of waking; when other beings are waking, then is it night for the sage who seeth.	The sage is awake to things over which the ordinary man sleeps and the eyes of the sage are open to truths shut out from the common vision, while vice versa that which is real for the masses is illusion for the sage.	यानिशासर्वभूतानांतस्यांजागर्तिसंयमी~।यस्यांजाग्रतिभूतानिसानिशापश्यतोमुनेः~॥ ६९ ॥	13
+T	या	याwho	या  (यद्)pronoun, feminine nominative singularwhat; which; who
+T	निशा	निशाnight	निशाnoun, feminine nominative singularnight; a vision; dream; turmeric
+T	सर्वभूतानां	सर्व-भूतानाम्of all-beings	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतानाम्  (भूत)noun, neuter genitive pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	तस्यां	तस्याम्in her	तस्याम्  (तद्)pronoun, feminine locative singularthis; gleicher
+T	जागर्ति	जागर्तिis awake	जागर्ति  (जागृ)verb: present 3rd person singularto be awake or watchful; to awake; to watch over; to be attentive to or intent on
+T	संयमी	संयमीwho	संयमी  (संयमिन्)adjective, masculine nominative singularwho or what restrains or curbs or subdues; one who subdues his passions; tied up (as hair)
+T	यस्यां	यस्याम्in whom	यस्याम्  (यद्)pronoun, feminine locative singularwhat; which; who
+T	जाग्रति	जाग्रतिare awake	जाग्रति  (जागृ)verb: present 3rd person pluralto be awake or watchful; to awake; to watch over; to be attentive to or intent on
+T	भूतानि	भूतानिbeings	भूतानि  (भूत)noun, neuter nominative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	सा	साshe	सा  (तद्)pronoun, feminine nominative singularthis; gleicher
+T	निशा	निशाnight	निशाnoun, feminine nominative singularnight; a vision; dream; turmeric
+T	पश्यतो	पश्यतःseeing	पश्यतः  (दृश्)present participle, masculine genitive singularto behold; to look at; to regard; to consider
+T	मुनेः	मुनेःof sage	मुनेः  (मुनि)noun, masculine genitive singularimpulse; eagerness (?); any one who is moved by inward impulse; an inspired or ecstatic person
+V	2.70		He attaineth Peace, into whom all desires flow as rivers flow into the ocean, which is filled with water, but remaineth unmoved - not he who desireth desires.		आपूर्यमाणमचलप्रतिष्ठंसमुद्रमापःप्रविशन्तियद्वत्~।तद्वत्कामायंप्रविशन्तिसर्वेसशान्तिमाप्नोतिनकामकामी~॥ ७० ॥	12
+T	आपूर्यमाणमचलप्रतिष्ठं	आपूर्यमाणम्being filled upअचल-प्रतिष्ठम्unmoving-be established	आपूर्यमाणम्  (आप्￞)present participle, masculine accusative singularto fill up; to fulfil; to fill; to do any one's desireअचलfirst part of a compound (adjective)not moving; immovable; firmप्रतिष्ठम्  (प्रतिष्ठा)noun, masculine accusative singularstanding still; resting; remaining; steadfastness
+T	समुद्रमापः	समुद्रम्seaआपःwaters	समुद्रम्  (समुद्र)noun, masculine accusative singularthe sea; ocean (in Veda also "the aerial waters"); name of the number four; a large Soma vesselआपः  (अप्)noun, feminine nominative pluralwater
+T	प्रविशन्ति	प्रविशन्तिenter	प्रविशन्ति  (प्रविश्)verb: present 3rd person pluralto enter; to go into; to resort to (acc. or loc.); to marry
+T	यद्वत्	यद्वत्in which way	यद्वत्adverbin which way; as (correlative of tadvat and evam)
+T	तद्वत्कामा	तद्वत्like thatकामाःdesires	तद्वत्adverblike that; thus; so (correlative of yadvat)कामाः  (काम)noun, masculine nominative pluralwish; desire; longing; desire for
+T	यं	यम्whom	यम्  (यद्)pronoun, masculine accusative singularwhat; which; who
+T	प्रविशन्ति	प्रविशन्तिenter	प्रविशन्ति  (प्रविश्)verb: present 3rd person pluralto enter; to go into; to resort to (acc. or loc.); to marry
+T	सर्वे	सर्वेall	सर्वे  (सर्व)pronoun, masculine nominative pluralwhole; entire; all; every
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	शान्तिमाप्नोति	शान्तिम्peaceआप्नोतिobtains	शान्तिम्  (शान्ति)noun, feminine accusative singulartranquillity; peace; quiet; peace or calmness of mindआप्नोति  (आप्)verb: present 3rd person singularto reach; to overtake; to meet with; to fall upon
+T	न	नnot	नparticlenot; no; nor; neither
+T	कामकामी	काम-कामीdesire-lover	कामfirst part of a compoundwish; desire; longing; desire forकामी  (कामिन्)noun, masculine nominative singulara lover; gallant; anxious husband; the ruddy goose
+V	2.71		Whoso forsaketh all desires and goeth onwards free from yearnings, selfless and without egoism - he goeth to Peace.		विहायकामान्यःसर्वान्पुमांश्चरतिनिःस्पृहः~।निर्ममोनिरहङ्कारःसशान्तिमधिगच्छति~॥ ७१ ॥	8
+T	विहाय	विहायhaving abandoned	विहाय  (विहा)absolutive (having ...)to leave behind; to relinquish; to quit; to abandon
+T	कामान्यः	कामान्desiresयःwho	कामान्  (काम)noun, masculine accusative pluralwish; desire; longing; desire forयः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	सर्वान्पुमांश्चरति	सर्वान्allपुमान्manचरतिmoves	सर्वान्  (सर्व)pronoun, masculine accusative pluralwhole; entire; all; everyपुमान्  (पुंस्)noun, masculine nominative singulara man; a male being; (in gram.) a masculine; a human beingचरति  (चर्)verb: present 3rd person singular[alchemy]; [alchemy] grâs karnâ; to observe (a vow); (Kuh) weiden
+T	निःस्पृहः	निःस्पृहःfree from desire	निःस्पृहः  (निःस्पृह)adjective, masculine nominative singularfree from desire; not longing for
+T	निर्ममो	निर्ममःunpossessive	निर्ममः  (निर्मम)adjective, masculine nominative singularunselfish; free from all wordly connections; indifferent to
+T	निरहङ्कारः	निरहंकारःfree from egotism	निरहंकारः  (निरहंकार)adjective, masculine nominative singularfree from egotism; unselfish; humble
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	शान्तिमधिगच्छति	शान्तिम्peaceअधिगच्छतिattains	शान्तिम्  (शान्ति)noun, feminine accusative singulartranquillity; peace; quiet; peace or calmness of mindअधिगच्छति  (अधिगम्)verb: present 3rd person singularto go up to; to approach; to overtake; to approach for sexual intercourse
+V	2.72		This is the Eternal state, O son of Prithâ. Having attained thereto, none is bewildered. Who, even at the death-hour, is established therein, he goeth to the Nirvâna of the Eternal.		एषाब्राह्मीस्थितिःपार्थनैनांप्राप्यविमुह्यति~।स्थित्वाऽस्यामन्तकालेऽपिब्रह्मनिर्वाणमृच्छति~॥ ७२ ॥	10
+T	एषा	एषाthis	एषा  (एतद्)pronoun, feminine nominative singularthis
+T	ब्राह्मी	ब्राह्मीrelating to Brahma	ब्राह्मी  (ब्राह्म)adjective, feminine nominative singularrelating to Brahma or Brahmâ; holy; sacred; divine
+T	स्थितिः	स्थितिःsteadiness	स्थितिः  (स्थिति)noun, feminine nominative singularstanding upright or firmly; not falling; standing; staying
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	नैनां	नnotएनाम्it	नparticlenot; no; nor; neitherएनाम्  (एनद्)pronoun, feminine accusative singularthis; (anaphoric pronoun in Vedic)
+T	प्राप्य	प्राप्यhaving attained	प्राप्य  (प्राप्)absolutive (having ...)to attain to; to reach; to arrive at; to meet with
+T	विमुह्यति	विमुह्यतिis bewildered	विमुह्यति  (विमुह्)verb: present 3rd person singularto be confused; to become bewildered or stupefied; to faint away
+T	स्थित्वाऽस्यामन्तकालेऽपि	स्थित्वाhaving stoodअस्याम्in thisअन्त-कालेin end-timeअपिalso	स्थित्वा  (स्था)absolutive (having ...)to stand; to station one's self; to get upon; to stayअस्याम्  (इदम्)pronoun, feminine locative singularthis; (near deictic pronoun in Vedic)अन्तfirst part of a compoundend; limit; boundary; termकाले  (काल)noun, masculine locative singulartime; the proper time or season for; a spot; tenseअपिparticlealso; moreover; besides; assuredly
+T	ब्रह्म	ब्रह्मBrahman	ब्रह्म  (ब्रह्मन्)noun, neuter nominative singularbrahmanpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	निर्वाणमृच्छति	ब्रह्म-निर्वाणम्Brahman-nirvanaऋच्छतिgoes	ब्रह्म  (ब्रह्मन्)first part of a compoundone who Prays; a devot or religious man; a Brâhman who is a knower of Vedic texts or spells; one versed in sacred knowledgeनिर्वाणम्  (निर्वाण)noun, neuter accusative singularblowing out; extinction; cessation; settingऋच्छति  (ऋछ्)verb: present 3rd person singularto go; to send; etwas austeilen; (Rauch) aufsteigen

@@ -1,0 +1,81 @@
+V	18.8		He who relinquisheth an action from fear of physical suffering, saying "Painful," thus performing a passionate relinquishment, obtaineth not the fruit of relinquishment.		दुःखमित्येवयत्कर्मकायक्लेशभयात्त्यजेत्~।सकृत्वाराजसंत्यागंनैवत्यागफलंलभेत्~॥ ८ ॥	10
+T	दुःखमित्येव	दुःखम्painइतिthusएवindeed	दुःखम्  (दुःख)noun, neuter nominative singularuneasiness; pain; sorrow; troubleइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	यत्कर्म	यत्whichकर्मaction	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoकर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	कायक्लेशभयात्त्यजेत्	काय-क्लेश-भयात्from body-pain-fearत्यजेत्should abandon	कायfirst part of a compoundthe body; the trunk of a tree; the body of a lute (the whole except the wires); assemblageक्लेशfirst part of a compoundpain; affliction; distress; pain from diseaseभयात्  (भय)noun, neuter ablative singularfear; alarm; fear of; terrorत्यजेत्  (त्यज्)verb: present optative 3rd person singularto leave; to abandon; to quit; to leave a place
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	कृत्वा	कृत्वाhaving done	कृत्वा  (कृ)absolutive (having ...)to make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	राजसं	राजसम्passionate	राजसम्  (राजस)adjective, masculine accusative singularbelonging or relating to the quality rajas; endowed with or influenced by the quality of passion
+T	त्यागं	त्यागम्relinquishment	त्यागम्  (त्याग)noun, masculine accusative singularleaving; abandoning; forsaking; quitting (a place)
+T	नैव	नnotएवindeed	नparticlenot; no; nor; neitherएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	त्यागफलं	त्याग-फलम्relinquishment-fruit	त्यागfirst part of a compoundleaving; abandoning; forsaking; quitting (a place)फलम्  (फल)noun, neuter accusative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	लभेत्	लभेत्should obtain	लभेत्  (लभ्)verb: present optative 3rd person singularto take; to seize; to catch; to meet with
+V	18.9		He who performeth a prescribed action, saying, "it ought to be done," O Arjuna, relinquishing attachment and also fruit, that relinquishment is regarded as pure.		कार्यमित्येवयत्कर्मनियतंक्रियतेऽर्जुन~।सङ्गंत्यक्त्वाफलंचैवसत्यागःसात्त्विकोमतः~॥ ९ ॥	12
+T	कार्यमित्येव	कार्यम्to be doneइतिthusएवindeed	कार्यम्  (कृ)gerundive (to be ...), neuter nominative singularto make like or similar; to consider equivalent; to reduce anything to; to cause to becomeइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	यत्कर्म	यत्whichकर्मaction	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoकर्म  (कर्मन्)noun, neuter nominative singularact; action; performance; business
+T	नियतं	नियतम्certainly	नियतम्adverbcertainly; invariably
+T	क्रियतेऽर्जुन	क्रियतेis doneअर्जुनO Arjuna	क्रियते  (कृ)verb: passive present 3rd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to becomeअर्जुनnoun, masculine vocative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	सङ्गं	सङ्गम्attachment	सङ्गम्  (सङ्ग)noun, masculine accusative singularsticking; clinging to; touch; contact with
+T	त्यक्त्वा	त्यक्त्वाhaving abandoned	त्यक्त्वा  (त्यज्)absolutive (having ...)to leave; to abandon; to quit; to leave a place
+T	फलं	फलम्fruit	फलम्  (फल)noun, neuter accusative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	चैव	चandएवindeed	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	त्यागः	त्यागःrelinquishment	त्यागः  (त्याग)noun, masculine nominative singularleaving; abandoning; forsaking; quitting (a place)
+T	सात्त्विको	सात्त्विकःpure	सात्त्विकः  (सात्त्विक)adjective, masculine nominative singularspirited; vigorous; energetic; relating to or endowed with the quality Sattva
+T	मतः	मतःthought	मतः  (मन्)participle, masculine nominative singularto think; to believe; to imagine; to suppose
+V	18.10		The relinquisher pervaded by purity, intelligent and with doubts cut away, hateth not unpleasurable action nor is attached to pleasurable.		नद्वेष्ट्यकुशलंकर्मकुशलेनानुषज्जते~।त्यागीसत्त्वसमाविष्टोमेधावीछिन्नसंशयः~॥ १० ॥	9
+T	न	नnot	नparticlenot; no; nor; neither
+T	द्वेष्ट्यकुशलं	द्वेष्टिhatesअकुशलम्inauspicious	द्वेष्टि  (द्विष्)verb: present 3rd person singulardisliketo hate; to show hatred against; to be hostile or unfriendly; to be a rival or a match forअकुशलम्  (अकुशल)adjective, neuter accusative singularinauspiciousinauspicious; evil; not clever
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularactionact; action; performance; business
+T	कुशले	कुशलेgood	कुशले  (कुशल)adjective, neuter locative singulargoodproper; suitable; good; well
+T	नानुषज्जते	नnotअनुषज्जतेadheres	नparticlenotnot; no; nor; neitherअनुषज्जते  (अनुषञ्ज्)verb: present 3rd person singularadhereto cling to; to adhere; to be attached to; to be added (as some words to a statement)
+T	त्यागी	त्यागीrelinquisher	त्यागी  (त्यागिन्)adjective, masculine nominative singularrenouncingliberal; avoiding
+T	सत्त्वसमाविष्टो	सत्त्व-समाविष्टःgoodness-endowed	सत्त्वfirst part of a compoundwisdombeing; existence; reality; true essenceसमाविष्टः  (समाविश्)participle, masculine nominative singularendowto enter together or at once; to enter into; to enter thoroughly; to take possession of
+T	मेधावी	मेधावीintelligent	मेधावी  (मेधाविन्)adjective, masculine nominative singularintelligent= -vat
+T	छिन्नसंशयः	छिन्न-संशयःcut-doubt	छिन्न  (छिद्)first part of a compound (verb)destroyto cut off; to amputate; to hew; to chopसंशयः  (संशय)noun, masculine nominative singulardoubtlying down to rest or sleep; uncertainty; irresolution; hesitation
+V	18.11		Nor indeed can embodied beings completely relinquish action; verily he who relinquisheth the fruit of action, he is said to be a relinquisher.		नहिदेहभृताशक्यंत्यक्तुंकर्माण्यशेषतः~।यस्तुकर्मफलत्यागीसत्यागीत्यभिधीयते~॥ ११ ॥	10
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	हि	हिfor	हिparticleforfor; because; on account of
+T	देहभृता	देहभृताwith embodied one	देहभृता  (देहभृत्)noun, masculine instrumental singularcreaturea living creature (esp. man); name of Shiva; life; vitality
+T	शक्यं	शक्यम्possible	शक्यम्  (शक्य)adjective, neuter nominative singularpossibleable; possible; practicable; capable of being
+T	त्यक्तुं	त्यक्तुम्to abandon	त्यक्तुम्  (त्यज्)infinitiveavoidto leave; to abandon; to quit; to leave a place
+T	कर्माण्यशेषतः	कर्माणिactionsअशेषतःfully	कर्माणि  (कर्मन्)noun, neuter accusative pluralactionact; action; performance; businessअशेषतः  (अशेषतस्)adverbwhollytotally; without remainder
+T	यस्तु	यःwhoतुbut	यः  (यद्)pronoun, masculine nominative singularwhat; which; whoतुparticlenowdo; now; then; but
+T	कर्मफलत्यागी	कर्म-फल-त्यागीaction-fruit-relinquisher	कर्म  (कर्मन्)first part of a compoundactionact; action; performance; businessफलfirst part of a compoundresultfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalansत्यागी  (त्यागिन्)adjective, masculine nominative singularrenouncingliberal; avoiding
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthisthis; gleicher
+T	त्यागीत्यभिधीयते	त्यागीrelinquisherइतिthusअभिधीयतेis called	त्यागी  (त्यागिन्)adjective, masculine nominative singularrenouncingliberal; avoidingइतिparticlethusin this manner; thus (in its original signification iti refers to something that has been said or thought); soअभिधीयते  (अभिधा)verb: passive present 3rd person singularcallto surrender any one to; to bring upon (dat.); to put on the furniture of a horse; to cover (a country) with an army
+V	18.12		Good, evil and mixed - threefold is the fruit of action hereafter for the non-relinquisher; but there is none ever for the renouncer.		अनिष्टमिष्टंमिश्रंचत्रिविधंकर्मणःफलम्~।भवत्यत्यागिनांप्रेत्यनतुसंन्यासिनांक्वचित्~॥ १२ ॥	12
+T	अनिष्टमिष्टं	अनिष्टम्unwishedइष्टम्desired	अनिष्टम्  (अनिष्ट)adjective, neuter nominative singularunwished; undesirable; disadvantageous; unfavourableइष्टम्  (इष्)participle, neuter nominative singularto seek for; to desire; to intend; to assent
+T	मिश्रं	मिश्रम्mixed	मिश्रम्  (मिश्र)adjective, neuter nominative singularmixed; mingled; manifold; diverse
+T	च	चand	चconjunctionand; both; also; moreover
+T	त्रिविधं	त्रिविधम्threefold	त्रिविधम्  (त्रिविध)adjective, neuter nominative singularof 3 kinds; triple; threefold
+T	कर्मणः	कर्मणःof action	कर्मणः  (कर्मन्)noun, neuter genitive singularact; action; performance; business
+T	फलम्	फलम्fruit	फलम्  (फल)noun, neuter nominative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	भवत्यत्यागिनां	भवतिisअत्यागिनाम्not renouncing	भवति  (भू)verb: present 3rd person singularto be; to become; to come into being; to happenअत्यागिनाम्  (अत्यागिन्)adjective, masculine genitive pluralnot renouncing; not giving up
+T	प्रेत्य	प्रेत्यhaving come forth	प्रेत्य  (प्रे)absolutive (having ...)to come forth; to appear; to begin; to go on
+T	न	नnot	नparticlenot; no; nor; neither
+T	तु	तुbut	तुparticledo; now; then; but
+T	संन्यासिनां	संन्यासिनाम्renouncer	संन्यासिनाम्  (संन्यासिन्)adjective, masculine genitive plurallaying aside; giving up; abandoning; renouncing
+T	क्वचित्	क्वचिद्anywhere	क्वचिद्adverbanywhere; somewhere; at any time; sometimes
+V	18.13		These five causes, O mighty-armed, learn of Me as declared in the Sânkhya system for the accomplishment of all actions:		पञ्चैतानिमहाबाहोकारणानिनिबोधमे~।साङ्ख्येकृतान्तेप्रोक्तानिसिद्धयेसर्वकर्मणाम्~॥ १३ ॥	10
+T	पञ्चैतानि	पञ्चfiveएतानिthese	पञ्च  (पञ्चन्)number, neuter accusative pluralfiveएतानि  (एतद्)pronoun, neuter accusative pluralthis
+T	महाबाहो	महा-बाहोO mighty-armed	महा  (महत्)first part of a compound (adjective)great; large; big; hugeबाहो  (बाहु)noun, masculine vocative singularthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	कारणानि	कारणानिcauses	कारणानि  (कारण)noun, neuter accusative pluralcause; reason; the cause of anything; instrument
+T	निबोध	निबोधknow!	निबोध  (निबुध्)verb: present imperative 2nd person singularto learn or hear anything (acc.) from any one; to attend or listen to; to know; to understand
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	साङ्ख्ये	सांख्येin Sankhya	सांख्ये  (सांख्य)noun, neuter locative singularname of one of the three great divisions of Hindû philosophy
+T	कृतान्ते	कृतान्तेin destiny	कृतान्ते  (कृतान्त)noun, masculine locative singulardestiny; fate; name of Yama
+T	प्रोक्तानि	प्रोक्तानिdeclared	प्रोक्तानि  (प्रवच्)participle, neuter accusative pluralto proclaim; to announce; to praise; to commend
+T	सिद्धये	सिद्धयेfor success	सिद्धये  (सिद्धि)noun, feminine dative singularaccomplishment; performance; fulfilment; complete attainment (of any object)
+T	सर्वकर्मणाम्	सर्व-कर्मणाम्of all-actions	सर्वfirst part of a compound (pronoun)whole; entire; all; everyकर्मणाम्  (कर्मन्)noun, neuter genitive pluralact; action; performance; business
+V	18.14		The body, the actor, the various organs, the diverse kinds of energies, and the presiding deities also, the fifth.		अधिष्ठानंतथाकर्ताकरणंचपृथग्विधम्~।विविधाश्चपृथक्चेष्टादैवंचैवात्रपञ्चमम्~॥ १४ ॥	11
+T	अधिष्ठानं	अधिष्ठानम्standing by	अधिष्ठानम्  (अधिष्ठान)noun, neuter nominative singularstanding by; being at hand; approach; standing or resting upon
+T	तथा	तथाlikewise	तथाadverbin that manner; so; thus; yes
+T	कर्ता	कर्ताdoer	कर्ता  (कर्तृ)noun, masculine nominative singularthe creator of the world; name of Vishnu; name of Brahman; name of Shiva
+T	करणं	करणम्act of making	करणम्  (करण)noun, neuter nominative singularact of making; doing; producing; effecting
+T	च	चand	चconjunctionand; both; also; moreover
+T	पृथग्विधम्	पृथग्विधम्diverse	पृथग्विधम्  (पृथग्विध)adjective, neuter nominative singularof distinct kinds; manifold; various; distinct from (abl.)
+T	विविधाश्च	विविधाःvariousचand	विविधाः  (विविध)adjective, feminine nominative pluralof various sorts; manifold; divers; eventfulचconjunctionand; both; also; moreover
+T	पृथक्चेष्टा	पृथक्separatelyचेष्टाःmoving any limbs	पृथक्adverbwidely apart; separately; differently; singlyचेष्टाः  (चेष्टा)noun, feminine nominative pluralmoving any limb; gesture; action; activity
+T	दैवं	दैवम्divine	दैवम्  (दैव)noun, neuter nominative singulara religious offering or rite; divine power or will; destiny; fate
+T	चैवात्र	चandएवindeedअत्रhere	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeedअत्रadverbin this matter; in this respect; in this place; here
+T	पञ्चमम्	पञ्चमम्fifth	पञ्चमम्  (पञ्चम)adjective, neuter nominative singularthe fifth; forming the 5th part

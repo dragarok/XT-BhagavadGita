@@ -1,0 +1,65 @@
+V	13.2	The Blessed Lord said:	This body, son of Kuntî, is called the Field; that which knoweth it is called the Knower of the Field by the Sages.		श्रीभगवानुवाच~।इदंशरीरंकौन्तेयक्षेत्रमित्यभिधीयते~।एतद्योवेत्तितंप्राहुःक्षेत्रज्ञइतितद्विदः~॥ २ ॥	12
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundmisterlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularKrishnaname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	इदं	इदम्this	इदम्pronoun, neuter nominative singularthisthis; (near deictic pronoun in Vedic)
+T	शरीरं	शरीरम्body	शरीरम्  (शरीर)noun, neuter nominative singularbodythe body; bodily frame; solid parts of the body; any solid body (opp. to udaka etc.)
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularArjunametron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	क्षेत्रमित्यभिधीयते	क्षेत्रम्fieldइतिthusअभिधीयतेis called	क्षेत्रम्  (क्षेत्र)noun, neuter nominative singularfieldlanded property; land; soil; name of a kind of tutelary deityइतिparticlesoin this manner; thus (in its original signification iti refers to something that has been said or thought); soअभिधीयते  (अभिधा)verb: passive present 3rd person singularnameto surrender any one to; to bring upon (dat.); to put on the furniture of a horse; to cover (a country) with an army
+T	एतद्यो	एतत्thisयःwho	एतत्  (एतद्)pronoun, neuter accusative singularthisthisयः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	वेत्ति	वेत्तिknows	वेत्ति  (विद्)verb: present 3rd person singularknowto know; to understand; to learn; to be conscious of
+T	तं	तम्him	तम्  (तद्)pronoun, masculine accusative singularhe,she,it (pers. pron.)this; gleicher
+T	प्राहुः	प्राहुःcalled	प्राहुः  (प्राह्)verb: perfect 3rd person pluralcallto announce; to declare; to utter; to express
+T	क्षेत्रज्ञ	क्षेत्रज्ञःknower of the field	क्षेत्रज्ञः  (क्षेत्रज्ञ)noun, masculine nominative singularthe individual soul
+T	इति	इतिthus	इतिparticlesoin this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	तद्विदः	तद्-विदःthat-know	तद्first part of a compound (pronoun)thisthis; gleicherविदः  (विद्)adjective, masculine nominative pluralconversant(p)knowing; understanding; a knower
+V	13.3		Understand Me as the Knower of the Field in all Fields, O Bhârata. Wisdom as to the Field and the Knower of the Field, that in My opinion is the wisdom.		क्षेत्रज्ञंचापिमांविद्धिसर्वक्षेत्रेषुभारत~।क्षेत्रक्षेत्रज्ञयोर्ज्ञानंयत्तज्ज्ञानंमतंमम~॥ ३ ॥	10
+T	क्षेत्रज्ञं	क्षेत्रज्ञम्knower of the field	क्षेत्रज्ञम्  (क्षेत्रज्ञ)noun, masculine accusative singularthe individual soul
+T	चापि	चandअपिalso	चconjunctionandand; both; also; moreoverअपिparticlebesidesalso; moreover; besides; assuredly
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularII; we
+T	विद्धि	विद्धिknow!	विद्धि  (विद्)verb: present imperative 2nd person singularknowto know; to understand; to learn; to be conscious of
+T	सर्वक्षेत्रेषु	सर्व-क्षेत्रेषुin all-fields	सर्वfirst part of a compound (pronoun)all(a)whole; entire; all; everyक्षेत्रेषु  (क्षेत्र)noun, neuter locative pluralfieldlanded property; land; soil; name of a kind of tutelary deity
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularBhârataactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+T	क्षेत्रक्षेत्रज्ञयोर्ज्ञानं	क्षेत्र-क्षेत्रज्ञयोःof field-knowers of the fieldज्ञानम्knowledge	क्षेत्रfirst part of a compoundfieldlanded property; land; soil; name of a kind of tutelary deityक्षेत्रज्ञयोः  (क्षेत्रज्ञ)noun, masculine genitive dualthe individual soulज्ञानम्  (ज्ञान)noun, neuter nominative singularknowledgeknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	यत्तज्ज्ञानं	यत्whichतत्thatज्ञानम्knowledge	यत्  (यद्)pronoun, neuter nominative singularwhichwhat; which; whoतत्  (तद्)pronoun, neuter nominative singularthisthis; gleicherज्ञानम्  (ज्ञान)noun, neuter nominative singularknowledgeknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	मतं	मतम्thought	मतम्  (मन्)participle, neuter nominative singularthink ofto think; to believe; to imagine; to suppose
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularII; we
+V	13.4		What that Field is and of what nature, how modified, and whence it is, and what He is and what His powers, hear that now briefly from Me.	Kshetrajna, the Knower of the Field.	तत्क्षेत्रंयच्चयादृक्चयद्विकारियतश्चयत्~।सचयोयत्प्रभावश्चतत्समासेनमेशृणु~॥ ४ ॥	14
+T	तत्क्षेत्रं	तत्thatक्षेत्रम्field	तत्  (तद्)pronoun, neuter nominative singularthisthis; gleicherक्षेत्रम्  (क्षेत्र)noun, neuter nominative singularfieldlanded property; land; soil; name of a kind of tutelary deity
+T	यच्च	यत्whichचand	यत्  (यद्)pronoun, neuter nominative singularwhichwhat; which; whoचconjunctionandand; both; also; moreover
+T	यादृक्	यादृश्which likeचand	यादृश्adjective, neuter nominative singularwhich likewhich like; as like; of whatever kind or natureचconjunctionandand; both; also; moreover
+T	च	चand	चconjunctionandand; both; also; moreover
+T	यद्विकारि	यत्whichविकारिchangeable	यत्  (यद्)pronoun, neuter nominative singularwhichwhat; which; whoविकारि  (विकारिन्)adjective, neuter nominative singularchangeableliable to change; changeable; variable; undergoing a change
+T	यतश्च	यतःwhenceचand	यतः  (यतस्)conjunctionfrom whichfrom which or what; whence; whereof; wherefromचconjunctionandand; both; also; moreover
+T	यत्	यत्which	यत्  (यद्)pronoun, neuter nominative singularwhichwhat; which; who
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicher
+T	च	चand	चconjunctionandand; both; also; moreover
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	यत्प्रभावश्च	यद्-प्रभावःwhich-powerचand	यद्first part of a compound (pronoun)whichwhat; which; whoप्रभावः  (प्रभाव)noun, masculine nominative singularpowermight; power; majesty; dignityचconjunctionandand; both; also; moreover
+T	तत्समासेन	तत्thatसमासेनbriefly	तत्  (तद्)pronoun, neuter accusative singularthisthis; gleicherसमासेनadverbconciselycollectively; in short; briefly
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularII; we
+T	शृणु	शृणुhear!	शृणु  (श्रु)verb: present imperative 2nd person singularlearnto hear; to listen to; to study
+V	13.5		Rishis have sung in manifold ways, in many various chants, and in decisive Brahma-sûtra verses full of reasonings.	Short terse sayings, concerning the Eternal.	ऋषिभिर्बहुधागीतंछन्दोभिर्विविधैःपृथक्~।ब्रह्मसूत्रपदैश्चैवहेतुमद्भिर्विनिश्चितैः~॥ ५ ॥	6
+T	ऋषिभिर्बहुधा	ऋषिभिःwith sagesबहुधाvariously	ऋषिभिः  (ऋषि)noun, masculine instrumental pluralRishia singer of sacred hymns; an inspired poet or sage; any person who alone or with others invokes the deities in rhythmical speech or song of a sacred characterबहुधाadverbvariouslyin many ways or parts or forms or directions; variously; manifoldly; much
+T	गीतं	गीतम्singed	गीतम्  (गा)participle, neuter nominative singularsingto sing; to speak or recite in a singing manner; to sing to (dat.); to praise in song
+T	छन्दोभिर्विविधैः	छन्दोभिःwith hymnsविविधैःvarious	छन्दोभिः  (छन्दस्)noun, neuter instrumental pluralVedadesire; longing for; will; intentionविविधैः  (विविध)adjective, neuter instrumental pluralmanifoldof various sorts; manifold; divers; eventful
+T	पृथक्	पृथक्separately	पृथक्adverbeachwidely apart; separately; differently; singly
+T	ब्रह्मसूत्रपदैश्चैव	ब्रह्मसूत्र-पदैःwith sacred thread worn over-abodesचandएवindeed	ब्रह्मसूत्रfirst part of a compoundthe sacred thread worn over the shoulderपदैः  (पद)noun, neuter instrumental pluralversea step; pace; stride; a footstepचconjunctionandand; both; also; moreoverएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	हेतुमद्भिर्विनिश्चितैः	हेतुमद्भिःreasonableविनिश्चितैःconcluded	हेतुमद्भिः  (हेतुमत्)adjective, neuter instrumental pluralreasonablehaving a reason or cause; proceeding from a cause; accompanied with arguments; provided with reasons or proofsविनिश्चितैः  (विनिश्चि)participle, neuter instrumental pluralconcludeto debate about; to deliberate; to consider; to determine
+V	13.6		The great Elements, Individuality, Reason, and also the unmanifested, the ten senses and the one, and the five pastures of the senses;	AhankaraBuddhi.The five organs of knowledge, or senses, the five organs of action, the mind, and the object cognised by each of the five senses.	महाभूतान्यहङ्कारोबुद्धिरव्यक्तमेवच~।इन्द्रियाणिदशैकंचपञ्चचेन्द्रियगोचराः~॥ ६ ॥	8
+T	महाभूतान्यहङ्कारो	महाभूतानिgreat elementsअहंकारःegoism	महाभूतानि  (महाभूत)noun, neuter nominative pluralmahâbhûtaa great element; gross element (of which 5 are reckoned)अहंकारः  (अहंकार)noun, masculine nominative singularAhamkâraconception of one's individuality; self-consciousness; the making of self; thinking of self
+T	बुद्धिरव्यक्तमेव	बुद्धिःintellectअव्यक्तम्unmanifestएवindeed	बुद्धिः  (बुद्धि)noun, feminine nominative singularBuddhithe power of forming and retaining conceptions and general notions; intelligence; reason; intellectअव्यक्तम्  (अव्यक्त)noun, neuter nominative singularPrakriti(in Sânkhya phil.) "the unevolved (Evolver of all things)"; the primary germ of natureएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+T	इन्द्रियाणि	इन्द्रियाणिsenses	इन्द्रियाणि  (इन्द्रिय)noun, neuter nominative pluralpower; force; the quality which belongs especially to the mighty Indra; exhibition of power
+T	दशैकं	दशtenएकम्one	दश  (दशन्)number, neuter nominative singulartenएकम्  (एक)number, neuter nominative singularone; alone; happening only once; single of its kind
+T	च	चand	चconjunctionand; both; also; moreover
+T	पञ्च	पञ्चfive	पञ्च  (पञ्चन्)number, neuter nominative singularfive
+T	चेन्द्रियगोचराः	चandइन्द्रिय-गोचराःsense-being within the range of	चconjunctionand; both; also; moreoverइन्द्रियfirst part of a compoundpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerगोचराः  (गोचर)adjective, masculine nominative pluralbeing within the range of; attainable for; perceptible; having the meaning of
+V	13.7		Desire, aversion, pleasure, pain, combination, intelligence, firmness; these, briefly described, constitute the Field and its modifications.	The body.	इच्छाद्वेषःसुखंदुःखंसङ्घातश्चेतनाधृतिः~।एतत्क्षेत्रंसमासेनसविकारमुदाहृतम्~॥ ७ ॥	9
+T	इच्छा	इच्छाdesire	इच्छाnoun, feminine nominative singularwish; desire; inclination; (in math.) a question or problem
+T	द्वेषः	द्वेषःhatred	द्वेषः  (द्वेष)noun, masculine nominative singularhatred; dislike; repugnance; enmity to (comp.)
+T	सुखं	सुखम्happiness	सुखम्  (सुख)noun, neuter nominative singularease; easiness; comfort; prosperity
+T	दुःखं	दुःखम्pain	दुःखम्  (दुःख)noun, neuter nominative singularuneasiness; pain; sorrow; trouble
+T	सङ्घातश्चेतना	संघातःstrikingचेतनाconsciousness	संघातः  (संघात)noun, masculine nominative singularstriking or dashing together; killing; crushing; closing (of a door etc.)चेतनाnoun, feminine nominative singularconsciousness; understanding; sense; intelligence
+T	धृतिः	धृतिःfirmness	धृतिः  (धृति)noun, feminine nominative singularholding; seizing; keeping; supporting
+T	एतत्क्षेत्रं	एतत्thisक्षेत्रम्field	एतत्  (एतद्)pronoun, neuter nominative singularthisक्षेत्रम्  (क्षेत्र)noun, neuter nominative singularlanded property; land; soil; name of a kind of tutelary deity
+T	समासेन	समासेनbriefly	समासेनadverbcollectively; in short; briefly
+T	सविकारमुदाहृतम्	सwithविकारम्change of formउदाहृतम्declared	सadverb(ibc.) withविकारम्  (विकार)noun, neuter nominative singularchange of form or nature; alteration or deviation from any natural state; transformation; modificationउदाहृतम्  (उदाहृ)participle, neuter nominative singularto set up; to put up; to relate; to declare

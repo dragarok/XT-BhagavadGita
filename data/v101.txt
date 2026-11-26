@@ -1,0 +1,71 @@
+V	18.29		The division of Reason and of firmness also, threefold according to the qualities, hear thou related, unreservedly and severally, O Dhananjaya.	Buddhi.Gunas.	बुद्धेर्भेदंधृतेश्चैवगुणतस्त्रिविधंशृणु~।प्रोच्यमानमशेषेणपृथक्त्वेनधनञ्जय~॥ २९ ॥	7
+T	बुद्धेर्भेदं	बुद्धेःof intellectभेदम्distinction	बुद्धेः  (बुद्धि)noun, feminine genitive singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectभेदम्  (भेद)noun, masculine accusative singularbreaking; splitting; cleaving; rending
+T	धृतेश्चैव	धृतेःof firmnessचandएवindeed	धृतेः  (धृति)noun, feminine genitive singularholding; seizing; keeping; supportingचconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	गुणतस्त्रिविधं	गुणतःfrom qualityत्रिविधम्threefold	गुणतः  (गुण)noun, masculine ablative singulara single thread or strand of a cord or twine; string or thread; rope; a garlandत्रिविधम्  (त्रिविध)adjective, masculine accusative singularof 3 kinds; triple; threefold
+T	शृणु	शृणुhear!	शृणु  (श्रु)verb: present imperative 2nd person singularto hear; to listen to; to study
+T	प्रोच्यमानमशेषेण	प्रोच्यमानम्being declaredअशेषेणcompletely	प्रोच्यमानम्  (प्रवच्)present participle, masculine accusative singularto proclaim; to announce; to praise; to commendअशेषेणadverbwhollywholly; totally
+T	पृथक्त्वेन	पृथक्त्वेनwith separateness	पृथक्त्वेन  (पृथक्त्व)noun, neuter instrumental singularseparateness
+T	धनञ्जय	धनंजयO Dhananjaya	धनंजयnoun, masculine vocative singularfire; a particular vital air supposed to nourish the body; Plumbago Zeylanica; name of Arjuna
+V	18.30		That which knoweth energy and abstinence, what ought to be done and what ought not to be done, fear and fearlessness, bondage and liberation, that Reason is pure, O Pârtha.	Buddhi.	प्रवृत्तिंचनिवृत्तिंचकार्याकार्येभयाभये~।बन्धंमोक्षंचयावेत्तिबुद्धिःसापार्थसात्त्विकी~॥ ३० ॥	15
+T	प्रवृत्तिं	प्रवृत्तिम्activity	प्रवृत्तिम्  (प्रवृत्ति)noun, feminine accusative singularmoving onwards; advance; progress; coming forth
+T	च	चand	चconjunctionand; both; also; moreover
+T	निवृत्तिं	निवृत्तिम्returning	निवृत्तिम्  (निवृत्ति)noun, feminine accusative singularreturning; return; ceasing; cessation
+T	च	चand	चconjunctionand; both; also; moreover
+T	कार्याकार्ये	कार्य-अकार्येduty-wrong actions	कार्यfirst part of a compoundwork or business to be done; duty; affair; a religious action or performanceअकार्ये  (अकार्य)noun, neuter accusative dualcriminal action
+T	भयाभये	भय-अभयेfear-fearlessnesses	भयfirst part of a compoundfear; alarm; fear of; terrorअभये  (अभय)noun, neuter accusative dualabsence or removal of fear; peace; safety; security
+T	बन्धं	बन्धम्bondage	बन्धम्  (बन्ध)noun, masculine accusative singularbinding; tying; a bond; tie
+T	मोक्षं	मोक्षम्liberation	मोक्षम्  (मोक्ष)noun, masculine accusative singularemancipation; liberation; release from; release from worldly existence or transmigration
+T	च	चand	चconjunctionand; both; also; moreover
+T	या	याwho	या  (यद्)pronoun, feminine nominative singularwhat; which; who
+T	वेत्ति	वेत्तिknows	वेत्ति  (विद्)verb: present 3rd person singularto know; to understand; to learn; to be conscious of
+T	बुद्धिः	बुद्धिःintellect	बुद्धिः  (बुद्धि)noun, feminine nominative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	सा	साshe	सा  (तद्)pronoun, feminine nominative singularthis; gleicher
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	सात्त्विकी	सात्त्विकीpure	सात्त्विकी  (सात्त्विक)adjective, feminine nominative singularsâttvikaspirited; vigorous; energetic; relating to or endowed with the quality Sattva
+V	18.31		That by which one understandeth away Right and Wrong and also what ought to be done and what ought not to be done, that Reason, O Pârtha, is passionate.	Dharma and Adharma, Right and Wrong in the widest sense, law and lawlessness.Buddhi.	ययाधर्ममधर्मंचकार्यंचाकार्यमेवच~।अयथावत्प्रजानातिबुद्धिःसापार्थराजसी~॥ ३१ ॥	11
+T	यया	ययाby whom	यया  (यद्)pronoun, feminine instrumental singularwhat; which; who
+T	धर्ममधर्मं	धर्मम्dharmaअधर्मम्adharma	धर्मम्  (धर्म)noun, masculine accusative singularthat which is established or firm; steadfast decree; statute; ordinanceअधर्मम्  (अधर्म)noun, masculine accusative singularunrighteousness; injustice; irreligion; wickedness
+T	च	चand	चconjunctionand; both; also; moreover
+T	कार्यं	कार्यम्duty	कार्यम्  (कार्य)noun, neuter accusative singularwork or business to be done; duty; affair; a religious action or performance
+T	चाकार्यमेव	चandअकार्यम्wrong actionएवindeed	चconjunctionand; both; also; moreoverअकार्यम्  (अकार्य)noun, neuter accusative singularcriminal actionएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+T	अयथावत्प्रजानाति	अयथावत्incorrectlyप्रजानातिwisdoms	अयथावत्adverbincorrectlyप्रजानाति  (प्रज्ञा)verb: present 3rd person singularto know; to understand (esp. a way or mode of action); to discern; to distinguish
+T	बुद्धिः	बुद्धिःintellect	बुद्धिः  (बुद्धि)noun, feminine nominative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	सा	साshe	सा  (तद्)pronoun, feminine nominative singularthis; gleicher
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	राजसी	राजसीpassionate	राजसी  (राजस)adjective, feminine nominative singularbelonging or relating to the quality rajas; endowed with or influenced by the quality of passion
+V	18.32		That which, enwrapped in darkness, thinketh wrong to be right and seeth all things subverted, that Reason, O Pârtha, is of darkness.	Adharma.Dharma.Buddhi.	अधर्मंधर्ममितियामन्यतेतमसावृता~।सर्वार्थान्विपरीतांश्चबुद्धिःसापार्थतामसी~॥ ३२ ॥	12
+T	अधर्मं	अधर्मम्adharma	अधर्मम्  (अधर्म)noun, masculine accusative singularunrighteousness; injustice; irreligion; wickedness
+T	धर्ममिति	धर्मम्dharmaइतिthus	धर्मम्  (धर्म)noun, masculine accusative singularthat which is established or firm; steadfast decree; statute; ordinanceइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	या	याwho	या  (यद्)pronoun, feminine nominative singularwhat; which; who
+T	मन्यते	मन्यतेthinks	मन्यते  (मन्)verb: present 3rd person singularto think; to believe; to imagine; to suppose
+T	तमसा	तमसाwith darknessआवृताcovered	तमसा  (तमस्)noun, neuter instrumental singulardarkness; gloom; the darkness of hell; hell or a particular division of hellआवृता  (आवृ)participle, feminine nominative singularto cover; to hide; to conceal; to surround
+T	वृता	वृता	
+T	सर्वार्थान्	सर्वार्थान्	
+T	विपरीतांश्च	सर्व-अर्थान्all-purposesविपरीतान्contraryचand	सर्वfirst part of a compound (pronoun)whole; entire; all; everyअर्थान्  (अर्थ)noun, masculine accusative pluralaim; purpose; cause; motiveविपरीतान्  (विपरीत)adjective, masculine accusative pluralturned round; reversed; inverted; being the reverse of anythingचconjunctionand; both; also; moreover
+T	बुद्धिः	बुद्धिःintellect	बुद्धिः  (बुद्धि)noun, feminine nominative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	सा	साshe	सा  (तद्)pronoun, feminine nominative singularthis; gleicher
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	तामसी	तामसीdull	तामसी  (तामस)adjective, feminine nominative singulardark; appertaining to or affected by the quality tamas; ignorant; various
+V	18.33		The unwavering firmness by which, through Yoga, one restraineth the activity of the mind, of the life breaths and of the sense-organs, that firmness, O Pârtha, is pure.	Manah.	धृत्याययाधारयतेमनःप्राणेन्द्रियक्रियाः~।योगेनाव्यभिचारिण्याधृतिःसापार्थसात्त्विकी~॥ ३३ ॥	9
+T	धृत्या	धृत्याwith firmness	धृत्या  (धृति)noun, feminine instrumental singularholding; seizing; keeping; supporting
+T	यया	ययाby whom	यया  (यद्)pronoun, feminine instrumental singularwhat; which; who
+T	धारयते	धारयतेholds	धारयते  (धारय्)verb: present 3rd person singularto hold; to keep; to possess; to maintain
+T	मनःप्राणेन्द्रियक्रियाः	मनः-प्राण-इन्द्रिय-क्रियाःmind-breath-sense-activities	मनः  (मनस्)first part of a compoundmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understandingप्राणfirst part of a compoundthe breath of life; breath; respiration; lifeइन्द्रियfirst part of a compoundpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerक्रियाः  (क्रिया)noun, feminine accusative pluraldoing; performing; performance; occupation with (in comp.)
+T	योगेनाव्यभिचारिण्या	योगेनwith yogaअव्यभिचारिण्याnot going astray	योगेन  (योग)noun, masculine instrumental singularthe act of yoking; joining; attaching; harnessingअnegative prefixnotnot; un-; in-व्यभिचारिण्या  (व्यभिचारिन्)adjective, feminine instrumental singulargoing astray; straying or deviating or diverging from (abl.); following bad courses; doing what is improper
+T	धृतिः	धृतिःfirmness	धृतिः  (धृति)noun, feminine nominative singularholding; seizing; keeping; supporting
+T	सा	साshe	सा  (तद्)pronoun, feminine nominative singularthis; gleicher
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	सात्त्विकी	सात्त्विकीpure	सात्त्विकी  (सात्त्विक)adjective, feminine nominative singularspirited; vigorous; energetic; relating to or endowed with the quality Sattva
+V	18.34		But the firmness, O Arjuna, by which, from attachment desirous of fruit, one holdeth fast duty, desire and wealth, that firmness, O Pârtha, is passionate.	Dharma.	ययातुधर्मकामार्थान्धृत्याधारयतेऽर्जुन~।प्रसङ्गेनफलाकाङ्क्षीधृतिःसापार्थराजसी~॥ ३४ ॥	11
+T	यया	ययाby whom	यया  (यद्)pronoun, feminine instrumental singularwhat; which; who
+T	तु	तुbut	तुparticledo; now; then; but
+T	धर्मकामार्थान्	धर्म-काम-अर्थान्dharma-desire-purposesधृत्याwith firmness	धर्मfirst part of a compoundthat which is established or firm; steadfast decree; statute; ordinanceकामfirst part of a compoundwish; desire; longing; desire forअर्थान्  (अर्थ)noun, masculine accusative pluralaim; purpose; cause; motiveधृत्या  (धृति)noun, feminine instrumental singularholding; seizing; keeping; supporting
+T	धृत्या	धृत्याwith firmness	धृत्या  (धृति)noun, feminine instrumental singularholding; seizing; keeping; supporting
+T	धारयतेऽर्जुन	धारयतेholdsअर्जुनO Arjuna	धारयते  (धारय्)verb: present 3rd person singularto hold; to keep; to possess; to maintainअर्जुनnoun, masculine vocative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	प्रसङ्गेन	प्रसङ्गेनwith adherence	प्रसङ्गेन  (प्रसङ्ग)noun, masculine instrumental singularadherence; attachment; inclination or devotion to; indulgence in
+T	फलाकाङ्क्षी	फल-आकाङ्क्षीfruit-desiring	फलfirst part of a compoundfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalansआकाङ्क्षी  (आकाङ्क्षिन्)adjective, masculine nominative singularifc. wishing; desirous; hoping; expecting
+T	धृतिः	धृतिःfirmness	धृतिः  (धृति)noun, masculine nominative singularwish; name of one of the Vishve Devâs; name of a preceptor; name of the son of Vijaya and father of Dhritavrata
+T	सा	साshe	सा  (तद्)pronoun, feminine nominative singularthis; gleicher
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	राजसी	राजसीpassionate	राजसी  (राजस)adjective, feminine nominative singularbelonging or relating to the quality rajas; endowed with or influenced by the quality of passion

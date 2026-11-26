@@ -1,0 +1,84 @@
+V	9.30		Even if the most sinful worship Me, with undivided heart, he too must be accounted righteous, for he hath rightly resolved;		अपिचेत्सुदुराचारोभजतेमामनन्यभाक्~।साधुरेवसमन्तव्यःसम्यग्व्यवसितोहिसः~॥ ३० ॥	10
+T	अपि	अपिalso	अपिparticlealso; moreover; besides; assuredly
+T	चेत्सुदुराचारो	चेद्ifसुwellदुराचारःill-conducted	चेद्conjunction(never found at the beginning of a sentence or verse) = ca; whenसुadverb[ibc.] good-; [ibc.] very; quite; feinदुराचारः  (दुराचार)adjective, masculine nominative singularill-conducted; wicked
+T	भजते	भजतेworships	भजते  (भज्)verb: present 3rd person singularto divide; to distribute; to allot or apportion to (dat. or gen.); to share with (instr.)
+T	मामनन्यभाक्	माम्meअनन्य-भाज्not other-sharing	माम्  (मद्)pronoun, accusative singularI; weअन्negative prefixnotnot; un-; in-अन्यfirst part of a compound (pronoun)other; anotherभाज्adjective, masculine nominative singularsharing or participating in; entitled to; possessing; enjoying
+T	साधुरेव	साधुःrighteousएवindeed	साधुः  (साधु)adjective, masculine nominative singularstraight; right; leading to a goal; unerringएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	मन्तव्यः	मन्तव्यःto be thought	मन्तव्यः  (मन्)gerundive (to be ...), masculine nominative singularto think; to believe; to imagine; to suppose
+T	सम्यग्व्यवसितो	सम्यक्rightlyव्यवसितःsettled down	सम्यक्adverbrichtig; angemessenव्यवसितः  (व्यवसा)participle, masculine nominative singularto settle down or dwell separately; to differ (in opinion); to contest; to quarrel
+T	हि	हिfor	हिparticlefor; because; on account of
+T	सः	सःhe	सः  (तद्)pronoun, masculine nominative singularthis; gleicher
+V	9.31		Speedily he becometh dutiful and goeth to eternal peace; O Kaunteya, know thou for certain that My devotee perisheth never.		क्षिप्रंभवतिधर्मात्माशश्वच्छान्तिंनिगच्छति~।कौन्तेयप्रतिजानीहिनमेभक्तःप्रणश्यति~॥ ३१ ॥	11
+T	क्षिप्रं	क्षिप्रम्quickly	क्षिप्रम्adverbquickly
+T	भवति	भवतिis	भवति  (भू)verb: present 3rd person singularto be; to become; to come into being; to happen
+T	धर्मात्मा	धर्म-आत्माdharma-self	धर्मfirst part of a compoundthat which is established or firm; steadfast decree; statute; ordinanceआत्मा  (आत्मन्)noun, masculine nominative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	शश्वच्छान्तिं	शश्वत्perpetuallyशान्तिम्peace	शश्वत्adverbperpetually; continually; repeatedly; alwaysशान्तिम्  (शान्ति)noun, feminine accusative singulartranquillity; peace; quiet; peace or calmness of mind
+T	निगच्छति	निगच्छतिsettles down upon	निगच्छति  (निगम्)verb: present 3rd person singularto settle down upon or near (acc. or loc.); inire feminam; to enter; to resort to
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	प्रतिजानीहि	प्रतिजानीहिadmit!	प्रतिजानीहि  (प्रतिज्ञा)verb: present imperative 2nd person singularto admit; to acknowledge; to consent to; to promise
+T	न	नnot	नparticlenot; no; nor; neither
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	भक्तः	भक्तःdevotee	भक्तः  (भक्त)noun, masculine nominative singulara worshipper; votary (esp. as name of a division of the Shâktas)
+T	प्रणश्यति	प्रणश्यतिperishes	प्रणश्यति  (प्रणश्)verb: present 3rd person singularto be lost; to disappear; to vanish; to flee
+V	9.32		They who take refuge with Me, O Partha, though of the womb of sin, women, Vaishyas, even Shûdras, they also tread the highest path.	The third, the merchant caste.The fourth, the manual labouring class.	मांहिपार्थव्यपाश्रित्ययेऽपिस्युःपापयोनयः~।स्त्रियोवैश्यास्तथाशूद्रास्तेऽपियान्तिपरांगतिम्~॥ ३२ ॥	13
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	हि	हिfor	हिparticlefor; because; on account of
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	व्यपाश्रित्य	व्यपाश्रित्यhaving gone to for refuge	व्यपाश्रित्य  (व्यपाश्रि)absolutive (having ...)to go to for refuge; to have recourse to (acc.); to adhere to any doctrine; to confess (acc.)
+T	येऽपि	येwhoअपिalso	ये  (यद्)pronoun, masculine nominative pluralwhat; which; whoअपिparticlealso; moreover; besides; assuredly
+T	स्युः	स्युःshould be	स्युः  (अस्)verb: present optative 3rd person pluralto be; to live; to exist; to be present
+T	पापयोनयः	पाप-योनयःsin-wombs	पापfirst part of a compound (adjective)bad; wicked; evil; vileयोनयः  (योनि)noun, masculine nominative pluralthe womb; uterus; vulva; vagina
+T	स्त्रियो	स्त्रियःwomen	स्त्रियः  (स्त्री)noun, feminine nominative plurala woman; female; wife; the female of any animal
+T	वैश्यास्तथा	वैश्याःwomen of the Vaishya casteतथाlikewise	वैश्याः  (वैश्या)noun, feminine nominative plurala woman of the Vaishya caste; name of a deityतथाadverbin that manner; so; thus; yes
+T	शूद्रास्तेऽपि	शूद्राःlabourersतेtheyअपिalso	शूद्राः  (शूद्र)noun, masculine nominative plurala Shûdra; a man of the fourth or lowest of the four original classes or castes; a man of mixed origin; name of a Brâhmanते  (तद्)pronoun, masculine nominative pluralthis; gleicherअपिparticlealso; moreover; besides; assuredly
+T	यान्ति	यान्तिgo	यान्ति  (या)verb: present 3rd person pluralto go; to move; to set out; to travel
+T	परां	पराम्supreme	पराम्  (पर)pronoun, feminine accusative singularfar; remote; opposite; previous
+T	गतिम्	गतिम्goal	गतिम्  (गति)noun, feminine accusative singulargoing; moving; gait; deportment
+V	9.33		How much rather then holy Brâhmanas anddevoted royal saints; having obtained this transient joyless world, worship thou Me.		किंपुनर्ब्राह्मणाःपुण्याभक्ताराजर्षयस्तथा~।अनित्यमसुखंलोकमिमंप्राप्यभजस्वमाम्~॥ ३३ ॥	10
+T	किं	किम्what	किम्adverbwhy?; what for?
+T	पुनर्ब्राह्मणाः	पुनःagainब्राह्मणाःbrahmins	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and againब्राह्मणाः  (ब्राह्मण)noun, masculine nominative pluralone who has divine knowledge (sometimes applied to Agni); a Brâhman
+T	पुण्या	पुण्याःholy	पुण्याः  (पुण्य)adjective, masculine nominative pluralauspicious; propitious; fair; pleasant
+T	भक्ता	भक्ताःdevotees	भक्ताः  (भक्त)noun, masculine nominative plurala worshipper; votary (esp. as name of a division of the Shâktas)
+T	राजर्षयस्तथा	राजर्षयःroyal Rishisतथाlikewise	राजर्षयः  (राजर्षि)noun, masculine nominative plurala royal Rishi or saint; a Rishi of royal descentतथाadverbin that manner; so; thus; yes
+T	अनित्यमसुखं	अनित्यम्not everlastingअसुखम्unhappy	अनित्यम्  (अनित्य)adjective, masculine accusative singularnot everlasting; transient; occasional; incidentalअसुखम्  (असुख)adjective, masculine accusative singularunhappy; sorrowful; painful; not easy to
+T	लोकमिमं	लोकम्worldइमम्this	लोकम्  (लोक)noun, masculine accusative singularfree or open space; room; place; scopeइमम्  (इदम्)pronoun, masculine accusative singularthis; (near deictic pronoun in Vedic)
+T	प्राप्य	प्राप्यhaving attained	प्राप्य  (प्राप्)absolutive (having ...)to attain to; to reach; to arrive at; to meet with
+T	भजस्व	भजस्वworship!	भजस्व  (भज्)verb: present imperative 2nd person singularto divide; to distribute; to allot or apportion to (dat. or gen.); to share with (instr.)
+T	माम्	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+V	9.34		On Me fix thy mind, be devoted to Me; sacrifice to Me; prostrate thyself before Me; harmonised thus in the Self, thou shalt come unto Me, having Me as thy supreme goal.	Manah.	मन्मनाभवमद्भक्तोमद्याजीमांनमस्कुरु~।मामेवैष्यसियुक्त्वैवमात्मानंमत्परायणः~॥ ३४ ॥	9
+T	मन्मना	मद्-मनाःmy-mind	मद्first part of a compound (pronoun)I; weमनाः  (मनस्)noun, masculine nominative singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	भव	भवbe!	भव  (भू)verb: present imperative 2nd person singularto be; to become; to come into being; to happen
+T	मद्भक्तो	मद्-भक्तःmy-devotee	मद्first part of a compound (pronoun)I; weभक्तः  (भक्त)noun, masculine nominative singulara worshipper; votary (esp. as name of a division of the Shâktas)
+T	मद्याजी	मद्-याजीmy-worshipper	मद्first part of a compound (pronoun)I; weयाजी  (याजिन्)adjective, masculine nominative singular(mostly ifc.) worshipping; sacrificing; a sacrificer
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	नमस्कुरु	नमस्कुरुbow to!	नमस्कुरु  (नमस्कृ)verb: present imperative 2nd person singularto worship; to salute; verehren; huldigen
+T	मामेवैष्यसि	माम्meएवindeedएष्यसिyou will go	माम्  (मद्)pronoun, accusative singularI; weएवparticleso; just so; exactly so (in the sense of the later evam); indeedएष्यसि  (इ)verb: future 2nd person singularto go; to walk; to flow; to blow
+T	युक्त्वैवमात्मानं	युक्त्वाhaving harmonizedएवम्thusआत्मानम्self	युक्त्वा  (युज्)absolutive (having ...)to yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrangeएवम्adverbthus; in this way; in such a manner; suchआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	मत्परायणः	मद्-परायणःmy-devoted to	मद्first part of a compound (pronoun)I; weपरायणः  (परायण)noun, masculine nominative singularfinal end or aim; last resort or refuge; principal object; chief matter
+V	10.1	The Blessed Lord said:	Again, O mighty-armed, hear thou My supreme word, that, desiring thy welfare, I will declare to thee who art beloved.		श्रीभगवानुवाच~।भूयएवमहाबाहोशृणुमेपरमंवचः~।यत्तेऽहंप्रीयमाणायवक्ष्यामिहितकाम्यया~॥ १ ॥	12
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	भूय	भूयःagain	भूयः  (भूयस्)adverbagain; further; furthermore; in addition
+T	एव	एवindeed	एवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	महाबाहो	महा-बाहोO mighty-armed	महा  (महत्)first part of a compound (adjective)great; large; big; hugeबाहो  (बाहु)noun, masculine vocative singularthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	शृणु	शृणुhear!	शृणु  (श्रु)verb: present imperative 2nd person singularto hear; to listen to; to study
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	परमं	परमम्supreme	परमम्  (परम)adjective, neuter accusative singularremotest; extreme; last; chief
+T	वचः	वचःword	वचः  (वचस्)noun, neuter accusative singularspeech; voice; word; singing
+T	यत्तेऽहं	यत्whichतेfor youअहम्I	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoते  (त्वद्)pronoun, dative singularyouअहम्  (मद्)pronoun, nominative singularI; we
+T	प्रीयमाणाय	प्रीयमाणायbeing liked	प्रीयमाणाय  (प्री)present participle, masculine dative singularto like; to love; to be kind to (acc.); to please
+T	वक्ष्यामि	वक्ष्यामिI will say	वक्ष्यामि  (वच्)verb: future 1st person singularto speak; to say; to tell; to declare
+T	हितकाम्यया	हित-काम्ययाwith welfare-wish	हितfirst part of a compoundanything useful or salutary or suitable or proper; benefit; advantage; profitकाम्यया  (काम्या)noun, feminine instrumental singularwish; desire; longing for or striving after (gen. or in comp); will
+V	10.2		The multitude of the Shining Ones, or the great Rishis, know not my forthcoming, for I am the beginning of all the Shining Ones and the great Rishis.	A Rishi is a man who has completed his human evolution, but who remains in the super-physical regions in touch with the earth, in order to help humanity.	नमेविदुःसुरगणाःप्रभवंनमहर्षयः~।अहमादिर्हिदेवानांमहर्षीणांचसर्वशः~॥ २ ॥	12
+T	न	नnot	नparticlenot; no; nor; neither
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	विदुः	विदुःknew	विदुः  (विद्)verb: perfect 3rd person pluralto know; to understand; to learn; to be conscious of
+T	सुरगणाः	सुर-गणाःgod-hosts	सुरfirst part of a compounda god; divinity; the image of a god; an idolगणाः  (गण)noun, masculine nominative plurala flock; troop; multitude; number
+T	प्रभवं	प्रभवम्origin	प्रभवम्  (प्रभव)noun, masculine accusative singularproduction; source; origin; cause of existence (as father or mother)
+T	न	नnot	नparticlenot; no; nor; neither
+T	महर्षयः	महा-ऋषयःgreat-sages	महा  (महत्)first part of a compound (adjective)great; large; big; hugeऋषयः  (ऋषि)noun, masculine nominative plurala singer of sacred hymns; an inspired poet or sage; any person who alone or with others invokes the deities in rhythmical speech or song of a sacred character
+T	अहमादिर्हि	अहम्Iआदिःbeginningहिfor	अहम्  (मद्)pronoun, nominative singularI; weआदिः  (आदि)noun, masculine nominative singularbeginning; commencement; a firstling; first-fruitsहिparticlefor; because; on account of
+T	देवानां	देवानाम्of gods	देवानाम्  (देव)noun, masculine genitive plurala deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining ones
+T	महर्षीणां	महा-ऋषीणाम्of great-sages	महा  (महत्)first part of a compound (adjective)great; large; big; hugeऋषीणाम्  (ऋषि)noun, masculine genitive plurala singer of sacred hymns; an inspired poet or sage; any person who alone or with others invokes the deities in rhythmical speech or song of a sacred character
+T	च	चand	चconjunctionand; both; also; moreover
+T	सर्वशः	सर्वशःwholly	सर्वशः  (सर्वशस्)adverbwholly; completely; entirely; thoroughly

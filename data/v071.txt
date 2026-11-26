@@ -1,0 +1,66 @@
+V	11.41		If, thinking Thee but friend, importunate, O Krishna! or O Yâdava! O friend! I cried, unknowing of Thy majesty, And careless in the fondness of my love;		सखेतिमत्वाप्रसभंयदुक्तम्हेकृष्णहेयादवहेसखेति~।अजानतामहिमानंतवेदम्मयाप्रमादात्प्रणयेनवापि~॥ ४१ ॥	16
+T	सखेति	सखाfriendइतिthus	सखा  (सखि)noun, masculine nominative singularfriend; companionइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	मत्वा	मत्वाhaving thought	मत्वा  (मन्)absolutive (having ...)to think; to believe; to imagine; to suppose
+T	प्रसभं	प्रसभम्violently	प्रसभम्adverbviolently; forcibly; very much; quickly
+T	यदुक्तम्	यत्whichउक्तम्said	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoउक्तम्  (वच्)participle, neuter nominative singularto speak; to say; to tell; to declare
+T	हे	हेO	हेinterjectionhossa!!; a kind of bîja
+T	कृष्ण	कृष्णO Krishna	कृष्णnoun, masculine vocative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	हे	हेO	हेinterjectionhossa!!; a kind of bîja
+T	यादव	यादवO Krishna	यादवnoun, masculine vocative singularKrishnaa descendant of Yadu; name of Krishna; name of various authors; [rel.] name of Vishnu
+T	हे	हेO	हेinterjectionhossa!!; a kind of bîja
+T	सखेति	सखाfriendइतिthus	सखा  (सखि)noun, masculine nominative singularfriendfriend; companionइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	अजानता	अजानताnot knowing	अnegative prefixnotnot; un-; in-जानता  (ज्ञा)present participle, masculine instrumental singularto know; to have knowledge; to become acquainted with; to perceive
+T	महिमानं	महिमानम्greatness	महिमानम्  (महिमन्)noun, masculine accusative singulargreatness; might; power; majesty
+T	तवेदम्	तवyourइदम्this	तव  (त्वद्)pronoun, genitive singularyouइदम्pronoun, neuter nominative singularthis; (near deictic pronoun in Vedic)
+T	मया	मयाby me	मया  (मद्)pronoun, instrumental singularI; we
+T	प्रमादात्प्रणयेन	प्रमादात्from heedlessnessप्रणयेनwith desire	प्रमादात्  (प्रमाद)noun, masculine ablative singularintoxication; madness; insanity; negligenceप्रणयेन  (प्रणय)noun, masculine instrumental singulardesire; longing for; an entreaty; request
+T	वापि	वाorअपिalso	वाconjunctioneither - or; on the one side - on the other side; optionallyअपिparticlealso; moreover; besides; assuredly
+V	11.42		If jesting I irreverence showed to Thee, At play, reposing, sitting or at meals, Alone, O sinless One, or with my friends, Forgive my error, O Thou boundless One.		यच्चावहासार्थमसत्कृतोऽसिविहारशय्यासनभोजनेषु~।एकोऽथवाऽप्यच्युततत्समक्षम्तत्क्षामयेत्वामहमप्रमेयम्~॥ ४२ ॥	6
+T	यच्चावहासार्थमसत्कृतोऽसि	यत्striveचandअवहास-अर्थम्jest-purposeअसत्कृतःtreated badlyअसिyou are	यत्conjunctionas often; how many or often; as many as (= Lat. quot); becauseचconjunctionand; both; also; moreoverअवहासfirst part of a compoundjest; joke; derisionअर्थम्  (अर्थ)noun, masculine accusative singularaim; purpose; cause; motiveअसत्कृतः  (असत्कृ)participle, masculine nominative singularto treat badlyअसि  (अस्)verb: present 2nd person singularto be; to live; to exist; to be present
+T	विहारशय्यासनभोजनेषु	विहार-शय्या-आसन-भोजनेषुin distribution-bed-seat-acts of enjoying	विहारfirst part of a compounddistribution; transposition (of words); arrangement or disposition (of the 3 sacred fires)शय्याfirst part of a compounda bed; couch; sofa; lyingआसनfirst part of a compoundsitting; sitting down; sitting in peculiar posture according to the custom of devotees; haltingभोजनेषु  (भोजन)noun, neuter locative pluralthe act of enjoying; using; the act of eating (exceptionally with acc. of object); a meal
+T	एकोऽथवाऽप्यच्युत	एकःoneअथnowवाorअपिalsoअच्युतO Achyuta	एकः  (एक)number, masculine nominative singularone; alone; happening only once; single of its kindअथadverban auspicious and inceptive particle (not easily expressed in English); now; then; moreoverवाconjunctioneither - or; on the one side - on the other side; optionallyअपिparticlealso; moreover; besides; assuredlyअच्युतnoun, masculine vocative singularname of Vishnu; name of Krishna; name of a physician; the plant Morinda Tinctoria
+T	तत्समक्षम्	तत्thatसमक्षम्being within sight	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherसमक्षम्  (समक्ष)adjective, neuter accusative singularbeing within sight or before the eyes; present; visible
+T	तत्क्षामये	तत्thatक्षामयेI ask forbearance	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherक्षामये  (क्षामय्)verb: present 1st person singularto ask forbearance
+T	त्वामहमप्रमेयम्	त्वाम्youअहम्Iअप्रमेयम्not to be measured	त्वाम्  (त्वद्)pronoun, accusative singularyouअहम्  (मद्)pronoun, nominative singularI; weअnegative prefixnotnot; un-; in-प्रमेयम्  (प्रमा)gerundive (to be ...), masculine accusative singularto measure; to mete out; to estimate; to form
+V	11.43		Father of worlds, of all that moves and stands, Worthier of reverence than the Guru's self, There is none like to Thee. Who passeth Thee? Pre-eminent Thy power in all the worlds.		पिताऽसिलोकस्यचराचरस्यत्वमस्यपूज्यश्चगुरुर्गरीयान्~।नत्वत्समोऽस्त्यभ्यधिकःकुतोऽन्योलोकत्रयेऽप्यप्रतिमप्रभावः~॥ ४३ ॥	10
+T	पिताऽसि	पिताfatherअसिyou are	पिता  (पितृ)noun, masculine nominative singulara father; parents; the fathers; forefathersअसि  (अस्)verb: present 2nd person singularto be; to live; to exist; to be present
+T	लोकस्य	लोकस्यof world	लोकस्य  (लोक)noun, masculine genitive singularfree or open space; room; place; scope
+T	चराचरस्य	चराचरस्यof aggregate of all created	चराचरस्य  (चराचर)noun, neuter genitive singularthe aggregate of all created things whether animate or inanimate; world
+T	त्वमस्य	त्वम्youअस्यof this	त्वम्  (त्वद्)pronoun, nominative singularyouअस्य  (इदम्)pronoun, neuter genitive singularthis; (near deictic pronoun in Vedic)
+T	पूज्यश्च	पूज्यःto be honouredचand	पूज्यः  (पूजय्)gerundive (to be ...), masculine nominative singularto honour; to worship; to revere; to respectचconjunctionand; both; also; moreover
+T	गुरुर्गरीयान्	गुरुःelderगरीयान्greater	गुरुः  (गुरु)noun, masculine nominative singularany venerable or respectable person; a spiritual parent or preceptor (from whom a youth receives the initiatory Mantra or prayer)गरीयान्  (गरीयस्)adjective, masculine nominative singularheavier; extremely heavy; greater than (abl.); more precious or valuable
+T	न	नnot	नparticlenot; no; nor; neither
+T	त्वत्समोऽस्त्यभ्यधिकः	त्वद्-समःyour-equalअस्तिisअभ्यधिकःsurpassing	त्वद्first part of a compound (pronoun)youसमः  (सम)pronoun, masculine nominative singulareven; flat; level; parallelअस्ति  (अस्)verb: present 3rd person singularto be; to live; to exist; to be presentअभ्यधिकः  (अभ्यधिक)adjective, masculine nominative singularsurpassing; exceeding the common measure; pre-eminent; extraordinary
+T	कुतोऽन्यो	कुतःwhenceअन्यःother	कुतः  (कुतस्)adverbfrom whom?; from where? whence?; whereto? in which direction?; where?अन्यः  (अन्य)pronoun, masculine nominative singularother; another
+T	लोकत्रयेऽप्यप्रतिमप्रभावः	लोकत्रयेin three worldsअपिalsoअप्रतिम-प्रभावO unequalled-might	लोकत्रये  (लोकत्रय)noun, neuter locative singularthe three worldअपिparticlealso; moreover; besides; assuredlyअप्रतिमfirst part of a compound (adjective)unequalled; without a match; incomparableप्रभावnoun, masculine vocative singularmight; power; majesty; dignity
+V	11.44		Therefore I fall before Thee; with my body I worship as it fitting; bless Thou me. As father with the son, as friend with friend, With the beloved as lover, bear with me.		तस्मात्प्रणम्यप्रणिधायकायम्प्रसादयेत्वामहमीशमीड्यम्~।पितेवपुत्रस्यसखेवसख्युःप्रियःप्रियायार्हसिदेवसोढुम्~॥ ४४ ॥	13
+T	तस्मात्प्रणम्य	तस्मात्thereforeप्रणम्यhaving bowed	तस्मात्adverbthereforeप्रणम्य  (प्रणम्)absolutive (having ...)to bend or bow down before; to make obeisance to
+T	प्रणिधाय	प्रणिधायhaving placed in front	प्रणिधाय  (प्रणिधा)absolutive (having ...)to place in front; to cause to precede; to put down; to deposit
+T	कायम्	कायम्body	कायम्  (काय)noun, masculine accusative singularthe body; the trunk of a tree; the body of a lute (the whole except the wires); assemblage
+T	प्रसादये	प्रसादयेI make serene	प्रसादये  (प्रसादय्)verb: present 1st person singularto make serene; to gladden (the heart); to render calm; to soothe
+T	त्वामहमीशमीड्यम्	त्वाम्youअहम्Iईशम्lordईड्यम्to be implored	त्वाम्  (त्वद्)pronoun, accusative singularyouअहम्  (मद्)pronoun, nominative singularI; weईशम्  (ईश)noun, masculine accusative singularmaster; lord; the supreme spirit; name of Shivaईड्यम्  (ईड्)gerundive (to be ...), masculine accusative singularto implore; to request; to ask for (with two acc.); to praise
+T	पितेव	पिताfatherइवlike	पिता  (पितृ)noun, masculine nominative singulara father; parents; the fathers; forefathersइवparticlelike; in the same manner as (in this sense = yathâ); as it were; as if
+T	पुत्रस्य	पुत्रस्यof son	पुत्रस्य  (पुत्र)noun, masculine genitive singulara son; child; a species of small venomous animal; (in astrol.) name of the fifth house
+T	सखेव	सखाfriendइवlike	सखा  (सखि)noun, masculine nominative singularfriend; companionइवparticlelike; in the same manner as (in this sense = yathâ); as it were; as if
+T	सख्युः	सख्युःof friend	सख्युः  (सखि)noun, masculine genitive singularfriend; companion
+T	प्रियः	प्रियःdear	प्रियः  (प्रिय)adjective, masculine nominative singularbeloved; dear to; liked; favourite
+T	प्रियायार्हसि	प्रियायdearअर्हसिyou ought	प्रियाय  (प्रिय)adjective, masculine dative singularbeloved; dear to; liked; favouriteअर्हसि  (अर्ह्)verb: present 2nd person singularto deserve; to merit; to be worthy of; to be allowed to
+T	देव	देवO god	देवnoun, masculine vocative singulara deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining ones
+T	सोढुम्	सोढुम्to be victorious	सोढुम्  (सह्)infinitiveto be victorious; to defeat; to win; to be able
+V	11.45		I have seen that which none hath seen before, My heart is glad, yet faileth me for fear; Show me, O God, Thine other Form again -  Mercy, O God of Gods, home of all worlds - 		अदृष्टपूर्वंहृषितोऽस्मिदृष्ट्वाभयेनचप्रव्यथितंमनोमे~।तदेवमेदर्शयदेवरूपम्प्रसीददेवेशजगन्निवास~॥ ४५ ॥	16
+T	अदृष्टपूर्वं	अदृष्ट-पूर्वम्unseen-before	अदृष्टfirst part of a compound (adjective)unseen; unforeseen; invisible; not experiencedपूर्वम्adverbbefore; formerly; hitherto; previously (sometimes with pres.)
+T	हृषितोऽस्मि	हृषितःrejoicedअस्मिI am	हृषितः  (हृष्)participle, masculine nominative singularto thrill with rapture; to rejoice; to exult; to be glad or pleasedअस्मि  (अस्)verb: present 1st person singularto be; to live; to exist; to be present
+T	दृष्ट्वा	दृष्ट्वाhaving seen	दृष्ट्वा  (दृश्)absolutive (having ...)to behold; to look at; to regard; to consider
+T	भयेन	भयेनwith fear	भयेन  (भय)noun, neuter instrumental singularfear; alarm; fear of; terror
+T	च	चand	चconjunctionand; both; also; moreover
+T	प्रव्यथितं	प्रव्यथितम्shaken	प्रव्यथितम्  (प्रव्यथ्)participle, neuter nominative singularto tremble; to be afraid of (gen.); to be disquieted or distressed
+T	मनो	मनःmind	मनः  (मनस्)noun, neuter nominative singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	तदेव	तत्thatएवindeed	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	मे	मेfor me	मे  (मद्)pronoun, dative singularI; we
+T	दर्शय	दर्शयshow!	दर्शय  (दर्शय्)verb: present imperative 2nd person singularto prove; to demonstrate; to produce; to show
+T	देव	देवO god	देवnoun, masculine vocative singulara deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining ones
+T	रूपम्	रूपम्form	रूपम्  (रूप)noun, neuter accusative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	प्रसीद	प्रसीदbe gracious!	प्रसीद  (प्रसद्)verb: present imperative 2nd person singularto fall into the power of (acc.); to settle down; to grow clear and bright; to become placid or tranquil (as the sea or sky)
+T	देवेश	देवेशO lord of gods	देवेशnoun, masculine vocative singularname of Brahmâ; a king; prince; name of Vishnu
+T	जगन्निवास	जगन्निवासO abode of the universe	जगन्निवासnoun, masculine vocative singularVishnu or Krishna; Shiva

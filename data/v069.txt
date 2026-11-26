@@ -1,0 +1,78 @@
+V	11.31		Reveal Thy Self; what awful Form art Thou? I worship Thee! Have mercy, God supreme! Thine inner Being I am fain to know; This Thy forth-streaming Life bewilders me.		आख्याहिमेकोभवानुग्ररूपोनमोऽस्तुतेदेववरप्रसीद~।विज्ञातुमिच्छामिभवन्तमाद्यम्नहिप्रजानामितवप्रवृत्तिम्~॥ ३१ ॥	15
+T	आख्याहि	आख्याहिbehold!	आख्याहि  (आख्या)verb: present imperative 2nd person singularto behold; to tell; to communicate; to inform
+T	मे	मेfor me	मे  (मद्)pronoun, dative singularI; we
+T	को	कःwho	कः  (क)pronoun, masculine nominative singularwho?; what?
+T	भवानुग्ररूपो	भवान्you, sirउग्र-रूपःfierce-form	भवान्  (भवत्)adjective, masculine nominative singularyour honour; your worship; your lordship or ladyship; you (lit. "the gentleman or lady present")उग्रfirst part of a compound (adjective)powerful; violent; mighty; impetuousरूपः  (रूप)noun, masculine nominative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	नमोऽस्तु	नमःsalutationअस्तुlet it be	नमः  (नमस्)noun, neuter nominative singularbow; obeisance; reverential salutation; adoration (by gesture or word)अस्तु  (अस्)verb: present imperative 3rd person singularto be; to live; to exist; to be present
+T	ते	तेfor you	ते  (त्वद्)pronoun, dative singularyou
+T	देववर	देव-वरO best of gods	देवfirst part of a compounda deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining onesवरnoun, masculine vocative singularelection; wish; request; boon
+T	प्रसीद	प्रसीदbe gracious!	प्रसीद  (प्रसद्)verb: present imperative 2nd person singularto fall into the power of (acc.); to settle down; to grow clear and bright; to become placid or tranquil (as the sea or sky)
+T	विज्ञातुमिच्छामि	विज्ञातुम्to understandइच्छामिI desire	विज्ञातुम्  (विज्ञा)infinitiveto distinguish; to discern; to observe; to investigateइच्छामि  (इष्)verb: present 1st person singularto seek for; to desire; to intend; to assent
+T	भवन्तमाद्यम्	भवन्तम्you, sirआद्यम्primal	भवन्तम्  (भवत्)adjective, masculine accusative singularyour honour; your worship; your lordship or ladyship; you (lit. "the gentleman or lady present")आद्यम्  (आद्य)adjective, masculine accusative singularimmediately preceding (e.g. ekâdashâdya); earlier; older; being at the head
+T	न	नnot	नparticlenot; no; nor; neither
+T	हि	हिfor	हिparticlefor; because; on account of
+T	प्रजानामि	प्रजानामिI wisdom	प्रजानामि  (प्रज्ञा)verb: present 1st person singularto know; to understand (esp. a way or mode of action); to discern; to distinguish
+T	तव	तवyour	तव  (त्वद्)pronoun, genitive singularyou
+T	प्रवृत्तिम्	प्रवृत्तिम्activity	प्रवृत्तिम्  (प्रवृत्ति)noun, feminine accusative singularmoving onwards; advance; progress; coming forth
+V	11.32		Time am I, laying desolate the world, Made manifest on earth to slay mankind! Not one of all these warriors ranged for strife Escapeth death; thou shalt alone survive.		श्रीभगवानुवाच~।कालोऽस्मिलोकक्षयकृत्प्रवृद्धोलोकान्समाहर्तुमिहप्रवृत्तः~।ऋतेऽपित्वांनभविष्यन्तिसर्वेयेऽवस्थिताःप्रत्यनीकेषुयोधाः~॥ ३२ ॥	13
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	कालोऽस्मि	कालःtimeअस्मिI am	कालः  (काल)noun, masculine nominative singulartime; the proper time or season for; a spot; tenseअस्मि  (अस्)verb: present 1st person singularto be; to live; to exist; to be present
+T	लोकक्षयकृत्प्रवृद्धो	लोक-क्षय-कृत्world-destruction-makingप्रवृद्धःgrown	लोकfirst part of a compoundfree or open space; room; place; scopeक्षयfirst part of a compoundloss; waste; wane; diminutionकृत्adjective, masculine nominative singularmaking; doing; performing; accomplishingप्रवृद्धः  (प्रवृध्)participle, masculine nominative singularto exalt; to magnify; to grow up; to grow
+T	लोकान्समाहर्तुमिह	लोकान्worldsसमाहर्तुम्to bring togetherइहhere	लोकान्  (लोक)noun, masculine accusative pluralfree or open space; room; place; scopeसमाहर्तुम्  (समाहृ)infinitiveto bring together; to collect; to assemble; to contractइहadverbin this place; here; to this place; in this world
+T	प्रवृत्तः	प्रवृत्तःengaged	प्रवृत्तः  (प्रवृत्)participle, masculine nominative singularto roll or go onwards (as a carriage); to be set in motion or going; to set out; to depart
+T	ऋतेऽपि	ऋतेwithoutअपिalso	ऋतेadverbunder pain of; with the exclusion of; excepting; besidesअपिparticlealso; moreover; besides; assuredly
+T	त्वां	त्वाyou	त्वा  (त्वद्)pronoun, accusative singularyou
+T	न	नnot	नparticlenot; no; nor; neither
+T	भविष्यन्ति	भविष्यन्तिwill be	भविष्यन्ति  (भू)verb: future 3rd person pluralto be; to become; to come into being; to happen
+T	सर्वे	सर्वेall	सर्वे  (सर्व)pronoun, masculine nominative pluralwhole; entire; all; every
+T	येऽवस्थिताः	येwhoअवस्थिताःsituated	ये  (यद्)pronoun, masculine nominative pluralwhat; which; whoअवस्थिताः  (अवस्था)participle, masculine nominative pluralto reach down to; to remain standing; to be separated from; to abide
+T	प्रत्यनीकेषु	प्रत्यनीकेषुin hostile armies	प्रत्यनीकेषु  (प्रत्यनीक)noun, neuter locative plurala hostile army; hostility; enmity; a hostile relation
+T	योधाः	योधाःfighters	योधाः  (योध)noun, masculine nominative plurala fighter; warrior; soldier; battle
+V	11.33		Therefore stand up! win for thyself renown, Conquer thy foes, enjoy the wealth filled realm, By Me they are already overcome, Be thou the outward cause, left-handed one.		तस्मात्त्वमुत्तिष्ठयशोलभस्वजित्वाशत्रून्भुङ्क्ष्वराज्यंसमृद्धम्~।मयैवैतेनिहताःपूर्वमेवनिमित्तमात्रंभवसव्यसाचिन्~॥ ३३ ॥	13
+T	तस्मात्त्वमुत्तिष्ठ	तस्मात्thereforeत्वम्youउत्तिष्ठstand up!	तस्मात्adverbthereforeत्वम्  (त्वद्)pronoun, nominative singularyouउत्तिष्ठ  (उत्था)verb: present imperative 2nd person singularto stand up; to spring up; to rise; to raise one's self
+T	यशो	यशःfame	यशः  (यशस्)noun, neuter accusative singularbeautiful appearance; beauty; splendour; worth
+T	लभस्व	लभस्वobtain!	लभस्व  (लभ्)verb: present imperative 2nd person singularto take; to seize; to catch; to meet with
+T	जित्वा	जित्वाhaving conquered	जित्वा  (जि)absolutive (having ...)to win or aquire; to conquer (in a battle); to defeat; to surpass
+T	शत्रून्भुङ्क्ष्व	शत्रून्enemiesभुङ्क्ष्वenjoy!	शत्रून्  (शत्रु)noun, masculine accusative pluralan enemy; foe; rival; a hostile king (esp. a neighbouring king as a natural enemy)भुङ्क्ष्व  (भुज्)verb: present imperative 2nd person singularto enjoy; to use; to eat; to consume
+T	राज्यं	राज्यम्kingdom	राज्यम्  (राज्य)noun, neuter accusative singularroyalty; kingship; sovereignty; empire
+T	समृद्धम्	समृद्धम्prospered	समृद्धम्  (समृध्)participle, neuter accusative singularto succeed well; to prosper; to flourish; to increase or grow greatly
+T	मयैवैते	मयाby meएवindeedएतेthese	मया  (मद्)pronoun, instrumental singularI; weएवparticleso; just so; exactly so (in the sense of the later evam); indeedएते  (एतद्)pronoun, masculine nominative pluralthis
+T	निहताः	निहताःstruck	निहताः  (निहन्)participle, masculine nominative pluralto strike or fix in; to hurl in or upon or against; to make an attempt upon; to attack
+T	पूर्वमेव	पूर्वम्beforeएवindeed	पूर्वम्adverbbefore; formerly; hitherto; previously (sometimes with pres.)एवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	निमित्तमात्रं	निमित्त-मात्रम्butt-element	निमित्तfirst part of a compounda butt; mark; target; signमात्रम्  (मात्र)noun, neuter nominative singularan element; elementary matter; measure; quantity
+T	भव	भवbe!	भव  (भू)verb: present imperative 2nd person singularto be; to become; to come into being; to happen
+T	सव्यसाचिन्	सव्यसाचिन्O Arjuna	सव्यसाचिन्noun, masculine vocative singularname of Arjuna; name of Krishna; Terminalia Arjuna
+V	11.34		Drona and Bhîshma and Jayadratha, Karna, and all the other warriors here, Are slain by Me. Destroy them fearlessly. Fight! thou shalt crush thy rivals in the field.		द्रोणंचभीष्मंचजयद्रथंचकर्णंतथाऽन्यानपियोधवीरान्~।मयाहतांस्त्वंजहिमाव्यथिष्ठाःयुद्ध्यस्वजेतासिरणेसपत्नान्~॥ ३४ ॥	18
+T	द्रोणं	द्रोणम्Drona	द्रोणम्  (द्रोण)noun, masculine accusative singulara lake or large piece of water of 400 poles length; a kind of cloud from which the rain streams forth as from a bucket; a raven or crow; a scorpion
+T	च	चand	चconjunctionand; both; also; moreover
+T	भीष्मं	भीष्मम्Bhishma	भीष्मम्  (भीष्म)noun, masculine accusative singular= bhîshana; death; name of Shiva; a Râkshasa
+T	च	चand	चconjunctionand; both; also; moreover
+T	जयद्रथं	जयद्रथम्Sindhushauvira king	जयद्रथम्  (जयद्रथ)noun, masculine accusative singularname of a Sindhushauvira king fighting on the Kaurava's side; son of Vriddhakshatra
+T	च	चand	चconjunctionand; both; also; moreover
+T	कर्णं	कर्णम्Karna	कर्णम्  (कर्ण)noun, masculine accusative singularear; handle or ear of a vessel; helm or rudder of a ship; diameter of a circle
+T	तथाऽन्यानपि	तथाlikewiseअन्यान्othersअपिalso	तथाadverbin that manner; so; thus; yesअन्यान्  (अन्य)pronoun, masculine accusative pluralother; anotherअपिparticlealso; moreover; besides; assuredly
+T	योधवीरान्	योध-वीरान्fighter-men	योधfirst part of a compounda fighter; warrior; soldier; battleवीरान्  (वीर)noun, masculine accusative pluralman; hero; chief; mankind
+T	मया	मयाby me	मया  (मद्)pronoun, instrumental singularI; we
+T	हतांस्त्वं	हतान्slainत्वम्you	हतान्  (हन्)participle, masculine accusative pluralto strike; to beat; to pound; to hammerत्वम्  (त्वद्)pronoun, nominative singularyou
+T	जहि	जहिslay!	जहि  (हन्)verb: present imperative 2nd person singularto strike; to beat; to pound; to hammer
+T	मा	माnot	माparticlenot
+T	व्यथिष्ठाः	व्यथिष्ठाःbe troubled	व्यथिष्ठाः  (व्यथ्)verb: perfect injunctive 2nd person singularto tremble; to waver; to go astray; to come to naught
+T	युद्ध्यस्व	युध्यस्वfight!	युध्यस्व  (युध्)verb: present imperative 2nd person singularto fight; to wage war; to fight with
+T	जेतासि	जेतासिyou will conquer	जेतासि  (जि)verb: future 2nd person singularto win or aquire; to conquer (in a battle); to defeat; to surpass
+T	रणे	रणेin battle	रणे  (रण)noun, masculine locative singulardelight; pleasure; gladness; joy
+T	सपत्नान्	सपत्नान्rivals	सपत्नान्  (सपत्न)noun, masculine accusative plurala rival; adversary; enemy
+V	11.35	Sanjaya said:	Having heard these words of Keshava, he who weareth a diadem, with joined palms, quakingand prostrating himself, spake again to Krishna, stammering with fear, casting down his face.		सञ्जयउवाच~।एतच्छ्रुत्वावचनंकेशवस्यकृताञ्जलिर्वेपमानःकिरीटी~।नमस्कृत्वाभूयएवाहकृष्णम्सगद्गदंभीतभीतःप्रणम्य~॥ ३५ ॥	14
+T	सञ्जय	संजयःSanjaya	संजयः  (संजय)noun, masculine nominative singularconquest; victory; a kind of military array; name of a chief of the Yakshas
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	एतच्छ्रुत्वा	एतत्thisश्रुत्वाhaving heard	एतत्  (एतद्)pronoun, neuter accusative singularthisश्रुत्वा  (श्रु)absolutive (having ...)to hear; to listen to; to study
+T	वचनं	वचनम्word	वचनम्  (वचन)noun, neuter accusative singularthe act of speaking; utterance; pronunciation; statement
+T	केशवस्य	केशवस्यof Keshava	केशवस्य  (केशव)noun, masculine genitive singularKrishnaname of Vishnu or Krishna; name of the month Mârgashîrsha; Rottleria tinctoria; name of the author of a lexicon called Kalpadru
+T	कृताञ्जलिर्वेपमानः	कृताञ्जलिःone who joins theवेपमानःtrembling	कृताञ्जलिः  (कृताञ्जलि)adjective, masculine nominative singularone who joins the hollowed palms in reverence or to solicit a favour; standing in a reverent or respectful postureवेपमानः  (विप्)present participle, masculine nominative singulartrembleto tremble; to shake; to vibrate
+T	किरीटी	किरीटीcrowned	किरीटी  (किरीटिन्)noun, masculine nominative singularArjunaname of Indra; name of Arjuna; name of Nara; name of an attendant of Skanda
+T	नमस्कृत्वा	नमस्कृत्वाhaving bowed to	नमस्कृत्वा  (नमस्कृ)absolutive (having ...)to worship; to salute; verehren; huldigen
+T	भूय	भूयःagain	भूयः  (भूयस्)adverbagain; further; furthermore; in addition
+T	एवाह	एवindeedआहsaid	एवparticleso; just so; exactly so (in the sense of the later evam); indeedआह  (अह्)verb: perfect 3rd person singularto say; to call; to consider; to declare
+T	कृष्णम्	कृष्णम्Krishna	कृष्णम्  (कृष्ण)noun, masculine accusative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	सगद्गदं	सwithगद्गदम्stammering	सadverb(ibc.) withगद्गदम्  (गद्गद)adjective, neuter accusative singularstammering; stuttering (said of persons and of utterances)
+T	भीतभीतः	भीत-भीतःfeared-feared	भीत  (भी)first part of a compound (verb)to fear; to be afraid ofभीतः  (भी)participle, masculine nominative singularto fear; to be afraid of
+T	प्रणम्य	प्रणम्यhaving bowed	प्रणम्य  (प्रणम्)absolutive (having ...)to bend or bow down before; to make obeisance to

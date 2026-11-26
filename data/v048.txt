@@ -1,0 +1,67 @@
+V	7.30		They who know Me as the knowledge of the elements, as that of the Shining Ones, and as that of the Sacrifice, they harmonised in mind, know Me verily even in the time of forthgoing.	These six terms are: Brahman, Adhyâtma, Karma, Adhibhûta, Adhidaiva, Adhiyajna.Death - going forth from the body.	साधिभूताधिदैवंमांसाधियज्ञंचयेविदुः~।प्रयाणकालेऽपिचमांतेविदुर्युक्तचेतसः~॥ ३० ॥	11
+T	साधिभूताधिदैवं	सwithअधिभूत-अधिदैवम्physical being-divine being	सadverbwith(ibc.) withअधिभूतfirst part of a compoundsupreme spiritthe spiritual or fine substratum of material or gross objects; the all penetrating influence of the Supreme spirit; the Supreme spirit itself; natureअधिदैवम्  (अधिदैव)noun, masculine accusative singularîshvaraa presiding or tutelary deity; the supreme deity; the divine agent operating in material objects
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularII; we
+T	साधियज्ञं	सwithअधियज्ञम्lord of sacrifice	सadverbwith(ibc.) withअधियज्ञम्  (अधियज्ञ)noun, masculine accusative singularadhiyajnathe chief or principal sacrifice; influence or agency affecting a sacrifice
+T	च	चand	चconjunctionandand; both; also; moreover
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	विदुः	विदुःknew	विदुः  (विद्)verb: perfect 3rd person pluralknowto know; to understand; to learn; to be conscious of
+T	प्रयाणकालेऽपि	प्रयाण-कालेin departure-timeअपिalso	प्रयाणfirst part of a compounddeathsetting out; starting; advancing; motion onwardsकाले  (काल)noun, masculine locative singularmomenttime; the proper time or season for; a spot; tenseअपिparticleevenalso; moreover; besides; assuredly
+T	च	चand	चconjunctionandand; both; also; moreover
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularII; we
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralhe,she,it (pers. pron.)this; gleicher
+T	विदुर्युक्तचेतसः	विदुःknewयुक्त-चेतसःharmonized-minds	विदुः  (विद्)verb: perfect 3rd person pluralknowto know; to understand; to learn; to be conscious ofयुक्त  (युज्)first part of a compound (verb)to practice Yogato yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrangeचेतसः  (चेतस्)noun, masculine nominative pluralmindsplendour; consciousness; intelligence; thinking soul
+V	8.1	Arjuna said:	What is that Eternal, what Self-knowledge, what Action, O Purushottama? And what is declared to be the knowledge of the Elements, what is called the knowledge of the Shining Ones?	Brahman.Adhyâtma.Karma.Adhibhûta.Adhidaiva.	अर्जुनउवाच~।किंतद्ब्रह्मकिमध्यात्मंकिंकर्मपुरुषोत्तम~।अधिभूतंचकिंप्रोक्तमधिदैवंकिमुच्यते~॥ १ ॥	13
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	किं	किम्what	किम्  (क)pronoun, neuter nominative singularwho?; what?
+T	तद्ब्रह्म	तत्thatब्रह्मBrahman	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherब्रह्म  (ब्रह्मन्)noun, neuter nominative singularpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	किमध्यात्मं	किम्whatअध्यात्मम्inner Self	किम्  (क)pronoun, neuter nominative singularwho?; what?अध्यात्मम्  (अध्यात्म)noun, neuter nominative singularthe Supreme spirit
+T	किं	किम्what	किम्  (क)pronoun, neuter nominative singularwho?; what?
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter nominative singularact; action; performance; business
+T	पुरुषोत्तम	पुरुषोत्तमO Supreme Person	पुरुषोत्तमnoun, masculine vocative singularthe highest being; Supreme spirit; name of Vishnu; name of Krishna
+T	अधिभूतं	अधिभूतम्physical being	अधिभूतम्  (अधिभूत)noun, neuter nominative singularthe spiritual or fine substratum of material or gross objects; the all penetrating influence of the Supreme spirit; the Supreme spirit itself; nature
+T	च	चand	चconjunctionand; both; also; moreover
+T	किं	किम्what	किम्  (क)pronoun, neuter nominative singularwho?; what?
+T	प्रोक्तमधिदैवं	प्रोक्तम्declaredअधिदैवम्divine being	प्रोक्तम्  (प्रवच्)participle, neuter nominative singularto proclaim; to announce; to praise; to commendअधिदैवम्  (अधिदैव)noun, neuter nominative singulara presiding or tutelary deity; the supreme deity; the divine agent operating in material objects
+T	किमुच्यते	किम्whatउच्यतेis said	किम्  (क)pronoun, neuter nominative singularwho?; what?उच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare
+V	8.2		What is the knowledge of Sacrifice in this body, and how, O, Madhusûdana? And how, at the time of forthgoing art Thou known by the Self-controlled?	Adhiyajna.	अधियज्ञःकथंकोऽत्रदेहेऽस्मिन्मधुसूदन~।प्रयाणकालेचकथंज्ञेयोऽसिनियतात्मभिः~॥ २ ॥	9
+T	अधियज्ञः	अधियज्ञःlord of sacrifice	अधियज्ञः  (अधियज्ञ)noun, masculine nominative singularthe chief or principal sacrifice; influence or agency affecting a sacrifice
+T	कथं	कथम्how	कथम्adverbhow?
+T	कोऽत्र	कःwhoअत्रhere	कः  (क)pronoun, masculine nominative singularwho?; what?अत्रadverbin this matter; in this respect; in this place; here
+T	देहेऽस्मिन्मधुसूदन	देहेin bodyअस्मिन्in thisमधुसूदनO Madhusudana	देहे  (देह)noun, masculine locative singularform; shape; mass; bulk (as of a cloud)अस्मिन्  (इदम्)pronoun, masculine locative singularthis; (near deictic pronoun in Vedic)मधुसूदनnoun, masculine vocative singulara bee; name of Vishnu-Krishna; name of various scholars
+T	प्रयाणकाले	प्रयाण-कालेin departure-time	प्रयाणfirst part of a compoundsetting out; starting; advancing; motion onwardsकाले  (काल)noun, masculine locative singulartime; the proper time or season for; a spot; tense
+T	च	चand	चconjunctionand; both; also; moreover
+T	कथं	कथम्how	कथम्adverbhow?
+T	ज्ञेयोऽसि	ज्ञेयःto be knownअसिyou are	ज्ञेयः  (ज्ञा)gerundive (to be ...), masculine nominative singularto know; to have knowledge; to become acquainted with; to perceiveअसि  (अस्)verb: present 2nd person singularto be; to live; to exist; to be present
+T	नियतात्मभिः	नियत-आत्मभिःwith controlled-selves	नियत  (नियम्)first part of a compound (verb)to stop (trans.); to hold back; to detain with; to stop (intrans.)आत्मभिः  (आत्मन्)noun, masculine instrumental pluralthe breath; the soul; principle of life and sensation; the individual soul
+V	8.3	The Blessed Lord said:	The indestructible, the supreme is the Eternal; His essential nature is called Self-knowledge; the emanation that causes the birth of beings is named Action;	Brahman.Adhyâtma.Karma.	श्रीभगवानुवाच~।अक्षरंब्रह्मपरमंस्वभावोऽध्यात्ममुच्यते~।भूतभावोद्भवकरोविसर्गःकर्मसंज्ञितः~॥ ३ ॥	8
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	अक्षरं	अक्षरम्imperishable	अक्षरम्  (अक्षर)adjective, neuter nominative singularimperishable; unalterable
+T	ब्रह्म	ब्रह्मBrahman	ब्रह्म  (ब्रह्मन्)noun, neuter nominative singularpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	परमं	परमम्supreme	परमम्  (परम)adjective, neuter nominative singularremotest; extreme; last; chief
+T	स्वभावोऽध्यात्ममुच्यते	स्वभावःown natureअध्यात्मम्inner Selfउच्यतेis said	स्वभावः  (स्वभाव)noun, masculine nominative singularnative place; own condition or state of being; natural state or constitution; innate or inherent dispositionअध्यात्मम्  (अध्यात्म)noun, neuter nominative singularthe Supreme spiritउच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare
+T	भूतभावोद्भवकरो	भूत-भाव-उद्भव-करःbeen-state-arising-making	भूत  (भू)first part of a compound (verb)to be; to become; to come into being; to happenभावfirst part of a compoundbecoming; being; existing; occurringउद्भवfirst part of a compoundexistence; generation; origin; productionकरः  (कर)adjective, masculine nominative singularproducing; causing; making; helping
+T	विसर्गः	विसर्गःsending forth	विसर्गः  (विसर्ग)noun, masculine nominative singularsending forth; letting go; liberation; emission
+T	कर्मसंज्ञितः	कर्म-संज्ञितःaction-called	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessसंज्ञितः  (संज्ञित)adjective, masculine nominative singularmade known; communicated; apprised by a sign or gesture; called
+V	8.4		Knowledge of the Elements concerns My perishable nature, and knowledge of the Shining Ones concerns the life-giving energy; the knowledge of Sacrifice tells of Me, as wearing the body, O best of living beings.	Adhibhûta.Adhidaiva.Purusha, the male creative energy. The supreme Pursha is the Divine Man, the manifested God.Adhiyajna.	अधिभूतंक्षरोभावःपुरुषश्चाधिदैवतम्~।अधियज्ञोऽहमेवात्रदेहेदेहभृतांवर~॥ ४ ॥	8
+T	अधिभूतं	अधिभूतम्physical being	अधिभूतम्  (अधिभूत)noun, neuter nominative singularthe spiritual or fine substratum of material or gross objects; the all penetrating influence of the Supreme spirit; the Supreme spirit itself; nature
+T	क्षरो	क्षरःperishable	क्षरः  (क्षर)adjective, masculine nominative singularmelting away; perishable; liquid
+T	भावः	भावःstate	भावः  (भाव)noun, masculine nominative singularbecoming; being; existing; occurring
+T	पुरुषश्चाधिदैवतम्	पुरुषःpersonचandअधिदैवतम्?	पुरुषः  (पुरुष)noun, masculine nominative singulara man; male; human being (people); a personचconjunctionand; both; also; moreoverअधिदैवतम्  (अधिदैवत)noun, neuter nominative singular
+T	अधियज्ञोऽहमेवात्र	अधियज्ञःlord of sacrificeअहम्Iएवindeedअत्रhere	अधियज्ञः  (अधियज्ञ)noun, masculine nominative singularthe chief or principal sacrifice; influence or agency affecting a sacrificeअहम्  (मद्)pronoun, nominative singularI; weएवparticleso; just so; exactly so (in the sense of the later evam); indeedअत्रadverbin this matter; in this respect; in this place; here
+T	देहे	देहेin body	देहे  (देह)noun, masculine locative singularform; shape; mass; bulk (as of a cloud)
+T	देहभृतां	देहभृताम्of embodied ones	देहभृताम्  (देहभृत्)noun, masculine genitive plurala living creature (esp. man); name of Shiva; life; vitality
+T	वर	वरO choicest	वरadjective, masculine vocative singularchoicest; valuable; precious; best
+V	8.5		And he who, casting off the body, goeth forth thinking upon Me only at the time of the end, he entereth into My being: there is no doubt of that.		अन्तकालेचमामेवस्मरन्मुक्त्वाकलेवरम्~।यःप्रयातिसमद्भावंयातिनास्त्यत्रसंशयः~॥ ५ ॥	12
+T	अन्तकाले	अन्त-कालेin end-time	अन्तfirst part of a compoundend; limit; boundary; termकाले  (काल)noun, masculine locative singulartime; the proper time or season for; a spot; tense
+T	च	चand	चconjunctionand; both; also; moreover
+T	मामेव	माम्meएवindeed	माम्  (मद्)pronoun, accusative singularI; weएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	स्मरन्मुक्त्वा	स्मरन्rememberingमुक्त्वाhaving freed	स्मरन्  (स्मृ)present participle, masculine nominative singularto remember; to recollect; to bear in mind; to think ofमुक्त्वा  (मुच्)absolutive (having ...)to loose; to let loose; to release; to liberate from
+T	कलेवरम्	कलेवरम्body	कलेवरम्  (कलेवर)noun, neuter accusative singularthe body
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	प्रयाति	प्रयातिdeparts	प्रयाति  (प्रया)verb: present 3rd person singularto go forth; to set out; to progress; to advance towards or against
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	मद्भावं	मद्-भावम्my-state	मद्first part of a compound (pronoun)I; weभावम्  (भाव)noun, masculine accusative singularbecoming; being; existing; occurring
+T	याति	यातिgoes	याति  (या)verb: present 3rd person singularto go; to move; to set out; to travel
+T	नास्त्यत्र	नnotअस्तिisअत्रhere	नparticlenot; no; nor; neitherअस्ति  (अस्)verb: present 3rd person singularto be; to live; to exist; to be presentअत्रadverbin this matter; in this respect; in this place; here
+T	संशयः	संशयःdoubt	संशयः  (संशय)noun, masculine nominative singularlying down to rest or sleep; uncertainty; irresolution; hesitation

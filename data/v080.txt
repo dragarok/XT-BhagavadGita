@@ -1,0 +1,68 @@
+V	13.22		Spirit seated in Matter useth the qualities born of Matter; attachment to the qualities is the cause of his births in good and evil wombs.	Purusha.Prakriti.Prakriti.Gunas.	पुरुषःप्रकृतिस्थोहिभुङ्‌क्तेप्रकृतिजान्गुणान्~।कारणंगुणसङ्गोऽस्यसदसद्योनिजन्मसु~॥ २२ ॥	8
+T	पुरुषः	पुरुषःperson	पुरुषः  (पुरुष)noun, masculine nominative singulara man; male; human being (people); a person
+T	प्रकृतिस्थो	प्रकृति-स्थःnature-abiding	प्रकृतिfirst part of a compoundthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; originस्थः  (स्थ)adjective, masculine nominative singularstanding; staying; abiding; being situated in
+T	हि	हिfor	हिparticlefor; because; on account of
+T	भुङ्‌क्ते	भुङ्क्तेenjoys	भुङ्क्ते  (भुज्)verb: present 3rd person singularto enjoy; to use; to eat; to consume
+T	प्रकृतिजान्गुणान्	प्रकृति-जान्nature-bornगुणान्qualities	प्रकृतिfirst part of a compoundthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; originजान्  (ज)adjective, masculine accusative pluralifc. born or descended from; produced or caused by; born or produced in or at or upon; growing inगुणान्  (गुण)noun, masculine accusative plurala single thread or strand of a cord or twine; string or thread; rope; a garland
+T	कारणं	कारणम्cause	कारणम्  (कारण)noun, neuter nominative singularcause; reason; the cause of anything; instrument
+T	गुणसङ्गोऽस्य	गुण-सङ्गःquality-attachmentअस्यof this	गुणfirst part of a compounda single thread or strand of a cord or twine; string or thread; rope; a garlandसङ्गः  (सङ्ग)noun, masculine nominative singularsticking; clinging to; touch; contact withअस्य  (इदम्)pronoun, masculine genitive singularthis; (near deictic pronoun in Vedic)
+T	सदसद्योनिजन्मसु	सत्-असत्-योनि-जन्मसुin been-unreal-womb-births	सत्  (अस्)first part of a compound (verb)to be; to live; to exist; to be presentअसत्first part of a compound (adjective)untrue; wrong; bad; not existingयोनिfirst part of a compoundthe womb; uterus; vulva; vaginaजन्मसु  (जन्मन्)noun, neuter locative pluralbirth; origin; existence; life
+V	13.23		Supervisor and permitter, supporter, enjoyer, the great Lord, and also the supreme Self; thus is styled in this body the supreme Spirit.	Prakriti.	उपद्रष्टाऽनुमन्ताचभर्ताभोक्तामहेश्वरः~।परमात्मेतिचाप्युक्तोदेहेऽस्मिन्पुरुषःपरः~॥ २३ ॥	9
+T	उपद्रष्टाऽनुमन्ता	उपद्रष्टाlooker-onअनुमन्ताconsenting to	उपद्रष्टा  (उपद्रष्टृ)noun, masculine nominative singulara looker-on; spectator; a witness; kritischer Zuschauerअनुमन्ता  (अनुमन्तृ)adjective, masculine nominative singularconsenting to; permitting
+T	च	चand	चconjunctionand; both; also; moreover
+T	भर्ता	भर्ताsupporter	भर्ता  (भर्तृ)noun, masculine nominative singulara bearer; one who bears or carries or maintains; a husband
+T	भोक्ता	भोक्ताenjoyer	भोक्ता  (भोक्तृ)adjective, masculine nominative singularenjoying; eating
+T	महेश्वरः	महेश्वरःgreat lord	महेश्वरः  (महेश्वर)noun, masculine nominative singulara great lord; sovereign; chief; name of various gods (esp. of Shiva and of Krishna)
+T	परमात्मेति	परमात्माSupreme Selfइतिthus	परमात्मा  (परमात्मन्)noun, masculine nominative singularall the heart; the Supreme spiritइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	चाप्युक्तो	चandअपिalsoउक्तःsaid	चconjunctionand; both; also; moreoverअपिparticlealso; moreover; besides; assuredlyउक्तः  (वच्)participle, masculine nominative singularto speak; to say; to tell; to declare
+T	देहेऽस्मिन्पुरुषः	देहेin bodyअस्मिन्in thisपुरुषःperson	देहे  (देह)noun, masculine locative singularform; shape; mass; bulk (as of a cloud)अस्मिन्  (इदम्)pronoun, masculine locative singularthis; (near deictic pronoun in Vedic)पुरुषः  (पुरुष)noun, masculine nominative singulara man; male; human being (people); a person
+T	परः	परःsupreme	परः  (पर)pronoun, masculine nominative singularfar; remote; opposite; previous
+V	13.24		He who thus knoweth Spirit and Matter with its qualities, in whatsoever condition he may be, he shall not be born again.	Purusha.Prakriti.Gunas.	यएवंवेत्तिपुरुषंप्रकृतिंचगुणैःसह~।सर्वथावर्तमानोऽपिनसभूयोऽभिजायते~॥ २४ ॥	13
+T	य	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	एवं	एवम्thus	एवम्adverbthus; in this way; in such a manner; such
+T	वेत्ति	वेत्तिknows	वेत्ति  (विद्)verb: present 3rd person singularto know; to understand; to learn; to be conscious of
+T	पुरुषं	पुरुषम्person	पुरुषम्  (पुरुष)noun, masculine accusative singulara man; male; human being (people); a person
+T	प्रकृतिं	प्रकृतिम्nature	प्रकृतिम्  (प्रकृति)noun, feminine accusative singularthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; origin
+T	च	चand	चconjunctionand; both; also; moreover
+T	गुणैः	गुणैःwith qualities	गुणैः  (गुण)noun, masculine instrumental plurala single thread or strand of a cord or twine; string or thread; rope; a garland
+T	सह	सहwith	सहadverbtogether with; along with; with
+T	सर्वथा	सर्वथाin everyway	सर्वथाadverbin everyway; in every respect; by all means (often joined with sarvatra and sarvadâ); in whatever way
+T	वर्तमानोऽपि	वर्तमानःabidingअपिalso	वर्तमानः  (वृत्)present participle, masculine nominative singularto turn; to turn round; to revolve; to rollअपिparticlealso; moreover; besides; assuredly
+T	न	नnot	नparticlenot; no; nor; neither
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	भूयोऽभिजायते	भूयःagainअभिजायतेis born	भूयः  (भूयस्)adverbagainagain; further; furthermore; in additionअभिजायते  (अभिजन्)verb: present 3rd person singularbe bornto be born for or to; to claim as one's birthright; to be born or produced; to be reproduced or born again
+V	13.25		Some by meditation behold the Self in the self by the Self; others by the Sânkhya Yoga, and others by the Yoga of Action;		ध्यानेनात्मनिपश्यन्तिकेचिदात्मानमात्मना~।अन्येसाङ्ख्येनयोगेनकर्मयोगेनचापरे~॥ २५ ॥	8
+T	ध्यानेनात्मनि	ध्यानेनwith meditationआत्मनिin self	ध्यानेन  (ध्यान)noun, neuter instrumental singularmeditation; thought; reflection; profound and abstract religious meditationआत्मनि  (आत्मन्)noun, masculine locative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	पश्यन्ति	पश्यन्तिsee	पश्यन्ति  (दृश्)verb: present 3rd person pluralto behold; to look at; to regard; to consider
+T	केचिदात्मानमात्मना	केचिद्someoneआत्मानम्selfआत्मनाwith self	केचिद्  (कश्चित्)pronoun, masculine nominative pluralsomeone; something; anyआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soulआत्मना  (आत्मन्)noun, masculine instrumental singularthe breath; the soul; principle of life and sensation; the individual soul
+T	अन्ये	अन्येothers	अन्ये  (अन्य)pronoun, masculine nominative pluralother; another
+T	साङ्ख्येन	सांख्येनwith Sankhya	सांख्येन  (सांख्य)noun, neuter instrumental singularname of one of the three great divisions of Hindû philosophy
+T	योगेन	योगेनwith yoga	योगेन  (योग)noun, masculine instrumental singularthe act of yoking; joining; attaching; harnessing
+T	कर्मयोगेन	कर्म-योगेनwith action-yoga	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessयोगेन  (योग)noun, masculine instrumental singularthe act of yoking; joining; attaching; harnessing
+T	चापरे	चandअपरेother	चconjunctionand; both; also; moreoverअपरे  (अपर)pronoun, masculine nominative pluralthe other; another; future; next
+V	13.26		Others also, ignorant of this, having heard of itfrom others, worship; and these also cross beyond death, adhering to what they had heard.		अन्येत्वेवमजानन्तःश्रुत्वाऽन्येभ्यउपासते~।तेऽपिचातितरन्त्येवमृत्युंश्रुतिपरायणाः~॥ २६ ॥	8
+T	अन्ये	अन्येothers	अन्ये  (अन्य)pronoun, masculine nominative pluralother; another
+T	त्वेवमजानन्तः	तुbutएवम्thusअजानन्तःnot knowing	तुparticledo; now; then; butएवम्adverbthus; in this way; in such a manner; suchअnegative prefixnotnot; un-; in-जानन्तः  (ज्ञा)present participle, masculine nominative pluralto know; to have knowledge; to become acquainted with; to perceive
+T	श्रुत्वाऽन्येभ्य	श्रुत्वाhaving heardअन्येभ्यःothers	श्रुत्वा  (श्रु)absolutive (having ...)to hear; to listen to; to studyअन्येभ्यः  (अन्य)pronoun, masculine ablative pluralother; another
+T	उपासते	उपासतेworships	उपासते  (उपास्)verb: present 3rd person singularto employ; to use; to make subservient; to sit by the side of
+T	तेऽपि	तेtheyअपिalso	ते  (तद्)pronoun, masculine nominative pluralthis; gleicherअपिparticlealso; moreover; besides; assuredly
+T	चातितरन्त्येव	चandअतितरन्तिpass throughएवindeed	चconjunctionand; both; also; moreoverअतितरन्ति  (अतित्￞)verb: present 3rd person pluralto pass through or by or over; to cross; to overcome; to escapeएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	मृत्युं	मृत्युम्death	मृत्युम्  (मृत्यु)noun, masculine accusative singulardeath; dying; Death personified; the god of disease (sometimes identified with Yama or with Vishnu)
+T	श्रुतिपरायणाः	श्रुति-परायणाःhearing-devoted tos	श्रुतिfirst part of a compoundhearing; listening; the ear; organ or power of hearingपरायणाः  (परायण)noun, masculine nominative pluralfinal end or aim; last resort or refuge; principal object; chief matter
+V	13.27		Whatsoever creature is born immobile or mobile, know thou, O best of the Bhâratas, that it is from the union between the Field and the Knower of the Field.		यावत्सञ्जायतेकिञ्चित्सत्त्वंस्थावरजङ्गमम्~।क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धिभरतर्षभ~॥ २७ ॥	5
+T	यावत्सञ्जायते	यावत्as long asसंजायतेarises	यावत्conjunctionas greatly as; as far as; as much or as many as; as often asसंजायते  (संजन्)verb: present 3rd person singularto be born or produced together with (abl.); to be born from; to arise or come forth from (abl.); to come into existence
+T	किञ्चित्सत्त्वं	किंचिद्someoneसत्त्वम्goodness	किंचिद्  (कश्चित्)pronoun, neuter nominative singularsomeone; something; anyसत्त्वम्  (सत्त्व)noun, neuter nominative singularbeing; existence; reality; true essence
+T	स्थावरजङ्गमम्	स्थावर-जङ्गमम्standing still-moving	स्थावरfirst part of a compound (adjective)standing still; fixed; stable; firmजङ्गमम्  (जङ्गम)adjective, neuter nominative singularmoving; locomotive (opposed to stationary); living; a living being
+T	क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि	क्षेत्र-क्षेत्रज्ञ-संयोगात्from field-knower of the field-contactतत्thatविद्धिknow!	क्षेत्रfirst part of a compoundlanded property; land; soil; name of a kind of tutelary deityक्षेत्रज्ञfirst part of a compoundthe individual soulसंयोगात्  (संयोग)noun, masculine ablative singularconjunction; combination; union; absorptionतत्  (तद्)pronoun, neuter accusative singularthis; gleicherविद्धि  (विद्)verb: present imperative 2nd person singularto know; to understand; to learn; to be conscious of
+T	भरतर्षभ	भरत-ऋषभO best of the Bharatas	भरतfirst part of a compoundname of Agni (kept alive by the care of men); name of a particular Agni (father of Bharata and Bharatî); a priest; an actorऋषभnoun, masculine vocative singulara bull (as impregnating the flock); any male animal in general; the best or most excellent of any kind or race; the second of the seven notes of the Hindû gamut
+V	13.28		Seated equally in all beings, the supreme Lord, unperishing within the perishing - he who thus seeth, he seeth.		समंसर्वेषुभूतेषुतिष्ठन्तंपरमेश्वरम्~।विनश्यत्स्वविनश्यन्तंयःपश्यतिसपश्यति~॥ २८ ॥	10
+T	समं	समम्equal	समम्  (सम)pronoun, masculine accusative singulareven; flat; level; parallel
+T	सर्वेषु	सर्वेषुall	सर्वेषु  (सर्व)pronoun, neuter locative pluralwhole; entire; all; every
+T	भूतेषु	भूतेषुin beings	भूतेषु  (भूत)noun, neuter locative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	तिष्ठन्तं	तिष्ठन्तम्standing	तिष्ठन्तम्  (स्था)present participle, masculine accusative singularto stand; to station one's self; to get upon; to stay
+T	परमेश्वरम्	परमेश्वरम्supreme lord	परमेश्वरम्  (परमेश्वर)noun, masculine accusative singularthe supreme lord; Supreme Being; God; name of Shiva
+T	विनश्यत्स्वविनश्यन्तं	विनश्यत्सुbeing destroyedअविनश्यन्तम्not perishing	विनश्यत्सु  (विनश्)present participle, neuter locative pluralto be utterly lost; to perish; to disappear; to vanishअविनश्यन्तम्  (अविनश्यत्)adjective, masculine accusative singularnot perishing
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	पश्यति	पश्यतिsees	पश्यति  (दृश्)verb: present 3rd person singularto behold; to look at; to regard; to consider
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	पश्यति	पश्यतिsees	पश्यति  (दृश्)verb: present 3rd person singularto behold; to look at; to regard; to consider

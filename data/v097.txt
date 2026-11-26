@@ -1,0 +1,78 @@
+V	18.1	Arjuna said:	I desire, O mighty-armed, to know severally the essence of renunciation, O Hrishîkesha, and of relinquishment, O Keshinishûdana.	Sannyâsa.Tyâga.Slayer of Keshi, a demon.	अर्जुनउवाच~।संन्यासस्यमहाबाहोतत्त्वमिच्छामिवेदितुम्~।त्यागस्यचहृषीकेशपृथक्केशिनिषूदन~॥ १ ॥	10
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	संन्यासस्य	संन्यासस्यof renunciation	संन्यासस्य  (संन्यास)noun, masculine genitive singularsamnyâsaputting or throwing down; laying aside; resignation; abandonment of (gen. or comp.)
+T	महाबाहो	महा-बाहोO mighty-armed	महा  (महत्)first part of a compound (adjective)great; large; big; hugeबाहो  (बाहु)noun, masculine vocative singularthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	तत्त्वमिच्छामि	तत्त्वम्truthइच्छामिI desire	तत्त्वम्  (तत्त्व)noun, neuter accusative singulartruthtrue or real state; truth; reality; (in phil.) a true principleइच्छामि  (इष्)verb: present 1st person singulardesireto seek for; to desire; to intend; to assent
+T	वेदितुम्	वेदितुम्to know	वेदितुम्  (विद्)infinitiveknowto know; to understand; to learn; to be conscious of
+T	त्यागस्य	त्यागस्यof relinquishment	त्यागस्य  (त्याग)noun, masculine genitive singularabandonmentleaving; abandoning; forsaking; quitting (a place)
+T	च	चand	चconjunctionandand; both; also; moreover
+T	हृषीकेश	हृषीकेशO Hrishikesha	हृषीकेशnoun, masculine vocative singularVishnuname of the tenth month; name of a Tîrtha; name of a poet; lord of the senses (said of Manas)
+T	पृथक्केशिनिषूदन	पृथक्separatelyकेशिनिषूदनO Vishnu	पृथक्adverbeachwidely apart; separately; differently; singlyकेशिनिषूदनnoun, masculine vocative singularVishnuKrishna; [rel.] name of Vishnu
+V	18.2	The Blessed Lord said:	Sages have known as renunciation the renouncing of works with desire; the relinquishing of the fruit of all actions is called relinquishment by the wise.		श्रीभगवानुवाच~।काम्यानांकर्मणांन्यासंसंन्यासंकवयोविदुः~।सर्वकर्मफलत्यागंप्राहुस्त्यागंविचक्षणाः~॥ २ ॥	10
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundmisterlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularKrishnaname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	काम्यानां	काम्यानाम्desirable	काम्यानाम्  (काम्य)adjective, neuter genitive pluraldesirabledesirable; beautiful; amiable; lovely
+T	कर्मणां	कर्मणाम्of actions	कर्मणाम्  (कर्मन्)noun, neuter genitive pluralactionact; action; performance; business
+T	न्यासं	न्यासम्abandonment	न्यासम्  (न्यास)noun, masculine accusative singularabandonmentputting down or in; placing; fixing; inserting
+T	संन्यासं	संन्यासम्renunciation	संन्यासम्  (संन्यास)noun, masculine accusative singularsamnyâsaputting or throwing down; laying aside; resignation; abandonment of (gen. or comp.)
+T	कवयो	कवयःseers	कवयः  (कवि)noun, masculine nominative pluralwise mana thinker; intelligent man; man of understanding; leader
+T	विदुः	विदुःknew	विदुः  (विद्)verb: perfect 3rd person pluralknowto know; to understand; to learn; to be conscious of
+T	सर्वकर्मफलत्यागं	सर्व-कर्म-फल-त्यागम्all-action-fruit-relinquishment	सर्वfirst part of a compound (pronoun)all(a)whole; entire; all; everyकर्म  (कर्मन्)first part of a compoundactionact; action; performance; businessफलfirst part of a compoundresultfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalansत्यागम्  (त्याग)noun, masculine accusative singularabandonmentleaving; abandoning; forsaking; quitting (a place)
+T	प्राहुस्त्यागं	प्राहुःcalledत्यागम्relinquishment	प्राहुः  (प्राह्)verb: perfect 3rd person pluralcallto announce; to declare; to utter; to expressत्यागम्  (त्याग)noun, masculine accusative singularabandonmentleaving; abandoning; forsaking; quitting (a place)
+T	विचक्षणाः	विचक्षणाःwise	विचक्षणाः  (विचक्षण)adjective, masculine nominative pluralwiseconspicuous; visible; bright; radiant
+V	18.3		"Action should be relinquished as an evil," declare some thoughtful men; "acts of sacrifice, gift and austerity should not be relinquished," say others.	Some read: "Because it is evil."	त्याज्यंदोषवदित्येकेकर्मप्राहुर्मनीषिणः~।यज्ञदानतपःकर्मनत्याज्यमितिचापरे~॥ ३ ॥	9
+T	त्याज्यं	त्याज्यम्to be abandoned	त्याज्यम्  (त्यज्)gerundive (to be ...), neuter nominative singularabandonto leave; to abandon; to quit; to leave a place
+T	दोषवदित्येके	दोषवत्evilइतिthusएकेsome	दोषवत्adjective, neuter nominative singularevilhaving faults; faulty; defective; blemishedइतिparticlethusin this manner; thus (in its original signification iti refers to something that has been said or thought); soएके  (एक)number, masculine nominative pluralsome(a)one; alone; happening only once; single of its kind
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularactionact; action; performance; business
+T	प्राहुर्मनीषिणः	प्राहुःcalledमनीषिणःwise	प्राहुः  (प्राह्)verb: perfect 3rd person pluralcallto announce; to declare; to utter; to expressमनीषिणः  (मनीषिन्)adjective, masculine nominative pluralsagethoughtful; intelligent; wise; sage
+T	यज्ञदानतपः	यज्ञ-दान-तपः-कर्मsacrifice-giving-austerity-action	यज्ञfirst part of a compoundyajnaworship; devotion; prayer; praiseदानfirst part of a compoundgivingthe act of giving; giving in marriage; giving up; communicatingतपः  (तपस्)first part of a compoundpenancewarmth; heat; pain; sufferingकर्म  (कर्मन्)noun, neuter nominative singularactionact; action; performance; business
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter nominative singularact; action; performance; business
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	त्याज्यमिति	त्याज्यम्to be abandonedइतिthus	त्याज्यम्  (त्यज्)gerundive (to be ...), neuter nominative singularavoidto leave; to abandon; to quit; to leave a placeइतिparticlesoin this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	चापरे	चandअपरेother	चconjunctionandand; both; also; moreoverअपरे  (अपर)pronoun, masculine nominative pluralotherthe other; another; future; next
+V	18.4		Hear my conclusions as to that relinquishment, O best of the Bhâratas; since relinquishment, O tiger of men, has been explained as threefold.		निश्चयंशृणुमेतत्रत्यागेभरतसत्तम~।त्यागोहिपुरुषव्याघ्रत्रिविधःसम्प्रकीर्तितः~॥ ४ ॥	11
+T	निश्चयं	निश्चयम्certainty	निश्चयम्  (निश्चय)noun, masculine accusative singulardecisioninquiry; ascertainment; fixed opinion; conviction
+T	शृणु	शृणुhear!	शृणु  (श्रु)verb: present imperative 2nd person singularlistento hear; to listen to; to study
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularII; we
+T	तत्र	तत्रthere	तत्रadverbin that place; there (in comp.); thither; to that place
+T	त्यागे	त्यागेin relinquishment	त्यागे  (त्याग)noun, masculine locative singularabandonmentleaving; abandoning; forsaking; quitting (a place)
+T	भरतसत्तम	भरत-सत्तमO best of the Bharatas	भरतfirst part of a compoundBharataname of Agni (kept alive by the care of men); name of a particular Agni (father of Bharata and Bharatî); a priest; an actorसत्तमadjective, masculine vocative singularbestvery good or right; the best; first; chief of
+T	त्यागो	त्यागःrelinquishment	त्यागः  (त्याग)noun, masculine nominative singularabandonmentleaving; abandoning; forsaking; quitting (a place)
+T	हि	हिfor	हिparticlefor; because; on account of
+T	पुरुषव्याघ्र	पुरुष-व्याघ्रO tiger among men	पुरुषfirst part of a compounda man; male; human being (people); a personव्याघ्रnoun, masculine vocative singulara tiger; any pre-eminently strong or noble person; Pongamia Glabra; a red variety of the castor-oil plant
+T	त्रिविधः	त्रिविधःthreefold	त्रिविधः  (त्रिविध)adjective, masculine nominative singularof 3 kinds; triple; threefold
+T	सम्प्रकीर्तितः	संप्रकीर्तितःcalled	संप्रकीर्तितः  (संप्रकीर्तय्)participle, masculine nominative singularto call; to consider as; to describe
+V	18.5		Acts of sacrifice, gift and austerity should not be relinquished, but should be performed; sacrifice, gift and also austerity are the purifiers of the intelligent.		यज्ञदानतपःकर्मनत्याज्यंकार्यमेवतत्~।यज्ञोदानंतपश्चैवपावनानिमनीषिणाम्~॥ ५ ॥	11
+T	यज्ञदानतपः	यज्ञ-दान-तपः-कर्मsacrifice-giving-austerity-action	यज्ञfirst part of a compoundworship; devotion; prayer; praiseदानfirst part of a compoundthe act of giving; giving in marriage; giving up; communicatingतपः  (तपस्)first part of a compoundwarmth; heat; pain; sufferingकर्म  (कर्मन्)noun, neuter nominative singularact; action; performance; business
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter nominative singularact; action; performance; business
+T	न	नnot	नparticlenot; no; nor; neither
+T	त्याज्यं	त्याज्यम्to be abandoned	त्याज्यम्  (त्यज्)gerundive (to be ...), neuter nominative singularto leave; to abandon; to quit; to leave a place
+T	कार्यमेव	कार्यम्to be doneएवindeed	कार्यम्  (कृ)gerundive (to be ...), neuter nominative singularto make like or similar; to consider equivalent; to reduce anything to; to cause to becomeएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	तत्	तत्that	तत्  (तद्)pronoun, neuter nominative singularthis; gleicher
+T	यज्ञो	यज्ञःsacrifice	यज्ञः  (यज्ञ)noun, masculine nominative singularworship; devotion; prayer; praise
+T	दानं	दानम्giving	दानम्  (दान)noun, neuter nominative singularthe act of giving; giving in marriage; giving up; communicating
+T	तपश्चैव	तपःausterityचandएवindeed	तपः  (तपस्)noun, neuter nominative singularwarmth; heat; pain; sufferingचconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	पावनानि	पावनानिpurifying	पावनानि  (पावन)adjective, neuter nominative pluralpurifying; purificatory; pure; holy
+T	मनीषिणाम्	मनीषिणाम्wise	मनीषिणाम्  (मनीषिन्)adjective, masculine genitive pluralthoughtful; intelligent; wise; sage
+V	18.6		But even these actions should be done leaving aside attachment and fruit, O Pârtha; that is my certain and best belief.		एतान्यपितुकर्माणिसङ्गंत्यक्त्वाफलानिच~।कर्तव्यानीतिमेपार्थनिश्चितंमतमुत्तमम्~॥ ६ ॥	12
+T	एतान्यपि	एतानिtheseअपिalso	एतानि  (एतद्)pronoun, neuter nominative pluralthisअपिparticlealso; moreover; besides; assuredly
+T	तु	तुbut	तुparticledo; now; then; but
+T	कर्माणि	कर्माणिactions	कर्माणि  (कर्मन्)noun, neuter nominative pluralact; action; performance; business
+T	सङ्गं	सङ्गम्attachment	सङ्गम्  (सङ्ग)noun, masculine accusative singularattachmentsticking; clinging to; touch; contact with
+T	त्यक्त्वा	त्यक्त्वाhaving abandoned	त्यक्त्वा  (त्यज्)absolutive (having ...)to leave; to abandon; to quit; to leave a place
+T	फलानि	फलानिfruits	फलानि  (फल)noun, neuter accusative pluralfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	च	चand	चconjunctionand; both; also; moreover
+T	कर्तव्यानीति	कर्तव्यानिto be doneइतिthus	कर्तव्यानि  (कृ)gerundive (to be ...), neuter nominative pluralto make like or similar; to consider equivalent; to reduce anything to; to cause to becomeइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	निश्चितं	निश्चितम्ascertained	निश्चितम्  (निश्चि)participle, neuter nominative singularto ascertain; to investigate; to decide; to settle
+T	मतमुत्तमम्	मतम्opinionउत्तमम्highest	मतम्  (मत)noun, neuter nominative singulara thought; idea; opinion; sentimentउत्तमम्  (उत्तम)adjective, neuter nominative singularuppermost; highest; chief; most elevated
+V	18.7		Verily renunciation of actions that are prescribed is not proper; the relinquishment thereof from delusion is said to be of darkness.		नियतस्यतुसंन्यासःकर्मणोनोपपद्यते~।मोहात्तस्यपरित्यागस्तामसःपरिकीर्तितः~॥ ७ ॥	8
+T	नियतस्य	नियतस्यcontrolled	नियतस्य  (नियम्)participle, masculine genitive singularto stop (trans.); to hold back; to detain with; to stop (intrans.)
+T	तु	तुbut	तुparticledo; now; then; but
+T	संन्यासः	संन्यासःrenunciation	संन्यासः  (संन्यास)noun, masculine nominative singularputting or throwing down; laying aside; resignation; abandonment of (gen. or comp.)
+T	कर्मणो	कर्मणःof action	कर्मणः  (कर्मन्)noun, neuter genitive singularact; action; performance; business
+T	नोपपद्यते	नnotउपपद्यतेis fitting	नparticlenot; no; nor; neitherउपपद्यते  (उपपद्)verb: present 3rd person singularto go towards or against; to attack; to approach; to come to
+T	मोहात्तस्य	मोहात्from delusionतस्यhis	मोहात्  (मोह)noun, masculine ablative singularloss of consciousness; bewilderment; perplexity; distractionतस्य  (तद्)pronoun, masculine genitive singularthis; gleicher
+T	परित्यागस्तामसः	परित्यागःact of leavingतामसःdull	परित्यागः  (परित्याग)noun, masculine nominative singularthe act of leaving; abandoning; deserting; quittingतामसः  (तामस)adjective, masculine nominative singulardark; appertaining to or affected by the quality tamas; ignorant; various
+T	परिकीर्तितः	परिकीर्तितःproclaimed on all sides	परिकीर्तितः  (परिकीर्तय्)participle, masculine nominative singularto proclaim on all sides; to announce; to relate; to celebrate

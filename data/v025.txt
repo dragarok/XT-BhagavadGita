@@ -1,0 +1,68 @@
+V	3.42		It is said that the senses are great; greater than the senses is the mind: greater than the mind is the Reason; but what is greater than the Reason, is He.	Manah.Manah.Buddhi.Buddhi.The Supreme.	इन्द्रियाणिपराण्याहुरिन्द्रियेभ्यःपरंमनः~।मनसस्तुपराबुद्धिर्योबुद्धेःपरतस्तुसः~॥ ४२ ॥	10
+T	इन्द्रियाणि	इन्द्रियाणिsenses	इन्द्रियाणि  (इन्द्रिय)noun, neuter accusative pluralIndriyapower; force; the quality which belongs especially to the mighty Indra; exhibition of power
+T	पराण्याहुरिन्द्रियेभ्यः	पराणिsupremeआहुःsaidइन्द्रियेभ्यःfrom senses	पराणि  (पर)pronoun, neuter accusative pluralfar; remote; opposite; previousआहुः  (अह्)verb: perfect 3rd person pluralto say; to call; to consider; to declareइन्द्रियेभ्यः  (इन्द्रिय)noun, neuter ablative pluralpower; force; the quality which belongs especially to the mighty Indra; exhibition of power
+T	परं	परम्supreme	परम्  (पर)pronoun, neuter nominative singularfar; remote; opposite; previous
+T	मनः	मनःmind	मनः  (मनस्)noun, neuter nominative singularManasmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	मनसस्तु	मनसःfrom mindतुbut	मनसः  (मनस्)noun, neuter ablative singularManasmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understandingतुparticledo; now; then; but
+T	परा	पराsupreme	परा  (पर)pronoun, feminine nominative singularfar; remote; opposite; previous
+T	बुद्धिर्यो	बुद्धिःintellectयःwho	बुद्धिः  (बुद्धि)noun, feminine nominative singularBuddhithe power of forming and retaining conceptions and general notions; intelligence; reason; intellectयः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	बुद्धेः	बुद्धेःfrom intellect	बुद्धेः  (बुद्धि)noun, feminine ablative singularBuddhithe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	परतस्तु	परतःfartherतुbut	परतः  (परतस्)adverbfarther; far off; afterwards; behindतुparticledo; now; then; but
+T	सः	सःhe	सः  (तद्)pronoun, masculine nominative singularthis; gleicher
+V	3.43		Thus understanding Him as greater than the Reason, restraining the self by the Self, slay thou, O mighty-armed, the enemy in the form of desire, difficult to overcome.	Buddhi.	एवंबुद्धेःपरंबुध्वासंस्तभ्यात्मानमात्मना~।जहिशत्रुंमहाबाहोकामरूपंदुरासदम्~॥ ४३ ॥	10
+T	एवं	एवम्thus	एवम्adverbthus; in this way; in such a manner; such
+T	बुद्धेः	बुद्धेःfrom intellect	बुद्धेः  (बुद्धि)noun, feminine ablative singularBuddhithe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	परं	परम्supreme	परम्  (पर)pronoun, masculine accusative singularfar; remote; opposite; previous
+T	बुध्वा	बुद्ध्वाhaving understood	बुद्ध्वा  (बुध्)absolutive (having ...)to wake; to wake up; to be awake; to recover consciousness (after a swoon)
+T	संस्तभ्यात्मानमात्मना	संस्तभ्यhaving made firmआत्मानम्selfआत्मनाwith self	संस्तभ्य  (संस्तम्भ्)absolutive (having ...)to make firm; to support; to sustain; to encourageआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soulआत्मना  (आत्मन्)noun, masculine instrumental singularthe breath; the soul; principle of life and sensation; the individual soul
+T	जहि	जहिslay!	जहि  (हन्)verb: present imperative 2nd person singularto strike; to beat; to pound; to hammer
+T	शत्रुं	शत्रुम्enemy	शत्रुम्  (शत्रु)noun, masculine accusative singularenemyan enemy; foe; rival; a hostile king (esp. a neighbouring king as a natural enemy)
+T	महाबाहो	महा-बाहोO mighty-armed	महा  (महत्)first part of a compound (adjective)great; large; big; hugeबाहो  (बाहु)noun, masculine vocative singularthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	कामरूपं	काम-रूपम्desire-form	कामfirst part of a compounddesirewish; desire; longing; desire forरूपम्  (रूप)noun, masculine accusative singularappearanceany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	दुरासदम्	दुरासदम्invincible	दुरासदम्  (दुरासद)adjective, masculine accusative singularinvincibledifficult or dangerous to be approached; difficult to be found or met with; unheard of; unparalleled
+V	4.1	The Blessed Lord said:	This imperishable yoga I declared to Vivasvân; Vivasvân taught it to Manu; Manu to Ikshvâku told it.		श्रीभगवानुवाच~।इमंविवस्वतेयोगंप्रोक्तवानहमव्ययम्~।विवस्वान्मनवेप्राहमनुरिक्ष्वाकवेऽब्रवीत्~॥ १ ॥	8
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	इमं	इमम्this	इमम्  (इदम्)pronoun, masculine accusative singularthis; (near deictic pronoun in Vedic)
+T	विवस्वते	विवस्वतेfor Vivasvan	विवस्वते  (विवस्वन्त्)noun, masculine dative singularname of the sun (sometimes regarded as one of the eight Âdityas or sons of Aditi); the Soma priest; name of Aruna (charioteer of the Sun)
+T	योगं	योगम्yoga	योगम्  (योग)noun, masculine accusative singularthe act of yoking; joining; attaching; harnessing
+T	प्रोक्तवानहमव्ययम्	प्रोक्तवान्declaredअहम्Iअव्ययम्imperishable	प्रोक्तवान्  (प्रवच्)participle, masculine nominative singularto proclaim; to announce; to praise; to commendअहम्  (मद्)pronoun, nominative singularI; weअव्ययम्  (अव्यय)adjective, masculine accusative singularnot liable to change; imperishable; undecaying; parsimonious
+T	विवस्वान्मनवे	विवस्वान्Vivasvanमनवेfor Manu	विवस्वान्  (विवस्वन्त्)noun, masculine nominative singularname of the sun (sometimes regarded as one of the eight Âdityas or sons of Aditi); the Soma priest; name of Aruna (charioteer of the Sun)मनवे  (मनु)noun, masculine dative singularman; mankind; the Man par excellence or the representative man and father of the human race; thought
+T	प्राह	प्राहcalled	प्राह  (प्राह्)verb: perfect 3rd person singularto announce; to declare; to utter; to express
+T	मनुरिक्ष्वाकवेऽब्रवीत्	मनुःManuइक्ष्वाकवेfor manअब्रवीत्told	मनुः  (मनु)noun, masculine nominative singularman; mankind; the Man par excellence or the representative man and father of the human race; thoughtइक्ष्वाकवे  (इक्ष्वाकु)noun, masculine dative singularname of a man; name of a son of Manu Vaivasvata (father of Kukshi and first king of the solar dynasty in Ayodhyâ); a descendant of Ikshvâkuअब्रवीत्  (ब्रू)verb: imperfect 3rd person singularto speak; to say; to tell; to speak about any person or thing (acc. with or without prati)
+V	4.2		This, handed on down the line, the King-Sages knew. This yoga by great efflux of time decayed in the world, O Parantapa.		एवंपरम्पराप्राप्तमिमंराजर्षयोविदुः~।सकालेनेहमहतायोगोनष्टःपरन्तप~॥ २ ॥	10
+T	एवं	एवम्thus	एवम्adverbthus; in this way; in such a manner; such
+T	परम्पराप्राप्तमिमं	परंपरा-प्राप्तम्uninterrupted row-attainedइमम्this	परंपरा  (परम्परा)first part of a compoundan uninterrupted row or series; order; succession; continuationप्राप्तम्  (प्राप्)participle, masculine accusative singularto attain to; to reach; to arrive at; to meet withइमम्  (इदम्)pronoun, masculine accusative singularthis; (near deictic pronoun in Vedic)
+T	राजर्षयो	राजर्षयःroyal Rishis	राजर्षयः  (राजर्षि)noun, masculine nominative plurala royal Rishi or saint; a Rishi of royal descent
+T	विदुः	विदुःknew	विदुः  (विद्)verb: perfect 3rd person pluralto know; to understand; to learn; to be conscious of
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	कालेनेह	कालेनwith timeइहhere	कालेन  (काल)noun, masculine instrumental singulartime; the proper time or season for; a spot; tenseइहadverbin this place; here; to this place; in this world
+T	महता	महताgreat	महता  (महत्)adjective, masculine instrumental singulargreat; large; big; huge
+T	योगो	योगःyoga	योगः  (योग)noun, masculine nominative singularthe act of yoking; joining; attaching; harnessing
+T	नष्टः	नष्टःperished	नष्टः  (नश्)participle, masculine nominative singularto be lost; to perish; to disappear; to be gone
+T	परन्तप	परंतपO scorcher of foes	परंतपadjective, masculine vocative singulardestroying foes (said of heroes)
+V	4.3		This same ancient yoga hath been to-day declared to thee by Me, for thou art My devotee and My friend; it is the supreme Secret.		सएवाऽयंमयातेऽद्ययोगःप्रोक्तःपुरातनः~।भक्तोऽसिमेसखाचेतिरहस्यंह्येतदुत्तमम्~॥ ३ ॥	13
+T	स	सःhe	सः  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	एवाऽयं	एवindeedअयम्this	एवparticleso; just so; exactly so (in the sense of the later evam); indeedअयम्  (इदम्)pronoun, masculine nominative singularthis; (near deictic pronoun in Vedic)
+T	मया	मयाby me	मया  (मद्)pronoun, instrumental singularI; we
+T	तेऽद्य	तेfor youअद्यtoday	ते  (त्वद्)pronoun, dative singularyouअद्यadverbto-day; now-a-days; now
+T	योगः	योगःyoga	योगः  (योग)noun, masculine nominative singularthe act of yoking; joining; attaching; harnessing
+T	प्रोक्तः	प्रोक्तःdeclared	प्रोक्तः  (प्रवच्)participle, masculine nominative singularto proclaim; to announce; to praise; to commend
+T	पुरातनः	पुरातनःbelonging to the past	पुरातनः  (पुरातन)adjective, masculine nominative singularbelonging to the past; former; old; used-up
+T	भक्तोऽसि	भक्तःdevoteeअसिyou are	भक्तः  (भक्त)noun, masculine nominative singulara worshipper; votary (esp. as name of a division of the Shâktas)असि  (अस्)verb: present 2nd person singularto be; to live; to exist; to be present
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	सखा	सखाfriend	सखा  (सखि)noun, masculine nominative singularfriend; companion
+T	चेति	चandइतिthus	चconjunctionand; both; also; moreoverइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	रहस्यं	रहस्यम्secret	रहस्यम्  (रहस्य)noun, neuter nominative singulara secret; any secret doctrine or mystery; any subtle or recondite point; mystical or esoteric teaching
+T	ह्येतदुत्तमम्	हिforएतत्thisउत्तमम्highest	हिparticlefor; because; on account ofएतत्  (एतद्)pronoun, neuter nominative singularthisउत्तमम्  (उत्तम)adjective, neuter nominative singularuppermost; highest; chief; most elevated
+V	4.4	Arjuna said:	Later was Thy birth, earlier the birth of Vivasvân; how then am I to understand that Thou declaredst it in the beginning?		अर्जुनउवाच~।अपरंभवतोजन्मपरंजन्मविवस्वतः~।कथमेतद्विजानीयांत्वमादौप्रोक्तवानिति~॥ ४ ॥	11
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	अपरं	अपरम्other	अपरम्  (अपर)pronoun, neuter nominative singularthe other; another; future; next
+T	भवतो	भवतःyou, sir	भवतः  (भवत्)adjective, masculine genitive singularyour honour; your worship; your lordship or ladyship; you (lit. "the gentleman or lady present")
+T	जन्म	जन्मbirth	जन्म  (जन्मन्)noun, neuter nominative singularbirth; origin; existence; life
+T	परं	परम्supreme	परम्  (पर)pronoun, neuter nominative singularfar; remote; opposite; previous
+T	जन्म	जन्मbirth	जन्म  (जन्मन्)noun, neuter nominative singularreincarnationbirth; origin; existence; life
+T	विवस्वतः	विवस्वतःof Vivasvan	विवस्वतः  (विवस्वन्त्)noun, masculine genitive singularname of the sun (sometimes regarded as one of the eight Âdityas or sons of Aditi); the Soma priest; name of Aruna (charioteer of the Sun)
+T	कथमेतद्विजानीयां	कथम्howएतत्thisविजानीयाम्I should understand	कथम्adverbhow?एतत्  (एतद्)pronoun, neuter accusative singularthisविजानीयाम्  (विज्ञा)verb: present optative 1st person singularto distinguish; to discern; to observe; to investigate
+T	त्वमादौ	त्वम्youआदौfirst	त्वम्  (त्वद्)pronoun, nominative singularyouyouआदौadverbfirstfirst
+T	प्रोक्तवानिति	प्रोक्तवान्declaredइतिthus	प्रोक्तवान्  (प्रवच्)participle, masculine nominative singulartellto proclaim; to announce; to praise; to commendइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so

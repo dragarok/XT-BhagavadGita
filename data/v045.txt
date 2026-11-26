@@ -1,0 +1,66 @@
+V	7.11		And I the strength of the strong, devoid of desire and passion. In beings I am desire not contrary to duty, O Lord of the Bharatas.	Dharma.	बलंबलवतामस्मिकामरागविवर्जितम्~।धर्माविरुद्धोभूतेषुकामोऽस्मिभरतर्षभ~॥ ११ ॥	7
+T	बलं	बलम्strength	बलम्  (बल)noun, neuter nominative singularstrengthpower; strength; might; vigour
+T	बलवतामस्मि	बलवताम्strongचandअहम्I	बलवताम्  (बलवत्)adjective, masculine genitive pluralstrongpossessing power; powerful; mighty; strongचconjunctionandand; both; also; moreoverअहम्  (मद्)pronoun, nominative singularII; we
+T	कामरागविवर्जितम्	काम-राग-विवर्जितम्desire-passion-avoided	कामfirst part of a compounddesirewish; desire; longing; desire forरागfirst part of a compoundpassionthe act of colouring or dyeing; colour; hue; tintविवर्जितम्  (विवर्जय्)participle, neuter nominative singularget rid ofto exclude; to avoid; to shun; to abandon
+T	धर्माविरुद्धो	धर्म-अविरुद्धःdharma-compatible	धर्मfirst part of a compoundDharmathat which is established or firm; steadfast decree; statute; ordinanceअविरुद्धः  (अविरुद्ध)adjective, masculine nominative singularcompatibleunobstructed; unimpeded; not incompatible with; consistent with (instr. or in comp.)
+T	भूतेषु	भूतेषुin beings	भूतेषु  (भूत)noun, masculine locative pluralbeingthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	कामोऽस्मि	कामःdesireअस्मिI am	कामः  (काम)noun, masculine nominative singulardesirewish; desire; longing; desire forअस्मि  (अस्)verb: present 1st person singularbeto be; to live; to exist; to be present
+T	भरतर्षभ	भरत-ऋषभO best of the Bharatas	भरतfirst part of a compoundBhârataname of Agni (kept alive by the care of men); name of a particular Agni (father of Bharata and Bharatî); a priest; an actorऋषभnoun, masculine vocative singularbesta bull (as impregnating the flock); any male animal in general; the best or most excellent of any kind or race; the second of the seven notes of the Hindû gamut
+V	7.12		The natures that are harmonious, active, slothful, these know as from Me; not I in them, but they in me.	Sattvic, rajasic, tamasic, that is, those in whom one of the three qualities, Sattva, Rajah, Tamah, predominates.	येचैवसात्त्विकाभावाराजसास्तामसाश्चये~।मत्तएवेतितान्विद्धिनत्वहंतेषुतेमयि~॥ १२ ॥	14
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	चैव	चandएवindeed	चconjunctionandand; both; also; moreoverएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	सात्त्विका	सात्त्विकाःpure	सात्त्विकाः  (सात्त्विक)adjective, masculine nominative pluralgoodspirited; vigorous; energetic; relating to or endowed with the quality Sattva
+T	भावा	भावाःstates	भावाः  (भाव)noun, masculine nominative pluralstatebecoming; being; existing; occurring
+T	राजसास्तामसाश्च	राजसाःpassionateतामसाःdullचand	राजसाः  (राजस)adjective, masculine nominative pluralrâjasabelonging or relating to the quality rajas; endowed with or influenced by the quality of passionतामसाः  (तामस)adjective, masculine nominative pluraltâmasadark; appertaining to or affected by the quality tamas; ignorant; variousचconjunctionandand; both; also; moreover
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhichwhat; which; who
+T	मत्त	मत्तःfrom me	मत्तः  (मद्)pronoun, masculine ablative singularII; we
+T	एवेति	एवindeedइतिthus	एवparticleindeedso; just so; exactly so (in the sense of the later evam); indeedइतिparticlesoin this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	तान्विद्धि	तान्themविद्धिknow!	तान्  (तद्)pronoun, masculine accusative pluralthisthis; gleicherविद्धि  (विद्)verb: present imperative 2nd person singularknowto know; to understand; to learn; to be conscious of
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	त्वहं	तुbutअहम्I	तुparticlebutdo; now; then; butअहम्  (मद्)pronoun, nominative singularII; we
+T	तेषु	तेषुin them	तेषु  (तद्)pronoun, masculine locative pluralthisthis; gleicher
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralthisthis; gleicher
+T	मयि	मयिin me	मयि  (मद्)pronoun, locative singularII; we
+V	7.13		All this world, deluded by these natures made by the three qualities, knoweth not Me, above these, imperishable.	Gunas.	त्रिभिर्गुणमयैर्भावैरेभिःसर्वमिदंजगत्~।मोहितंनाभिजानातिमामेभ्यःपरमव्ययम्~॥ १३ ॥	7
+T	त्रिभिर्गुणमयैर्भावैरेभिः	त्रिभिःthreeगुण-मयैःquality-made ofभावैःwith statesएभिःby these	त्रिभिः  (त्रि)number, masculine instrumental pluralthreethreeगुणfirst part of a compoundgunaa single thread or strand of a cord or twine; string or thread; rope; a garlandमयैः  (मय)adjective, masculine instrumental pluralconsisting ofconsisting or made ofभावैः  (भाव)noun, masculine instrumental pluralstatebecoming; being; existing; occurringएभिः  (इदम्)pronoun, masculine instrumental pluralthisthis; (near deictic pronoun in Vedic)
+T	सर्वमिदं	सर्वम्allइदम्this	सर्वम्  (सर्व)pronoun, neuter nominative singularwholewhole; entire; all; everyइदम्pronoun, neuter nominative singularthisthis; (near deictic pronoun in Vedic)
+T	जगत्	जगत्world	जगत्  (जगन्त्)noun, neuter nominative singularuniversethat which is alive; men and animals; the world; people
+T	मोहितं	मोहितम्deluded	मोहितम्  (मोहय्)participle, neuter nominative singularconfuseto stupefy; to bewilder; to confound; to perplex
+T	नाभिजानाति	नnotअभिजानातिknows	नparticlenotnot; no; nor; neitherअभिजानाति  (अभिज्ञा)verb: present 3rd person singularknowto recognize; to perceive; to know; to be or become aware of
+T	मामेभ्यः	माम्meएभ्यःfrom these	माम्  (मद्)pronoun, accusative singularII; weएभ्यः  (इदम्)pronoun, masculine ablative pluralthisthis; (near deictic pronoun in Vedic)
+T	परमव्ययम्	परम्supremeअव्ययम्imperishable	परम्  (पर)pronoun, masculine accusative singularbetterfar; remote; opposite; previousअव्ययम्  (अव्यय)adjective, masculine accusative singularimperishablenot liable to change; imperishable; undecaying; parsimonious
+V	7.14		This divine illusion of Mine, caused by the qualities, is hard to pierce; they who come to Me, they cross over this illusion.	Mâyâ.Gunas.Mâyâ.	दैवीह्येषागुणमयीमममायादुरत्यया~।मामेवयेप्रपद्यन्तेमायामेतांतरन्तिते~॥ १४ ॥	12
+T	दैवी	दैवीdivine	दैवी  (दैव)adjective, feminine nominative singulardivinedivine; sacred to the gods; royal; depending on fate
+T	ह्येषा	हिforएषाthis	हिparticlebecausefor; because; on account ofएषा  (एतद्)pronoun, feminine nominative singularthisthis
+T	गुणमयी	गुण-मयीquality-made of	गुणfirst part of a compoundgunaa single thread or strand of a cord or twine; string or thread; rope; a garlandमयी  (मय)adjective, feminine nominative singularconsisting ofconsisting or made of
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularII; we
+T	माया	मायाillusion	मायाnoun, feminine nominative singularMâyâart; wisdom; extraordinary or supernatural power (only in the earlier language); illusion
+T	दुरत्यया	दुरत्ययाimpassable	दुरत्यया  (दुरत्यय)adjective, feminine nominative singularimpassableinaccessible; inscrutable; unfathomable
+T	मामेव	माम्meएवindeed	माम्  (मद्)pronoun, accusative singularII; weएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	प्रपद्यन्ते	प्रपद्यन्तेtake refuge in	प्रपद्यन्ते  (प्रपद्)verb: present 3rd person pluralarriveto fall or drop down from (abl.); to throw one's self down (at a person's feet); to go forwards; to resort to
+T	मायामेतां	मायाम्illusionएताम्this	मायाम्  (माया)noun, feminine accusative singularMâyâart; wisdom; extraordinary or supernatural power (only in the earlier language); illusionएताम्  (एतद्)pronoun, feminine accusative singularthisthis
+T	तरन्ति	तरन्तिovercome	तरन्ति  (तृ)verb: present 3rd person pluralovercometo pass across or over; to cross over (a river); to sail across; to float
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralhe,she,it (pers. pron.)this; gleicher
+V	7.15		The evil-doing, the deluded, the vilest men, they come not to Me, they whose wisdom is destroyed by illusion, who have embraced the nature of demons.	Mâyâ.Asuras, the opponents of the Suras or gods.	नमांदुष्कृतिनोमूढाःप्रपद्यन्तेनराधमाः~।माययाऽपहृतज्ञानाआसुरंभावमाश्रिताः~॥१५॥	10
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularII; we
+T	दुष्कृतिनो	दुष्कृतिनःwicked	दुष्कृतिनः  (दुष्कृतिन्)adjective, masculine nominative pluralwickedacting wickedly
+T	मूढाः	मूढाःdeluded	मूढाः  (मुह्)participle, masculine nominative pluralconfuseto become stupefied or unconscious; to be bewildered or perplexed; to err; to be mistaken
+T	प्रपद्यन्ते	प्रपद्यन्तेtake refuge in	प्रपद्यन्ते  (प्रपद्)verb: present 3rd person pluralarriveto fall or drop down from (abl.); to throw one's self down (at a person's feet); to go forwards; to resort to
+T	नराधमाः	नर-अधमाःman-lowest	नरfirst part of a compoundmana man; a male; a person; husbandअधमाः  (अधम)adjective, masculine nominative pluralworstlowest; vilest; worst; very low or vile or bad (often ifc)
+T	माययाऽपहृतज्ञाना	माययाwith illusionअपहृत-ज्ञानाःtaken away-knowledge	मायया  (माया)noun, feminine instrumental singularMâyâart; wisdom; extraordinary or supernatural power (only in the earlier language); illusionअपहृत  (अपहृ)first part of a compound (verb)take awayto snatch away; to carry off; to plunder; to removeज्ञानाः  (ज्ञान)noun, masculine nominative pluralknowledgeknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	आसुरं	आसुरम्demonic	आसुरम्  (आसुर)adjective, masculine accusative singularâsuraspiritual; divine; belonging or devoted to evil spirits; belonging or relating to the Asuras
+T	भावमाश्रिताः	भावम्stateआश्रिताःresorted to	भावम्  (भाव)noun, masculine accusative singulardispositionbecoming; being; existing; occurringआश्रिताः  (आश्रि)participle, masculine nominative pluralreachto affix; to apply anything; to join; to adhere
+T	१५॥	१५॥	
+V	7.16		Fourfold in division are the righteous ones who worship me, O Arjuna; the suffering, the seeker for knowledge, the self-interested and the wise, O Lord of the Bhâratas.		चतुर्विधाभजन्तेमांजनाःसुकृतिनोऽर्जुन~।आर्तोजिज्ञासुरर्थार्थीज्ञानीचभरतर्षभ~॥ १६ ॥	10
+T	चतुर्विधा	चतुर्विधाःfourfold	चतुर्विधाः  (चतुर्विध)adjective, masculine nominative pluralquadruplefourfold; of 4 sorts or kinds
+T	भजन्ते	भजन्तेworship	भजन्ते  (भज्)verb: present 3rd person pluralworshipto divide; to distribute; to allot or apportion to (dat. or gen.); to share with (instr.)
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularII; we
+T	जनाः	जनाःpeople	जनाः  (जन)noun, masculine nominative pluralpeopleliving being; man; person; name of a man
+T	सुकृतिनोऽर्जुन	सुकृतिनःgoodअर्जुनO Arjuna	सुकृतिनः  (सुकृतिन्)adjective, masculine nominative pluralgooddoing good actions; virtuous; generous; prosperousअर्जुनnoun, masculine vocative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	आर्तो	आर्तःafflicted	आर्तः  (आर्त)adjective, masculine nominative singularafflictedfallen into (misfortune); struck by calamity; afflicted; pained
+T	जिज्ञासुरर्थार्थी	जिज्ञासुःinquisitiveअर्थ-अर्थीpurpose-desirous	जिज्ञासुः  (जिज्ञासु)adjective, masculine nominative singularinquisitivedesirous of knowing; inquiring into; examining; testingअर्थfirst part of a compoundpurposeaim; purpose; cause; motiveअर्थी  (अर्थिन्)adjective, masculine nominative singulardesirousactive; industrious; one who wants or desires anything (instr. or in comp); supplicating or entreating any one (gen.)
+T	ज्ञानी	ज्ञानीwise	ज्ञानी  (ज्ञानिन्)adjective, masculine nominative singularwiseknowing; endowed with knowledge or intelligence; wise; knowing the higher knowledge or knowledge of spirit
+T	च	चand	चconjunctionandand; both; also; moreover
+T	भरतर्षभ	भरत-ऋषभO best of the Bharatas	भरतfirst part of a compoundBhârataname of Agni (kept alive by the care of men); name of a particular Agni (father of Bharata and Bharatî); a priest; an actorऋषभnoun, masculine vocative singularbesta bull (as impregnating the flock); any male animal in general; the best or most excellent of any kind or race; the second of the seven notes of the Hindû gamut

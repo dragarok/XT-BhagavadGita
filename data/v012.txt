@@ -1,0 +1,75 @@
+V	2.27		For certain is death for the born, and certain is birth for the dead; therefore over the inevitable thou shouldst not grieve.		जातस्यहिध्रुवोमृत्युर्ध्रुवंजन्ममृतस्यच~।तस्मादपरिहार्येऽर्थेनत्वंशोचितुमर्हसि~॥ २७ ॥	11
+T	जातस्य	जातस्यborn	जातस्य  (जन्)participle, masculine genitive singularbe bornto come into existence; to grow (as plants); to be born as; to be by birth or nature
+T	हि	हिfor	हिparticlebecausefor; because; on account of
+T	ध्रुवो	ध्रुवःcertain	ध्रुवः  (ध्रुव)adjective, masculine nominative singularcertainfixed; firm; immovable; constant
+T	मृत्युर्ध्रुवं	मृत्युःdeathध्रुवम्certain	मृत्युः  (मृत्यु)noun, masculine nominative singulardeath; dying; Death personified; the god of disease (sometimes identified with Yama or with Vishnu)ध्रुवम्  (ध्रुव)adjective, neuter nominative singularfixed; firm; immovable; constant
+T	जन्म	जन्मbirth	जन्म  (जन्मन्)noun, neuter nominative singularbirthbirth; origin; existence; life
+T	मृतस्य	मृतस्यdied	मृतस्य  (मृ)participle, masculine genitive singulardieto decease; to calcine
+T	च	चand	चconjunctionandand; both; also; moreover
+T	तस्मादपरिहार्येऽर्थे	तस्मात्thereforeअपरिहार्येnot to be taken roundअर्थेin purpose	तस्मात्adverbthereforeअnegative prefixnotnot; un-; in-परिहार्ये  (परिहृ)gerundive (to be ...), masculine locative singularto take round; to wrap round; to put aside; to leaveअर्थे  (अर्थ)noun, masculine locative singularmatteraim; purpose; cause; motive
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	त्वं	त्वम्you	त्वम्  (त्वद्)pronoun, nominative singularyouyou
+T	शोचितुमर्हसि	शोचितुम्to grieveअर्हसिyou ought	शोचितुम्  (शुच्)infinitivegrieveto shine; to gleam; to glow; to burnअर्हसि  (अर्ह्)verb: present 2nd person singularshouldto deserve; to merit; to be worthy of; to be allowed to
+V	2.28		Beings are unmanifest in their origin, manifest in their midmost state, O Bhârata, unmanifest likewise are they in dissolution. What room then for lamentation?		अव्यक्तादीनिभूतानिव्यक्तमध्यानिभारत~।अव्यक्तनिधनान्येवतत्रकापरिदेवना~॥ २८ ॥	8
+T	अव्यक्तादीनि	अव्यक्त-आदीनिunmanifest-beginnings	अव्यक्तfirst part of a compound (adjective)imperceptibleundeveloped; not manifest; unapparent; indistinctआदीनि  (आदि)noun, neuter nominative pluralbeginningbeginning; commencement; a firstling; first-fruits
+T	भूतानि	भूतानिbeings	भूतानि  (भूत)noun, neuter nominative pluralbeingthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	व्यक्तमध्यानि	व्यक्त-मध्यानिperceptible-middles	व्यक्तfirst part of a compound (adjective)perceptibleadorned; embellished; beautiful; caused to appearमध्यानि  (मध्य)noun, neuter nominative pluralmidstthe middle; midst; centre; inside
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularBhârataactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+T	अव्यक्तनिधनान्येव	अव्यक्त-निधनानिunmanifest-endsएवindeed	अव्यक्तfirst part of a compound (adjective)imperceptibleundeveloped; not manifest; unapparent; indistinctनिधनानि  (निधन)noun, neuter nominative pluralendsettling down; residence or place of residence; domicile; receptacleएवparticlesurelyso; just so; exactly so (in the sense of the later evam); indeed
+T	तत्र	तत्रthere	तत्रadverbtherein that place; there (in comp.); thither; to that place
+T	का	काwho	का  (क)pronoun, feminine nominative singularwhatwho?; what?
+T	परिदेवना	परिदेवनाlament	परिदेवनाnoun, feminine nominative singularlamentcomplaint; lamentation
+V	2.29		As marvellous one regardeth him; as marvellous another speaketh thereof; as marvellous another heareth thereof; yet having heard none indeed understandeth.		आश्चर्यवत्पश्यतिकश्चिदेनमाश्चर्यवद्वदतितथैवचान्यः~।आश्चर्यवच्चैनमन्यःशृणोतिश्रुत्वाऽप्येनंवेदनचैवकश्चित्~॥ २९ ॥	11
+T	आश्चर्यवत्पश्यति	आश्चर्य-वत्wonder-likeपश्यतिsees	आश्चर्यfirst part of a compoundmiraclestrange appearance; a wonder; miracle; marvelवत्adverblike(Vergleichspartikel)पश्यति  (दृश्)verb: present 3rd person singularseeto behold; to look at; to regard; to consider
+T	कश्चिदेनमाश्चर्यवद्वदति	कश्चिद्someoneएनम्himआश्चर्य-वत्wonder-likeवदतिspeaks	कश्चिद्  (कश्चित्)pronoun, masculine nominative singularsomeone; something; anyएनम्  (एनद्)pronoun, masculine accusative singularthis; (anaphoric pronoun in Vedic)आश्चर्यfirst part of a compoundstrange appearance; a wonder; miracle; marvelवत्adverb(Vergleichspartikel)वदति  (वद्)verb: present 3rd person singularto speak; to say; to tell; to talk with
+T	तथैव	तथाlikewiseएवindeed	तथाadverbsoin that manner; so; thus; yesएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	चान्यः	चandअन्यःother	चconjunctionandand; both; also; moreoverअन्यः  (अन्य)pronoun, masculine nominative singularotherother; another
+T	आश्चर्यवच्चैनमन्यः	आश्चर्य-वत्wonder-likeचandएनम्himअन्यःother	आश्चर्यfirst part of a compoundmiraclestrange appearance; a wonder; miracle; marvelवत्adverblike(Vergleichspartikel)चconjunctionandand; both; also; moreoverएनम्  (एनद्)pronoun, masculine accusative singularthisthis; (anaphoric pronoun in Vedic)अन्यः  (अन्य)pronoun, masculine nominative singularotherother; another
+T	शृणोति	शृणोतिhears	शृणोति  (श्रु)verb: present 3rd person singularhearto hear; to listen to; to study
+T	श्रुत्वाऽप्येनं	श्रुत्वाhaving heardअपिalsoएनम्him	श्रुत्वा  (श्रु)absolutive (having ...)hearto hear; to listen to; to studyअपिparticleevenalso; moreover; besides; assuredlyएनम्  (एनद्)pronoun, masculine accusative singularthisthis; (anaphoric pronoun in Vedic)
+T	वेद	वेदknew	वेद  (विद्)verb: perfect 3rd person singularknowto know; to understand; to learn; to be conscious of
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	चैव	चandएवindeed	चconjunctionandand; both; also; moreoverएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	कश्चित्	कश्चिद्someone	कश्चिद्  (कश्चित्)pronoun, masculine nominative singularany(a)someone; something; any
+V	2.30		This dweller in the body of everyone is ever invulnerable, O Bhârata; therefore thou shouldst not grieve for any creature.		देहीनित्यमवध्योऽयंदेहेसर्वस्यभारत~।तस्मात्सर्वाणिभूतानिनत्वंशोचितुमर्हसि~॥ ३० ॥	10
+T	देही	देहीembodied one	देही  (देहिन्)noun, masculine nominative singularmana living creature; man; the spirit; soul (enveloped in the body)
+T	नित्यमवध्योऽयं	नित्यम्alwaysअवध्यःnot to be struckअयम्this	नित्यम्adverbalwaysअnegative prefixnotnot; un-; in-वध्यः  (वध्)gerundive (to be ...), masculine nominative singularto strike; to kill; to murder; to destroyअयम्  (इदम्)pronoun, masculine nominative singularthisthis; (near deictic pronoun in Vedic)
+T	देहे	देहेin body	देहे  (देह)noun, masculine locative singularbodyform; shape; mass; bulk (as of a cloud)
+T	सर्वस्य	सर्वस्यall	सर्वस्य  (सर्व)pronoun, masculine genitive singulareach(a)whole; entire; all; every
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularBhârataactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+T	तस्मात्सर्वाणि	तस्मात्thereforeसर्वाणिall	तस्मात्adverbthereforethereforeसर्वाणि  (सर्व)pronoun, neuter accusative pluralall(a)whole; entire; all; every
+T	भूतानि	भूतानिbeings	भूतानि  (भूत)noun, neuter accusative pluralbeingthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	त्वं	त्वम्you	त्वम्  (त्वद्)pronoun, nominative singularyouyou
+T	शोचितुमर्हसि	शोचितुम्to grieveअर्हसिyou ought	शोचितुम्  (शुच्)infinitivegrieveto shine; to gleam; to glow; to burnअर्हसि  (अर्ह्)verb: present 2nd person singularshouldto deserve; to merit; to be worthy of; to be allowed to
+V	2.31		Further, looking to thine own duty thou shouldst not tremble; for there is nothing more welcome to a Kshattriya than righteous war.	Dharma.A person of the second, the warrior, caste.	स्वधर्ममपिचावेक्ष्यनविकम्पितुमर्हसि~।धर्म्याद्धियुद्धाच्छ्रेयोऽन्यत्क्षत्रियस्यनविद्यते~॥ ३१ ॥	8
+T	स्वधर्ममपि	स्वधर्मम्own dharmaअपिalso	स्वधर्मम्  (स्वधर्म)noun, masculine accusative singularone's own rights; one's own duty; peculiar property; peculiarityअपिparticlealso; moreover; besides; assuredly
+T	चावेक्ष्य	चandअवेक्ष्यhaving looked towards	चconjunctionand; both; also; moreoverअवेक्ष्य  (अवेक्ष्)absolutive (having ...)to look towards; to look at; to behold; to perceive
+T	न	नnot	नparticlenot; no; nor; neither
+T	विकम्पितुमर्हसि	विकम्पितुम्to tremble greatlyअर्हसिyou ought	विकम्पितुम्  (विकम्प्)infinitiveto tremble greatly; to quiver; to move about; to become changed or deformedअर्हसि  (अर्ह्)verb: present 2nd person singularto deserve; to merit; to be worthy of; to be allowed to
+T	धर्म्याद्धि	धर्म्यात्righteousहिfor	धर्म्यात्  (धर्म्य)adjective, neuter ablative singularlegal; legitimate; usual; customaryहिparticlefor; because; on account of
+T	युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य	युद्धात्from battleश्रेयःbetterअन्यत्otherक्षत्रियस्यof warrior	युद्धात्  (युद्ध)noun, neuter ablative singularfight; war; (in astron.) opposition; conflict of the planetsश्रेयः  (श्रेयस्)adjective, neuter nominative singularmore splendid or beautiful; more excellent or distinguished; superior; preferableअन्यत्  (अन्य)pronoun, neuter nominative singularother; anotherक्षत्रियस्य  (क्षत्रिय)noun, masculine genitive singulara member of the military or reigning order; a red horse; name of a people
+T	न	नnot	नparticlenot; no; nor; neither
+T	विद्यते	विद्यतेis known	विद्यते  (विद्)verb: passive present 3rd person singularto find; to discover; to meet or fall in with; to obtain
+V	2.32		Happy the Kshattriyas, O Pârtha, who obtain such a fight, offered unsought as an open door to heaven.		यदृच्छयाचोपपन्नंस्वर्गद्वारमपावृतम्~।सुखिनःक्षत्रियाःपार्थलभन्तेयुद्धमीदृशम्~॥ ३२ ॥	8
+T	यदृच्छया	यदृच्छयाwith self-will	यदृच्छया  (यदृच्छा)noun, feminine instrumental singularself-will; spontaneity; accident; chance
+T	चोपपन्नं	चandउपपन्नम्fitting	चconjunctionand; both; also; moreoverउपपन्नम्  (उपपद्)participle, neuter nominative singularto go towards or against; to attack; to approach; to come to
+T	स्वर्गद्वारमपावृतम्	स्वर्ग-द्वारम्heaven-gateअपावृतम्uncovered	स्वर्गfirst part of a compoundheaven; the abode of light and of the gods; heavenly bliss; Indra's heaven or paradiseद्वारम्  (द्वार)noun, neuter nominative singulardoor; gate; passage; entranceअपावृतम्  (अपावृ)participle, neuter nominative singularto uncover; to reveal; to open (the mouth)
+T	सुखिनः	सुखिनःhappy	सुखिनः  (सुखिन्)adjective, masculine nominative pluralpossessing or causing happiness or pleasure; happy; joyful; pleasant
+T	क्षत्रियाः	क्षत्रियाःwarriors	क्षत्रियाः  (क्षत्रिय)noun, masculine nominative plurala member of the military or reigning order; a red horse; name of a people
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	लभन्ते	लभन्तेobtain	लभन्ते  (लभ्)verb: present 3rd person pluralto take; to seize; to catch; to meet with
+T	युद्धमीदृशम्	युद्धम्battleईदृशम्endowed with such	युद्धम्  (युद्ध)noun, neuter accusative singularfight; war; (in astron.) opposition; conflict of the planetsईदृशम्  (ईदृश)adjective, neuter accusative singularendowed with such qualities; such
+V	2.33		But if thou wilt not carry on this righteous warfare, then casting away thine own duty and thine honour, thou wilt incur sin.	Dharma.	अथचेत्त्वमिमंधर्म्यंसङ्ग्रामंनकरिष्यसि~।ततःस्वधर्मंकीर्तिंचहित्वापापमवाप्स्यसि~॥ ३३ ॥	12
+T	अथ	अथnow	अथadverban auspicious and inceptive particle (not easily expressed in English); now; then; moreover
+T	चेत्त्वमिमं	चेद्ifत्वम्youइमम्this	चेद्conjunction(never found at the beginning of a sentence or verse) = ca; whenत्वम्  (त्वद्)pronoun, nominative singularyouइमम्  (इदम्)pronoun, masculine accusative singularthis; (near deictic pronoun in Vedic)
+T	धर्म्यं	धर्म्यम्righteous	धर्म्यम्  (धर्म्य)adjective, masculine accusative singularlegal; legitimate; usual; customary
+T	सङ्ग्रामं	संग्रामम्assembly of people	संग्रामम्  (संग्राम)noun, masculine accusative singularan assembly of people; host; troop; army
+T	न	नnot	नparticlenot; no; nor; neither
+T	करिष्यसि	करिष्यसिyou will do	करिष्यसि  (कृ)verb: future 2nd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	ततः	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	स्वधर्मं	स्वधर्मम्own dharma	स्वधर्मम्  (स्वधर्म)noun, masculine accusative singularone's own rights; one's own duty; peculiar property; peculiarity
+T	कीर्तिं	कीर्तिम्fame	कीर्तिम्  (कीर्ति)noun, feminine accusative singularmention; making mention of; speech; report
+T	च	चand	चconjunctionand; both; also; moreover
+T	हित्वा	हित्वाhaving cast off	हित्वा  (हा)absolutive (having ...)to leave; to abandon; to desert; to quit
+T	पापमवाप्स्यसि	पापम्sinअवाप्स्यसिyou will attain	पापम्  (पाप)noun, neuter accusative singularevil; misfortune; ill-luck; troubleअवाप्स्यसि  (अवाप्)verb: future 2nd person singularto reach; to attain; to obtain; to gain

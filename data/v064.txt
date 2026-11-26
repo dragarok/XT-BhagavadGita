@@ -1,0 +1,73 @@
+V	11.3		O supreme Lord, even as Thou describest Thyself, O best of beings, I desire to see Thy Form omnipotent.	Ishvara, the Creator and Ruler of a Universe.	एवमेतद्यथाऽऽत्थत्वमात्मानंपरमेश्वर~।द्रष्टुमिच्छामितेरूपमैश्वरंपुरुषोत्तम~॥ ३ ॥	7
+T	एवमेतद्यथाऽऽत्थ	एवम्thusएतत्thisयथाasआत्थyou said	एवम्adverbthus; in this way; in such a manner; suchएतत्  (एतद्)pronoun, neuter accusative singularthisयथाparticleaccording; as; likeआत्थ  (अह्)verb: perfect 2nd person singularto say; to call; to consider; to declare
+T	त्वमात्मानं	त्वम्youआत्मानम्self	त्वम्  (त्वद्)pronoun, nominative singularyouआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	परमेश्वर	परमेश्वरO supreme lord	परमेश्वरnoun, masculine vocative singularthe supreme lord; Supreme Being; God; name of Shiva
+T	द्रष्टुमिच्छामि	द्रष्टुम्to seeइच्छामिI desire	द्रष्टुम्  (दृश्)infinitiveto behold; to look at; to regard; to considerइच्छामि  (इष्)verb: present 1st person singularto seek for; to desire; to intend; to assent
+T	ते	तेyour	ते  (त्वद्)pronoun, genitive singularyou
+T	रूपमैश्वरं	रूपम्formऐश्वरम्sovereign	रूपम्  (रूप)noun, neuter accusative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapesऐश्वरम्  (ऐश्वर)adjective, neuter accusative singularrelating to or coming from a mighty lord or king; mighty; majestic; belonging to or coming from Shiva
+T	पुरुषोत्तम	पुरुषोत्तमO Supreme Person	पुरुषोत्तमnoun, masculine vocative singularthe highest being; Supreme spirit; name of Vishnu; name of Krishna
+V	11.4		If Thou thinkest that by me It can be seen, O Lord, Lord of Yoga, then show me Thine imperishable Self.		मन्यसेयदितच्छक्यंमयाद्रष्टुमितिप्रभो~।योगेश्वरततोमेत्वंदर्शयात्मानमव्ययम्~॥ ४ ॥	11
+T	मन्यसे	मन्यसेyou think	मन्यसे  (मन्)verb: present 2nd person singularto think; to believe; to imagine; to suppose
+T	यदि	यदिif	यदिconjunctionin case that; if; whether
+T	तच्छक्यं	तत्thatशक्यम्possible	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherशक्यम्  (शक्य)adjective, neuter accusative singularable; possible; practicable; capable of being
+T	मया	मयाby me	मया  (मद्)pronoun, instrumental singularI; we
+T	द्रष्टुमिति	द्रष्टुम्to seeइतिthus	द्रष्टुम्  (दृश्)infinitiveto behold; to look at; to regard; to considerइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	प्रभो	प्रभोO lord	प्रभो  (प्रभु)noun, masculine vocative singulara master; lord; king; the chief or leader of a sect
+T	योगेश्वर	योग-ईश्वरO lord of yoga	योगfirst part of a compoundthe act of yoking; joining; attaching; harnessingईश्वरnoun, masculine vocative singulara husband; God; the Supreme Being; king
+T	ततो	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	त्वं	त्वम्you	त्वम्  (त्वद्)pronoun, nominative singularyou
+T	दर्शयात्मानमव्ययम्	दर्शयshow!आत्मानम्selfअव्ययम्imperishable	दर्शय  (दर्शय्)verb: present imperative 2nd person singularto prove; to demonstrate; to produce; to showआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soulअव्ययम्  (अव्यय)adjective, masculine accusative singularnot liable to change; imperishable; undecaying; parsimonious
+V	11.5	The Blessed Lord said:	Behold, O Pârtha, a Form of Me, a hundredfold, a thousandfold, various in kind, divine, various in colours and shapes.		श्रीभगवानुवाच~।पश्यमेपार्थरूपाणिशतशोऽथसहस्रशः~।नानाविधानिदिव्यानिनानावर्णाकृतीनिच~॥ ५ ॥	11
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	पश्य	पश्यsee!	पश्य  (पश्)verb: present imperative 2nd person singularto see; to see with the spiritual eye; to compose; to consider
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	रूपाणि	रूपाणिforms	रूपाणि  (रूप)noun, neuter accusative pluralany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	शतशोऽथ	शतशःbyअथnow	शतशः  (शतशस्)adverbby or in hundred; a hundred timesअथadverban auspicious and inceptive particle (not easily expressed in English); now; then; moreover
+T	सहस्रशः	सहस्रशःby thousands	सहस्रशः  (सहस्रशस्)adverbby thousands
+T	नानाविधानि	नानाविधानिof various sorts	नानाविधानि  (नानाविध)adjective, neuter accusative pluralof various sorts; multiform; manifold
+T	दिव्यानि	दिव्यानिdivine	दिव्यानि  (दिव्य)adjective, neuter accusative pluraldivine; heavenly; celestial; supernatural
+T	नानावर्णाकृतीनि	नानाvariousवर्ण-आकृतीनिcaste-constituent parts	नानाadverbdifferently; variously; distinctly; separatelyवर्णfirst part of a compounda covering; cloak; mantle; a coverआकृतीनि  (आकृति)noun, neuter accusative plurala constituent part; form; figure; shape
+T	च	चand	चconjunctionand; both; also; moreover
+V	11.6		Behold the Âdityas, the Vasus, the Rudras, the two Ashvins and also the Maruts; behold many marvels never seen ere this, O Bhârata.	Various classes of Celestial Beings.	पश्यादित्यान्वसून्रुद्रानश्विनौमरुतस्तथा~।बहून्यदृष्टपूर्वाणिपश्याश्चर्याणिभारत~॥ ६ ॥	5
+T	पश्यादित्यान्वसून्रुद्रानश्विनौ	पश्यsee!आदित्यान्Adityasवसून्Vasusरुद्रान्Rudrasअश्विनौcavaliers	पश्य  (पश्)verb: present imperative 2nd person singularto see; to see with the spiritual eye; to compose; to considerआदित्यान्  (आदित्य)noun, masculine accusative pluralname of seven deities of the heavenly sphere; name of a god in general; name of Sûrya (the sun); name of Vishnuवसून्  (वसु)noun, masculine accusative pluraldwelling or dweller; name of the gods; name of a particular class of gods; a symbolical name of the number eightरुद्रान्  (रुद्र)noun, masculine accusative pluralname of the god of tempests and father and ruler of the Rudras and Maruts; the eleventh; (in astrol.) name of the first Muhûrtaअश्विनौ  (अश्विन्)noun, masculine accusative duala cavalier; horse-tamer; name of two divinities (who appear in the sky before the dawn in a golden carriage drawn by horses or birds)
+T	मरुतस्तथा	मरुतःMarutsतथाlikewise	मरुतः  (मरुत्)noun, masculine accusative pluralthe storm-gods (Indra's companions); the god of the wind (father of Hanumat and regent of the north-west quarter of the sky); wind; airतथाadverbin that manner; so; thus; yes
+T	बहून्यदृष्टपूर्वाणि	बहूनिmanyअदृष्ट-पूर्वाणिunseen-former	बहूनि  (बहु)adjective, neuter accusative pluralmuch; many; abundant; great in quantityअदृष्टfirst part of a compound (adjective)unseen; unforeseen; invisible; not experiencedपूर्वाणि  (पूर्व)pronoun, neuter accusative pluralbeing before or in front fore; first; eastern; to the east of (abl.)
+T	पश्याश्चर्याणि	पश्यsee!आश्चर्याणिwonders	पश्य  (पश्)verb: present imperative 2nd person singularto see; to see with the spiritual eye; to compose; to considerआश्चर्याणि  (आश्चर्य)noun, neuter accusative pluralstrange appearance; a wonder; miracle; marvel
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+V	11.7		Here, to-day, behold the whole universe, movable and immovable, standing in one in My body, O Gudâkesha, with aught else thou desirest to see.		इहैकस्थंजगत्कृत्स्नंपश्याद्यसचराचरम्~।ममदेहेगुडाकेशयच्चान्यद्द्रष्टुमिच्छसि~॥ ७ ॥	8
+T	इहैकस्थं	इहhereएकस्थम्gathered in one	इहadverbin this place; here; to this place; in this worldएकस्थम्  (एकस्थ)adjective, neuter accusative singularstanding together; remaining in the same place; conjoined; combined
+T	जगत्कृत्स्नं	जगत्worldकृत्स्नम्whole	जगत्  (जगन्त्)noun, neuter accusative singularthat which is alive; men and animals; the world; peopleकृत्स्नम्  (कृत्स्न)adjective, neuter accusative singularall; whole; entire
+T	पश्याद्य	पश्यsee!अद्यtoday	पश्य  (पश्)verb: present imperative 2nd person singularto see; to see with the spiritual eye; to compose; to considerअद्यadverbto-day; now-a-days; now
+T	सचराचरम्	सचराचरम्universe	सचराचरम्  (सचराचर)noun, neuter accusative singularthe universe
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularI; we
+T	देहे	देहेin body	देहे  (देह)noun, masculine locative singularform; shape; mass; bulk (as of a cloud)
+T	गुडाकेश	गुडाकेशO Gudakesha	गुडाकेशnoun, masculine vocative singularthe hero Arjuna; Shiva
+T	यच्चान्यद्द्रष्टुमिच्छसि	यत्whichचandअन्यत्otherद्रष्टुम्to seeइच्छसिyou desire	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoचconjunctionand; both; also; moreoverअन्यत्  (अन्य)pronoun, neuter accusative singularother; anotherद्रष्टुम्  (दृश्)infinitiveto behold; to look at; to regard; to considerइच्छसि  (इष्)verb: present 2nd person singularto seek for; to desire; to intend; to assent
+V	11.8		But verily thou art not able to behold Me with these thine eyes; the divine eye I give unto thee. Behold My sovereign Yoga.		नतुमांशक्यसेद्रष्टुमनेनैवस्वचक्षुषा~।दिव्यंददामितेचक्षुःपश्यमेयोगमैश्वरम्~॥ ८ ॥	13
+T	न	नnot	नparticlenot; no; nor; neither
+T	तु	तुbut	तुparticledo; now; then; but
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	शक्यसे	शक्यसेyou are able	शक्यसे  (शक्)verb: passive present 2nd person singularto be strong or powerful; to be able to or capable of or competent for; to be overcome or subdued; to succumb
+T	द्रष्टुमनेनैव	द्रष्टुम्to seeअनेनby thisएवindeed	द्रष्टुम्  (दृश्)infinitiveto behold; to look at; to regard; to considerअनेन  (इदम्)pronoun, neuter instrumental singularthis; (near deictic pronoun in Vedic)एवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	स्वचक्षुषा	स्व-चक्षुषाwith own-eye	स्वfirst part of a compound (adjective)own; one's own; related; akinचक्षुषा  (चक्षुस्)noun, neuter instrumental singularfaculty of seeing; sight; a look; the eye
+T	दिव्यं	दिव्यम्divine	दिव्यम्  (दिव्य)adjective, neuter accusative singulardivine; heavenly; celestial; supernatural
+T	ददामि	ददामिI give	ददामि  (दा)verb: present 1st person singularto give; to offer to; to yield; to give (a daughter) in marriage
+T	ते	तेfor you	ते  (त्वद्)pronoun, dative singularyou
+T	चक्षुः	चक्षुःeye	चक्षुः  (चक्षुस्)noun, neuter accusative singularfaculty of seeing; sight; a look; the eye
+T	पश्य	पश्यsee!	पश्य  (पश्)verb: present imperative 2nd person singularto see; to see with the spiritual eye; to compose; to consider
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	योगमैश्वरम्	योगम्yogaऐश्वरम्sovereign	योगम्  (योग)noun, masculine accusative singularthe act of yoking; joining; attaching; harnessingऐश्वरम्  (ऐश्वर)adjective, masculine accusative singularrelating to or coming from a mighty lord or king; mighty; majestic; belonging to or coming from Shiva
+V	11.9	Sanjaya said:	Having thus spoken, O King, the great Lord of Yoga, Hari, showed to Pârtha His supreme Form as Lord.	Ishvara.	सञ्जयउवाच~।एवमुक्त्वाततोराजन्महायोगेश्वरोहरिः~।दर्शयामासपार्थायपरमंरूपमैश्वरम्~॥ ९ ॥	11
+T	सञ्जय	संजयःSanjaya	संजयः  (संजय)noun, masculine nominative singularconquest; victory; a kind of military array; name of a chief of the Yakshas
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	एवमुक्त्वा	एवम्thusउक्त्वाhaving said	एवम्adverbthus; in this way; in such a manner; suchउक्त्वा  (वच्)absolutive (having ...)to speak; to say; to tell; to declare
+T	ततो	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	राजन्	महान्greatराजन्O king	महान्  (महत्)adjective, masculine nominative singulargreat; large; big; hugeराजन्noun, masculine vocative singulara king; sovereign; prince; chief (often applied to gods)
+T	महायोगेश्वरो	राजन्O kingमहा-योग-ईश्वरःgreat-yoga-Lord	राजन्noun, masculine vocative singulara king; sovereign; prince; chief (often applied to gods)महा  (महत्)first part of a compound (adjective)great; large; big; hugeयोगfirst part of a compoundthe act of yoking; joining; attaching; harnessingईश्वरः  (ईश्वर)noun, masculine nominative singulara husband; God; the Supreme Being; king
+T	हरिः	हरिःyellow	हरिः  (हरि)noun, masculine nominative singularyellow or reddish brown or green (the colour); a horse; steed (esp. of Indra); a lion
+T	दर्शयामास	दर्शयामासshowed	दर्शयामास  (दर्शय्)verb: perfect 3rd person singularto prove; to demonstrate; to produce; to show
+T	पार्थाय	पार्थायfor son of Pritha	पार्थाय  (पार्थ)noun, masculine dative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	परमं	परमम्supreme	परमम्  (परम)adjective, neuter accusative singularremotest; extreme; last; chief
+T	रूपमैश्वरम्	रूपम्formऐश्वरम्sovereign	रूपम्  (रूप)noun, neuter accusative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapesऐश्वरम्  (ऐश्वर)adjective, neuter accusative singularrelating to or coming from a mighty lord or king; mighty; majestic; belonging to or coming from Shiva

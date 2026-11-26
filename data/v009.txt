@@ -1,0 +1,70 @@
+V	2.7		My heart is weighed down with the vice of faintness; my mind is confused as to duty. I ask thee which may be the better - that tell me decisively. I am thy disciple, suppliant to Thee; teach me.	Dharma.	कार्पण्यदोषोपहतस्वभावःपृच्छामित्वांधर्मसम्मूढचेताः~।यच्छ्रेयःस्यान्निश्चितंब्रूहितन्मेशिष्यस्तेऽहंशाधिमांत्वांप्रपन्नम्~॥ ७ ॥	13
+T	कार्पण्यदोषोपहतस्वभावः	कार्पण्य-दोष-उपहत-स्वभावःmisery-fault-ruined-own nature	कार्पण्यfirst part of a compoundmiserylowness; miserable state; depressionदोषfirst part of a compoundcalamityfault; vice; deficiency; wantउपहत  (उपहन्)first part of a compound (verb)afflictto beat; to hit at; to strike; to touchस्वभावः  (स्वभाव)noun, masculine nominative singularnaturenative place; own condition or state of being; natural state or constitution; innate or inherent disposition
+T	पृच्छामि	पृच्छामिI ask	पृच्छामि  (प्रच्छ्)verb: present 1st person singularaskto question; to interrogate (acc.); to ask after inquire about (acc.); to ask or interrogate any one (acc.) about anything
+T	त्वां	त्वाम्you	त्वाम्  (त्वद्)pronoun, accusative singularyouyou
+T	धर्मसम्मूढचेताः	धर्म-संमूढ-चेताःdharma-confused-mind	धर्मfirst part of a compoundDharmathat which is established or firm; steadfast decree; statute; ordinanceसंमूढ  (सम्मुह्)first part of a compound (verb)confuseto become quite stupefied or bewildered or unconscious; to become confused or unrecognizable (as the quarters of the sky)चेताः  (चेतस्)noun, masculine nominative singularmindsplendour; consciousness; intelligence; thinking soul
+T	यच्छ्रेयः	यत्whichश्रेयःbetter	यत्  (यद्)pronoun, neuter nominative singularwhichwhat; which; whoश्रेयः  (श्रेयस्)adjective, neuter nominative singularbettermore splendid or beautiful; more excellent or distinguished; superior; preferable
+T	स्यान्निश्चितं	स्यात्should beनिश्चितम्surely	स्यात्  (अस्)verb: present optative 3rd person singularbeto be; to live; to exist; to be presentनिश्चितम्adverbsurelycertainly
+T	ब्रूहि	ब्रूहिtell!	ब्रूहि  (ब्रू)verb: present imperative 2nd person singulartellto speak; to say; to tell; to speak about any person or thing (acc. with or without prati)
+T	तन्मे	तत्thatमेmy	तत्  (तद्)pronoun, neuter accusative singularthisthis; gleicherमे  (मद्)pronoun, genitive singularII; we
+T	शिष्यस्तेऽहं	शिष्यःShishyaतेyourअहम्I	शिष्यः  (शिष्य)noun, masculine nominative singularShishyaa pupil; scholar; passion; angerते  (त्वद्)pronoun, genitive singularyouyouअहम्  (मद्)pronoun, nominative singularII; we
+T	शाधि	शाधिteach!	शाधि  (शास्)verb: present imperative 2nd person singularteachto chastise; to correct; to censure; to punish
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularII; we
+T	त्वां	त्वाम्you	त्वाम्  (त्वद्)pronoun, accusative singularyouyou
+T	प्रपन्नम्	प्रपन्नम्taken refuge in	प्रपन्नम्  (प्रपद्)participle, masculine accusative singularapproachto fall or drop down from (abl.); to throw one's self down (at a person's feet); to go forwards; to resort to
+V	2.8		For I see not that it would drive away this anguish that withers up my senses, if I should attain unrivalled monarchy on earth, or even the sovereignty of the Shining Ones.		नहिप्रपश्यामिममापनुद्याद्यच्छोकमुच्छोषणमिन्द्रियाणाम्~।अवाप्यभूमावसपत्नमृद्धंराज्यंसुराणामपिचाधिपत्यम्~॥ ८ ॥	9
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	हि	हिfor	हिparticlebecausefor; because; on account of
+T	प्रपश्यामि	प्रपश्यामिI behold	प्रपश्यामि  (प्रपश्)verb: present 1st person singularseeto see before one's eyes; to look at; to observe; to behold
+T	ममापनुद्याद्यच्छोकमुच्छोषणमिन्द्रियाणाम्	ममmyअपनुद्यात्should removeयत्whichशोकम्griefउच्छोषणम्dryingइन्द्रियाणाम्of senses	मम  (मद्)pronoun, genitive singularII; weअपनुद्यात्  (अपनुद्)verb: present optative 3rd person singularremoveto remove; to send away; to drive awayयत्  (यद्)pronoun, neuter nominative singularwhichwhat; which; whoशोकम्  (शोक)noun, masculine accusative singulargriefflame; glow; heat; sorrowउच्छोषणम्  (उच्छोषण)adjective, masculine accusative singulardryingmaking dry; parchingइन्द्रियाणाम्  (इन्द्रिय)noun, neuter genitive pluralsensepower; force; the quality which belongs especially to the mighty Indra; exhibition of power
+T	अवाप्य	अवाप्यhaving attained	अवाप्य  (अवाप्)absolutive (having ...)getto reach; to attain; to obtain; to gain
+T	भूमावसपत्नमृद्धं	भूमौin Earthअसपत्नम्unrivaledऋद्धम्boomed	भूमौ  (भूमि)noun, feminine locative singularEarthearth; territory; country; positionअसपत्नम्  (असपत्न)adjective, neuter accusative singularunrivaledwithout a rivalऋद्धम्  (ऋध्)participle, neuter accusative singularboomto grow; to increase; to prosper; to succeed
+T	राज्यं	राज्यम्kingdom	राज्यम्  (राज्य)noun, neuter accusative singularkingdomroyalty; kingship; sovereignty; empire
+T	सुराणामपि	सुराणाम्of godsअपिalso	सुराणाम्  (सुर)noun, masculine genitive pluralDevaa god; divinity; the image of a god; an idolअपिparticleevenalso; moreover; besides; assuredly
+T	चाधिपत्यम्	चandआधिपत्यम्reign	चconjunctionandand; both; also; moreoverआधिपत्यम्  (आधिपत्य)noun, neuter accusative singularreignsupremacy; sovereignty; power
+V	2.9	Sanjaya said:	Gudâkesha, conqueror of his foes, having thus addressed Hrishîkesha and said to Govinda, "I will not fight!", became silent.		सञ्जयउवाच~।एवमुक्त्वाहृषीकेशंगुडाकेशःपरन्तपः~।नयोत्स्यइतिगोविन्दमुक्त्वातूष्णींबभूवह~॥ ९ ॥	13
+T	सञ्जय	संजयःSanjaya	संजयः  (संजय)noun, masculine nominative singularSamjayaconquest; victory; a kind of military array; name of a chief of the Yakshas
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	एवमुक्त्वा	एवम्thusउक्त्वाhaving said	एवम्adverbsothus; in this way; in such a manner; suchउक्त्वा  (वच्)absolutive (having ...)sayto speak; to say; to tell; to declare
+T	हृषीकेशं	हृषीकेशम्Hrishikesha	हृषीकेशम्  (हृषीकेश)noun, masculine accusative singularKrishnaname of the tenth month; name of a Tîrtha; name of a poet; lord of the senses (said of Manas)
+T	गुडाकेशः	गुडाकेशःGudakesha	गुडाकेशः  (गुडाकेश)noun, masculine nominative singularArjunathe hero Arjuna; Shiva
+T	परन्तपः	परंतपO scorcher of foes	परंतपadjective, masculine vocative singulardestroying foes (said of heroes)
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	योत्स्य	योत्स्येI will fight	योत्स्ये  (युध्)verb: future 1st person singularfightto fight; to wage war; to fight with
+T	इति	इतिthus	इतिparticlesoin this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	गोविन्दमुक्त्वा	गोविन्दम्Govindaउक्त्वाhaving said	गोविन्दम्  (गोविन्द)noun, masculine accusative singularKrishnaKrishna (or Vishnu); name of the 4th month; a chief herdsman; name of a princeउक्त्वा  (वच्)absolutive (having ...)sayto speak; to say; to tell; to declare
+T	तूष्णीं	तूष्णीम्mutely	तूष्णीम्adverbmutelysilently; quietly
+T	बभूव	बभूवwas	बभूव  (भू)verb: perfect 3rd person singularbecometo be; to become; to come into being; to happen
+T	ह	हindeed	हparticleindeed; a kind of bîja; thus
+V	2.10		Then Hrishîkesha, smiling, as it were, O Bhârata, spake these words to him, despondent, in the midst of the two armies:		तमुवाचहृषीकेशःप्रहसन्निवभारत~।सेनयोरुभयोर्मध्येविषीदन्तमिदंवचः~॥ १० ॥	7
+T	तमुवाच	तम्himउवाचsaid	तम्  (तद्)pronoun, masculine accusative singularhe,she,it (pers. pron.)this; gleicherउवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	हृषीकेशः	हृषीकेशःHrishikesha	हृषीकेशः  (हृषीकेश)noun, masculine nominative singularKrishnaname of the tenth month; name of a Tîrtha; name of a poet; lord of the senses (said of Manas)
+T	प्रहसन्निव	प्रहसन्laughingइवlike	प्रहसन्  (प्रहस्)present participle, masculine nominative singularlaughto burst into laughter; to laugh with (acc.); to laugh at; to mockइवparticleas it werelike; in the same manner as (in this sense = yathâ); as it were; as if
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularBhârataactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+T	सेनयोरुभयोर्मध्ये	सेनयोःof armiesउभयोःbothमध्येin middle	सेनयोः  (सेना)noun, feminine genitive dualarmya missile; dart; spear; name of Indra's wife (or his thunderbolt so personified)उभयोः  (उभय)adjective, feminine genitive dualboth(a)both; of both kinds; in both ways; in both mannersमध्ये  (मध्य)noun, neuter locative singularmidstthe middle; midst; centre; inside
+T	विषीदन्तमिदं	विषीदन्तम्being dejectedइदम्this	विषीदन्तम्  (विषद्)present participle, masculine accusative singulardespairto be exhausted or dejected; to despond; to despair; to sink downइदम्pronoun, neuter accusative singularthisthis; (near deictic pronoun in Vedic)
+T	वचः	वचःword	वचः  (वचस्)noun, neuter accusative singularstatementspeech; voice; word; singing
+V	2.11	The Blessed Lord said:	Thou grievest for those that should not be grieved for, yet speakest words of wisdom. The wise grieve neither for the living nor for the dead.	Words that sound wise, but miss the deeper sense of wisdom.	श्रीभगवानुवाच~।अशोच्यानन्वशोचस्त्वंप्रज्ञावादांश्चभाषसे~।गतासूनगतासूंश्चनानुशोचन्तिपण्डिताः~॥ ११ ॥	7
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundmisterlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularKrishnaname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	अशोच्यानन्वशोचस्त्वं	अशोच्यान्not to be grievedअन्वशोचःyou grievedत्वम्you	अnegative prefixnotnot; un-; in-शोच्यान्  (शुच्)gerundive (to be ...), masculine accusative pluralmournto shine; to gleam; to glow; to burnअन्वशोचः  (अनुशुच्)verb: imperfect 2nd person singularmournto mourn over; to regret; to bewailत्वम्  (त्वद्)pronoun, nominative singularyouyou
+T	प्रज्ञावादांश्च	प्रज्ञा-वादान्wisdom-talksचand	प्रज्ञाfirst part of a compoundwisdomwisdom; intelligence; knowledge; discriminationवादान्  (वाद)noun, masculine accusative pluralwordsspeech; discourse; talk; utteranceचconjunctionandand; both; also; moreover
+T	भाषसे	भाषसेyou speak	भाषसे  (भाष्)verb: present 2nd person singularspeakto speak; to talk; to say; to tell
+T	गतासूनगतासूंश्च	गतासून्deadअगतासून्not deadचand	गतासून्  (गतासु)adjective, masculine accusative pluraldeadone whose breath has gone; expired; deadअnegative prefixnotnot; un-; in-गतासून्  (गतासु)adjective, masculine accusative pluraldeadone whose breath has gone; expired; deadचconjunctionandand; both; also; moreover
+T	नानुशोचन्ति	नnotअनुशोचन्तिgrieve	नparticlenotnot; no; nor; neitherअनुशोचन्ति  (अनुशुच्)verb: present 3rd person pluralgrieveto mourn over; to regret; to bewail
+T	पण्डिताः	पण्डिताःlearned ones	पण्डिताः  (पण्डित)noun, masculine nominative pluralintellectuala scholar; a learned man; teacher; philosopher
+V	2.12		Nor at any time verily was I not, nor thou, nor these princes of men, nor verily shall we ever cease to be, hereafter.		नत्वेवाहंजातुनासंनत्वंनेमेजनाधिपाः~।नचैवनभविष्यामःसर्वेवयमतःपरम्~॥ १२ ॥	15
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	त्वेवाहं	तुbutएवindeedअहम्I	तुparticlenowdo; now; then; butएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeedअहम्  (मद्)pronoun, nominative singularII; we
+T	जातु	जातुever	जातुadverbeverat all; ever; once
+T	नासं	नnotआसम्I was	नparticlenotnot; no; nor; neitherआसम्  (अस्)verb: imperfect 1st person singularexistto be; to live; to exist; to be present
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	त्वं	त्वम्you	त्वम्  (त्वद्)pronoun, nominative singularyouyou
+T	नेमे	नnotइमेthese	नparticlenotnot; no; nor; neitherइमे  (इदम्)pronoun, masculine nominative pluralthisthis; (near deictic pronoun in Vedic)
+T	जनाधिपाः	जनाधिपाःkings	जनाधिपाः  (जनाधिप)noun, masculine nominative pluralking
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	चैव	चandएवindeed	चconjunctionandand; both; also; moreoverएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	भविष्यामः	भविष्यामःwe will be	भविष्यामः  (भू)verb: future 1st person pluralexistto be; to become; to come into being; to happen
+T	सर्वे	सर्वेall	सर्वे  (सर्व)pronoun, masculine nominative pluralall(a)whole; entire; all; every
+T	वयमतः	वयम्weअतःhence	वयम्  (मद्)pronoun, nominative pluralII; weअतः  (अतस्)adverbnowfrom this; than this; hence; henceforth
+T	परम्	परम्beyond	परम्adverbsubsequentlyafterwards; extremely; further on

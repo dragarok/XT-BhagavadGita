@@ -1,0 +1,69 @@
+V	7.17		Of these the wise, constantly harmonised, worshipping the One, is the best; I am supremely dear to the wise, and he is dear to Me.		तेषांज्ञानीनित्ययुक्तएकभक्तिर्विशिष्यते~।प्रियोहिज्ञानिनोऽत्यर्थमहंसचममप्रियः~॥ १७ ॥	11
+T	तेषां	तेषाम्their	तेषाम्  (तद्)pronoun, masculine genitive pluralthisthis; gleicher
+T	ज्ञानी	ज्ञानीwise	ज्ञानी  (ज्ञानिन्)adjective, masculine nominative singularwiseknowing; endowed with knowledge or intelligence; wise; knowing the higher knowledge or knowledge of spirit
+T	नित्ययुक्त	नित्य-युक्तःeternal-harmonized	नित्यfirst part of a compound (adjective)continuousinnate; native; one's own (opp. to arana); continualयुक्तः  (युज्)participle, masculine nominative singularto practice Yogato yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	एकभक्तिर्विशिष्यते	एक-भक्तिःone-devotionविशिष्यतेis excelled	एकfirst part of a compound (number)single(a)one; alone; happening only once; single of its kindभक्तिः  (भक्ति)noun, masculine nominative singularBhaktidistribution; partition; separation; a divisionविशिष्यते  (विशिष्)verb: passive present 3rd person singularexcelto distinguish; to make distinct or different; to particularize; to specify
+T	प्रियो	प्रियःdear	प्रियः  (प्रिय)adjective, masculine nominative singulardearbeloved; dear to; liked; favourite
+T	हि	हिfor	हिparticlebecausefor; because; on account of
+T	ज्ञानिनोऽत्यर्थमहं	ज्ञानिनःwiseअत्यर्थम्veryअहम्I	ज्ञानिनः  (ज्ञानिन्)adjective, masculine genitive singularwiseknowing; endowed with knowledge or intelligence; wise; knowing the higher knowledge or knowledge of spiritअत्यर्थम्adverbveryexcessivelyअहम्  (मद्)pronoun, nominative singularII; we
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicher
+T	च	चand	चconjunctionandand; both; also; moreover
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularII; we
+T	प्रियः	प्रियःdear	प्रियः  (प्रिय)adjective, masculine nominative singulardearbeloved; dear to; liked; favourite
+V	7.18		Noble are all these, but I hold the wise as verily Myself; he, Self united, is fixed on Me, the highest Path.		उदाराःसर्वएवैतेज्ञानीत्वात्मैवमेमतम्~।आस्थितःसहियुक्तात्मामामेवानुत्तमांगतिम्~॥ १८ ॥	13
+T	उदाराः	उदाराःeminent	उदाराः  (उदार)adjective, masculine nominative pluraleminenthigh; lofty; great; noble
+T	सर्व	सर्वेall	सर्वे  (सर्व)pronoun, masculine nominative pluralall(a)whole; entire; all; every
+T	एवैते	एवindeedएतेthese	एवparticleindeedso; just so; exactly so (in the sense of the later evam); indeedएते  (एतद्)pronoun, masculine nominative pluralhe,she,it (pers. pron.)this
+T	ज्ञानी	ज्ञानीwise	ज्ञानी  (ज्ञानिन्)adjective, masculine nominative singularwiseknowing; endowed with knowledge or intelligence; wise; knowing the higher knowledge or knowledge of spirit
+T	त्वात्मैव	तुbutआत्माselfएवindeed	तुparticlebutdo; now; then; butआत्मा  (आत्मन्)noun, masculine nominative singularselfthe breath; the soul; principle of life and sensation; the individual soulएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularII; we
+T	मतम्	मतम्thought	मतम्  (मन्)participle, neuter nominative singularthink ofto think; to believe; to imagine; to suppose
+T	आस्थितः	आस्थितःresorted to	आस्थितः  (आस्था)participle, masculine nominative singularreachto stand or remain on or by; to ascend; to mount; to stay near
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicher
+T	हि	हिfor	हिparticlebecausefor; because; on account of
+T	युक्तात्मा	युक्त-आत्माharmonized-self	युक्त  (युज्)first part of a compound (verb)to practice Yogato yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrangeआत्मा  (आत्मन्)noun, masculine nominative singularselfthe breath; the soul; principle of life and sensation; the individual soul
+T	मामेवानुत्तमां	माम्meएवindeedअनुत्तमाम्best	माम्  (मद्)pronoun, accusative singularII; weएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeedअनुत्तमाम्  (अनुत्तम)adjective, feminine accusative singularbestunsurpassed; incomparably the best or chief; excellent; excessive
+T	गतिम्	गतिम्goal	गतिम्  (गति)noun, feminine accusative singularwaygoing; moving; gait; deportment
+V	7.19		At the close of many births the man full of wisdom cometh unto Me; "Vâsudeva is all." saith he, the Mahâtmâ, very difficult to find.	A name of Shrî Krishna, as the son of Vasudeva.	बहूनांजन्मनामन्तेज्ञानवान्मांप्रपद्यते~।वासुदेवःसर्वमितिसमहात्मासुदुर्लभः~॥ १९ ॥	9
+T	बहूनां	बहूनाम्many	बहूनाम्  (बहु)adjective, neuter genitive pluralmanymuch; many; abundant; great in quantity
+T	जन्मनामन्ते	जन्मनाम्of birthsअन्तेin end	जन्मनाम्  (जन्मन्)noun, neuter genitive pluralreincarnationbirth; origin; existence; lifeअन्ते  (अन्त)noun, masculine locative singularendend; limit; boundary; term
+T	ज्ञानवान्मां	ज्ञानवान्wiseमाम्me	ज्ञानवान्  (ज्ञानवत्)adjective, masculine nominative singularwiseknowing; endowed with knowledge or science; intelligent; wiseमाम्  (मद्)pronoun, accusative singularII; we
+T	प्रपद्यते	प्रपद्यतेtakes refuge in	प्रपद्यते  (प्रपद्)verb: present 3rd person singulararriveto fall or drop down from (abl.); to throw one's self down (at a person's feet); to go forwards; to resort to
+T	वासुदेवः	वासुदेवःVasudeva	वासुदेवः  (वासुदेव)noun, masculine nominative singularKrishnapatr. of Krishna; name of a king of the Pundras; name of a class of beings peculiar to the Jainas; a horse
+T	सर्वमिति	सर्वम्allइतिthus	सर्वम्  (सर्व)pronoun, neuter nominative singularall(a)whole; entire; all; everyइतिparticlesoin this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthisthis; gleicher
+T	महात्मा	महात्माgreat-souled	महात्मा  (महात्मन्)adjective, masculine nominative singularnoblemagnanimous; having a great or noble nature; high-minded; noble
+T	सुदुर्लभः	सुwellदुर्लभःhard to find	सुadverbvery[ibc.] good-; [ibc.] very; quite; feinदुर्लभः  (दुर्लभ)adjective, masculine nominative singularscarcedifficult to be obtained or found; hard; scarce; rare
+V	7.20		They whose wisdom hath been rent away by desires go forth to other Shining Ones, resorting to various external observances, according to their own natures.		कामैस्तैस्तैर्हृतज्ञानाःप्रपद्यन्तेऽन्यदेवताः~।तंतंनियममास्थायप्रकृत्यानियताःस्वया~॥ २० ॥	8
+T	कामैस्तैस्तैर्हृतज्ञानाः	कामैःwith desiresतैःby themतैःby themहृत-ज्ञानाःcarried away-knowledge	कामैः  (काम)noun, masculine instrumental pluraldesirewish; desire; longing; desire forतैः  (तद्)pronoun, masculine instrumental pluralthisthis; gleicherतैः  (तद्)pronoun, masculine instrumental pluralthisthis; gleicherहृत  (हृ)first part of a compound (verb)removeto take; to bear; to carry in or on; to take awayज्ञानाः  (ज्ञान)noun, masculine nominative pluralknowledgeknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	प्रपद्यन्तेऽन्यदेवताः	प्रपद्यन्तेtake refuge inअन्य-देवताःother-deities	प्रपद्यन्ते  (प्रपद्)verb: present 3rd person pluralapproachto fall or drop down from (abl.); to throw one's self down (at a person's feet); to go forwards; to resort toअन्यfirst part of a compound (pronoun)otherother; anotherदेवताः  (देवता)noun, feminine accusative pluraldeitygodhead; divinity (abstr. & concr.); image of a deity; idol
+T	तं	तम्him	तम्  (तद्)pronoun, masculine accusative singularthisthis; gleicher
+T	तं	तम्him	तम्  (तद्)pronoun, masculine accusative singularthisthis; gleicher
+T	नियममास्थाय	नियमम्niyamaआस्थायhaving resorted to	नियमम्  (नियम)noun, masculine accusative singularniyamarestraining; checking; holding back; preventingआस्थाय  (आस्था)absolutive (having ...)practiceto stand or remain on or by; to ascend; to mount; to stay near
+T	प्रकृत्या	प्रकृत्याwith nature	प्रकृत्या  (प्रकृति)noun, feminine instrumental singulardispositionthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; origin
+T	नियताः	नियताःcontrolled	नियताः  (नियम्)participle, masculine nominative pluralcontrolto stop (trans.); to hold back; to detain with; to stop (intrans.)
+T	स्वया	स्वयाown	स्वया  (स्व)adjective, feminine instrumental singularown(a)own; one's own; related; akin
+V	7.21		Any devotee who seeketh to worship with faith any such aspect, I verily bestow the unswerving faith of that man.		योयोयांयांतनुंभक्तःश्रद्धयाऽर्चितुमिच्छति~।तस्यतस्याचलांश्रद्धांतामेवविदधाम्यहम्~॥ २१ ॥	12
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	यां	याम्whom	याम्  (यद्)pronoun, feminine accusative singularwhichwhat; which; who
+T	यां	याम्whom	याम्  (यद्)pronoun, feminine accusative singularwhichwhat; which; who
+T	तनुं	तनुम्body	तनुम्  (तनु)noun, feminine accusative singularbody= tanû; the body; person; form
+T	भक्तः	भक्तःdevotee	भक्तः  (भक्त)noun, masculine nominative singularBhaktaa worshipper; votary (esp. as name of a division of the Shâktas)
+T	श्रद्धयाऽर्चितुमिच्छति	श्रद्धयाwith faithअर्चितुम्to worshipइच्छतिdesires	श्रद्धया  (श्रद्धा)noun, feminine instrumental singularfaithfaith; confidence; trustfulness; faithfulnessअर्चितुम्  (अर्च्)infinitiveworshipto shine; to praise; to sing (dat.); to recommendइच्छति  (इष्)verb: present 3rd person singulardesireto seek for; to desire; to intend; to assent
+T	तस्य	तस्यhis	तस्य  (तद्)pronoun, masculine genitive singularthisthis; gleicher
+T	तस्याचलां	तस्यhisअचलाम्unmoving	तस्य  (तद्)pronoun, masculine genitive singularthisthis; gleicherअचलाम्  (अचल)adjective, feminine accusative singularimmovablenot moving; immovable; firm
+T	श्रद्धां	श्रद्धाम्faith	श्रद्धाम्  (श्रद्धा)noun, feminine accusative singularfaithfaith; confidence; trustfulness; faithfulness
+T	तामेव	ताम्herएवindeed	ताम्  (तद्)pronoun, feminine accusative singularthisthis; gleicherएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	विदधाम्यहम्	विदधामिI ordainअहम्I	विदधामि  (विधा)verb: present 1st person singularcauseto distribute; to apportion; to grant; to bestowअहम्  (मद्)pronoun, nominative singularI; we
+V	7.22		He endowed with that faith, seeketh the worship of such a one, and from him he obtaineth his desires, I verily decreeing the benefits;		सतयाश्रद्धयायुक्तस्तस्याराधनमीहते~।लभतेचततःकामान्मयैवविहितान्हितान्~॥ २२ ॥	10
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicher
+T	तया	तयाby her	तया  (तद्)pronoun, feminine instrumental singularthisthis; gleicher
+T	श्रद्धया	श्रद्धयाwith faith	श्रद्धया  (श्रद्धा)noun, feminine instrumental singularfaithfaith; confidence; trustfulness; faithfulness
+T	युक्तस्तस्याराधनमीहते	युक्तःharmonizedतस्याःherराधनम्placationईहतेaims	युक्तः  (युज्)participle, masculine nominative singularendowto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrangeतस्याः  (तद्)pronoun, feminine genitive singularthisthis; gleicherराधनम्  (राधन)noun, neuter accusative singularplacationpropitiating; conciliating; pleasure; satisfactionईहते  (ईह्)verb: present 3rd person singularaimto endeavour to obtain; to aim at; to attempt; to long for
+T	लभते	लभतेobtains	लभते  (लभ्)verb: present 3rd person singulargetto take; to seize; to catch; to meet with
+T	च	चand	चconjunctionandand; both; also; moreover
+T	ततः	ततःthen	ततः  (ततस्)adverbthenfrom that; in consequence of that; for that reason; consequently
+T	कामान्मयैव	कामान्desiresमयाby meएवindeed	कामान्  (काम)noun, masculine accusative pluraldesirewish; desire; longing; desire forमया  (मद्)pronoun, instrumental singularII; weएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	विहितान्हि	विहितान्ordainedहिfor	विहितान्  (विधा)participle, masculine accusative pluralgrantto distribute; to apportion; to grant; to bestowहिparticlebecausefor; because; on account of
+T	तान्	तान्them	तान्  (तद्)pronoun, masculine accusative pluralthisthis; gleicher

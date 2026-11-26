@@ -1,0 +1,73 @@
+V	14.1	The Blessed Lord said:	I will again proclaim that supreme Wisdom, of all wisdom the best, which having known, all the Sages have gone hence to the supreme Perfection.	Munis.	श्रीभगवानुवाच~।परंभूयःप्रवक्ष्यामिज्ञानानांज्ञानमुत्तमम्~।यज्ज्ञात्वामुनयःसर्वेपरांसिद्धिमितोगताः~॥ १ ॥	12
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	परं	परम्supreme	परम्  (पर)pronoun, neuter accusative singularfar; remote; opposite; previous
+T	भूयः	भूयःagain	भूयः  (भूयस्)adverbagain; further; furthermore; in addition
+T	प्रवक्ष्यामि	प्रवक्ष्यामिI will declare	प्रवक्ष्यामि  (प्रवच्)verb: future 1st person singularto proclaim; to announce; to praise; to commend
+T	ज्ञानानां	ज्ञानानाम्of knowledge	ज्ञानानाम्  (ज्ञान)noun, neuter genitive pluralknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	ज्ञानमुत्तमम्	ज्ञानम्knowledgeउत्तमम्highest	ज्ञानम्  (ज्ञान)noun, neuter accusative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)उत्तमम्  (उत्तम)adjective, neuter accusative singularuppermost; highest; chief; most elevated
+T	यज्ज्ञात्वा	यत्whichज्ञात्वाhaving known	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoज्ञात्वा  (ज्ञा)absolutive (having ...)to know; to have knowledge; to become acquainted with; to perceive
+T	मुनयः	मुनयःsages	मुनयः  (मुनि)noun, masculine nominative pluralimpulse; eagerness (?); any one who is moved by inward impulse; an inspired or ecstatic person
+T	सर्वे	सर्वेall	सर्वे  (सर्व)pronoun, masculine nominative pluralwhole; entire; all; every
+T	परां	पराम्supreme	पराम्  (पर)pronoun, feminine accusative singularfar; remote; opposite; previous
+T	सिद्धिमितो	सिद्धिम्successइतःfrom hence	सिद्धिम्  (सिद्धि)noun, feminine accusative singularaccomplishment; performance; fulfilment; complete attainment (of any object)इतः  (इतस्)adverbfrom hence; hence; here
+T	गताः	गताःgone	गताः  (गम्)participle, masculine nominative pluralto go; to move; to approach; to understand
+V	14.2		Having taken refuge in this Wisdom and being assimilated to My own nature, they are not re-born even in the emanation of a universe, nor are disquieted in the dissolution.		इदंज्ञानमुपाश्रित्यममसाधर्म्यमागताः~।सर्गेऽपिनोपजायन्तेप्रलयेनव्यथन्तिच~॥ २ ॥	10
+T	इदं	इदम्this	इदम्pronoun, neuter accusative singularthis; (near deictic pronoun in Vedic)
+T	ज्ञानमुपाश्रित्य	ज्ञानम्knowledgeउपाश्रित्यhaving resorted to	ज्ञानम्  (ज्ञान)noun, neuter accusative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)उपाश्रित्य  (उपाश्रि)absolutive (having ...)to lean against; to rest on; to go or betake one's self towards; to take refuge or have recourse to
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularI; we
+T	साधर्म्यमागताः	साधर्म्यम्communityआगताःcome	साधर्म्यम्  (साधर्म्य)noun, neuter accusative singularcommunity or equality of duty or office or properties; sameness or identity of nature; likeness or homogeneousness with (gen. or comp.)आगताः  (आगम्)participle, masculine nominative pluralto come; to make one's appearance; to come near from (abl.) or to (acc. or loc.); to arrive at
+T	सर्गेऽपि	सर्गेin creationअपिalso	सर्गे  (सर्ग)noun, masculine locative singularletting go; discharging; voiding (as excrement); starting (a race-horse)अपिparticlealso; moreover; besides; assuredly
+T	नोपजायन्ते	नnotउपजायन्तेarise	नparticlenot; no; nor; neitherउपजायन्ते  (उपजन्)verb: present 3rd person pluralto be produced or originate in addition; to be added or put to; to follow (as a consequence); to be born
+T	प्रलये	प्रलयेin dissolution	प्रलये  (प्रलय)noun, masculine locative singulardissolution; reabsorption; destruction; annihilation
+T	न	नnot	नparticlenot; no; nor; neither
+T	व्यथन्ति	व्यथन्तिare troubled	व्यथन्ति  (व्यथ्)verb: present 3rd person pluralto tremble; to waver; to go astray; to come to naught
+T	च	चand	चconjunctionand; both; also; moreover
+V	14.3		My womb is the great Eternal; in that I place the germ; thence cometh the birth of all beings, O Bhârata.		ममयोनिर्महद्ब्रह्मतस्मिन्गर्भंदधाम्यहम्~।सम्भवःसर्वभूतानांततोभवतिभारत~॥ ३ ॥	10
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularI; we
+T	योनिर्महद्ब्रह्म	योनिःwombमहत्greatब्रह्मBrahman	योनिः  (योनि)noun, feminine nominative singularthe womb; uterus; vulva; vaginaमहत्adjective, neuter nominative singulargreat; large; big; hugeब्रह्म  (ब्रह्मन्)noun, neuter nominative singularpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	तस्मिन्	तस्मिन्	
+T	गर्भं	तस्मिन्in thatगर्भम्womb	तस्मिन्  (तद्)pronoun, neuter locative singularthis; gleicherगर्भम्  (गर्भ)noun, masculine accusative singularthe womb; the inside; middle; interior of anything
+T	दधाम्यहम्	दधामिI putअहम्I	दधामि  (धा)verb: present 1st person singularto put; to place; to hold; to put on (clothes)अहम्  (मद्)pronoun, nominative singularI; we
+T	सम्भवः	संभवःorigin	संभवः  (सम्भव)noun, masculine nominative singularbeing or coming together; meeting; union; intercourse (esp. sexual intercourse)
+T	सर्वभूतानां	सर्व-भूतानाम्of all-beings	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतानाम्  (भूत)noun, neuter genitive pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	ततो	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	भवति	भवतिis	भवति  (भू)verb: present 3rd person singularto be; to become; to come into being; to happen
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+V	14.4		In whatsoever wombs mortals are produced, O Kaunteya, the great Eternal is their womb, I their generating father.		सर्वयोनिषुकौन्तेयमूर्तयःसंभवन्तियाः~।तासांब्रह्ममहद्योनिरहंबीजप्रदःपिता~॥ ४ ॥	10
+T	सर्वयोनिषु	सर्व-योनिषुin all-wombs	सर्वfirst part of a compound (pronoun)whole; entire; all; everyयोनिषु  (योनि)noun, feminine locative pluralthe womb; uterus; vulva; vagina
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	मूर्तयः	मूर्तयःforms	मूर्तयः  (मूर्ति)noun, feminine nominative pluralany solid body or material form; embodiment; manifestation; incarnation
+T	संभवन्ति	सम्भवन्तिcome into being	सम्भवन्ति  (सम्भू)verb: present 3rd person pluralto be or come together; to assemble; to meet; to be joined or united with (instr. with or without saha)
+T	याः	याःwho	याः  (यद्)pronoun, feminine nominative pluralwhat; which; who
+T	तासां	तासाम्their	तासाम्  (तद्)pronoun, feminine genitive pluralthis; gleicher
+T	ब्रह्म	ब्रह्मBrahman	ब्रह्म  (ब्रह्मन्)noun, neuter nominative singularbrahmanpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	महद्योनिरहं	महत्greatयोनिःwombअहम्I	महत्adjective, neuter nominative singulargreat; large; big; hugeयोनिः  (योनि)noun, feminine nominative singularbirthplacethe womb; uterus; vulva; vaginaअहम्  (मद्)pronoun, nominative singularII; we
+T	बीजप्रदः	बीज-प्रदःseed-giving	बीजfirst part of a compoundsemenseed (of plants); semen (of men and animals); seed-corn; grainप्रदः  (प्रद)adjective, masculine nominative singulargivinggiving; yielding; offering; granting
+T	पिता	पिताfather	पिता  (पितृ)noun, masculine nominative singularfathera father; parents; the fathers; forefathers
+V	14.5		Harmony, Motion, Inertia, such are the qualities, Matter-born; they bind fast in the body, O great-armed one, the indestructible dweller in the body.	More strictly Rhythm.Gunas.Prakriti.	सत्त्वंरजस्तमइतिगुणाःप्रकृतिसंभवाः~।निबध्नन्तिमहाबाहोदेहेदेहिनमव्ययम्~॥ ५ ॥	9
+T	सत्त्वं	सत्त्वम्goodness	सत्त्वम्  (सत्त्व)noun, neuter nominative singularSattvabeing; existence; reality; true essence
+T	रजस्तम	रजःpassionतमःdarkness	रजः  (रजस्)noun, neuter nominative singularRajasthe sphere of vapour or mist; region of clouds; atmosphere; airतमः  (तमस्)noun, neuter nominative singularTamasdarkness; gloom; the darkness of hell; hell or a particular division of hell
+T	इति	इतिthus	इतिparticlethusin this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	गुणाः	गुणाःqualities	गुणाः  (गुण)noun, masculine nominative pluralgunaa single thread or strand of a cord or twine; string or thread; rope; a garland
+T	प्रकृतिसंभवाः	प्रकृति-संभवाःnature-origins	प्रकृतिfirst part of a compoundprakritithe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; originसंभवाः  (सम्भव)noun, masculine nominative pluraloriginbeing or coming together; meeting; union; intercourse (esp. sexual intercourse)
+T	निबध्नन्ति	निबध्नन्तिbind	निबध्नन्ति  (निबन्ध्)verb: present 3rd person pluraltieto bind on; to tie; to fasten to; to enchain
+T	महाबाहो	महा-बाहोO mighty-armed	महा  (महत्)first part of a compound (adjective)great; large; big; hugeबाहो  (बाहु)noun, masculine vocative singulararmthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	देहे	देहेin body	देहे  (देह)noun, neuter locative singularbodyform; shape; mass; bulk (as of a cloud)
+T	देहिनमव्ययम्	देहिनम्embodied oneअव्ययम्imperishable	देहिनम्  (देहिन्)noun, masculine accusative singularsoula living creature; man; the spirit; soul (enveloped in the body)अव्ययम्  (अव्यय)adjective, masculine accusative singularimperishablenot liable to change; imperishable; undecaying; parsimonious
+V	14.6		Of these Harmony from its stainlessness, luminous and healthy, bindeth by the attachment to bliss and the attachment to wisdom, O sinless one.		तत्रसत्त्वंनिर्मलत्वात्प्रकाशकमनामयम्~।सुखसङ्गेनबध्नातिज्ञानसङ्गेनचानघ~॥ ६ ॥	7
+T	तत्र	तत्रthere	तत्रadverbin that place; there (in comp.); thither; to that place
+T	सत्त्वं	सत्त्वम्goodness	सत्त्वम्  (सत्त्व)noun, neuter nominative singularSattvabeing; existence; reality; true essence
+T	निर्मलत्वात्प्रकाशकमनामयम्	निर्मल-त्वात्from spotlessnessप्रकाशकम्clearअनामयम्healthy	निर्मलfirst part of a compound (adjective)spotless; unsullied; clean; shiningत्वात्  (त्व)noun, neuter ablative singular(suffix creating abstract nouns)प्रकाशकम्  (प्रकाशक)adjective, neuter nominative singularclear; brilliant; renowned; illuminatingअनामयम्  (अनामय)adjective, neuter nominative singularhealthy; salubrious
+T	सुखसङ्गेन	सुख-सङ्गेनwith happiness-attachment	सुखfirst part of a compoundease; easiness; comfort; prosperityसङ्गेन  (सङ्ग)noun, masculine instrumental singularsticking; clinging to; touch; contact with
+T	बध्नाति	बध्नातिbinds	बध्नाति  (बन्ध्)verb: present 3rd person singularto bind; to tie; to fix; to chain
+T	ज्ञानसङ्गेन	ज्ञान-सङ्गेनwith knowledge-attachment	ज्ञानfirst part of a compoundknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)सङ्गेन  (सङ्ग)noun, masculine instrumental singularsticking; clinging to; touch; contact with
+T	चानघ	चandअनघO sinless one	चconjunctionand; both; also; moreoverअनघadjective, masculine vocative singularsinless; faultless; uninjured; handsome
+V	14.7		Motion, the passion nature, know thou, is the source of attachment and thirst for life, O Kaunteya, that bindeth the dweller in the body by the attachment to action.		रजोरागात्मकंविद्धितृष्णासङ्गसमुद्भवम्~।तन्निबध्नातिकौन्तेयकर्मसङ्गेनदेहिनम्~॥ ७ ॥	8
+T	रजो	रजःpassion	रजः  (रजस्)noun, neuter accusative singularRajasthe sphere of vapour or mist; region of clouds; atmosphere; air
+T	रागात्मकं	राग-आत्मकम्passion-of the nature of	रागfirst part of a compoundthe act of colouring or dyeing; colour; hue; tintआत्मकम्  (आत्मक)adjective, neuter accusative singular(ifc.) having the nature of
+T	विद्धि	विद्धिknow!	विद्धि  (विद्)verb: present imperative 2nd person singularto know; to understand; to learn; to be conscious of
+T	तृष्णासङ्गसमुद्भवम्	तृष्णा-सङ्ग-समुद्भवम्thirst-attachment-arising	तृष्णाfirst part of a compoundthirst; desire; avidity (chiefly ifc.); Avidity as mother of Dambhaसङ्गfirst part of a compoundsticking; clinging to; touch; contact withसमुद्भवम्  (समुद्भव)noun, neuter accusative singularexistence; production; origin; coming to life again
+T	तन्निबध्नाति	तत्thatनिबध्नातिbinds	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherनिबध्नाति  (निबन्ध्)verb: present 3rd person singularto bind on; to tie; to fasten to; to enchain
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	कर्मसङ्गेन	कर्म-सङ्गेनwith action-attachment	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessसङ्गेन  (सङ्ग)noun, masculine instrumental singularsticking; clinging to; touch; contact with
+T	देहिनम्	देहिनम्embodied one	देहिनम्  (देहिन्)noun, masculine accusative singulara living creature; man; the spirit; soul (enveloped in the body)

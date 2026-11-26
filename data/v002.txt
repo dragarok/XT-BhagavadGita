@@ -1,0 +1,69 @@
+V	1.7		Know further all those who are our chiefs, O best of the twice-born, the leaders of my army; these I name to thee for thy information:		अस्माकंतुविशिष्टायेतान्निबोधद्विजोत्तम~।नायकाममसैन्यस्यसंज्ञार्थंतान्ब्रवीमिते~॥ ७ ॥	12
+T	अस्माकं	अस्माकम्our	अस्माकम्  (मद्)pronoun, genitive pluralII; we
+T	तु	तुbut	तुparticlenowdo; now; then; but
+T	विशिष्टा	विशिष्टाःexcelled	विशिष्टाः  (विशिष्)participle, masculine nominative pluralexcelto distinguish; to make distinct or different; to particularize; to specify
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	तान्निबोध	तान्themनिबोधknow!	तान्  (तद्)pronoun, masculine accusative pluralhe,she,it (pers. pron.)this; gleicherनिबोध  (निबुध्)verb: present imperative 2nd person singularcome to knowto learn or hear anything (acc.) from any one; to attend or listen to; to know; to understand
+T	द्विजोत्तम	द्विजोत्तमO Brahmin	द्विजोत्तमnoun, masculine vocative singularBrahmin
+T	नायका	नायकाःleaders	नायकाः  (नायक)noun, masculine nominative pluralleadera guide; leader; chief; lord
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularmineI; we
+T	सैन्यस्य	सैन्यस्यof army	सैन्यस्य  (सैन्य)noun, neuter genitive singulararmya body of troops; army; a camp
+T	संज्ञार्थं	संज्ञा-अर्थम्name-purpose	संज्ञाfirst part of a compoundnameagreement; mutual understanding; harmony; consciousnessअर्थम्  (अर्थ)noun, masculine accusative singularforaim; purpose; cause; motive
+T	तान्ब्रवीमि	तान्themब्रवीमिI tell	तान्  (तद्)pronoun, masculine accusative pluralhe,she,it (pers. pron.)this; gleicherब्रवीमि  (ब्रू)verb: present 1st person singulartellto speak; to say; to tell; to speak about any person or thing (acc. with or without prati)
+T	ते	तेfor you	ते  (त्वद्)pronoun, dative singularyouyou
+V	1.8		Thou, Lord, and Bhîshma, and Karna and Kripa, conquering in battle; Ashvatthâmâ, Vikarna, and Saumadatti also;	The son of Somadatta.	भवान्भीष्मश्चकर्णश्चकृपश्चसमितिञ्जयः~।अश्वत्थामाविकर्णश्चसौमदत्तिस्तथैवच~॥ ८ ॥	8
+T	भवान्भीष्मश्च	भवान्you, sirभीष्मःBhishmaचand	भवान्  (भवत्)adjective, masculine nominative singularhonorableyour honour; your worship; your lordship or ladyship; you (lit. "the gentleman or lady present")भीष्मः  (भीष्म)noun, masculine nominative singularBhîshma= bhîshana; death; name of Shiva; a Râkshasaचconjunctionandand; both; also; moreover
+T	कर्णश्च	कर्णःKarnaचand	कर्णः  (कर्ण)noun, masculine nominative singularKarnaear; handle or ear of a vessel; helm or rudder of a ship; diameter of a circleचconjunctionandand; both; also; moreover
+T	कृपश्च	कृपःKripaचand	कृपः  (कृप)noun, masculine nominative singularKripaname of the son of the sage Sharadvat; a Brahmin; brother of Kripî; [alchemy]चconjunctionandand; both; also; moreover
+T	समितिञ्जयः	समितिंजयःvictorious	समितिंजयः  (समितिंजय)adjective, masculine nominative singularvictoriousvictorious in battle
+T	अश्वत्थामा	अश्वत्थामाAshvatthâman	अश्वत्थामा  (अश्वत्थामन्)noun, masculine nominative singularAshvatthâmanname of a son of Drona; name of one of the seven Rishis of the period of Manu Savarni; name of an elephant
+T	विकर्णश्च	विकर्णःVikarnaचand	विकर्णः  (विकर्ण)noun, masculine nominative singularVikarnaa kind of arrow; name of a son of Karna; name of a son of Dhritarâshtra; name of a peopleचconjunctionandand; both; also; moreover
+T	सौमदत्तिस्तथैव	सौमदत्तिःpatr. from soma-dattaतथाlikewiseएवindeed	सौमदत्तिः  (सौमदत्ति)noun, masculine nominative singularpatr. from soma-datta; = Bhûrishravasतथाadverbandin that manner; so; thus; yesएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionandand; both; also; moreover
+V	1.9		And many others, heroes, for my sake renouncing their lives, with divers weapons and missiles, and all well-skilled in war.		अन्येचबहवःशूरामदर्थेत्यक्तजीविताः~।नानाशस्त्रप्रहरणाःसर्वेयुद्धविशारदाः~॥ ९ ॥	9
+T	अन्ये	अन्येothers	अन्ये  (अन्य)pronoun, masculine nominative pluralotherother; another
+T	च	चand	चconjunctionandand; both; also; moreover
+T	बहवः	बहवःmany	बहवः  (बहु)adjective, masculine nominative pluralmanymuch; many; abundant; great in quantity
+T	शूरा	शूराःheros	शूराः  (शूर)noun, masculine nominative pluralheroa strong or mighty or valiant man; warrior; champion; hero
+T	मदर्थे	मद्-अर्थेin my-purpose	मद्first part of a compound (pronoun)II; weअर्थे  (अर्थ)noun, masculine locative singularforaim; purpose; cause; motive
+T	त्यक्तजीविताः	त्यक्त-जीविताःabandoned-lifes	त्यक्त  (त्यज्)first part of a compound (verb)abandonto leave; to abandon; to quit; to leave a placeजीविताः  (जीवित)noun, masculine nominative plurallifea living being; life; duration of life; livelihood
+T	नानाशस्त्रप्रहरणाः	नानाvariousशस्त्र-प्रहरणाःweapon-weapons	नानाadverbmanydifferently; variously; distinctly; separatelyशस्त्रfirst part of a compoundknifean instrument for cutting or wounding; knife; sword; daggerप्रहरणाः  (प्रहरण)noun, masculine nominative pluralweaponstriking; beating; pecking; throwing (of grass into the fire)
+T	सर्वे	सर्वेall	सर्वे  (सर्व)pronoun, masculine nominative pluralall(a)whole; entire; all; every
+T	युद्धविशारदाः	युद्ध-विशारदाःbattle-conversant	युद्धfirst part of a compoundfightfight; war; (in astron.) opposition; conflict of the planetsविशारदाः  (विशारद)adjective, masculine nominative pluralconversant(p)experienced; skilled or proficient in; conversant with; learned
+V	1.10		Yet insufficient seems this army of ours, though marshalled by Bhîshma, while that army of theirs seems sufficient, though marshalled by Bhîma;	The commentators differ in their interpretation of this verse; Anandagiri takes it to mean just the reverse of Shridhara Svâmi, "aparyâptam" being taken by the one as "insufficient," by the other as "unlimited."	अपर्याप्तंतदस्माकंबलंभीष्माभिरक्षितम्~।पर्याप्तंत्विदमेतेषांबलंभीमाभिरक्षितम्~॥ १० ॥	8
+T	अपर्याप्तं	अपर्याप्तम्inadequate	अपर्याप्तम्  (अपर्याप्त)adjective, neuter nominative singularinadequateincomplete; unable; incompetent; insufficient
+T	तदस्माकं	तत्thatअस्माकम्our	तत्  (तद्)pronoun, neuter nominative singularthisthis; gleicherअस्माकम्  (मद्)pronoun, genitive pluralmineI; we
+T	बलं	बलम्strength	बलम्  (बल)noun, neuter nominative singulararmypower; strength; might; vigour
+T	भीष्माभिरक्षितम्	भीष्म-अभिरक्षितम्Bhishma-guarded	भीष्मfirst part of a compoundBhîshma= bhîshana; death; name of Shiva; a Râkshasaअभिरक्षितम्  (अभिरक्ष्)participle, neuter nominative singularguardto guard; to protect; to preserve
+T	पर्याप्तं	पर्याप्तम्completed	पर्याप्तम्  (पर्याप्)participle, neuter nominative singularcompleteto reach; to obtain; to attain; to gain
+T	त्विदमेतेषां	तुbutइदम्thisएतेषाम्of these	तुparticlebutdo; now; then; butइदम्pronoun, neuter nominative singularthisthis; (near deictic pronoun in Vedic)एतेषाम्  (एतद्)pronoun, masculine genitive pluralhe,she,it (pers. pron.)this
+T	बलं	बलम्strength	बलम्  (बल)noun, neuter nominative singulararmypower; strength; might; vigour
+T	भीमाभिरक्षितम्	भीम-अभिरक्षितम्Bhima-guarded	भीमfirst part of a compoundBhîmasenaRumex Vesicarius; name of Rudra-Shiva; name of one of the 8 forms of Shiva; name of one of the 11 Rudrasअभिरक्षितम्  (अभिरक्ष्)participle, neuter nominative singularguardto guard; to protect; to preserve
+V	1.11		Therefore in the rank and file let all, standing firmly in their respective divisions, guard Bhîshma, even all ye generals.		अयनेषुचसर्वेषुयथाभागमवस्थिताः~।भीष्ममेवाभिरक्षन्तुभवन्तःसर्वएवहि~॥~॥ ११ ॥	9
+T	अयनेषु	अयनेषुin positions	अयनेषु  (अयन)noun, neuter locative pluralpositionwalking; (in astron.) advancing; precession; way
+T	च	चand	चconjunctionandand; both; also; moreover
+T	सर्वेषु	सर्वेषुall	सर्वेषु  (सर्व)pronoun, neuter locative pluralall(a)whole; entire; all; every
+T	यथाभागमवस्थिताः	यथाभागम्according to sharesअवस्थिताःsituated	यथाभागम्adverbaccording to shares or portions; each according to his share; each in his respective place or in the proper pleasureअवस्थिताः  (अवस्था)participle, masculine nominative pluralstayto reach down to; to remain standing; to be separated from; to abide
+T	भीष्ममेवाभिरक्षन्तु	भीष्मम्Bhishmaएवindeedअभिरक्षन्तुlet them guard	भीष्मम्  (भीष्म)noun, masculine accusative singularBhîshma= bhîshana; death; name of Shiva; a Râkshasaएवparticlethusso; just so; exactly so (in the sense of the later evam); indeedअभिरक्षन्तु  (अभिरक्ष्)verb: present imperative 3rd person pluralguardto guard; to protect; to preserve
+T	भवन्तः	भवन्तःyou, sir	भवन्तः  (भवत्)adjective, masculine nominative pluralhonorableyour honour; your worship; your lordship or ladyship; you (lit. "the gentleman or lady present")
+T	सर्व	सर्वेall	सर्वे  (सर्व)pronoun, masculine nominative pluralall(a)whole; entire; all; every
+T	एव	एवindeed	एवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	हि	हिfor	हिparticlethereforefor; because; on account of
+V	1.12		To enhearten him, the Ancient of the Kurus, the Grandsire, the glorious, blew his conch, sounding on high a lion's roar.	Bhishma.	तस्यसञ्जनयन्हर्षंकुरुवृद्धःपितामहः~।सिंहनादंविनद्योच्चैःशङ्खंदध्मौप्रतापवान्~॥ १२ ॥	9
+T	तस्य	तस्यhis	तस्य  (तद्)pronoun, masculine genitive singularhe,she,it (pers. pron.)this; gleicher
+T	सञ्जनयन्हर्षं	संजनयन्increasingहर्षम्joy	संजनयन्  (संजनय्)present participle, masculine nominative singularincreaseto bring forth; to create; to formहर्षम्  (हर्ष)noun, masculine accusative singularexcitementbristling; erection (esp. of the hair in a thrill of rapture or delight); joy; pleasure
+T	कुरुवृद्धः	कुरुवृद्धःBhîshma	कुरुवृद्धः  (कुरुवृद्ध)noun, masculine nominative singularBhîshmaname of Bhîshma; name of Dhritarâshtra
+T	पितामहः	पितामहःgrandfather	पितामहः  (पितामह)noun, masculine nominative singularBhîshmaa paternal grandfather; name of Brahmâ; name of several authors; the Pitris
+T	सिंहनादं	सिंहनादम्war cry	सिंहनादम्  (सिंहनाद)noun, masculine accusative singularwar crya war-cry; a confident assertion; recital of the Buddhist doctrine; a kind of bird
+T	विनद्योच्चैः	विनद्यhaving shoutedउच्चैःloudly	विनद्य  (विनद्)absolutive (having ...)shoutto sound forth; to cry out; to roar; to bellowउच्चैः  (उच्चैस्)adverbloudlyaloft; high; above; upwards
+T	शङ्खं	शङ्खम्conch	शङ्खम्  (शङ्ख)noun, masculine accusative singularconcha shell; the conch-shell (used for making libations of water or as an ornament for the arms or for the temples of an elephant)
+T	दध्मौ	दध्मौblew	दध्मौ  (धम्)verb: perfect 3rd person singularblowto blow; to blow into; to breathe out; to exhale
+T	प्रतापवान्	प्रतापवान्heroic	प्रतापवान्  (प्रतापवत्)adjective, masculine nominative singularheroichoheitsvoll; strong; majestic
+V	1.13		Then conches and kettledrums, tabors and drums and cowhorns, suddenly blared forth, and the sound was tumultuous.		ततःशङ्खाश्चभेर्यश्चपणवानकगोमुखाः~।सहसैवाभ्यहन्यन्तसशब्दस्तुमुलोऽभवत्~॥ १३ ॥	7
+T	ततः	ततःthen	ततः  (ततस्)adverbthenfrom that; in consequence of that; for that reason; consequently
+T	शङ्खाश्च	शङ्खाःconchesचand	शङ्खाः  (शङ्ख)noun, masculine nominative pluralconcha shell; the conch-shell (used for making libations of water or as an ornament for the arms or for the temples of an elephant)चconjunctionandand; both; also; moreover
+T	भेर्यश्च	भेर्यःkettlesचand	भेर्यः  (भेरी)noun, feminine nominative pluralkettlea kettle-drumचconjunctionandand; both; also; moreover
+T	पणवानकगोमुखाः	पणव-आनक-गोमुखाःdrum-Ânaka-gomukhas	पणवfirst part of a compounddruma small drum; a kind of cymbalआनकfirst part of a compoundÂnakaa large military drum beaten at one end; a double drum; a small drum or tabor; a thunder-cloud or a cloud to which the thunder is ascribedगोमुखाः  (गोमुख)noun, masculine nominative pluralgomukhaa crocodile; a hole in a wall of a peculiar shape made by thieves; name of one of Shiva's attendants; name of a son of Mâtali
+T	सहसैवाभ्यहन्यन्त	सहसाforciblyएवindeedअभ्यहन्यन्तwere beated	सहसाadverbforciblyby force; forcibly; suddenlyएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeedअभ्यहन्यन्त  (अभिहन्)verb: passive imperfect 3rd person pluralbeatto thump at; to strike; to kill; to beat (as a drum)
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicher
+T	शब्दस्तुमुलोऽभवत्	शब्दःsoundतुमुलःnoisyअभवत्was	शब्दः  (शब्द)noun, masculine nominative singularsoundnoise; voice; tone; noteतुमुलः  (तुमुल)adjective, masculine nominative singularnoisytumultuous; noisyअभवत्  (भू)verb: imperfect 3rd person singularbecometo be; to become; to come into being; to happen

@@ -1,0 +1,78 @@
+V	4.5	The Blessed Lord said:	Many births have been left behind by Me and by thee, O Arjuna. I know them all, but thou knowest not thine, O Parantapa.		श्रीभगवानुवाच~।बहूनिमेव्यतीतानिजन्मानितवचार्जुन~।तान्यहंवेदसर्वाणिनत्वंवेत्थपरन्तप~॥ ५ ॥	14
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	बहूनि	बहूनिmany	बहूनि  (बहु)adjective, neuter nominative pluralmuch; many; abundant; great in quantity
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	व्यतीतानि	व्यतीतानिpassed away	व्यतीतानि  (व्यती)participle, neuter nominative pluralto pass away; to elapse; to take an irregular course; to depart or deviate or swerve from (abl.)
+T	जन्मानि	जन्मानिbirths	जन्मानि  (जन्मन्)noun, neuter nominative pluralbirth; origin; existence; life
+T	तव	तवyour	तव  (त्वद्)pronoun, genitive singularyou
+T	चार्जुन	चandअर्जुनO Arjuna	चconjunctionandand; both; also; moreoverअर्जुनnoun, masculine vocative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	तान्यहं	तानिthoseअहम्I	तानि  (तद्)pronoun, neuter accusative pluralthis; gleicherअहम्  (मद्)pronoun, nominative singularI; we
+T	वेद	वेदI knew	वेद  (विद्)verb: perfect 1st person singularto know; to understand; to learn; to be conscious of
+T	सर्वाणि	सर्वाणिall	सर्वाणि  (सर्व)pronoun, neuter accusative pluralwhole; entire; all; every
+T	न	नnot	नparticlenot; no; nor; neither
+T	त्वं	त्वम्you	त्वम्  (त्वद्)pronoun, nominative singularyou
+T	वेत्थ	वेत्थyou knew	वेत्थ  (विद्)verb: perfect 2nd person singularto know; to understand; to learn; to be conscious of
+T	परन्तप	परंतपO scorcher of foes	परंतपadjective, masculine vocative singulardestroying foes (said of heroes)
+V	4.6		Though unborn, the imperishable Self, and also the Lord of all beings, brooding over naturewhich is Mine own, yet I am born through My own Power.	Mâyâ, the power of thought that produces form, which is transient and therefore unreal compared with the eternal Reality; hence Mâyâ comes to be taken as the power of producing illusion.	अजोऽपिसन्नव्ययात्माभूतानामीश्वरोऽपिसन्~।प्रकृतिंस्वामधिष्टायसम्भवाम्यात्ममायया~॥ ६ ॥	7
+T	अजोऽपि	अजःunbornअपिalso	अजः  (अज)adjective, masculine nominative singularnot born; existing from all eternityअपिparticlealso; moreover; besides; assuredly
+T	सन्नव्ययात्मा	सन्beingअव्यय-आत्माimperishable-self	सन्  (अस्)present participle, masculine nominative singularto be; to live; to exist; to be presentअव्ययfirst part of a compound (adjective)not liable to change; imperishable; undecaying; parsimoniousआत्मा  (आत्मन्)noun, masculine nominative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	भूतानामीश्वरोऽपि	भूतानाम्of beingsईश्वरःLordअपिalso	भूतानाम्  (भूत)noun, neuter genitive pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personईश्वरः  (ईश्वर)noun, masculine nominative singulara husband; God; the Supreme Being; kingअपिparticlealso; moreover; besides; assuredly
+T	सन्	सन्being	सन्  (अस्)present participle, masculine nominative singularto be; to live; to exist; to be present
+T	प्रकृतिं	प्रकृतिम्nature	प्रकृतिम्  (प्रकृति)noun, feminine accusative singularthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; origin
+T	स्वामधिष्टाय	स्वाम्ownअधिष्ठायhaving stood upon	स्वाम्  (स्व)adjective, feminine accusative singularown; one's own; related; akinअधिष्ठाय  (अधिष्ठा)absolutive (having ...)to stand upon; to depend upon; to superintend; to govern
+T	सम्भवाम्यात्ममायया	सम्भवामिI come into beingआत्म-माययाwith self-illusion	सम्भवामि  (सम्भू)verb: present 1st person singularto be or come together; to assemble; to meet; to be joined or united with (instr. with or without saha)आत्म  (आत्मन्)first part of a compoundthe breath; the soul; principle of life and sensation; the individual soulमायया  (माया)noun, feminine instrumental singularart; wisdom; extraordinary or supernatural power (only in the earlier language); illusion
+V	4.7		Whenever there is decay of righteousness, O Bhârata, and there is exaltation of unrighteousness, then I Myself come forth;	Dharma.Adharma, the opposite of dharma, all that is disorderly, against the nature of things.	यदायदाहिधर्मस्यग्लानिर्भवतिभारत~।अभ्युत्थानमधर्मस्यतदाऽऽत्मानंसृजाम्यहम्~॥ ७ ॥	9
+T	यदा	यदाwhen	यदाconjunctionwhen; at what time; whenever
+T	यदा	यदाwhen	यदाconjunctionwhen; at what time; whenever
+T	हि	हिfor	हिparticlefor; because; on account of
+T	धर्मस्य	धर्मस्यof dharma	धर्मस्य  (धर्म)noun, masculine genitive singularthat which is established or firm; steadfast decree; statute; ordinance
+T	ग्लानिर्भवति	ग्लानिःexhaustionभवतिis	ग्लानिः  (ग्लानि)noun, feminine nominative singularexhaustion; fatigue of the body; lassitude; languorभवति  (भू)verb: present 3rd person singularto be; to become; to come into being; to happen
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+T	अभ्युत्थानमधर्मस्य	अभ्युत्थानम्rising from a seatअधर्मस्यof adharma	अभ्युत्थानम्  (अभ्युत्थान)noun, neuter nominative singularrising from a seat through politeness; rising; setting out; rebellionअधर्मस्य  (अधर्म)noun, masculine genitive singularunrighteousness; injustice; irreligion; wickedness
+T	तदाऽऽत्मानं	तदाthenआत्मानम्self	तदाadverbat that time; then; in that case (often used redundantly)आत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	सृजाम्यहम्	सृजामिI createअहम्I	सृजामि  (सृज्)verb: present 1st person singularto let go or fly; to discharge; to throw; to castअहम्  (मद्)pronoun, nominative singularI; we
+V	4.8		For the protection of the good, for the destruction of evil-doers, for the sake of firmly establishing righteousness, I am born from age to age.	Dharma.	परित्राणायसाधूनांविनाशायचदुष्कृताम्~।धर्मसंस्थापनार्थायसम्भवामियुगेयुगे~॥ ८ ॥	9
+T	परित्राणाय	परित्राणायfor rescue	परित्राणाय  (परित्राण)noun, neuter dative singularrescue; preservation; deliverance from (abl.); protection or means of protection
+T	साधूनां	साधूनाम्righteous	साधूनाम्  (साधु)adjective, masculine genitive pluralstraight; right; leading to a goal; unerring
+T	विनाशाय	विनाशायfor destruction	विनाशाय  (विनाश)noun, masculine dative singularutter loss; annihilation; perdition; destruction
+T	च	चand	चconjunctionand; both; also; moreover
+T	दुष्कृताम्	दुष्कृताम्acting wickedly	दुष्कृताम्  (दुष्कृत्)adjective, masculine genitive pluralacting wickedly; criminal; evil-doer
+T	धर्मसंस्थापनार्थाय	धर्म-संस्थापन-अर्थायfor dharma-fixing-purpose	धर्मfirst part of a compoundthat which is established or firm; steadfast decree; statute; ordinanceसंस्थापनfirst part of a compoundfixing; setting up; raising; erectingअर्थाय  (अर्थ)noun, masculine dative singularaim; purpose; cause; motive
+T	सम्भवामि	सम्भवामिI come into being	सम्भवामि  (सम्भू)verb: present 1st person singularto be or come together; to assemble; to meet; to be joined or united with (instr. with or without saha)
+T	युगे	युगेin age	युगे  (युग)noun, neuter locative singulara yoke; a pair; couple; brace
+T	युगे	युगेin age	युगे  (युग)noun, neuter locative singulara yoke; a pair; couple; brace
+V	4.9		He who thus knoweth My divine birth and action, in its essence, having abandoned the body, cometh not to birth again, but cometh unto Me, O Arjuna.		जन्मकर्मचमेदिव्यमेवंयोवेत्तितत्त्वतः~।त्यक्त्वादेहंपुनर्जन्मनैतिमामेतिसोऽर्जुन~॥ ९ ॥	14
+T	जन्म	जन्मbirth	जन्म  (जन्मन्)noun, neuter accusative singularbirth; origin; existence; life
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	च	चand	चconjunctionand; both; also; moreover
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	दिव्यमेवं	दिव्यम्divineएवम्thus	दिव्यम्  (दिव्य)adjective, neuter accusative singulardivine; heavenly; celestial; supernaturalएवम्adverbthus; in this way; in such a manner; such
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	वेत्ति	वेत्तिknows	वेत्ति  (विद्)verb: present 3rd person singularto know; to understand; to learn; to be conscious of
+T	तत्त्वतः	तत्त्वतःfrom truth	तत्त्वतः  (तत्त्व)noun, neuter ablative singulartrue or real state; truth; reality; (in phil.) a true principle
+T	त्यक्त्वा	त्यक्त्वाhaving abandoned	त्यक्त्वा  (त्यज्)absolutive (having ...)get rid ofto leave; to abandon; to quit; to leave a place
+T	देहं	देहम्body	देहम्  (देह)noun, masculine accusative singularbodyform; shape; mass; bulk (as of a cloud)
+T	पुनर्जन्म	पुनर्जन्मrebirth	पुनर्जन्म  (पुनर्जन्मन्)noun, neuter accusative singularreincarnationre-birth; metempsychosis; [alchemy]
+T	नैति	नnotएतिgoes	नparticlenotnot; no; nor; neitherएति  (इ)verb: present 3rd person singularenter (a state)to go; to walk; to flow; to blow
+T	मामेति	माम्meएतिgoes	माम्  (मद्)pronoun, accusative singularII; weएति  (इ)verb: present 3rd person singularto go; to walk; to flow; to blow
+T	सोऽर्जुन	सःheअर्जुनO Arjuna	सः  (तद्)pronoun, masculine nominative singularthisthis; gleicherअर्जुनnoun, masculine vocative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+V	4.10		Freed from passion, fear and anger, filled with Me, taking refuge in Me, purified in the fire of wisdom, many have entered into My Being.	Tapas, from tap, blazing like fire.	वीतरागभयक्रोधामन्मयामामुपाश्रिताः~।बहवोज्ञानतपसापूतामद्भावमागताः~॥ १० ॥	7
+T	वीतरागभयक्रोधा	वीत-राग-भय-क्रोधाःpassed-passion-fear-angers	वीत  (वी)first part of a compound (verb)to pass through; to traverse; to go apart; to divergeरागfirst part of a compoundthe act of colouring or dyeing; colour; hue; tintभयfirst part of a compoundfear; alarm; fear of; terrorक्रोधाः  (क्रोध)noun, masculine nominative pluralanger; wrath; passion; Anger (personified as a child of Lobha and Nikriti)
+T	मन्मया	मद्-मयाःmy-made of	मद्first part of a compound (pronoun)I; weमयाः  (मय)adjective, masculine nominative pluralconsisting or made of
+T	मामुपाश्रिताः	माम्meउपाश्रिताःresorted to	माम्  (मद्)pronoun, accusative singularI; weउपाश्रिताः  (उपाश्रि)participle, masculine nominative pluralto lean against; to rest on; to go or betake one's self towards; to take refuge or have recourse to
+T	बहवो	बहवःmany	बहवः  (बहु)adjective, masculine nominative pluralmuch; many; abundant; great in quantity
+T	ज्ञानतपसा	ज्ञान-तपसाwith knowledge-austerity	ज्ञानfirst part of a compoundknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)तपसा  (तपस्)noun, neuter instrumental singularwarmth; heat; pain; suffering
+T	पूता	पूताःpurified	पूताः  (पू)participle, masculine nominative pluralto make clean or clear or pure or bright; to cleanse; to purify; to purge
+T	मद्भावमागताः	मद्-भावम्my-stateआगताःcome	मद्first part of a compound (pronoun)I; weभावम्  (भाव)noun, masculine accusative singularbecoming; being; existing; occurringआगताः  (आगम्)participle, masculine nominative pluralto come; to make one's appearance; to come near from (abl.) or to (acc. or loc.); to arrive at
+V	4.11		However men approach Me, even so do I welcome them, for the path men take from every side is Mine, O Pârtha.		येयथामांप्रपद्यन्तेतांस्तथैवभजाम्यहम्~।ममवर्त्मानुवर्तन्तेमनुष्याःपार्थसर्वशः~॥ ११ ॥	11
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhat; which; who
+T	यथा	यथाas	यथाparticleaccording; as; like
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	प्रपद्यन्ते	प्रपद्यन्तेtake refuge in	प्रपद्यन्ते  (प्रपद्)verb: present 3rd person pluralto fall or drop down from (abl.); to throw one's self down (at a person's feet); to go forwards; to resort to
+T	तांस्तथैव	तान्themतथाlikewiseएवindeed	तान्  (तद्)pronoun, masculine accusative pluralthis; gleicherतथाadverbin that manner; so; thus; yesएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	भजाम्यहम्	भजामिI worshipअहम्I	भजामि  (भज्)verb: present 1st person singularto divide; to distribute; to allot or apportion to (dat. or gen.); to share with (instr.)अहम्  (मद्)pronoun, nominative singularI; we
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularI; we
+T	वर्त्मानुवर्तन्ते	वर्त्मpathअनुवर्तन्तेfollow	वर्त्म  (वर्त्मन्)noun, neuter accusative singularthe track or rut of a wheel; path; road; wayअनुवर्तन्ते  (अनुवृत्)verb: present 3rd person pluralto go after; to follow; to pursue; to follow from a previous rule
+T	मनुष्याः	मनुष्याःhumans	मनुष्याः  (मनुष्य)noun, masculine nominative plurala man; human being; a man (as opp. to woman); a husband
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	सर्वशः	सर्वशःwholly	सर्वशः  (सर्वशस्)adverbwholly; completely; entirely; thoroughly

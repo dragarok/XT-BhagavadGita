@@ -1,0 +1,60 @@
+V	11.26		The sons of Dhriitarâshtra, and with them The multitude of all these kings of earth, Bhîshma, and Drona, Sûta's royal son, And all the noblest warriors of our hosts,		अमीचत्वांधृतराष्ट्रस्यपुत्राःसर्वेसहैवावनिपालसङ्घैः~।भीष्मोद्रोणःसूतपुत्रस्तथाऽसौसहास्मदीयैरपियोधमुख्यैः~॥ २६ ॥	12
+T	अमी	अमीthose	अमी  (अदस्)pronoun, masculine nominative pluraljener; yonder
+T	च	चand	चconjunctionand; both; also; moreover
+T	त्वां	त्वाम्you	त्वाम्  (त्वद्)pronoun, accusative singularyou
+T	धृतराष्ट्रस्य	धृतराष्ट्रस्यof Dhritarashtra	धृतराष्ट्रस्य  (धृतराष्ट्र)noun, masculine genitive singularwhose empire is firm; a powerful king; name of a Nâga also called Airâvata; name of a Devagandharva sometimes identified with King Dharma
+T	पुत्राः	पुत्राःsons	पुत्राः  (पुत्र)noun, masculine nominative plurala son; child; a species of small venomous animal; (in astrol.) name of the fifth house
+T	सर्वे	सर्वेall	सर्वे  (सर्व)pronoun, masculine nominative pluralwhole; entire; all; every
+T	सहैवावनिपालसङ्घैः	सहwithएवindeedअवनिपाल-संघैःwith king-hosts	सहadverbtogether with; along with; withएवparticleso; just so; exactly so (in the sense of the later evam); indeedअवनिपालfirst part of a compounda kingसंघैः  (संघ)noun, masculine instrumental pluralany collection or assemblage; heap; multitude; quantity
+T	भीष्मो	भीष्मःBhishma	भीष्मः  (भीष्म)noun, masculine nominative singular= bhîshana; death; name of Shiva; a Râkshasa
+T	द्रोणः	द्रोणःDrona	द्रोणः  (द्रोण)noun, masculine nominative singulara lake or large piece of water of 400 poles length; a kind of cloud from which the rain streams forth as from a bucket; a raven or crow; a scorpion
+T	सूतपुत्रस्तथाऽसौ	सूतपुत्रःson of a chiefतथाlikewiseअसौthat	सूतपुत्रः  (सूतपुत्र)noun, masculine nominative singularthe son of a chief; name of Karna; name of Kîcaka; the tribe called Kîcakaतथाadverbin that manner; so; thus; yesअसौ  (अदस्)pronoun, masculine nominative singularjener; yonder
+T	सहास्मदीयैरपि	सहwithअस्मदीयैःourअपिalso	सहadverbtogether with; along with; withअस्मदीयैः  (अस्मदीय)adjective, masculine instrumental pluralour; oursअपिparticlealso; moreover; besides; assuredly
+T	योधमुख्यैः	योध-मुख्यैःfighter-being in	योधfirst part of a compounda fighter; warrior; soldier; battleमुख्यैः  (मुख्य)adjective, masculine instrumental pluralbeing in or coming from or belonging to the mouth or face; being at the head or at the beginning; first; principal
+V	11.27		Into Thy gaping mouths they hurrying rush, Tremendous-toothed and terrible to see; Some caught within the gaps between Thy teeth Are seen, their heads to powder crushed and ground.		वक्त्राणितेत्वरमाणाविशन्तिदंष्ट्राकरालानिभयानकानि~।केचिद्विलग्नादशनान्तरेषुसंदृश्यन्तेचूर्णितैरुत्तमाङ्गैः~॥ २७ ॥	10
+T	वक्त्राणि	वक्त्राणिmouths	वक्त्राणि  (वक्त्र)noun, neuter accusative pluralthe mouth; face; muzzle; snout
+T	ते	तेyour	ते  (त्वद्)pronoun, genitive singularyou
+T	त्वरमाणा	त्वरमाणाःhurrying	त्वरमाणाः  (त्वर्)present participle, masculine nominative pluralto hurry; to make haste; to move with speed
+T	विशन्ति	विशन्तिenter	विशन्ति  (विश्)verb: present 3rd person pluralto enter; to enter in or settle down on; to go into; to pervade
+T	दंष्ट्राकरालानि	दंष्ट्रा-करालानिtusk-dreadful	दंष्ट्रा  (दंष्ट्र)first part of a compounda large tooth; tusk; fangकरालानि  (कराल)adjective, neuter accusative pluralopening wide; cleaving asunder; gaping; having a gaping mouth and projecting teeth
+T	भयानकानि	भयानकानिfearful	भयानकानि  (भयानक)adjective, neuter accusative pluralfearful; terrible; dreadful; formidable
+T	केचिद्विलग्ना	केचिद्someoneविलग्नाःhanged to	केचिद्  (कश्चित्)pronoun, masculine nominative pluralsomeone; something; anyविलग्नाः  (विलग्)participle, masculine nominative pluralto hang to; to cling to; to hold on to
+T	दशनान्तरेषु	दशन-अन्तरेषुin tooth-inners	दशनfirst part of a compoundtootha tooth; a biteअन्तरेषु  (अन्तर)noun, neuter locative pluralthe interior; a hole; opening; the interior part of a thing
+T	संदृश्यन्ते	संदृश्यन्तेare seen together	संदृश्यन्ते  (संदृश्)verb: passive present 3rd person pluralto see together or at the same time; to see well or completely; to behold; to view
+T	चूर्णितैरुत्तमाङ्गैः	चूर्णितैःreduced to powderउत्तमाङ्गैःwith heads	चूर्णितैः  (चूर्णय्)participle, neuter instrumental pluralto reduce to powder or flour; to pulverise; to grind; to poundउत्तमाङ्गैः  (उत्तमाङ्ग)noun, neuter instrumental pluralheadthe highest or chief part of the body; the head
+V	11.28		As river-floods impetuously rush, Hurling their waters into ocean's lap, So fling themselves into Thy flaming mouths, In haste, these mighty men, these lords of earth.		यथानदीनांबहवोऽम्बुवेगाःसमुद्रमेवाभिमुखाद्रवन्ति~।तथातवामीनरलोकवीराःविशन्तिवक्त्राण्यभिविज्वलन्ति~॥ २८ ॥	10
+T	यथा	यथाas	यथाparticleaccording; as; like
+T	नदीनां	नदीनाम्of flowing waters	नदीनाम्  (नदी)noun, feminine genitive pluralflowing water; a river (commonly personified as a female); name of 2 kinds of metre; name of particular fem. stems ending in î or û
+T	बहवोऽम्बुवेगाः	बहवःmanyअम्बु-वेगाःwater-impulses	बहवः  (बहु)adjective, masculine nominative pluralmuch; many; abundant; great in quantityअम्बुfirst part of a compoundwater; a kind of Andropogon; name of a metre (consisting of ninety syllables); the number fourवेगाः  (वेग)noun, masculine nominative pluralviolent agitation; shock; jerk; a stream
+T	समुद्रमेवाभिमुखा	समुद्रम्seaएवindeedअभिमुखाःwith the face directed	समुद्रम्  (समुद्र)noun, masculine accusative singularthe sea; ocean (in Veda also "the aerial waters"); name of the number four; a large Soma vesselएवparticleso; just so; exactly so (in the sense of the later evam); indeedअभिमुखाः  (अभिमुख)adjective, masculine nominative pluralwith the face directed towards; facing
+T	द्रवन्ति	द्रवन्तिrun	द्रवन्ति  (द्रु)verb: present 3rd person pluralto run; to hasten; to flee; to attack
+T	तथा	तथाlikewise	तथाadverbin that manner; so; thus; yes
+T	तवामी	तवyourअमीthose	तव  (त्वद्)pronoun, genitive singularyouअमी  (अदस्)pronoun, masculine nominative pluraljener; yonder
+T	नरलोकवीराः	नर-लोक-वीराःman-world-men	नरfirst part of a compounda man; a male; a person; husbandलोकfirst part of a compoundfree or open space; room; place; scopeवीराः  (वीर)noun, masculine nominative pluralman; hero; chief; mankind
+T	विशन्ति	विशन्तिenter	विशन्ति  (विश्)verb: present 3rd person pluralto enter; to enter in or settle down on; to go into; to pervade
+T	वक्त्राण्यभिविज्वलन्ति	वक्त्राणिmouthsअभिविज्वलन्तिflaming	वक्त्राणि  (वक्त्र)noun, neuter accusative pluralthe mouth; face; muzzle; snoutअभिविज्वलन्ति  (अभिविज्वल्)present participle, neuter accusative pluralto flame or blaze against or opposite to
+V	11.29		As moths with quickened speed will headlong fly Into a flaming light, to fall destroyed, So also these, in haste precipitate, Enter within Thy mouths destroyed to fall.		यथाप्रदीप्तंज्वलनंपतङ्गाःविशन्तिनाशायसमृद्धवेगाः~।तथैवनाशायविशन्तिलोका-स्तवापिवक्त्राणिसमृद्धवेगाः~॥ २९ ॥	14
+T	यथा	यथाas	यथाparticleaccording; as; like
+T	प्रदीप्तं	प्रदीप्तम्flamed forth	प्रदीप्तम्  (प्रदीप्)participle, masculine accusative singularto flame forth; to burst into flames
+T	ज्वलनं	ज्वलनम्fire	ज्वलनम्  (ज्वलन)noun, masculine accusative singularfire; the number 3; corrosive alkali; Plumbago zeylanica
+T	पतङ्गाः	पतंगाःflyings	पतंगाः  (पतंग)noun, masculine nominative pluralflying; any flying insect; a grasshopper; a bee
+T	विशन्ति	विशन्तिenter	विशन्ति  (विश्)verb: present 3rd person pluralto enter; to enter in or settle down on; to go into; to pervade
+T	नाशाय	नाशायfor loss	नाशाय  (नाश)noun, masculine dative singularthe being lost; loss; disappearance; destruction
+T	समृद्धवेगाः	समृद्ध-वेगाःprospered-impulses	समृद्ध  (समृध्)first part of a compound (verb)to succeed well; to prosper; to flourish; to increase or grow greatlyवेगाः  (वेग)noun, masculine nominative pluralviolent agitation; shock; jerk; a stream
+T	तथैव	तथाlikewiseएवindeed	तथाadverbin that manner; so; thus; yesएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	नाशाय	नाशायfor loss	नाशाय  (नाश)noun, masculine dative singularthe being lost; loss; disappearance; destruction
+T	विशन्ति	विशन्तिenter	विशन्ति  (विश्)verb: present 3rd person pluralto enter; to enter in or settle down on; to go into; to pervade
+T	लोका-	लोका-	
+T	स्तवापि	लोकाःworldsतवyourअपिalso	लोकाः  (लोक)noun, masculine nominative pluralfree or open space; room; place; scopeतव  (त्वद्)pronoun, genitive singularyouअपिparticlealso; moreover; besides; assuredly
+T	वक्त्राणि	वक्त्राणिmouths	वक्त्राणि  (वक्त्र)noun, neuter accusative pluralthe mouth; face; muzzle; snout
+T	समृद्धवेगाः	समृद्ध-वेगाःprospered-impulses	समृद्ध  (समृध्)first part of a compound (verb)to succeed well; to prosper; to flourish; to increase or grow greatlyवेगाः  (वेग)noun, masculine nominative pluralviolent agitation; shock; jerk; a stream
+V	11.30		On every side, all-swallowing, fiery-tongued, Thou lickest up mankind, devouring all; The glory filleth space: the universe Is burning, Vishnu, with Thy blazing rays.		लेलिह्यसेग्रसमानःसमन्ता-ल्लोकान्समग्रान्वदनैर्ज्वलद्भिः~।तेजोभिरापूर्यजगत्समग्रम्भासस्तवोग्राःप्रतपन्तिविष्णो~॥ ३० ॥	9
+T	लेलिह्यसे	लेलिह्यसेyou are licked frequently	लेलिह्यसे  (लेलिह्)verb: passive present 2nd person singularto lick frequently
+T	ग्रसमानः	ग्रसमानःseizing with the mouth	ग्रसमानः  (ग्रस्)present participle, masculine nominative singularto seize with the mouth; to swallow; to eat; to cause to disappear
+T	समन्ता-	समन्ता-	
+T	ल्लोकान्समग्रान्वदनैर्ज्वलद्भिः	समन्तात्all aroundलोकान्worldsसमग्रान्entireवदनैःwith acts of speakingज्वलद्भिःburning brightly	समन्तात्adverball aroundलोकान्  (लोक)noun, masculine accusative pluralfree or open space; room; place; scopeसमग्रान्  (समग्र)adjective, masculine accusative pluralentire; whole; complete; eachवदनैः  (वदन)noun, neuter instrumental pluralthe act of speaking; talking; sounding; the mouthज्वलद्भिः  (ज्वल्)present participle, neuter instrumental pluralto burn brightly; to blaze; to glow; to shine
+T	तेजोभिरापूर्य	तेजोभिःwith splendoursआपूर्यhaving filled	तेजोभिः  (तेजस्)noun, neuter instrumental pluralthe sharp edge (of a knife etc.); point or top of a flame or ray; glow; glareआपूर्य  (आपूरय्)absolutive (having ...)to fill; to inhale
+T	जगत्समग्रम्	जगत्worldसमग्रम्entire	जगत्  (जगन्त्)noun, neuter accusative singularthat which is alive; men and animals; the world; peopleसमग्रम्  (समग्र)adjective, neuter accusative singularentire; whole; complete; each
+T	भासस्तवोग्राः	भासःlightsतवyourउग्राःfierce	भासः  (भास्)noun, feminine nominative plurallight or ray of light; lustre; brightness; an imageतव  (त्वद्)pronoun, genitive singularyouउग्राः  (उग्र)adjective, feminine nominative pluralpowerful; violent; mighty; impetuous
+T	प्रतपन्ति	प्रतपन्तिgive forth heat	प्रतपन्ति  (प्रतप्)verb: present 3rd person pluralto give forth heat; to burn; to glow; to shine (lit. and fig.)
+T	विष्णो	विष्णोO Vishnu	विष्णो  (विष्णु)noun, masculine vocative singularname of one of the principal Hindû deities; name of the month Caitra; name of an author; name of a son of Manu Sâvarna and Bhautya

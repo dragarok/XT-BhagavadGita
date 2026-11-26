@@ -1,0 +1,67 @@
+V	8.19		This multitude of beings, going forth repeatedly, is dissolved at the coming of night: by ordination, O Pârtha, it streams forth at the coming of day.		भूतग्रामःसएवायंभूत्वाभूत्वाप्रलीयते~।रात्र्यागमेऽवशःपार्थप्रभवत्यहरागमे~॥ १९ ॥	9
+T	भूतग्रामः	भूत-ग्रामःbeing-multitude	भूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personग्रामः  (ग्राम)noun, masculine nominative singularan inhabited place; village; hamlet; the collective inhabitants of a place
+T	स	सःhe	सः  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	एवायं	एवindeedअयम्this	एवparticleso; just so; exactly so (in the sense of the later evam); indeedअयम्  (इदम्)pronoun, masculine nominative singularthis; (near deictic pronoun in Vedic)
+T	भूत्वा	भूत्वाhaving been	भूत्वा  (भू)absolutive (having ...)to be; to become; to come into being; to happen
+T	भूत्वा	भूत्वाhaving been	भूत्वा  (भू)absolutive (having ...)to be; to become; to come into being; to happen
+T	प्रलीयते	प्रलीयतेdissolves	प्रलीयते  (प्रली)verb: present 3rd person singularto become dissolved or reabsorbed into; to disappear; to perish
+T	रात्र्यागमेऽवशः	रात्रि-आगमेin night-comingअवशःhelpless	रात्रिfirst part of a compoundnight; the darkness or stillness of night (often personified); turmeric; name of a river in Krauncadvîpaआगमे  (आगम)noun, masculine locative singulararrival; coming; approach; originअवशः  (अवश)adjective, masculine nominative singularunsubmissive to another's will; independent; unrestrained; free
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	प्रभवत्यहरागमे	प्रभवतिcomes forthअहर्-आगमेin day-coming	प्रभवति  (प्रभू)verb: present 3rd person singularto come forth; to spring up; to arise or originate from (abl.); to appearअहः  (अहर्)first part of a compounda dayआगमे  (आगम)noun, masculine locative singulararrival; coming; approach; origin
+V	8.20		Therefore verily there existeth, higher than that unmanifested, another unmanifested, eternal, which in the destroying of all beings, is not destroyed.		परस्तस्मात्तुभावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः~।यःससर्वेषुभूतेषुनश्यत्सुनविनश्यति~॥ २० ॥	9
+T	परस्तस्मात्तु	परःsupremeतस्मात्from himतुbut	परः  (पर)pronoun, masculine nominative singularfar; remote; opposite; previousतस्मात्  (तद्)pronoun, masculine ablative singularthis; gleicherतुparticledo; now; then; but
+T	भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः	भावःstateअन्यःotherअव्यक्तःunmanifestअव्यक्तात्unmanifestसनातनःeternal	भावः  (भाव)noun, masculine nominative singularbecoming; being; existing; occurringअन्यः  (अन्य)pronoun, masculine nominative singularother; anotherअव्यक्तः  (अव्यक्त)adjective, masculine nominative singularundeveloped; not manifest; unapparent; indistinctअव्यक्तात्  (अव्यक्त)adjective, masculine ablative singularundeveloped; not manifest; unapparent; indistinctसनातनः  (सनातन)adjective, masculine nominative singularperpetual; permanent; everlasting; primeval
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	सर्वेषु	सर्वेषुall	सर्वेषु  (सर्व)pronoun, masculine locative pluralwhole; entire; all; every
+T	भूतेषु	भूतेषुin beings	भूतेषु  (भूत)noun, masculine locative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	नश्यत्सु	नश्यत्सुperishing	नश्यत्सु  (नश्)present participle, masculine locative pluralto be lost; to perish; to disappear; to be gone
+T	न	नnot	नparticlenot; no; nor; neither
+T	विनश्यति	विनश्यतिis destroyed	विनश्यति  (विनश्)verb: present 3rd person singularto be utterly lost; to perish; to disappear; to vanish
+V	8.21		That unmanifested, "the Indestructible," It is called; It is named the highest Path. They who reach It return not. That is My supreme abode.		अव्यक्तोऽक्षरइत्युक्तस्तमाहुःपरमांगतिम्~।यंप्राप्यननिवर्तन्तेतद्धामपरमंमम~॥ २१ ॥	11
+T	अव्यक्तोऽक्षर	अव्यक्तःunmanifestअक्षरःimperishable	अव्यक्तः  (अव्यक्त)adjective, masculine nominative singularundeveloped; not manifest; unapparent; indistinctअक्षरः  (अक्षर)adjective, masculine nominative singularimperishable; unalterable
+T	इत्युक्तस्तमाहुः	इतिthusउक्तःsaidतम्himआहुःsaid	इतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soउक्तः  (वच्)participle, masculine nominative singularto speak; to say; to tell; to declareतम्  (तद्)pronoun, masculine accusative singularthis; gleicherआहुः  (अह्)verb: perfect 3rd person pluralto say; to call; to consider; to declare
+T	परमां	परमाम्supreme	परमाम्  (परम)adjective, feminine accusative singularremotest; extreme; last; chief
+T	गतिम्	गतिम्goal	गतिम्  (गति)noun, feminine accusative singulargoing; moving; gait; deportment
+T	यं	यम्whom	यम्  (यद्)pronoun, masculine accusative singularwhat; which; who
+T	प्राप्य	प्राप्यhaving attained	प्राप्य  (प्राप्)absolutive (having ...)to attain to; to reach; to arrive at; to meet with
+T	न	नnot	नparticlenot; no; nor; neither
+T	निवर्तन्ते	निवर्तन्तेturn back	निवर्तन्ते  (निवृत्)verb: present 3rd person pluralto turn back; to stop (trans. and intrans.); to return from (abl.) to; to return into life
+T	तद्धाम	तत्thatधामabode	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherधाम  (धामन्)noun, neuter nominative singulardwelling-place; house; abode; domain (esp. seat of the gods)
+T	परमं	परमम्supreme	परमम्  (परम)adjective, neuter nominative singularremotest; extreme; last; chief
+T	मम	ममmy	मम  (मद्)pronoun, genitive singularI; we
+V	8.22		He, the highest Spirit, O Pârtha, may be reached by unswerving devotion to Him alone, in whom all beings abide, by whom all This is pervaded.	Purusha.This, the universe, in opposition to that, the source of all.	पुरुषःसपरःपार्थभक्त्यालभ्यस्त्वनन्यया~।यस्यान्तःस्थानिभूतानियेनसर्वमिदंततम्~॥ २२ ॥	11
+T	पुरुषः	पुरुषःperson	पुरुषः  (पुरुष)noun, masculine nominative singulara man; male; human being (people); a person
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	परः	परःsupreme	परः  (पर)pronoun, masculine nominative singularfar; remote; opposite; previous
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularArjunapatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	भक्त्या	भक्त्याwith devotion	भक्त्या  (भक्ति)noun, feminine instrumental singulardistribution; partition; separation; a division
+T	लभ्यस्त्वनन्यया	लभ्यःto be obtainedतुbutअनन्ययाnot other	लभ्यः  (लभ्)gerundive (to be ...), masculine nominative singularto take; to seize; to catch; to meet withतुparticledo; now; then; butअन्negative prefixnotnot; un-; in-अन्यया  (अन्य)pronoun, feminine instrumental singularother; another
+T	यस्यान्तःस्थानि	यस्यwhoseअन्तःwithinस्थानिabiding	यस्य  (यद्)pronoun, masculine genitive singularwhat; which; whoअन्तः  (अन्तर्)adverbwithin; between; amongst; in the middleस्थानि  (स्थ)adjective, neuter nominative pluralstanding; staying; abiding; being situated in
+T	भूतानि	भूतानिbeings	भूतानि  (भूत)noun, neuter nominative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	येन	येनby whom	येन  (यद्)pronoun, masculine instrumental singularwhat; which; who
+T	सर्वमिदं	सर्वम्allइदम्this	सर्वम्  (सर्व)pronoun, neuter nominative singularwhole; entire; all; everyइदम्pronoun, neuter nominative singularthis; (near deictic pronoun in Vedic)
+T	ततम्	ततम्pervaded	ततम्  (तन्)participle, neuter nominative singularto extend; to spread; to be diffused (as light) over; to shine
+V	8.23		That time wherein going forth Yogîs returnnot, and also that wherein going forth they return, that time shall I declare to thee, O prince of the Bhâratas.		यत्रकालेत्वनावृत्तिमावृत्तिंचैवयोगिनः~।प्रयातायान्तितंकालंवक्ष्यामिभरतर्षभ~॥ २३ ॥	11
+T	यत्र	यत्रwhere	यत्रconjunctionwhere; wherein; wherever; whither
+T	काले	कालेin time	काले  (काल)noun, masculine locative singulartime; the proper time or season for; a spot; tense
+T	त्वनावृत्तिमावृत्तिं	तुbutअनावृत्तिम्non-return to a bodyआवृत्तिम्turning towards	तुparticledo; now; then; butअनावृत्तिम्  (अनावृत्ति)noun, feminine accusative singularnon-return to a body; final emancipationआवृत्तिम्  (आवृत्ति)noun, feminine accusative singularturning towards; entering; turning back or from; reversion
+T	चैव	चandएवindeed	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	योगिनः	योगिनःyogis	योगिनः  (योगिन्)noun, masculine nominative plurala follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+T	प्रयाता	प्रयाताःdeparted	प्रयाताः  (प्रया)participle, masculine nominative pluralto go forth; to set out; to progress; to advance towards or against
+T	यान्ति	यान्तिgo	यान्ति  (या)verb: present 3rd person pluralto go; to move; to set out; to travel
+T	तं	तम्him	तम्  (तद्)pronoun, masculine accusative singularthis; gleicher
+T	कालं	कालम्time	कालम्  (काल)noun, masculine accusative singulartime; the proper time or season for; a spot; tense
+T	वक्ष्यामि	वक्ष्यामिI will say	वक्ष्यामि  (वच्)verb: future 1st person singularto speak; to say; to tell; to declare
+T	भरतर्षभ	भरत-ऋषभO best of the Bharatas	भरतfirst part of a compoundname of Agni (kept alive by the care of men); name of a particular Agni (father of Bharata and Bharatî); a priest; an actorऋषभnoun, masculine vocative singulara bull (as impregnating the flock); any male animal in general; the best or most excellent of any kind or race; the second of the seven notes of the Hindû gamut
+V	8.24		Fire, light, day-time, the bright fortnight, the six months of the northern path - then, going forth, the men who know the Eternal go to the Eternal.	Of the sun.	अग्निर्ज्योतिरहःशुक्लःषण्मासाउत्तरायणम्~।तत्रप्रयातागच्छन्तिब्रह्मब्रह्मविदोजनाः~॥ २४ ॥	10
+T	अग्निर्ज्योतिरहः	अग्निःfireज्योतिःlightअहःday	अग्निः  (अग्नि)noun, masculine nominative singularfire; sacrificial fire (of three kinds); the number three; the god of fireज्योतिः  (ज्योतिस्)noun, neuter nominative singularlight; brightness (of the sky); fire; flash of lightningअहः  (अहर्)noun, neuter nominative singulara day
+T	शुक्लः	शुक्लःbright half of a lunar	शुक्लः  (शुक्ल)noun, masculine nominative singularthe bright half of a lunar month or any day in it; the month Vaishâkha; white colour; mucus
+T	षण्मासा	षष्-मासाःsix-months	षष्first part of a compound (number)six; (in gram) a tech. name for numerals ending in sh and n and words like katiमासाः  (मास)noun, masculine nominative pluralthe moon; a month or the 12th part of the Hindû year
+T	उत्तरायणम्	उत्तरायणम्progress to the north	उत्तरायणम्  (उत्तरायण)noun, neuter nominative singularthe progress (of the sun) to the north; the period of the sun's progress to the north of the equator; the summer solstice
+T	तत्र	तत्रthere	तत्रadverbin that place; there (in comp.); thither; to that place
+T	प्रयाता	प्रयाताःdeparted	प्रयाताः  (प्रया)participle, masculine nominative pluralto go forth; to set out; to progress; to advance towards or against
+T	गच्छन्ति	गच्छन्तिgo	गच्छन्ति  (गम्)verb: present 3rd person pluralto go; to move; to approach; to understand
+T	ब्रह्म	ब्रह्मBrahman	ब्रह्म  (ब्रह्मन्)noun, neuter accusative singularpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	ब्रह्मविदो	ब्रह्म-विदःBrahman-know	ब्रह्म  (ब्रह्मन्)first part of a compoundpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)विदः  (विद्)adjective, masculine nominative pluralknowing; understanding; a knower
+T	जनाः	जनाःpeople	जनाः  (जन)noun, masculine nominative pluralliving being; man; person; name of a man

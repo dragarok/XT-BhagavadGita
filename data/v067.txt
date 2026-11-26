@@ -1,0 +1,72 @@
+V	11.21		To Thee the troops of Suras enter in, Some with joined palms in awe invoking Thee; Banded Maharshis, Siddhas, cry: "All hail"! Chanting Thy praises with resounding songs.		अमीहित्वांसुरसङ्घाविशन्तिकेचिद्भीताःप्राञ्जलयोगृणन्ति~।स्वस्तीत्युक्त्वामहर्षिसिद्धसङ्घाःस्तुवन्तित्वांस्तुतिभिःपुष्कलाभिः~॥ २१ ॥	14
+T	अमी	अमीthose	अमी  (अदस्)pronoun, masculine nominative pluraljener; yonder
+T	हि	हिfor	हिparticlefor; because; on account of
+T	त्वां	त्वाyou	त्वा  (त्वद्)pronoun, accusative singularyou
+T	सुरसङ्घा	सुर-संघाःgod-hosts	सुरfirst part of a compounda god; divinity; the image of a god; an idolसंघाः  (संघ)noun, masculine nominative pluralany collection or assemblage; heap; multitude; quantity
+T	विशन्ति	विशन्तिenter	विशन्ति  (विश्)verb: present 3rd person pluralto enter; to enter in or settle down on; to go into; to pervade
+T	केचिद्भीताः	केचिद्someoneभीताःfeared	केचिद्  (कश्चित्)pronoun, masculine nominative pluralsomeone; something; anyभीताः  (भी)participle, masculine nominative pluralto fear; to be afraid of
+T	प्राञ्जलयो	प्राञ्जलयःjoining and holding out	प्राञ्जलयः  (प्राञ्जलि)adjective, masculine nominative pluraljoining and holding out the hollowed open hands (as a mark of respect and humility or to receive alms)
+T	गृणन्ति	गृणन्तिcall	गृणन्ति  (गृ)verb: present 3rd person pluralto call; to invoke; to announce; to proclaim
+T	स्वस्तीत्युक्त्वा	स्वस्तिwell-beingइतिthusउक्त्वाhaving said	स्वस्तिnoun, neuter nominative singularwell-being; fortune; luck; successइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soउक्त्वा  (वच्)absolutive (having ...)to speak; to say; to tell; to declare
+T	महर्षिसिद्धसङ्घाः	महा-ऋषि-सिद्ध-संघाःgreat-sage-perfected one-hosts	महा  (महत्)first part of a compound (adjective)great; large; big; hugeऋषिfirst part of a compounda singer of sacred hymns; an inspired poet or sage; any person who alone or with others invokes the deities in rhythmical speech or song of a sacred characterसिद्धfirst part of a compoundany inspired sage or prophet or seer (e.g. Vyâsa); any holy personage or great saint (esp. one who has attained to one of the states of beatitude)संघाः  (संघ)noun, masculine nominative pluralany collection or assemblage; heap; multitude; quantity
+T	स्तुवन्ति	स्तुवन्तिpraise	स्तुवन्ति  (स्तु)verb: present 3rd person pluralto praise; to celebrate; to extol
+T	त्वां	त्वाम्you	त्वाम्  (त्वद्)pronoun, accusative singularyou
+T	स्तुतिभिः	स्तुतिभिःwith praises	स्तुतिभिः  (स्तुति)noun, feminine instrumental pluralpraise; eulogy; panegyric; commendation
+T	पुष्कलाभिः	पुष्कलाभिःmuch	पुष्कलाभिः  (पुष्कल)adjective, feminine instrumental pluralmuch; many; numerous; copious
+V	11.22		Rudras, Vasus, Sâdhyas and Adityas, Vishvas, the Ashvins, Maruts, Ushmapas, Gandharvas, Yakshas, Siddhas, Asuras, In wondering multitudes beholding Thee.	Names of various grades of super-physical beings.	रुद्रादित्यावसवोयेचसाध्याःविश्वेऽश्विनौमरुतश्चोष्मपाश्च~।गन्धर्वयक्षासुरसिद्धसङ्घाःवीक्षन्तेत्वांविस्मिताश्चैवसर्वे~॥ २२ ॥	12
+T	रुद्रादित्या	रुद्र-आदित्याःRudra-Adityas	रुद्रfirst part of a compoundname of the god of tempests and father and ruler of the Rudras and Maruts; the eleventh; (in astrol.) name of the first Muhûrtaआदित्याः  (आदित्य)noun, masculine nominative pluralname of seven deities of the heavenly sphere; name of a god in general; name of Sûrya (the sun); name of Vishnu
+T	वसवो	वसवःVasus	वसवः  (वसु)noun, masculine nominative pluraldwelling or dweller; name of the gods; name of a particular class of gods; a symbolical name of the number eight
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhat; which; who
+T	च	चand	चconjunctionand; both; also; moreover
+T	साध्याः	साध्याःclasses of celestial beings	साध्याः  (साध्य)noun, masculine nominative pluralname of a class of celestial beings (belonging to the ganadevatâ); the god of love; name of a Vedic Rishi; name of the 21st astronomical Yoga
+T	विश्वेऽश्विनौ	विश्वेallअश्विनौcavaliers	विश्वे  (विश्व)adjective, masculine nominative pluralall; every; every one; wholeअश्विनौ  (अश्विन्)noun, masculine nominative duala cavalier; horse-tamer; name of two divinities (who appear in the sky before the dawn in a golden carriage drawn by horses or birds)
+T	मरुतश्चोष्मपाश्च	मरुतःMarutsचandऊष्मपाःfiresचand	मरुतः  (मरुत्)noun, masculine nominative pluralthe storm-gods (Indra's companions); the god of the wind (father of Hanumat and regent of the north-west quarter of the sky); wind; airचconjunctionand; both; also; moreoverऊष्मपाः  (ऊष्मप)noun, masculine nominative pluralfire; name of a class of manes; a kind of Ganeshaचconjunctionand; both; also; moreover
+T	गन्धर्वयक्षासुरसिद्धसङ्घाः	गन्धर्व-यक्ष-असुर-सिद्ध-संघाःGandharva-Yaksha-demon-perfected one-hosts	गन्धर्वfirst part of a compounda Gandharva; a singer; the Koel or black cuckoo; a sageयक्षfirst part of a compoundname of a class of semi-divine beings (attendants of Kubera); a kind of plant; = yakshataru; thirteenअसुरfirst part of a compounda spirit; good spirit; supreme spirit (said of Varuna); the chief of the evil spiritsसिद्धfirst part of a compoundany inspired sage or prophet or seer (e.g. Vyâsa); any holy personage or great saint (esp. one who has attained to one of the states of beatitude)संघाः  (संघ)noun, masculine nominative pluralany collection or assemblage; heap; multitude; quantity
+T	वीक्षन्ते	वीक्षन्तेlook at	वीक्षन्ते  (वीक्ष्)verb: present 3rd person pluralto look at; to see; to behold; to look upon
+T	त्वां	त्वाyou	त्वा  (त्वद्)pronoun, accusative singularyou
+T	विस्मिताश्चैव	विस्मिताःwonderedचandएवindeed	विस्मिताः  (विस्मि)participle, masculine nominative pluralto wonder; to be surprised or astonished at (instr); to be proud of (instr.); to astonishचconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	सर्वे	सर्वेall	सर्वे  (सर्व)pronoun, masculine nominative pluralwhole; entire; all; every
+V	11.23		Thy mighty Form, with many mouths and eyes, Long armed, with thighs and feet innumerate, Vast-bosomed, set with many fearful teeth, The worlds see terror-struck, as also I.		रूपंमहत्तेबहुवक्त्रनेत्रम्महाबाहोबहुबाहूरुपादम्~।बहूदरंबहुदंष्ट्राकरालम्दृष्ट्वालोकाप्रव्यथितास्तथाऽहम्~॥ २३ ॥	10
+T	रूपं	रूपम्form	रूपम्  (रूप)noun, neuter accusative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	महत्ते	महत्greatतेyour	महत्adjective, neuter accusative singulargreat; large; big; hugeते  (त्वद्)pronoun, genitive singularyou
+T	बहुवक्त्रनेत्रम्	बहु-वक्त्र-नेत्रम्many-mouth-eye	बहुfirst part of a compound (adjective)much; many; abundant; great in quantityवक्त्रfirst part of a compoundthe mouth; face; muzzle; snoutनेत्रम्  (नेत्र)noun, neuter accusative singularleading; guiding; conducting; the eye (as the guiding organ)
+T	महाबाहो	महा-बाहोO mighty-armed	महा  (महत्)first part of a compound (adjective)great; large; big; hugeबाहो  (बाहु)noun, masculine vocative singularthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	बहुबाहूरुपादम्	बहु-बाहु-ऊरु-पादम्many-arm-thigh-foot	बहुfirst part of a compound (adjective)much; many; abundant; great in quantityबाहुfirst part of a compoundthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the bodyऊरुfirst part of a compoundthe thigh; shank; name of an Ângirasa and author of a Vedic hymn; name of a son of Manu Câkshushaपादम्  (पाद)noun, neuter accusative singularthe foot (of men and animals); the foot or leg of an inanimate object; column; pillar
+T	बहूदरं	बहु-उदरम्many-belly	बहुfirst part of a compound (adjective)much; many; abundant; great in quantityउदरम्  (उदर)noun, neuter accusative singularthe belly; abdomen; stomach; bowels
+T	बहुदंष्ट्राकरालम्	बहु-दंष्ट्रा-करालम्many-tusk-dreadful	बहुfirst part of a compound (adjective)much; many; abundant; great in quantityदंष्ट्रा  (दंष्ट्र)first part of a compounda large tooth; tusk; fangकरालम्  (कराल)adjective, neuter accusative singularopening wide; cleaving asunder; gaping; having a gaping mouth and projecting teeth
+T	दृष्ट्वा	दृष्ट्वाhaving seen	दृष्ट्वा  (दृश्)absolutive (having ...)to behold; to look at; to regard; to consider
+T	लोका	लोकाःworlds	लोकाः  (लोक)noun, masculine nominative pluralfree or open space; room; place; scope
+T	प्रव्यथितास्तथाऽहम्	प्रव्यथिताःshakenतथाlikewiseअहम्I	प्रव्यथिताः  (प्रव्यथ्)participle, masculine nominative pluralto tremble; to be afraid of (gen.); to be disquieted or distressedतथाadverbin that manner; so; thus; yesअहम्  (मद्)pronoun, nominative singularI; we
+V	11.24		Radiant, Thou touchest heaven, rainbow-hued, With opened mouths and shining vast-orbed eyes. My inmost self is quaking, having seen, My strength is withered, Vishnu, and my peace.		नभःस्पृशंदीप्तमनेकवर्णम्व्यात्ताननंदीप्तविशालनेत्रम्~।दृष्ट्वाहित्वांप्रव्यथितान्तरात्माधृतिंनविन्दामिशमंचविष्णो~॥ २४ ॥	15
+T	नभः	नभः	
+T	स्पृशं	नभः-स्पृशम्mist-touch	नभः  (नभस्)first part of a compoundmist; clouds; vapour (esp. of the Soma); the sky or atmosphereस्पृशम्  (स्पृश्)adjective, masculine accusative singulartouching; coming into contact with; reaching to; experiencing
+T	दीप्तमनेकवर्णम्	दीप्तम्blazedअनेक-वर्णम्many-caste	दीप्तम्  (दीप्)participle, masculine accusative singularto blaze; to flare; to shine; to be luminous or illustriousअनेकfirst part of a compound (pronoun)not one; many; much; separatedवर्णम्  (वर्ण)noun, masculine accusative singulara covering; cloak; mantle; a cover
+T	व्यात्ताननं	व्यात्त-आननम्opened-mouth	व्यात्तfirst part of a compound (adjective)opened (esp. applied to the mouth); expanded; vastआननम्  (आनन)noun, masculine accusative singularthe mouth; the face; entrance; door
+T	दीप्तविशालनेत्रम्	दीप्त-विशाल-नेत्रम्blazed-spacious-eye	दीप्त  (दीप्)first part of a compound (verb)to blaze; to flare; to shine; to be luminous or illustriousविशालfirst part of a compound (adjective)spacious; broad; wide; greatनेत्रम्  (नेत्र)noun, masculine accusative singularleading; guiding; conducting; the eye (as the guiding organ)
+T	दृष्ट्वा	दृष्ट्वाhaving seen	दृष्ट्वा  (दृश्)absolutive (having ...)to behold; to look at; to regard; to consider
+T	हि	हिfor	हिparticlefor; because; on account of
+T	त्वां	त्वाम्you	त्वाम्  (त्वद्)pronoun, accusative singularyou
+T	प्रव्यथितान्तरात्मा	प्रव्यथित-अन्तरात्माshaken-soul	प्रव्यथित  (प्रव्यथ्)first part of a compound (verb)to tremble; to be afraid of (gen.); to be disquieted or distressedअन्तरात्मा  (अन्तरात्मन्)noun, masculine nominative singularthe soul; the internal feelings; the heart or mind
+T	धृतिं	धृतिम्firmness	धृतिम्  (धृति)noun, feminine accusative singularholding; seizing; keeping; supporting
+T	न	नnot	नparticlenot; no; nor; neither
+T	विन्दामि	विन्दामिI know	विन्दामि  (विद्)verb: present 1st person singularto find; to discover; to meet or fall in with; to obtain
+T	शमं	शमम्calm	शमम्  (शम)noun, masculine accusative singulartranquillity; rest; equanimity; quietism
+T	च	चand	चconjunctionand; both; also; moreover
+T	विष्णो	विष्णोO Vishnu	विष्णो  (विष्णु)noun, masculine vocative singularVishnuname of one of the principal Hindû deities; name of the month Caitra; name of an author; name of a son of Manu Sâvarna and Bhautya
+V	11.25		Like Time's destroying flames I see Thy teeth, Upstanding, spread within expanded jaws; Nought know I anywhere, no shelter find; Mercy, O God! re of all the worlds!		दंष्ट्राकरालानिचतेमुखानिदृष्ट्वैवकालानलसन्निभानि~।दिशोनजानेनलभेचशर्मप्रसीददेवेशजगन्निवास~॥ २५ ॥	16
+T	दंष्ट्राकरालानि	दंष्ट्रा-करालानिtusk-dreadful	दंष्ट्रा  (दंष्ट्र)first part of a compounda large tooth; tusk; fangकरालानि  (कराल)adjective, neuter accusative pluralopening wide; cleaving asunder; gaping; having a gaping mouth and projecting teeth
+T	च	चand	चconjunctionand; both; also; moreover
+T	ते	तेyour	ते  (त्वद्)pronoun, genitive singularyou
+T	मुखानि	मुखानिfaces	मुखानि  (मुख)noun, neuter accusative pluralthe mouth; face; countenance; the beak of a bird
+T	दृष्ट्वैव	दृष्ट्वाhaving seenएवindeed	दृष्ट्वा  (दृश्)absolutive (having ...)to behold; to look at; to regard; to considerएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	कालानलसन्निभानि	काल-अनल-संनिभानिtime-fire-like	कालfirst part of a compoundtime; the proper time or season for; a spot; tenseअनलfirst part of a compoundfire; the god of fire; digestive power; gastric juiceसंनिभानि  (संनिभ)adjective, neuter accusative plurallike; similar; resembling
+T	दिशो	दिशःdirections	दिशः  (दिश्)noun, feminine accusative pluralquarter or region pointed at; direction; cardinal point (four in number); quarter
+T	न	नnot	नparticlenot; no; nor; neither
+T	जाने	जानेI know	जाने  (ज्ञा)verb: present 1st person singularto know; to have knowledge; to become acquainted with; to perceive
+T	न	नnot	नparticlenot; no; nor; neither
+T	लभे	लभेI obtain	लभे  (लभ्)verb: present 1st person singularto take; to seize; to catch; to meet with
+T	च	चand	चconjunctionand; both; also; moreover
+T	शर्म	शर्मshelter	शर्म  (शर्मन्)noun, neuter accusative singularshelter; protection; refuge; safety
+T	प्रसीद	प्रसीदbe gracious!	प्रसीद  (प्रसद्)verb: present imperative 2nd person singularto fall into the power of (acc.); to settle down; to grow clear and bright; to become placid or tranquil (as the sea or sky)
+T	देवेश	देवेशO lord of gods	देवेशnoun, masculine vocative singularname of Brahmâ; a king; prince; name of Vishnu
+T	जगन्निवास	जगन्निवासO abode of the universe	जगन्निवासnoun, masculine vocative singularVishnu or Krishna; Shiva

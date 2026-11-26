@@ -1,0 +1,63 @@
+V	11.16		With mouths, eyes, arms, breasts multitudinous, I see Thee everywhere, unbounded Form. Beginning, middle, end, nor source of Thee, Infinite Lord, infinite Form, I find;		अनेकबाहूदरवक्त्रनेत्रम्पश्यामित्वांसर्वतोऽनन्तरूपम्~।नान्तंनमध्यंनपुनस्तवादिम्पश्यामिविश्वेश्वरविश्वरूप~॥ १६ ॥	12
+T	अनेकबाहूदरवक्त्रनेत्रम्	अनेक-बाहु-उदर-वक्त्र-नेत्रम्many-arm-belly-mouth-eye	अनेकfirst part of a compound (pronoun)not one; many; much; separatedबाहुfirst part of a compoundthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the bodyउदरfirst part of a compoundthe belly; abdomen; stomach; bowelsवक्त्रfirst part of a compoundthe mouth; face; muzzle; snoutनेत्रम्  (नेत्र)noun, masculine accusative singularleading; guiding; conducting; the eye (as the guiding organ)
+T	पश्यामि	पश्यामिI see	पश्यामि  (दृश्)verb: present 1st person singularto behold; to look at; to regard; to consider
+T	त्वां	त्वाyou	त्वा  (त्वद्)pronoun, accusative singularyou
+T	सर्वतोऽनन्तरूपम्	सर्वतःeverywhereअनन्त-रूपम्endless-form	सर्वतः  (सर्वतस्)adverbfrom all sides; in every direction; everywhere; around (acc.)अनन्तfirst part of a compound (adjective)endless; boundless; eternal; infiniteरूपम्  (रूप)noun, masculine accusative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	नान्तं	नnotअन्तम्end	नparticlenot; no; nor; neitherअन्तम्  (अन्त)noun, masculine accusative singularend; limit; boundary; term
+T	न	नnot	नparticlenot; no; nor; neither
+T	मध्यं	मध्यम्middle	मध्यम्  (मध्य)noun, neuter accusative singularthe middle; midst; centre; inside
+T	न	नnot	नparticlenot; no; nor; neither
+T	पुनस्तवादिम्	पुनःagainतवyourआदिम्beginning	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and againतव  (त्वद्)pronoun, genitive singularyouआदिम्  (आदि)noun, masculine accusative singularbeginning; commencement; a firstling; first-fruits
+T	पश्यामि	पश्यामिI see	पश्यामि  (दृश्)verb: present 1st person singularto behold; to look at; to regard; to consider
+T	विश्वेश्वर	विश्वेश्वरO form of Shiva	विश्वेश्वरnoun, masculine vocative singularname of a form of Shiva (esp. worshipped in Benares); name of various authors and other persons; name of Vishnu; [rel.] name of Shiva
+T	विश्वरूप	विश्वरूपO Shiva	विश्वरूपnoun, masculine vocative singularname of Shiva; name of Vishnu-Krishna; name of a son of Tvashtri (whose three heads were struck off by Indra); name of an Asura
+V	11.17		Shining, a mass of splendour everywhere, With discus, mace, tiara, I behold: Blazing as fire, as sun dazzling the gaze, From all sides in the sky, immeasurable.		किरीटिनंगदिनंचक्रिणंचतेजोराशिंसर्वतोदीप्तिमन्तम्~।पश्यामित्वांदुर्निरीक्ष्यंसमन्ताद्दीप्तानलार्कद्युतिमप्रमेयम्~॥ १७ ॥	12
+T	किरीटिनं	किरीटिनम्crowned	किरीटिनम्  (किरीटिन्)adjective, masculine accusative singulardecorated with a diadem
+T	गदिनं	गदिनम्Krishna	गदिनम्  (गदिन्)noun, masculine accusative singularname of Krishna; name of Shiva
+T	चक्रिणं	चक्रिणम्potter	चक्रिणम्  (चक्रिन्)noun, masculine accusative singulara potter; an oil-grinder; name of Shiva; a sovereign of the world
+T	च	चand	चconjunctionand; both; also; moreover
+T	तेजोराशिं	तेजः-राशिम्splendour-heap	तेजः  (तेजस्)first part of a compoundthe sharp edge (of a knife etc.); point or top of a flame or ray; glow; glareराशिम्  (राशि)noun, masculine accusative singulara heap; mass; pile; group
+T	सर्वतो	सर्वतःeverywhere	सर्वतः  (सर्वतस्)adverbfrom all sides; in every direction; everywhere; around (acc.)
+T	दीप्तिमन्तम्	दीप्तिमन्तम्bright	दीप्तिमन्तम्  (दीप्तिमत्)adjective, masculine accusative singularbright; splendid; brilliant
+T	पश्यामि	पश्यामिI see	पश्यामि  (दृश्)verb: present 1st person singularto behold; to look at; to regard; to consider
+T	त्वां	त्वाम्you	त्वाम्  (त्वद्)pronoun, accusative singularyou
+T	दुर्निरीक्ष्यं	दुर्निरीक्ष्यम्difficult to look at	दुर्निरीक्ष्यम्  (दुर्निरीक्ष्य)adjective, masculine accusative singulardifficult to look at
+T	समन्ताद्	समन्तात्all around	समन्तात्adverball around
+T	दीप्तानलार्कद्युतिमप्रमेयम्	दीप्त-अनल-अर्क-द्युतिम्blazed-fire-ray-splendourअप्रमेयम्not to be measured	दीप्त  (दीप्)first part of a compound (verb)to blaze; to flare; to shine; to be luminous or illustriousअनलfirst part of a compoundfire; the god of fire; digestive power; gastric juiceअर्कfirst part of a compounda ray; flash of lightning; the sun; the number twelveद्युतिम्  (द्युति)noun, masculine accusative singularsplendour (as a goddess); brightness; lustre; majestyअnegative prefixnotnot; un-; in-प्रमेयम्  (प्रमा)gerundive (to be ...), masculine accusative singularto measure; to mete out; to estimate; to form
+V	11.18		Lofty beyond all thought, unperishing, Thou treasure-house supreme, all-immanent; Eternal Dharma's changeless Guardian, Thou; As immemorial Man I think of Thee.		त्वमक्षरंपरमंवेदितव्यम्त्वमस्यविश्वस्यपरंनिधानम्~।त्वमव्ययःशाश्वतधर्मगोप्तासनातनस्त्वंपुरुषोमतोमे~॥ १८ ॥	13
+T	त्वमक्षरं	त्वम्youअक्षरम्imperishable	त्वम्  (त्वद्)pronoun, nominative singularyouअक्षरम्  (अक्षर)noun, neuter nominative singularthe syllable om; a vowel; a sound; a word
+T	परमं	परमम्supreme	परमम्  (परम)adjective, neuter nominative singularremotest; extreme; last; chief
+T	वेदितव्यम्	वेदितव्यम्to be known	वेदितव्यम्  (विद्)gerundive (to be ...), neuter nominative singularto know; to understand; to learn; to be conscious of
+T	त्वमस्य	त्वम्youअस्यof this	त्वम्  (त्वद्)pronoun, nominative singularyouअस्य  (इदम्)pronoun, neuter genitive singularthis; (near deictic pronoun in Vedic)
+T	विश्वस्य	विश्वस्यall	विश्वस्य  (विश्व)adjective, neuter genitive singularall; every; every one; whole
+T	परं	परम्supreme	परम्  (पर)pronoun, neuter nominative singularfar; remote; opposite; previous
+T	निधानम्	निधानम्treasure-house	निधानम्  (निधान)noun, neuter nominative singularputting or laying down; depositing; keeping; preserving
+T	त्वमव्ययः	त्वम्youअव्ययःimperishable	त्वम्  (त्वद्)pronoun, nominative singularyouअव्ययः  (अव्यय)adjective, masculine nominative singularnot liable to change; imperishable; undecaying; parsimonious
+T	शाश्वतधर्मगोप्ता	शाश्वत-धर्म-गोप्ताeverlasting-dharma-one who conceals anything	शाश्वतfirst part of a compound (adjective)eternal; constant; perpetual; allधर्मfirst part of a compoundthat which is established or firm; steadfast decree; statute; ordinanceगोप्ता  (गोप्तृ)adjective, masculine nominative singularone who conceals anything (in comp.); one who preserves or protects or defends or cherishes
+T	सनातनस्त्वं	सनातनःeternalत्वम्you	सनातनः  (सनातन)adjective, masculine nominative singularperpetual; permanent; everlasting; primevalत्वम्  (त्वद्)pronoun, nominative singularyou
+T	पुरुषो	पुरुषःperson	पुरुषः  (पुरुष)noun, masculine nominative singulara man; male; human being (people); a person
+T	मतो	मतःthought	मतः  (मन्)participle, masculine nominative singularto think; to believe; to imagine; to suppose
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+V	11.19		Nor source, nor midst, nor end; infinite force, Unnumbered arms, the sun and moon Thine eyes I see Thy face, as sacrificial fire Blazing, its splendour burneth up the worlds.		अनादिमध्यान्तमनन्तवीर्य-मनन्तबाहुंशशिसूर्यनेत्रम्~।पश्यामित्वांदीप्तहुताशवक्त्रम्स्वतेजसाविश्वमिदंतपन्तम्~॥ १९ ॥	9
+T	अनादिमध्यान्तमनन्तवीर्य-	अनादि-मध्य-अन्तम्beginningless-middle-endअनन्त-वीर्यम्endless-manlinessअनन्त-बाहुम्endless-arm	अनादिfirst part of a compound (adjective)having no beginning; existing from eternityमध्यfirst part of a compoundthe middle; midst; centre; insideअन्तम्  (अन्त)noun, masculine accusative singularend; limit; boundary; termअनन्तfirst part of a compound (adjective)endless; boundless; eternal; infiniteवीर्यम्  (वीर्य)noun, masculine accusative singularmanliness; valour; strength; powerअनन्तfirst part of a compound (adjective)endless; boundless; eternal; infiniteबाहुम्  (बाहु)noun, masculine accusative singularthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	मनन्तबाहुं	मनन्तबाहुं	
+T	शशिसूर्यनेत्रम्	शशि-सूर्य-नेत्रम्moon-sun-eye	शशि  (शशिन्)first part of a compoundthe moon; name of the number one; camphor; a kind of metreसूर्यfirst part of a compoundthe sun or its deity; a symbolical expression for the number "twelve" (in allusion to the sun in the 12 signs of the zodiac); the swallow-wortनेत्रम्  (नेत्र)noun, masculine accusative singularleading; guiding; conducting; the eye (as the guiding organ)
+T	पश्यामि	पश्यामिI see	पश्यामि  (दृश्)verb: present 1st person singularto behold; to look at; to regard; to consider
+T	त्वां	त्वाम्you	त्वाम्  (त्वद्)pronoun, accusative singularyou
+T	दीप्तहुताशवक्त्रम्	दीप्त-हुताश-वक्त्रम्blazed-oblation-eater-mouth	दीप्त  (दीप्)first part of a compound (verb)to blaze; to flare; to shine; to be luminous or illustriousहुताशfirst part of a compoundoblation-eater; fire; name of the number "three"; Plumbago Ceylanicaवक्त्रम्  (वक्त्र)noun, masculine accusative singularthe mouth; face; muzzle; snout
+T	स्वतेजसा	स्व-तेजसाwith own-splendour	स्वfirst part of a compound (adjective)own; one's own; related; akinतेजसा  (तेजस्)noun, neuter instrumental singularthe sharp edge (of a knife etc.); point or top of a flame or ray; glow; glare
+T	विश्वमिदं	विश्वम्allइदम्this	विश्वम्  (विश्व)adjective, neuter accusative singularall; every; every one; wholeइदम्pronoun, neuter accusative singularthis; (near deictic pronoun in Vedic)
+T	तपन्तम्	तपन्तम्heating	तपन्तम्  (तप्)present participle, masculine accusative singularto give out heat; to be hot; to shine (as the sun); to make hot or warm
+V	11.20		By Thee alone are filled the earth, the heavens, And all the regions that are stretched between; The triple worlds sink down, O mighty One, Before Thine awful manifested Form.		द्यावापृथिव्योरिदमन्तरंहिव्याप्तंत्वयैकेनदिशश्चसर्वाः~।दृष्ट्वाऽद्भुतंरूपमुग्रंतवेदम्लोकत्रयंप्रव्यथितंमहात्मन्~॥ २० ॥	12
+T	द्यावापृथिव्योरिदमन्तरं	द्यावापृथिव्योःof heaven and earthsइदम्thisअन्तरम्inner	द्यावापृथिव्योः  (द्यावापृथिवी)noun, feminine genitive dualheaven and earthइदम्pronoun, neuter nominative singularthis; (near deictic pronoun in Vedic)अन्तरम्  (अन्तर)noun, neuter nominative singularthe interior; a hole; opening; the interior part of a thing
+T	हि	हिfor	हिparticlefor; because; on account of
+T	व्याप्तं	व्याप्तम्reached	व्याप्तम्  (व्याप्)participle, neuter nominative singularto reach or spread through; to pervade; to permeate; to cover
+T	त्वयैकेन	त्वयाby youएकेनone	त्वया  (त्वद्)pronoun, instrumental singularyouएकेन  (एक)number, masculine instrumental singularone; alone; happening only once; single of its kind
+T	दिशश्च	दिशःdirectionsचand	दिशः  (दिश्)noun, feminine nominative pluralquarter or region pointed at; direction; cardinal point (four in number); quarterचconjunctionand; both; also; moreover
+T	सर्वाः	सर्वाःall	सर्वाः  (सर्व)pronoun, feminine nominative pluralwhole; entire; all; every
+T	दृष्ट्वाऽद्भुतं	दृष्ट्वाhaving seenअद्भुतम्wondrous	दृष्ट्वा  (दृश्)absolutive (having ...)to behold; to look at; to regard; to considerअद्भुतम्  (अद्भुत)adjective, neuter accusative singularextraordinary; supernatural; wonderful; unerforschlich
+T	रूपमुग्रं	रूपम्formइदम्this	रूपम्  (रूप)noun, neuter accusative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapesइदम्pronoun, neuter accusative singularthis; (near deictic pronoun in Vedic)
+T	तवेदम्	तवyourउग्रम्fierce	तव  (त्वद्)pronoun, genitive singularyouउग्रम्  (उग्र)adjective, neuter accusative singularpowerful; violent; mighty; impetuous
+T	लोकत्रयं	लोकत्रयम्three worlds	लोकत्रयम्  (लोकत्रय)noun, neuter nominative singularthe three world
+T	प्रव्यथितं	प्रव्यथितम्shaken	प्रव्यथितम्  (प्रव्यथ्)participle, neuter nominative singularto tremble; to be afraid of (gen.); to be disquieted or distressed
+T	महात्मन्	महात्मन्O great-souled	महात्मन्adjective, masculine vocative singularmagnanimous; having a great or noble nature; high-minded; noble

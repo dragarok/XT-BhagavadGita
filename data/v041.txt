@@ -1,0 +1,88 @@
+V	6.31		He who, established in unity, worshippeth Me abiding in all beings, that Yogi liveth in Me, whatever his mode of living.		सर्वभूतस्थितंयोमांभजत्येकत्वमास्थितः~।सर्वथावर्त्तमानोऽपिसयोगीमयिवर्तते~॥ ३१ ॥	10
+T	सर्वभूतस्थितं	सर्व-भूत-स्थितम्all-being-stood	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personस्थितम्  (स्था)participle, masculine accusative singularto stand; to station one's self; to get upon; to stay
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	भजत्येकत्वमास्थितः	भजतिworshipsएक-त्वम्onenessआस्थितःresorted to	भजति  (भज्)verb: present 3rd person singularto divide; to distribute; to allot or apportion to (dat. or gen.); to share with (instr.)एकfirst part of a compound (number)one; alone; happening only once; single of its kindत्वम्  (त्व)noun, neuter accusative singular(suffix creating abstract nouns)आस्थितः  (आस्था)participle, masculine nominative singularto stand or remain on or by; to ascend; to mount; to stay near
+T	सर्वथा	सर्वथाin everyway	सर्वथाadverbin everyway; in every respect; by all means (often joined with sarvatra and sarvadâ); in whatever way
+T	वर्त्तमानोऽपि	वर्तमानःabidingअपिalso	वर्तमानः  (वृत्)present participle, masculine nominative singularto turn; to turn round; to revolve; to rollअपिparticlealso; moreover; besides; assuredly
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	योगी	योगीyogi	योगी  (योगिन्)noun, masculine nominative singulara follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+T	मयि	मयिin me	मयि  (मद्)pronoun, locative singularI; we
+T	वर्तते	वर्ततेabides	वर्तते  (वृत्)verb: present 3rd person singularto turn; to turn round; to revolve; to roll
+V	6.32		He who, through the likeness of the Self, O Arjuna, seeth equality in everything, whether pleasant or painful, he is considered a perfect Yogî.	The same Self shining in the heart of each.	आत्मौपम्येनसर्वत्रसमंपश्यतियोऽर्जुन~।सुखंवायदिवादुःखंसयोगीपरमोमतः~॥ ३२ ॥	14
+T	आत्मौपम्येन	आत्म-औपम्येनwith self-state	आत्म  (आत्मन्)first part of a compoundthe breath; the soul; principle of life and sensation; the individual soulऔपम्येन  (औपम्य)noun, neuter instrumental singularstate or condition of resemblance or equality; similitude; comparison; analogy
+T	सर्वत्र	सर्वत्रeverywhere	सर्वत्रadverbeverywhere; in every case; always; at all times
+T	समं	समम्equal	समम्  (सम)pronoun, neuter accusative singulareven; flat; level; parallel
+T	पश्यति	पश्यतिsees	पश्यति  (दृश्)verb: present 3rd person singularto behold; to look at; to regard; to consider
+T	योऽर्जुन	यःwhoअर्जुनO Arjuna	यः  (यद्)pronoun, masculine nominative singularwhat; which; whoअर्जुनnoun, masculine vocative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	सुखं	सुखम्happiness	सुखम्  (सुख)noun, neuter accusative singularease; easiness; comfort; prosperity
+T	वा	वाor	वाconjunctioneither - or; on the one side - on the other side; optionally
+T	यदि	यदिif	यदिconjunctionin case that; if; whether
+T	वा	वाor	वाconjunctioneither - or; on the one side - on the other side; optionally
+T	दुःखं	दुःखम्pain	दुःखम्  (दुःख)noun, neuter accusative singularuneasiness; pain; sorrow; trouble
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	योगी	योगीyogi	योगी  (योगिन्)noun, masculine nominative singulara follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+T	परमो	परमःsupreme	परमः  (परम)adjective, masculine nominative singularremotest; extreme; last; chief
+T	मतः	मतःthought	मतः  (मन्)participle, masculine nominative singularto think; to believe; to imagine; to suppose
+V	6.33		This yoga which Thou hast declared to be by equanimity, O Madhusûdana, I see not a stable foundation for it, owing to restlessness;		अर्जुनउवाच~।योऽयंयोगस्त्वयाप्रोक्तःसाम्येनमधुसूदन~।एतस्याहंनपश्यामिचञ्चलत्वात्स्थितिंस्थिराम्~॥ ३३ ॥	12
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	योऽयं	यःwhoअयम्this	यः  (यद्)pronoun, masculine nominative singularwhat; which; whoअयम्  (इदम्)pronoun, masculine nominative singularthis; (near deictic pronoun in Vedic)
+T	योगस्त्वया	योगःyogaत्वयाby you	योगः  (योग)noun, masculine nominative singularthe act of yoking; joining; attaching; harnessingत्वया  (त्वद्)pronoun, instrumental singularyou
+T	प्रोक्तः	प्रोक्तःdeclared	प्रोक्तः  (प्रवच्)participle, masculine nominative singularto proclaim; to announce; to praise; to commend
+T	साम्येन	साम्येनwith equality	साम्येन  (साम्य)noun, neuter instrumental singularequality; evenness; equilibrium; equipoise
+T	मधुसूदन	मधुसूदनO Madhusudana	मधुसूदनnoun, masculine vocative singulara bee; name of Vishnu-Krishna; name of various scholars
+T	एतस्याहं	एतस्यof thisअहम्I	एतस्य  (एतद्)pronoun, masculine genitive singularthisअहम्  (मद्)pronoun, nominative singularI; we
+T	न	नnot	नparticlenot; no; nor; neither
+T	पश्यामि	पश्यामिI see	पश्यामि  (दृश्)verb: present 1st person singularto behold; to look at; to regard; to consider
+T	चञ्चलत्वात्स्थितिं	चञ्चल-त्वात्from restlessnessस्थितिम्steadiness	चञ्चलfirst part of a compound (adjective)moving to and fro; unsteady; flickering; inconstantत्वात्  (त्व)noun, neuter ablative singular(suffix creating abstract nouns)स्थितिम्  (स्थिति)noun, feminine accusative singularstanding upright or firmly; not falling; standing; staying
+T	स्थिराम्	स्थिराम्steady	स्थिराम्  (स्थिर)adjective, feminine accusative singularfirm; hard; solid; compact
+V	6.34		For the mind is verily restless, O Krishna; it is impetuous, strong and difficult to bend. I deem it as hard to curb as the wind.	Manah.	चञ्चलंहिमनःकृष्णप्रमाथिबलवद्‌दृढम्~।तस्याऽहंनिग्रहंमन्येवायोरिवसुदुष्करम्~॥ ३४ ॥	12
+T	चञ्चलं	चञ्चलम्restless	चञ्चलम्  (चञ्चल)adjective, neuter nominative singularmoving to and fro; unsteady; flickering; inconstant
+T	हि	हिfor	हिparticlefor; because; on account of
+T	मनः	मनःmind	मनः  (मनस्)noun, neuter nominative singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	कृष्ण	कृष्णO Krishna	कृष्णnoun, masculine vocative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	प्रमाथि	प्रमाथिstirring about	प्रमाथि  (प्रमाथिन्)adjective, neuter nominative singularstirring about; tearing; rending; troubling
+T	बलवद्‌	बलवत्strongदृढम्intensively	बलवत्adjective, neuter nominative singularpossessing power; powerful; mighty; strongदृढम्adverbintensively
+T	दृढम्	दृढम्	
+T	तस्याऽहं	तस्यof thatअहम्I	तस्य  (तद्)pronoun, neuter genitive singularthis; gleicherअहम्  (मद्)pronoun, nominative singularI; we
+T	निग्रहं	निग्रहम्keeping down	निग्रहम्  (निग्रह)noun, masculine accusative singularkeeping down or back; restraining; binding; coercion
+T	मन्ये	मन्येI think	मन्ये  (मन्)verb: present 1st person singularto think; to believe; to imagine; to suppose
+T	वायोरिव	वायोःof windइवlike	वायोः  (वायु)noun, masculine genitive singularwind; air (as one of the 5 elements); the god of the wind; breathingइवparticlelike; in the same manner as (in this sense = yathâ); as it were; as if
+T	सुदुष्करम्	सुwellदुष्करम्hard to be done	सुadverb[ibc.] good-; [ibc.] very; quite; feinदुष्करम्  (दुष्कर)adjective, neuter accusative singularhard to be done or borne; difficult; arduous; rare
+V	6.35	The Blessed Lord said:	Without doubt, O mighty-armed, the mind is hard to curb and restless; but it may be curbed by constant practice and by dispassion.	Manah.	श्रीभगवानुवाच~।असंशयंमहाबाहोमनोदुर्निग्रहंचलम्~।अभ्यासेनतुकौन्तेयवैराग्येणचगृह्यते~॥ ३५ ॥	12
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	असंशयं	असंशयम्certainly	असंशयम्adverbcertainly
+T	महाबाहो	महा-बाहोO mighty-armed	महा  (महत्)first part of a compound (adjective)great; large; big; hugeबाहो  (बाहु)noun, masculine vocative singularthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	मनो	मनःmind	मनः  (मनस्)noun, neuter nominative singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	दुर्निग्रहं	दुर्निग्रहम्difficult to be restrained	दुर्निग्रहम्  (दुर्निग्रह)adjective, neuter nominative singulardifficult to be restrained or conquered
+T	चलम्	चलम्moving	चलम्  (चल)adjective, neuter nominative singularmoving; trembling; shaking; loose
+T	अभ्यासेन	अभ्यासेनwith practice	अभ्यासेन  (अभ्यास)noun, masculine instrumental singularthe act of adding anything; (in Gr.) "what is prefixed"; the first syllable of a reduplicated radical; reduplication
+T	तु	तुbut	तुparticledo; now; then; but
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	वैराग्येण	वैराग्येणwith dispassion	वैराग्येण  (वैराग्य)noun, neuter instrumental singularchange or loss of colour; growing pale; disgust; aversion
+T	च	चand	चconjunctionand; both; also; moreover
+T	गृह्यते	गृह्यतेis grasped	गृह्यते  (ग्रह्)verb: passive present 3rd person singularto seize; to take (by the hand); to grasp; to lay hold of
+V	6.36		Yoga is hard to attain, methinks, by a self that is uncontrolled; but by the Self-controlled it is attainable by properly directed energy.		असंयतात्मनायोगोदुष्प्रापइतिमेमतिः~।वश्यात्मनातुयतताशक्योऽवाप्तुमुपायतः~॥ ३६ ॥	10
+T	असंयतात्मना	असंयत-आत्मनाwith not kept together-self	असंयतfirst part of a compound (adjective)not kept together; not shut (as a door); unbridled; recited inattentivelyआत्मना  (आत्मन्)noun, masculine instrumental singularthe breath; the soul; principle of life and sensation; the individual soul
+T	योगो	योगःyoga	योगः  (योग)noun, masculine nominative singularthe act of yoking; joining; attaching; harnessing
+T	दुष्प्राप	दुष्प्रापःhard to attain	दुष्प्रापः  (दुष्प्राप)adjective, masculine nominative singularhard to attain; inaccessible; remote
+T	इति	इतिthus	इतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	मतिः	मतिःmind	मतिः  (मति)noun, feminine nominative singulardevotion; prayer; worship; hymn
+T	वश्यात्मना	वश्य-आत्मनाwith be subjected-self	वश्यfirst part of a compound (adjective)to be subjected; subdued; tamed; humbledआत्मना  (आत्मन्)noun, masculine instrumental singularthe breath; the soul; principle of life and sensation; the individual soul
+T	तु	तुbut	तुparticledo; now; then; but
+T	यतता	यतताstriving	यतता  (यत्)present participle, masculine instrumental singularto place in order; to marshal; to join; to connect
+T	शक्योऽवाप्तुमुपायतः	शक्यःpossibleअवाप्तुम्to attainउपायतःfrom coming near	शक्यः  (शक्य)adjective, masculine nominative singularable; possible; practicable; capable of beingअवाप्तुम्  (अवाप्)infinitiveto reach; to attain; to obtain; to gainउपायतः  (उपाय)noun, masculine ablative singularcoming near; approach; arrival; that by which one reaches one's aim
+V	6.37	Arjuna said:	He who is unsubdued but who possesseth faith, with the mind wandering away from yoga, failing to attain perfection in yoga, what path doth he tread, O Krishna?	Manah.	अर्जुनउवाच~।अयतिःश्रद्धयोपेतोयोगाच्चलितमानसः~।अप्राप्ययोगसंसिद्धिंकांगतिंकृष्णगच्छति~॥ ३७ ॥	11
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	अयतिः	अयतिःno ascetic	अयतिः  (अयति)noun, masculine nominative singularno ascetic; name of one of the six sons of Nahusha
+T	श्रद्धयोपेतो	श्रद्धयाwith faithउपेतःcome to	श्रद्धया  (श्रद्धा)noun, feminine instrumental singularfaith; confidence; trustfulness; faithfulnessउपेतः  (उपे)participle, masculine nominative singularto go or come or step near; to approach; to betake one's self to; to arrive at
+T	योगाच्चलितमानसः	योगात्from yogaचलित-मानसःmoved-mind	योगात्  (योग)noun, masculine ablative singularthe act of yoking; joining; attaching; harnessingचलित  (चल्)first part of a compound (verb)to be moved; to stir; to tremble; to shakeमानसः  (मानस)noun, masculine nominative singularthe mental powers; mind; spirit; heart
+T	अप्राप्य	अप्राप्यnot having attained	अnegative prefixnotnot; un-; in-प्राप्य  (प्राप्)absolutive (having ...)to attain to; to reach; to arrive at; to meet with
+T	योगसंसिद्धिं	योग-संसिद्धिम्yoga-perfection	योगfirst part of a compoundthe act of yoking; joining; attaching; harnessingसंसिद्धिम्  (संसिद्धि)noun, feminine accusative singularcomplete accomplishment or fulfilment; perfection; success; perfect state
+T	कां	काम्whom	काम्  (क)pronoun, feminine accusative singularwho?; what?
+T	गतिं	गतिम्goal	गतिम्  (गति)noun, feminine accusative singulargoing; moving; gait; deportment
+T	कृष्ण	कृष्णO Krishna	कृष्णnoun, masculine vocative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	गच्छति	गच्छतिgoes	गच्छति  (गम्)verb: present 3rd person singularto go; to move; to approach; to understand

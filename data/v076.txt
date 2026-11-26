@@ -1,0 +1,82 @@
+V	12.15		He from whom the world doth not shrink away, who doth not shrink away from the world, freed from the anxieties of joy, anger, and fear, he is dear to me.		यस्मान्नोद्विजतेलोकोलोकान्नोद्विजतेचयः~।हर्षामर्षभयोद्वेगैर्मुक्तोयःसचमेप्रियः~॥ १५ ॥	11
+T	यस्मान्नोद्विजते	यस्मात्from whomनnotउद्विजतेis agitated	यस्मात्  (यद्)pronoun, masculine ablative singularwhowhat; which; whoनparticlenotnot; no; nor; neitherउद्विजते  (उद्विज्)verb: present 3rd person singularfearto gush or spring upwards; to be agitated; to grieved or afflicted; to shudder
+T	लोको	लोकःworld	लोकः  (लोक)noun, masculine nominative singularworldfree or open space; room; place; scope
+T	लोकान्नोद्विजते	लोकात्from worldनnotउद्विजतेis agitated	लोकात्  (लोक)noun, masculine ablative singularworldfree or open space; room; place; scopeनparticlenotnot; no; nor; neitherउद्विजते  (उद्विज्)verb: present 3rd person singularfearto gush or spring upwards; to be agitated; to grieved or afflicted; to shudder
+T	च	चand	चconjunctionandand; both; also; moreover
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	हर्षामर्षभयोद्वेगैर्मुक्तो	हर्ष-अमर्ष-भय-उद्वेगैःwith joy-anger-fear-agitationsमुक्तःfreed	हर्षfirst part of a compoundexcitementbristling; erection (esp. of the hair in a thrill of rapture or delight); joy; pleasureअमर्षfirst part of a compoundangernon-endurance; impatience; indignation; angerभयfirst part of a compoundfearfear; alarm; fear of; terrorउद्वेगैः  (उद्वेग)noun, masculine instrumental pluralagitationtrembling; waving; shaking; agitationमुक्तः  (मुच्)participle, masculine nominative singularget rid ofto loose; to let loose; to release; to liberate from
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicher
+T	च	चand	चconjunctionandand; both; also; moreover
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularII; we
+T	प्रियः	प्रियःdear	प्रियः  (प्रिय)adjective, masculine nominative singulardearbeloved; dear to; liked; favourite
+V	12.16		He who wants nothing, is pure, expert, passionless, untroubled, renouncing every undertaking, he, My devotee, is dear to Me.		अनपेक्षःशुचिर्दक्षउदासीनोगतव्यथः~।सर्वारम्भपरित्यागीयोमद्भक्तःसमेप्रियः~॥ १६ ॥	10
+T	अनपेक्षः	अनपेक्षःimpartial	अनपेक्षः  (अनपेक्ष)adjective, masculine nominative singularimpartialregardless; careless; indifferent; impartial
+T	शुचिर्दक्ष	शुचिःpureदक्षःdeft	शुचिः  (शुचि)adjective, masculine nominative singularcleanshining; glowing; gleaming; radiantदक्षः  (दक्ष)adjective, masculine nominative singulardeftable; fit; adroit; expert
+T	उदासीनो	उदासीनःneutral	उदासीनः  (उदासीन)adjective, masculine nominative singularunprejudicedsitting apart; indifferent; free from affection; inert
+T	गतव्यथः	गत-व्यथःgone-agitation	गत  (गम्)first part of a compound (verb)disappearto go; to move; to approach; to understandव्यथः  (व्यथा)noun, masculine nominative singularagitationagitation; perturbation; alarm; uneasiness
+T	सर्वारम्भपरित्यागी	सर्व-आरम्भ-परित्यागीall-undertaking-relinquisher	सर्वfirst part of a compound (pronoun)all(a)whole; entire; all; everyआरम्भfirst part of a compoundundertakingundertaking; beginning; a thing begun; originपरित्यागी  (परित्यागिन्)adjective, masculine nominative singularrenouncingleaving; quitting; forsaking; renouncing (mostly ifc.)
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	मद्भक्तः	मद्-भक्तःmy-devotee	मद्first part of a compound (pronoun)mineI; weभक्तः  (भक्त)noun, masculine nominative singularBhaktaa worshipper; votary (esp. as name of a division of the Shâktas)
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicher
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularII; we
+T	प्रियः	प्रियःdear	प्रियः  (प्रिय)adjective, masculine nominative singulardearbeloved; dear to; liked; favourite
+V	12.17		He who neither loveth nor hateth, nor grieveth, nor desireth, renouncing good and evil, full of devotion, he is dear to Me.		योनहृष्यतिनद्वेष्टिनशोचतिनकाङ्क्षति~।शुभाशुभपरित्यागीभक्तिमान्यःसमेप्रियः~॥ १७ ॥	14
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	हृष्यति	हृष्यतिrejoices	हृष्यति  (हृष्)verb: present 3rd person singularrejoiceto thrill with rapture; to rejoice; to exult; to be glad or pleased
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	द्वेष्टि	द्वेष्टिhates	द्वेष्टि  (द्विष्)verb: present 3rd person singularhateto hate; to show hatred against; to be hostile or unfriendly; to be a rival or a match for
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	शोचति	शोचतिgrieves	शोचति  (शुच्)verb: present 3rd person singularmournto shine; to gleam; to glow; to burn
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	काङ्क्षति	काङ्क्षतिdesires	काङ्क्षति  (काङ्क्ष्)verb: present 3rd person singulardesireto wish; to desire; to long for; to hope for (with acc.)
+T	शुभाशुभपरित्यागी	शुभ-अशुभ-परित्यागीauspicious-evil-relinquisher	शुभfirst part of a compound (adjective)goodsplendid; bright; beautiful; pleasantअशुभfirst part of a compound (adjective)badnot beautiful or agreeable; disagreeable; inauspicious; badपरित्यागी  (परित्यागिन्)adjective, masculine nominative singularrenouncingleaving; quitting; forsaking; renouncing (mostly ifc.)
+T	भक्तिमान्यः	भक्तिमान्devotedयःwho	भक्तिमान्  (भक्तिमत्)adjective, masculine nominative singulardevoteddevoted toयः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicher
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularmineI; we
+T	प्रियः	प्रियःdear	प्रियः  (प्रिय)adjective, masculine nominative singulardearbeloved; dear to; liked; favourite
+V	12.18		Alike to foe and friend, and also in fame and ignominy, alike in cold and heat, pleasures and pains, destitute of attachment,		समःशत्रौचमित्रेचतथामानपमानयोः~।शीतोष्णसुखदुःखेषुसमःसङ्गविवर्जितः~॥ १८ ॥	10
+T	समः	समःequal	समः  (सम)pronoun, masculine nominative singularimpartialeven; flat; level; parallel
+T	शत्रौ	शत्रौin enemy	शत्रौ  (शत्रु)noun, masculine locative singularenemyan enemy; foe; rival; a hostile king (esp. a neighbouring king as a natural enemy)
+T	च	चand	चconjunctionandand; both; also; moreover
+T	मित्रे	मित्रेin friend	मित्रे  (मित्र)noun, masculine locative singularfrienda friend; companion; name of an Âditya (generally invoked together with Varuna); the sun
+T	च	चand	चconjunctionandand; both; also; moreover
+T	तथा	तथाlikewise	तथाadverbsoin that manner; so; thus; yes
+T	मानपमानयोः	मान-अवमानयोःin honour-dishonours	मानfirst part of a compoundhonoropinion; notion; conception; ideaअवमानयोः  (अवमान)noun, masculine locative dualdishonordisrespect; dishonour; ignominy; contempt
+T	शीतोष्णसुखदुःखेषु	शीत-उष्ण-सुख-दुःखेषुin cold-heat-happiness-pains	शीतfirst part of a compoundcoldnesscold; coldness; cold weather; cold waterउष्णfirst part of a compoundhotnessheat; warmth; the hot season; any hot objectसुखfirst part of a compoundjoyease; easiness; comfort; prosperityदुःखेषु  (दुःख)noun, neuter locative pluralsorrowuneasiness; pain; sorrow; trouble
+T	समः	समःequal	समः  (सम)pronoun, masculine nominative singularimperturbableeven; flat; level; parallel
+T	सङ्गविवर्जितः	सङ्ग-विवर्जितःattachment-avoided	सङ्गfirst part of a compoundattachmentsticking; clinging to; touch; contact withविवर्जितः  (विवर्जय्)participle, masculine nominative singularrefrain fromto exclude; to avoid; to shun; to abandon
+V	12.19		Taking equally praise and reproach, silent, wholly content with what cometh, homeless, firm in mind, full of devotion, that man is dear to Me.		तुल्यनिन्दास्तुतिर्मौनीसन्तुष्टोयेनकेनचित्~।अनिकेतःस्थिरमतिर्भक्तिमान्मेप्रियोनरः~॥ १९ ॥	7
+T	तुल्यनिन्दास्तुतिर्मौनी	तुल्य-निन्दा-स्तुतिःequal-blame-praiseमौनीtaciturn	तुल्यfirst part of a compound (adjective)equalequal to; of the same kind or class or number or value; similar; comparableनिन्दाfirst part of a compoundblameblame; censure; reproach; revilingस्तुतिः  (स्तुति)noun, masculine nominative singularpraisepraise; eulogy; panegyric; commendationमौनी  (मौनिन्)adjective, masculine nominative singulartaciturnobserving silence; silent; taciturn
+T	सन्तुष्टो	संतुष्टःcontent	संतुष्टः  (संतुष्)participle, masculine nominative singularrejoiceto feel satisfied; to have great pleasure in
+T	येनकेनचित्	येनby whichकेनचिद्someone	येन  (यद्)pronoun, neuter instrumental singularwhichwhat; which; whoकेनचिद्  (कश्चित्)pronoun, neuter instrumental singularany(a)someone; something; any
+T	अनिकेतः	अनिकेतःdispossessed	अनिकेतः  (अनिकेत)adjective, masculine nominative singulardispossessedhouseless
+T	स्थिरमतिर्भक्तिमान्मे	स्थिर-मतिःsteady-mindभक्तिमान्devotedमेmy	स्थिरfirst part of a compound (adjective)firmfirm; hard; solid; compactमतिः  (मति)noun, masculine nominative singulardecisiondevotion; prayer; worship; hymnभक्तिमान्  (भक्तिमत्)adjective, masculine nominative singulardevoteddevoted toमे  (मद्)pronoun, genitive singularII; we
+T	प्रियो	प्रियःdear	प्रियः  (प्रिय)adjective, masculine nominative singulardearbeloved; dear to; liked; favourite
+T	नरः	नरःman	नरः  (नर)noun, masculine nominative singularmana man; a male; a person; husband
+V	12.20		They verily who partake of this life-giving wisdom as taught herein, endued with faith, I their supreme Object, devotees, they are surpassingly dear to Me.	Amrita-Dharma.	येतुधर्म्यामृतमिदंयथोक्तंपर्युपासते~।श्रद्दधानामत्परमाभक्तास्तेऽतीवमेप्रियाः~॥ २० ॥	10
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	तु	तुbut	तुparticlebutdo; now; then; but
+T	धर्म्यामृतमिदं	धर्म्य-अमृतम्righteous-immortalइदम्this	धर्म्यfirst part of a compound (adjective)lawfullegal; legitimate; usual; customaryअमृतम्  (अमृत)noun, neuter accusative singularambrosiacollective body of immortals; world of immortality; heaven; eternityइदम्pronoun, neuter accusative singularthisthis; (near deictic pronoun in Vedic)
+T	यथोक्तं	यथाasउक्तम्said	यथाparticleasaccording; as; likeउक्तम्  (वच्)participle, neuter accusative singulardescribeto speak; to say; to tell; to declare
+T	पर्युपासते	पर्युपासतेworships	पर्युपासते  (पर्युपास्)verb: present 3rd person singularworshipto sit round; to surround; to encompass; to be present at
+T	श्रद्दधाना	श्रद्दधानाःfaithing	श्रद्दधानाः  (श्रद्धा)present participle, masculine nominative pluralbelieveto have faith or faithfulness; to have belief or confidence; to believe; to be true or trustful
+T	मत्परमा	मद्-परमाःmy-supreme	मद्first part of a compound (pronoun)II; weपरमाः  (परम)adjective, masculine nominative pluraldevoted(p)remotest; extreme; last; chief
+T	भक्तास्तेऽतीव	भक्ताःdevoteesतेtheyअतीवvery	भक्ताः  (भक्त)noun, masculine nominative pluralBhaktaa worshipper; votary (esp. as name of a division of the Shâktas)ते  (तद्)pronoun, masculine nominative pluralhe,she,it (pers. pron.)this; gleicherअतीवadverbveryexceedingly; very; excessively; too
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularII; we
+T	प्रियाः	प्रियाःdear	प्रियाः  (प्रिय)adjective, masculine nominative pluraldearbeloved; dear to; liked; favourite
+V	13.1	Arjuna said:	Matter and Spirit, even the Field and the Knower of the Field, wisdom and that which ought to be known, these I fain would learn, O Keshava.	Prakriti and Purusha.	अर्जुनउवाच~।प्रकृतिंपुरुषंचैवक्षेत्रंक्षेत्रज्ञमेवच~।एतद्वेदितुमिच्छामिज्ञानंज्ञेयंचकेशव~॥ १ ॥	13
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	प्रकृतिं	प्रकृतिम्nature	प्रकृतिम्  (प्रकृति)noun, feminine accusative singularthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; origin
+T	पुरुषं	पुरुषम्person	पुरुषम्  (पुरुष)noun, masculine accusative singularmana man; male; human being (people); a person
+T	चैव	चandएवindeed	चconjunctionandand; both; also; moreoverएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	क्षेत्रं	क्षेत्रम्field	क्षेत्रम्  (क्षेत्र)noun, neuter nominative singularlanded property; land; soil; name of a kind of tutelary deity
+T	क्षेत्रज्ञमेव	क्षेत्रज्ञमेव	
+T	च	चand	चconjunctionandand; both; also; moreover
+T	एतद्वेदितुमिच्छामि	एतद्वेदितुमिच्छामि	
+T	ज्ञानं	ज्ञानम्knowledge	ज्ञानम्  (ज्ञान)noun, neuter accusative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	ज्ञेयं	ज्ञेयम्to be known	ज्ञेयम्  (ज्ञा)gerundive (to be ...), neuter nominative singularto know; to have knowledge; to become acquainted with; to perceive
+T	च	चand	चconjunctionandand; both; also; moreover
+T	केशव	केशवO Keshava	केशवnoun, masculine vocative singularKrishnaname of Vishnu or Krishna; name of the month Mârgashîrsha; Rottleria tinctoria; name of the author of a lexicon called Kalpadru

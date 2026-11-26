@@ -1,0 +1,83 @@
+V	18.62		Flee unto Him for shelter with all thy being, O Bhârata; by His grace thou shalt obtain supreme peace, the everlasting dwelling-place.		तमेवशरणंगच्छसर्वभावेनभारत~।तत्प्रसादात्परांशान्तिंस्थानंप्राप्स्यसिशाश्वतम्~॥ ६२ ॥	10
+T	तमेव	तम्himएवindeed	तम्  (तद्)pronoun, masculine accusative singularthis; gleicherएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	शरणं	शरणम्refuge	शरणम्  (शरण)noun, neuter accusative singularshelter; place of shelter or refuge or rest; hut; house
+T	गच्छ	गच्छgo!	गच्छ  (गम्)verb: present imperative 2nd person singularto go; to move; to approach; to understand
+T	सर्वभावेन	सर्व-भावेनwith all-state	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभावेन  (भाव)noun, masculine instrumental singularbecoming; being; existing; occurring
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+T	तत्प्रसादात्परां	तद्-प्रसादात्from that-serenityपराम्supreme	तद्first part of a compound (pronoun)this; gleicherप्रसादात्  (प्रसाद)noun, masculine ablative singularclearness; brightness; pellucidnees; purityपराम्  (पर)pronoun, feminine accusative singularfar; remote; opposite; previous
+T	शान्तिं	शान्तिम्peace	शान्तिम्  (शान्ति)noun, feminine accusative singulartranquillity; peace; quiet; peace or calmness of mind
+T	स्थानं	स्थानम्place	स्थानम्  (स्थान)noun, neuter accusative singularthe act of standing; standing firmly; being fixed or stationary; position or posture of the body (in shooting etc.)
+T	प्राप्स्यसि	प्राप्स्यसिyou will attain	प्राप्स्यसि  (प्राप्)verb: future 2nd person singularto attain to; to reach; to arrive at; to meet with
+T	शाश्वतम्	शाश्वतम्everlasting	शाश्वतम्  (शाश्वत)adjective, neuter accusative singulareternal; constant; perpetual; all
+V	18.63		Thus hath wisdom, more secret than secrecy itself, been declared unto thee by Me; having reflected on it fully, then act thou as thou listest.		इतितेज्ञानमाख्यातंगुह्याद्‌गुह्यतरंमया~।विमृश्यैतदशेषेणयथेच्छसितथाकुरु~॥ ६३ ॥	9
+T	इति	इतिthus	इतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	ते	तेfor you	ते  (त्वद्)pronoun, dative singularyou
+T	ज्ञानमाख्यातं	ज्ञानम्knowledgeआख्यातम्beheld	ज्ञानम्  (ज्ञान)noun, neuter nominative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)आख्यातम्  (आख्या)participle, neuter nominative singularto behold; to tell; to communicate; to inform
+T	गुह्याद्‌गुह्यतरं	गुह्यात्secretगुह्यतरम्more secret	गुह्यात्  (गुह्य)adjective, neuter ablative singularto be covered or concealed or hidden or kept secret; concealable; private; secretगुह्यतरम्  (गुह्यतर)adjective, neuter nominative singularmore secret; very secret
+T	मया	मयाby me	मया  (मद्)pronoun, instrumental singularI; we
+T	विमृश्यैतदशेषेण	विमृश्यhaving touchedएतत्thisअशेषेणcompletely	विमृश्य  (विमृश्)absolutive (having ...)to touch (with the hands); to stroke; to feel; to touch (mentally)एतत्  (एतद्)pronoun, neuter accusative singularthisअशेषेणadverbwholly; totally
+T	यथेच्छसि	यथाasइच्छसिyou desire	यथाparticleaccording; as; likeइच्छसि  (इष्)verb: present 2nd person singularto seek for; to desire; to intend; to assent
+T	तथा	तथाlikewise	तथाadverbin that manner; so; thus; yes
+T	कुरु	कुरुdo!	कुरु  (कृ)verb: present imperative 2nd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+V	18.64		Listen thou again to My supreme word, most secret of all; beloved art thou of Me, and steadfast of heart, therefore will I speak for thy benefit.		सर्वगुह्यतमंभूयःशृणुमेपरमंवचः~।इष्टोऽसिमेदृढमितिततोवक्ष्यामितेहितम्~॥ ६४ ॥	13
+T	सर्वगुह्यतमं	सर्व-गुह्यतमम्all-most secret	सर्वfirst part of a compound (pronoun)whole; entire; all; everyगुह्यतमम्  (गुह्यतम)adjective, neuter accusative singularmost secret
+T	भूयः	भूयःagain	भूयः  (भूयस्)adverbagain; further; furthermore; in addition
+T	शृणु	शृणुhear!	शृणु  (श्रु)verb: present imperative 2nd person singularto hear; to listen to; to study
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	परमं	परमम्supreme	परमम्  (परम)adjective, neuter accusative singularremotest; extreme; last; chief
+T	वचः	वचःword	वचः  (वचस्)noun, neuter accusative singularspeech; voice; word; singing
+T	इष्टोऽसि	इष्टःdesiredअसिyou are	इष्टः  (इष्)participle, masculine nominative singularto seek for; to desire; to intend; to assentअसि  (अस्)verb: present 2nd person singularto be; to live; to exist; to be present
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	दृढमिति	दृढम्intensivelyइतिthus	दृढम्adverbintensivelyइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	ततो	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	वक्ष्यामि	वक्ष्यामिI will say	वक्ष्यामि  (वच्)verb: future 1st person singularto speak; to say; to tell; to declare
+T	ते	तेfor you	ते  (त्वद्)pronoun, dative singularyou
+T	हितम्	हितम्welfare	हितम्  (हित)adjective, neuter accusative singularput; laid upon; situated in; established
+V	18.65		Merge thy mind in Me, be my devotee, sacrifice to Me, prostrate thyself before Me, thou shalt come even to Me. I pledge thee My troth; thou art dear to Me.	Manah.	मन्मनाभवमद्भक्तोमद्याजीमांनमस्कुरु~।मामेवैष्यसिसत्यंतेप्रतिजानेप्रियोऽसिमे~॥ ६५ ॥	12
+T	मन्मना	मद्-मनाःmy-mind	मद्first part of a compound (pronoun)I; weमनाः  (मनस्)noun, masculine nominative singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	भव	भवbe!	भव  (भू)verb: present imperative 2nd person singularto be; to become; to come into being; to happen
+T	मद्भक्तो	मद्-भक्तःmy-devotee	मद्first part of a compound (pronoun)I; weभक्तः  (भक्त)noun, masculine nominative singulara worshipper; votary (esp. as name of a division of the Shâktas)
+T	मद्याजी	मद्-याजीmy-worshipper	मद्first part of a compound (pronoun)I; weयाजी  (याजिन्)adjective, masculine nominative singular(mostly ifc.) worshipping; sacrificing; a sacrificer
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	नमस्कुरु	नमस्कुरुbow to!	नमस्कुरु  (नमस्कृ)verb: present imperative 2nd person singularto worship; to salute; verehren; huldigen
+T	मामेवैष्यसि	माम्meएवindeedएष्यसिyou will go	माम्  (मद्)pronoun, accusative singularI; weएवparticleso; just so; exactly so (in the sense of the later evam); indeedएष्यसि  (इ)verb: future 2nd person singularto go; to walk; to flow; to blow
+T	सत्यं	सत्यम्truth	सत्यम्  (सत्य)noun, neuter accusative singulartruth; sincerity; vow; dogma
+T	ते	तेfor you	ते  (त्वद्)pronoun, dative singularyou
+T	प्रतिजाने	प्रतिजानेI promise	प्रतिजाने  (प्रतिज्ञा)verb: present 1st person singularpromiseto admit; to acknowledge; to consent to; to promise
+T	प्रियोऽसि	प्रियःdearअसिyou are	प्रियः  (प्रिय)adjective, masculine nominative singularbeloved; dear to; liked; favouriteअसि  (अस्)verb: present 2nd person singularto be; to live; to exist; to be present
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+V	18.66		Abandoning all duties come unto Me alone for shelter; sorrow not, I will liberate thee from all sins.	Dharmas.	सर्वधर्मान्परित्यज्यमामेकंशरणंव्रज~।अहंत्वांसर्वपापेभ्योमोक्षयिष्यामिमाशुचः~॥ ६६ ॥	10
+T	सर्वधर्मान्परित्यज्य	सर्व-धर्मान्all-dharmasपरित्यज्यhaving abandoned	सर्वfirst part of a compound (pronoun)whole; entire; all; everyधर्मान्  (धर्म)noun, masculine accusative pluralthat which is established or firm; steadfast decree; statute; ordinanceपरित्यज्य  (परित्यज्)absolutive (having ...)to leave; to quit; to abandon; to give up
+T	मामेकं	माम्meएकम्one	माम्  (मद्)pronoun, accusative singularI; weएकम्  (एक)number, masculine accusative singularone; alone; happening only once; single of its kind
+T	शरणं	शरणम्refuge	शरणम्  (शरण)noun, neuter accusative singularshelter; place of shelter or refuge or rest; hut; house
+T	व्रज	व्रजgo!	व्रज  (व्रज्)verb: present imperative 2nd person singularto go; to walk; to proceed; to travel
+T	अहं	अहम्I	अहम्  (मद्)pronoun, nominative singularI; we
+T	त्वां	त्वाyou	त्वा  (त्वद्)pronoun, accusative singularyou
+T	सर्वपापेभ्यो	सर्व-पापेभ्यःfrom all-sins	सर्वfirst part of a compound (pronoun)whole; entire; all; everyपापेभ्यः  (पाप)noun, neuter ablative pluralevil; misfortune; ill-luck; trouble
+T	मोक्षयिष्यामि	मोक्षयिष्यामिI will liberate	मोक्षयिष्यामि  (मोक्षय्)verb: future 1st person singularto liberate; to free; to remove
+T	मा	माnot	माparticlenotnot
+T	शुचः	शुचःgrieve	शुचः  (शुच्)verb: perfect injunctive 2nd person singulargrieveto shine; to gleam; to glow; to burn
+V	18.67		Never is this to be spoken by thee to anyone who is without asceticism, nor without devotion, nor to one who desireth not to listen, nor yet to him who speaketh evil of Me.		इदंतेनातपस्कायनाभक्तायकदाचन~।नचाशुश्रूषवेवाच्यंनचमांयोऽभ्यसूयति~॥ ६७ ॥	12
+T	इदं	इदम्this	इदम्pronoun, neuter nominative singularthis; (near deictic pronoun in Vedic)
+T	ते	तेfor you	ते  (त्वद्)pronoun, dative singularyou
+T	नातपस्काय	नnotअतपस्कायone who neglects tapas	नparticlenot; no; nor; neitherअतपस्काय  (अतपस्क)adjective, masculine dative singularone who neglects tapas or the practice of ascetic austerities
+T	नाभक्ताय	नnotअभक्तायnot received as a share	नparticlenot; no; nor; neitherअभक्ताय  (अभक्त)adjective, masculine dative singularnot received as a share; not attached to; detached; unconnected with
+T	कदाचन	कदाचनever	कदाचनadverbever; sometimes; at any time
+T	न	नnot	नparticlenot; no; nor; neither
+T	चाशुश्रूषवे	चandअशुश्रूषवेdisobedient	चconjunctionand; both; also; moreoverअशुश्रूषवे  (अशुश्रूषु)adjective, masculine dative singulardisobedientnot desirous of hearing or learning; disobedient towards (gen.)
+T	वाच्यं	वाच्यम्to be said	वाच्यम्  (वच्)gerundive (to be ...), neuter nominative singularto speak; to say; to tell; to declare
+T	न	नnot	नparticlenot; no; nor; neither
+T	च	चand	चconjunctionand; both; also; moreover
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	योऽभ्यसूयति	यःwhoअभ्यसूयतिshows indignation	यः  (यद्)pronoun, masculine nominative singularwhat; which; whoअभ्यसूयति  (अभ्यसूय्)verb: present 3rd person singularto show indignation; to be indignant at
+V	18.68		He who shall declare this supreme secret among My devotees, having shown the highest devotion for Me, without doubt he shall come to Me.	Some read "asamsayah," which would mean "being freed from doubts."	यइदंपरमंगुह्यंमद्भक्तेष्वभिधास्यति~।भक्तिंमयिपरांकृत्वामामेवैष्यत्यसंशयम्~॥ ६८ ॥	10
+T	य	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	इदं	इदम्this	इदम्pronoun, neuter accusative singularthis; (near deictic pronoun in Vedic)
+T	परमं	परमम्supreme	परमम्  (परम)adjective, neuter accusative singularremotest; extreme; last; chief
+T	गुह्यं	गुह्यम्secret	गुह्यम्  (गुह्य)noun, neuter accusative singulara secret; mystery; the pudenda; the anus
+T	मद्भक्तेष्वभिधास्यति	मद्-भक्तेषुin my-devoteesअभिधास्यतिwill call	मद्first part of a compound (pronoun)I; weभक्तेषु  (भक्त)noun, masculine locative plurala worshipper; votary (esp. as name of a division of the Shâktas)अभिधास्यति  (अभिधा)verb: future 3rd person singularto surrender any one to; to bring upon (dat.); to put on the furniture of a horse; to cover (a country) with an army
+T	भक्तिं	भक्तिम्devotion	भक्तिम्  (भक्ति)noun, feminine accusative singulardistribution; partition; separation; a division
+T	मयि	मयिin me	मयि  (मद्)pronoun, locative singularI; we
+T	परां	पराम्supreme	पराम्  (पर)pronoun, feminine accusative singularfar; remote; opposite; previous
+T	कृत्वा	कृत्वाhaving done	कृत्वा  (कृ)absolutive (having ...)to make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	मामेवैष्यत्यसंशयम्	माम्meएवindeedएष्यतिwill goअसंशयःcertain	माम्  (मद्)pronoun, accusative singularI; weएवparticleso; just so; exactly so (in the sense of the later evam); indeedएष्यति  (इ)verb: future 3rd person singularto go; to walk; to flow; to blowअसंशयः  (असंशय)adjective, masculine nominative singularcertain; sure

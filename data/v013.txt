@@ -1,0 +1,77 @@
+V	2.34		Men will recount thy perpetual dishonour, and, to one highly esteemed, dishonour exceedeth death.		अकीर्तिंचापिभूतानिकथयिष्यन्तितेऽव्ययाम्~।सम्भावितस्यचाकीर्तिर्मरणादतिरिच्यते~॥ ३४ ॥	7
+T	अकीर्तिं	अकीर्तिम्ill-fame	अकीर्तिम्  (अकीर्ति)noun, feminine accusative singularill-fame; disgrace
+T	चापि	चandअपिalso	चconjunctionand; both; also; moreoverअपिparticlealso; moreover; besides; assuredly
+T	भूतानि	भूतानिbeings	भूतानि  (भूत)noun, neuter nominative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	कथयिष्यन्ति	कथयिष्यन्तिwill tell	कथयिष्यन्ति  (कथय्)verb: future 3rd person pluralto call; to name; to tell; to designate
+T	तेऽव्ययाम्	तेyourअव्ययाम्imperishable	ते  (त्वद्)pronoun, genitive singularyouअव्ययाम्  (अव्यय)adjective, feminine accusative singularnot liable to change; imperishable; undecaying; parsimonious
+T	सम्भावितस्य	संभावितस्यcaused to be born	संभावितस्य  (सम्भावय्)participle, masculine genitive singularto cause to be born or produced; to effect; to accomplish; to make
+T	चाकीर्तिर्मरणादतिरिच्यते	चandअकीर्तिःill-fameमरणात्from act of dyingअतिरिच्यतेis left with a surplus	चconjunctionand; both; also; moreoverअकीर्तिः  (अकीर्ति)noun, feminine nominative singularill-fame; disgraceमरणात्  (मरण)noun, neuter ablative singularthe act of dying; death; passing away; cessation (as of lightning or rain)अतिरिच्यते  (अतिरिच्)verb: passive present 3rd person singularto be left with a surplus; to surpass (in a good or bad sense with abl. or acc.); to be superior; to predominate
+V	2.35		The great car-warriors will think thee fled fromthe battle from fear, and thou, that wast highly thought of by them, wilt be lightly held.	The generals.	भयाद्रणादुपरतंमंस्यन्तेत्वांमहारथाः~।येषांचत्वंबहुमतोभूत्वायास्यसिलाघवम्~॥ ३५ ॥	11
+T	भयाद्रणादुपरतं	भयात्from fearरणात्from battleउपरतम्ceased	भयात्  (भय)noun, neuter ablative singularfear; alarm; fear of; terrorरणात्  (रण)noun, masculine ablative singulardelight; pleasure; gladness; joyउपरतम्  (उपरम्)participle, masculine accusative singularto cease from motion; to stop; to cease from action; to be inactive or quiet (as a quietist)
+T	मंस्यन्ते	मंस्यन्तेwill think	मंस्यन्ते  (मन्)verb: future 3rd person pluralto think; to believe; to imagine; to suppose
+T	त्वां	त्वाम्you	त्वाम्  (त्वद्)pronoun, accusative singularyou
+T	महारथाः	महा-रथाःgreat-chariots	महा  (महत्)first part of a compound (adjective)great; large; big; hugeरथाः  (रथ)noun, masculine nominative plurala chariot; car; esp. a two-wheeled war-chariot (lighter and swifter than the anas)
+T	येषां	येषाम्whose	येषाम्  (यद्)pronoun, masculine genitive pluralwhat; which; who
+T	च	चand	चconjunctionand; both; also; moreover
+T	त्वं	त्वम्you	त्वम्  (त्वद्)pronoun, nominative singularyou
+T	बहुमतो	बहु-मतःmany-thought	बहुfirst part of a compound (adjective)much; many; abundant; great in quantityमतः  (मन्)participle, masculine nominative singularto think; to believe; to imagine; to suppose
+T	भूत्वा	भूत्वाhaving been	भूत्वा  (भू)absolutive (having ...)to be; to become; to come into being; to happen
+T	यास्यसि	यास्यसिyou will go	यास्यसि  (या)verb: future 2nd person singularto go; to move; to set out; to travel
+T	लाघवम्	लाघवम्swiftness	लाघवम्  (लाघव)noun, neuter accusative singularswiftness; rapidity; speed; alacrity
+V	2.36		Many unseemly words will be spoken by thine enemies, slandering thy strength; what more painful than that?		अवाच्यवादांश्चबहून्वदिष्यन्तितवाहिताः~।निन्दन्तस्तवसामर्थ्यंततोदुःखतरंनुकिम्~॥ ३६ ॥	9
+T	अवाच्यवादांश्च	अवाच्य-वादान्not to be addressed-talksचand	अवाच्यfirst part of a compound (adjective)not to be addressed; not distinctly expressed; reproachable; not reproachableवादान्  (वाद)noun, masculine accusative pluralspeech; discourse; talk; utteranceचconjunctionand; both; also; moreover
+T	बहून्वदिष्यन्ति	बहून्manyवदिष्यन्तिwill speak	बहून्  (बहु)adjective, masculine accusative pluralmuch; many; abundant; great in quantityवदिष्यन्ति  (वद्)verb: future 3rd person pluralto speak; to say; to tell; to talk with
+T	तवाहिताः	तवyourअहिताःunfit	तव  (त्वद्)pronoun, genitive singularyouअहिताः  (अहित)adjective, masculine nominative pluralunfit; improper; unadvantageous; noxious
+T	निन्दन्तस्तव	निन्दन्तःblamingतवyour	निन्दन्तः  (निन्द्)present participle, masculine nominative pluralto blame; to censure; to revile; to despiseतव  (त्वद्)pronoun, genitive singularyou
+T	सामर्थ्यं	सामर्थ्यम्sameness of aim	सामर्थ्यम्  (सामर्थ्य)noun, neuter accusative singularsameness of aim or object or meaning or signification; belonging or agreeing together (in aim); adequacy; accordance
+T	ततो	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	दुःखतरं	दुःखतरम्more difficult	दुःखतरम्  (दुःखतर)adjective, neuter nominative singularmore difficult; worse; more painful
+T	नु	नुnow	नुparticlenow
+T	किम्	किम्what	किम्  (क)pronoun, neuter nominative singularwho?; what?
+V	2.37		Slain, thou wilt obtain heaven; victorious, thou wilt enjoy the earth; therefore stand up, O son of Kuntî, resolute to fight.		हतोवाप्राप्स्यसिस्वर्गंजित्वावाभोक्ष्यसेमहीम्~।तस्मादुत्तिष्ठकौन्तेययुद्धायकृतनिश्चयः~॥ ३७ ॥	12
+T	हतो	हतःslain	हतः  (हन्)participle, masculine nominative singularto strike; to beat; to pound; to hammer
+T	वा	वाor	वाconjunctioneither - or; on the one side - on the other side; optionally
+T	प्राप्स्यसि	प्राप्स्यसिyou will attain	प्राप्स्यसि  (प्राप्)verb: future 2nd person singularto attain to; to reach; to arrive at; to meet with
+T	स्वर्गं	स्वर्गम्heaven	स्वर्गम्  (स्वर्ग)noun, masculine accusative singularheaven; the abode of light and of the gods; heavenly bliss; Indra's heaven or paradise
+T	जित्वा	जित्वाhaving conquered	जित्वा  (जि)absolutive (having ...)to win or aquire; to conquer (in a battle); to defeat; to surpass
+T	वा	वाor	वाconjunctioneither - or; on the one side - on the other side; optionally
+T	भोक्ष्यसे	भोक्ष्यसेyou will enjoy	भोक्ष्यसे  (भुज्)verb: future 2nd person singularto enjoy; to use; to eat; to consume
+T	महीम्	महीम्earth	महीम्  (मही)noun, feminine accusative singularthe earth; soil; land; country
+T	तस्मादुत्तिष्ठ	तस्मात्thereforeउत्तिष्ठstand up!	तस्मात्adverbthereforeउत्तिष्ठ  (उत्था)verb: present imperative 2nd person singularto stand up; to spring up; to rise; to raise one's self
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularmetron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	युद्धाय	युद्धायfor battle	युद्धाय  (युद्ध)noun, neuter dative singularfight; war; (in astron.) opposition; conflict of the planets
+T	कृतनिश्चयः	कृत-निश्चयःdone-certainty	कृत  (कृ)first part of a compound (verb)to make like or similar; to consider equivalent; to reduce anything to; to cause to becomeनिश्चयः  (निश्चय)noun, masculine nominative singularinquiry; ascertainment; fixed opinion; conviction
+V	2.38		Taking as equal pleasure and pain, gain and loss, victory and defeat, gird thee for the battle; thus thou shalt not incur sin.		सुखदुःखेसमेकृत्वालाभालाभौजयाजयौ~।ततोयुद्धाययुज्यस्वनैवंपापमवाप्स्यसि~॥ ३८ ॥	10
+T	सुखदुःखे	सुख-दुःखेhappiness-pains	सुखfirst part of a compoundease; easiness; comfort; prosperityदुःखे  (दुःख)noun, neuter accusative dualuneasiness; pain; sorrow; trouble
+T	समे	समेequal	समे  (सम)pronoun, neuter accusative dualeven; flat; level; parallel
+T	कृत्वा	कृत्वाhaving done	कृत्वा  (कृ)absolutive (having ...)to make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	लाभालाभौ	लाभ-अलाभौgain-non-acquirements	लाभfirst part of a compoundmeeting with; finding; obtaining; gettingअलाभौ  (अलाभ)noun, masculine accusative dualnon-acquirement; want; deficiency; loss (in selling goods)
+T	जयाजयौ	जय-अजयौconquest-non-victories	जयfirst part of a compoundconquest; victory; triumph; winningअजयौ  (अजय)noun, masculine accusative dualnon-victory; defeat; name of a lexicographer; name of a river
+T	ततो	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	युद्धाय	युद्धायfor battle	युद्धाय  (युद्ध)noun, neuter dative singularfight; war; (in astron.) opposition; conflict of the planets
+T	युज्यस्व	युज्यस्वlet it be harmonized	युज्यस्व  (युज्)verb: passive present imperative 2nd person singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	नैवं	नnotएवम्thus	नparticlenot; no; nor; neitherएवम्adverbthus; in this way; in such a manner; such
+T	पापमवाप्स्यसि	पापम्sinअवाप्स्यसिyou will attain	पापम्  (पाप)noun, neuter accusative singularevil; misfortune; ill-luck; troubleअवाप्स्यसि  (अवाप्)verb: future 2nd person singularto reach; to attain; to obtain; to gain
+V	2.39		This teaching set forth to thee is in accordance with the Sânkhya; hear it now according to the Yoga, imbued with which teaching, O Pârtha, thou shalt cast away the bonds of action.	One of the six systems of Indian philosophy dealing with evolution.Another of the same systems, dealing with meditation.	एषातेऽभिहितासाङ्ख्येबुद्धिर्योगेत्विमांशृणु~।बुद्ध्यायुक्तोययापार्थकर्मबन्धंप्रहास्यसि~॥ ३९ ॥	12
+T	एषा	एषाthis	एषा  (एतद्)pronoun, feminine nominative singularthis
+T	तेऽभिहिता	तेyourअभिहिताcalled	ते  (त्वद्)pronoun, genitive singularyouअभिहिता  (अभिधा)participle, feminine nominative singularto surrender any one to; to bring upon (dat.); to put on the furniture of a horse; to cover (a country) with an army
+T	साङ्ख्ये	सांख्येin Sankhya	सांख्ये  (सांख्य)noun, neuter locative singularname of one of the three great divisions of Hindû philosophy
+T	बुद्धिर्योगे	बुद्धिःintellectयोगेin yoga	बुद्धिः  (बुद्धि)noun, feminine nominative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectयोगे  (योग)noun, masculine locative singularthe act of yoking; joining; attaching; harnessing
+T	त्विमां	तुbutइमाम्this	तुparticledo; now; then; butइमाम्  (इदम्)pronoun, feminine accusative singularthis; (near deictic pronoun in Vedic)
+T	शृणु	शृणुhear!	शृणु  (श्रु)verb: present imperative 2nd person singularto hear; to listen to; to study
+T	बुद्ध्या	बुद्ध्याwith intellect	बुद्ध्या  (बुद्धि)noun, feminine instrumental singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	युक्तो	युक्तःharmonized	युक्तः  (युज्)participle, masculine nominative singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	यया	ययाby whom	यया  (यद्)pronoun, feminine instrumental singularwhat; which; who
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	कर्मबन्धं	कर्म-बन्धम्action-bondage	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessबन्धम्  (बन्ध)noun, masculine accusative singularbinding; tying; a bond; tie
+T	प्रहास्यसि	प्रहास्यसिyou will cast off	प्रहास्यसि  (प्रहा)verb: future 2nd person singularto leave; to desert; to quit; to abandon
+V	2.40		In this there is no loss of effort, nor is there transgression. Even a little of this knowledge protects from great fear.	Dharma.	नेहाभिक्रमनाशोऽस्तिप्रत्यवायोनविद्यते~।स्वल्पमप्यस्यधर्मस्यत्रायतेमहतोभयात्~॥ ४० ॥	9
+T	नेहाभिक्रमनाशोऽस्ति	नnotइहhereअभिक्रम-नाशःstepping near-lossअस्तिis	नparticlenot; no; nor; neitherइहadverbin this place; here; to this place; in this worldअभिक्रमfirst part of a compoundstepping near; approaching; assault; attackनाशः  (नाश)noun, masculine nominative singularthe being lost; loss; disappearance; destructionअस्ति  (अस्)verb: present 3rd person singularto be; to live; to exist; to be present
+T	प्रत्यवायो	प्रत्यवायःdecrease	प्रत्यवायः  (प्रत्यवाय)noun, masculine nominative singulardecrease; diminution; reverse; contrary course
+T	न	नnot	नparticlenot; no; nor; neither
+T	विद्यते	विद्यतेis known	विद्यते  (विद्)verb: passive present 3rd person singularto find; to discover; to meet or fall in with; to obtain
+T	स्वल्पमप्यस्य	सुwellअल्पम्smallअपिalsoअस्यof this	सुadverb[ibc.] good-; [ibc.] very; quite; feinअल्पम्  (अल्प)adjective, neuter nominative singularsmall; minute; trifling; littleअपिparticlealso; moreover; besides; assuredlyअस्य  (इदम्)pronoun, masculine genitive singularthis; (near deictic pronoun in Vedic)
+T	धर्मस्य	धर्मस्यof dharma	धर्मस्य  (धर्म)noun, masculine genitive singularthat which is established or firm; steadfast decree; statute; ordinance
+T	त्रायते	त्रायतेprotects	त्रायते  (त्रा)verb: present 3rd person singularto protect; to preserve; to cherish; to defend
+T	महतो	महतःgreat	महतः  (महत्)adjective, neuter ablative singulargreat; large; big; huge
+T	भयात्	भयात्from fear	भयात्  (भय)noun, neuter ablative singularfear; alarm; fear of; terror

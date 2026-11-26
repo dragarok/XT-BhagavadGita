@@ -1,0 +1,70 @@
+V	13.15		Shining with all sense-faculties without any senses; unattached supporting everything and free from qualities enjoying qualities;	Gunas.Gunas.	सर्वेन्द्रियगुणाभासंसर्वेन्द्रियविवर्जितम्~।असक्तंसर्वभृच्चैवनिर्गुणंगुणभोक्तृच~॥ १५ ॥	7
+T	सर्वेन्द्रियगुणाभासं	सर्व-इन्द्रिय-गुण-आभासम्all-sense-quality-splendour	सर्वfirst part of a compound (pronoun)whole; entire; all; everyइन्द्रियfirst part of a compoundpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerगुणfirst part of a compounda single thread or strand of a cord or twine; string or thread; rope; a garlandआभासम्  (आभास)noun, neuter nominative singularsplendour; light; colour; appearance
+T	सर्वेन्द्रियविवर्जितम्	सर्व-इन्द्रिय-विवर्जितम्all-sense-avoided	सर्वfirst part of a compound (pronoun)whole; entire; all; everyइन्द्रियfirst part of a compoundpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerविवर्जितम्  (विवर्जय्)participle, neuter nominative singularto exclude; to avoid; to shun; to abandon
+T	असक्तं	असक्तम्not clung	अnegative prefixnotnot; un-; in-सक्तम्  (सञ्ज्)participle, neuter nominative singularto cling or stick or adhere to; to be attached to or engaged in or occupied with; to be attached or fastened; to adhere
+T	सर्वभृच्चैव	सर्व-भृत्all-bearingचandएवindeed	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभृत्adjective, neuter nominative singularbearing; carrying; bringing; procuringचconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	निर्गुणं	निर्गुणम्having no qualities	निर्गुणम्  (निर्गुण)adjective, neuter nominative singularhaving no qualities; having no cord; bad; vicious
+T	गुणभोक्तृ	गुण-भोक्तृquality-enjoyer	गुणfirst part of a compounda single thread or strand of a cord or twine; string or thread; rope; a garlandभोक्तृadjective, neuter nominative singularenjoying; eating
+T	च	चand	चconjunctionand; both; also; moreover
+V	13.16		Without and within all beings, immovable and also movable; by reason of His subtlety imperceptible; at hand and far away is That.		बहिरन्तश्चभूतानामचरंचरमेवच~।सूक्ष्मत्वात्तदविज्ञेयंदूरस्थंचान्तिकेचतत्~॥ १६ ॥	9
+T	बहिरन्तश्च	बहिःforthअन्तःwithinचand	बहिः  (बहिस्)adverbforth; outwards; outside (a house); apart fromअन्तः  (अन्तर्)adverbwithin; between; amongst; in the middleचconjunctionand; both; also; moreover
+T	भूतानामचरं	भूतानाम्of beingsअचरम्immovable	भूतानाम्  (भूत)noun, neuter genitive pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personअचरम्  (अचर)adjective, neuter nominative singularimmovable; vegetable
+T	चरमेव	चरम्movingएवindeed	चरम्  (चर)adjective, neuter nominative singularmoving; locomotive (as animals opposed to plants); forming the retinue of any one; movableएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionand; both; also; moreover
+T	सूक्ष्मत्वात्तदविज्ञेयं	सूक्ष्म-त्वात्from subtlenessतत्thatअविज्ञेयम्not to be understood	सूक्ष्मfirst part of a compound (adjective)minute; small; fine; thinत्वात्  (त्व)noun, neuter ablative singular(suffix creating abstract nouns)तत्  (तद्)pronoun, neuter nominative singularthis; gleicherअnegative prefixnotnot; un-; in-विज्ञेयम्  (विज्ञा)gerundive (to be ...), neuter nominative singularto distinguish; to discern; to observe; to investigate
+T	दूरस्थं	दूर-स्थम्distant-abiding	दूरfirst part of a compound (adjective)distant; far; remote; long (away)स्थम्  (स्थ)adjective, neuter nominative singularstanding; staying; abiding; being situated in
+T	चान्तिके	चandअन्तिकेin vicinity	चconjunctionand; both; also; moreoverअन्तिके  (अन्तिक)noun, neuter locative singularvicinity; proximity
+T	च	चand	चconjunctionand; both; also; moreover
+T	तत्	तत्that	तत्  (तद्)pronoun, neuter nominative singularthis; gleicher
+V	13.17		Not divided amid beings, and yet seateddistributively; that is to be known as the supporter of beings; He devours and He generates.		अविभक्तंचभूतेषुविभक्तमिवचस्थितम्~।भूतभर्तृचतज्ज्ञेयंग्रसिष्णुप्रभविष्णुच~॥ १७ ॥	12
+T	अविभक्तं	अविभक्तम्undivided	अविभक्तम्  (अविभक्त)adjective, neuter nominative singularundivided; joint (as co-heirs who have not divided their inheritance); unaltered
+T	च	चand	चconjunctionand; both; also; moreover
+T	भूतेषु	भूतेषुin beings	भूतेषु  (भूत)noun, neuter locative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	विभक्तमिव	विभक्तम्dividedइवlike	विभक्तम्  (विभज्)participle, neuter nominative singularto divide; to distribute; to apportion; to assignइवparticlelike; in the same manner as (in this sense = yathâ); as it were; as if
+T	च	चand	चconjunctionand; both; also; moreover
+T	स्थितम्	स्थितम्stood	स्थितम्  (स्था)participle, neuter nominative singularto stand; to station one's self; to get upon; to stay
+T	भूतभर्तृ	भूत-भर्तृbeing-supporter	भूतfirst part of a compoundthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personभर्तृadjective, neuter nominative singularcarrying; supporting
+T	च	चand	चconjunctionand; both; also; moreover
+T	तज्ज्ञेयं	तत्thatज्ञेयम्to be known	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherज्ञेयम्  (ज्ञा)gerundive (to be ...), neuter nominative singularto know; to have knowledge; to become acquainted with; to perceive
+T	ग्रसिष्णु	ग्रसिष्णुaccustomed to swallow	ग्रसिष्णुadjective, neuter nominative singularaccustomed to swallow or absorb
+T	प्रभविष्णु	प्रभविष्णु= prec	प्रभविष्णुadjective, neuter nominative singular= prec
+T	च	चand	चconjunctionand; both; also; moreover
+V	13.18		That, the Light of all lights, is said to be beyond darkness; Wisdom, the Object of Wisdom, by Wisdom to be reached, seated in the hearts of all.		ज्योतिषामपितज्ज्योतिस्तमसःपरमुच्यते~।ज्ञानंज्ञेयंज्ञानगम्यंहृदिसर्वस्यधिष्ठितम्~॥ १८ ॥	9
+T	ज्योतिषामपि	ज्योतिषाम्of lightsअपिalso	ज्योतिषाम्  (ज्योतिस्)noun, neuter genitive plurallight; brightness (of the sky); fire; flash of lightningअपिparticlealso; moreover; besides; assuredly
+T	तज्ज्योतिस्तमसः	तज्ज्योतिस्तमसः	
+T	परमुच्यते	परम्supremeउच्यतेis said	परम्  (पर)pronoun, neuter nominative singularfar; remote; opposite; previousउच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare
+T	ज्ञानं	ज्ञानम्knowledge	ज्ञानम्  (ज्ञान)noun, neuter nominative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	ज्ञेयं	ज्ञेयम्to be known	ज्ञेयम्  (ज्ञा)gerundive (to be ...), neuter nominative singularto know; to have knowledge; to become acquainted with; to perceive
+T	ज्ञानगम्यं	ज्ञान-गम्यम्knowledge-to be gone	ज्ञानfirst part of a compoundknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)गम्यम्  (गम्)gerundive (to be ...), neuter nominative singularto go; to move; to approach; to understand
+T	हृदि	हृदिin heart	हृदि  (हृद्)noun, neuter locative singularthe heart (as the seat of feelings and emotions); soul; mind (as seat of thought and intellectual operations); breast
+T	सर्वस्य	सर्वस्यall	सर्वस्य  (सर्व)pronoun, masculine genitive singularwhole; entire; all; every
+T	धिष्ठितम्	विष्ठितम्stood apart	विष्ठितम्  (विष्ठा)participle, neuter nominative singularto stand apart; to be spread; to be removed; to stand still
+V	13.19		Thus the Field, Wisdom and the Object of Wisdom, have been briefly told. My devotee, thus knowing, enters into My Being.		इतिक्षेत्रंतथाज्ञानंज्ञेयंचोक्तंसमासतः~।मद्भक्तएतद्विज्ञायमद्भावायोपपद्यते~॥ १९ ॥	10
+T	इति	इतिthus	इतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	क्षेत्रं	क्षेत्रम्field	क्षेत्रम्  (क्षेत्र)noun, neuter nominative singularlanded property; land; soil; name of a kind of tutelary deity
+T	तथा	तथाlikewise	तथाadverbin that manner; so; thus; yes
+T	ज्ञानं	ज्ञानम्knowledge	ज्ञानम्  (ज्ञान)noun, neuter nominative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	ज्ञेयं	ज्ञेयम्to be known	ज्ञेयम्  (ज्ञा)gerundive (to be ...), neuter nominative singularto know; to have knowledge; to become acquainted with; to perceive
+T	चोक्तं	चandउक्तम्said	चconjunctionand; both; also; moreoverउक्तम्  (वच्)participle, neuter nominative singularto speak; to say; to tell; to declare
+T	समासतः	समासतःin a summary manner	समासतः  (समासतस्)adverbin a summary manner; succinctly; concisely
+T	मद्भक्त	मद्-भक्तःmy-devotee	मद्first part of a compound (pronoun)I; weभक्तः  (भक्त)noun, masculine nominative singulara worshipper; votary (esp. as name of a division of the Shâktas)
+T	एतद्विज्ञाय	एतत्thisविज्ञायhaving understood	एतत्  (एतद्)pronoun, neuter accusative singularthisविज्ञाय  (विज्ञा)absolutive (having ...)to distinguish; to discern; to observe; to investigate
+T	मद्भावायोपपद्यते	मद्-भावायfor my-stateउपपद्यतेis fitting	मद्first part of a compound (pronoun)I; weभावाय  (भाव)noun, masculine dative singularbecoming; being; existing; occurringउपपद्यते  (उपपद्)verb: present 3rd person singularto go towards or against; to attack; to approach; to come to
+V	13.20		Know thou that Matter and Spirit are both without beginning; and know thou also that modifications and qualities are all Matter-born.	Prakriti.Purusha.Gunas.Prakriti.	प्रकृतिंपुरुषंचैवविद्ध्यनादीउभावपि~।विकारांश्चगुणांश्चैवविद्धिप्रकृतिसंभवान्~॥ २० ॥	9
+T	प्रकृतिं	प्रकृतिम्nature	प्रकृतिम्  (प्रकृति)noun, feminine accusative singularthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; origin
+T	पुरुषं	पुरुषम्person	पुरुषम्  (पुरुष)noun, masculine accusative singulara man; male; human being (people); a person
+T	चैव	चandएवindeed	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	विद्ध्यनादी	विद्धिknow!अनादीbeginningless	विद्धि  (विद्)verb: present imperative 2nd person singularto know; to understand; to learn; to be conscious ofअनादी  (अनादि)adjective, masculine accusative dualhaving no beginning; existing from eternity
+T	उभावपि	उभौbothअपिalso	उभौ  (उभ्)pronoun, masculine accusative dualbothअपिparticlealso; moreover; besides; assuredly
+T	विकारांश्च	विकारान्changes of formचand	विकारान्  (विकार)noun, masculine accusative pluralchange of form or nature; alteration or deviation from any natural state; transformation; modificationचconjunctionand; both; also; moreover
+T	गुणांश्चैव	गुणान्qualitiesचandएवindeed	गुणान्  (गुण)noun, masculine accusative plurala single thread or strand of a cord or twine; string or thread; rope; a garlandचconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	विद्धि	विद्धिknow!	विद्धि  (विद्)verb: present imperative 2nd person singularto know; to understand; to learn; to be conscious of
+T	प्रकृतिसंभवान्	प्रकृति-संभवान्nature-origins	प्रकृतिfirst part of a compoundthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; originसंभवान्  (सम्भव)noun, masculine accusative pluralbeing or coming together; meeting; union; intercourse (esp. sexual intercourse)
+V	13.21		Matter is called the cause of the generation of causes and effects; Spirit is called the cause of the enjoyment of pleasure and pain.	Prakriti.Purusha.	कार्यकारणकर्तृत्वेहेतुःप्रकृतिरुच्यते~।पुरुषःसुखदुःखानांभोक्तृत्वेहेतुरुच्यते~॥ २१ ॥	7
+T	कार्यकारणकर्तृत्वे	कार्य-कारण-कर्तृ-त्वेin duty-cause-doerness	कार्यfirst part of a compoundwork or business to be done; duty; affair; a religious action or performanceकारणfirst part of a compoundcause; reason; the cause of anything; instrumentकर्तृfirst part of a compoundthe creator of the world; name of Vishnu; name of Brahman; name of Shivaत्वे  (त्व)noun, neuter locative singular(suffix creating abstract nouns)
+T	हेतुः	हेतुःcause	हेतुः  (हेतु)noun, masculine nominative singularmotive; cause; cause of; reason for
+T	प्रकृतिरुच्यते	प्रकृतिःnatureउच्यतेis said	प्रकृतिः  (प्रकृति)noun, feminine nominative singularthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; originउच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare
+T	पुरुषः	पुरुषःperson	पुरुषः  (पुरुष)noun, masculine nominative singulara man; male; human being (people); a person
+T	सुखदुःखानां	सुख-दुःखानाम्of happiness-pains	सुखfirst part of a compoundease; easiness; comfort; prosperityदुःखानाम्  (दुःख)noun, neuter genitive pluraluneasiness; pain; sorrow; trouble
+T	भोक्तृत्वे	भोक्तृ-त्वेin enjoyerness	भोक्तृfirst part of a compound (adjective)enjoying; eatingत्वे  (त्व)noun, neuter locative singular(suffix creating abstract nouns)
+T	हेतुरुच्यते	हेतुःcauseउच्यतेis said	हेतुः  (हेतु)noun, masculine nominative singularmotive; cause; cause of; reason forउच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare

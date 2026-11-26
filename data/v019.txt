@@ -1,0 +1,66 @@
+V	3.1	Arjuna said:	If it be thought by Thee that knowledge is superior to action, O Janârdana, why dost Thou, O Keshava, enjoin on me this terrible action?		अर्जुनउवाच~।ज्यायसीचेत्कर्मणस्तेमताबुद्धिर्जनार्दन~।तत्किंकर्मणिघोरेमांनियोजयसिकेशव~॥ १ ॥	12
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	ज्यायसी	ज्यायसीsuperior	ज्यायसी  (ज्यायस्)adjective, feminine nominative singularsuperior; more excellent; greater; larger
+T	चेत्कर्मणस्ते	चेद्ifकर्मणःfrom actionतेyour	चेद्conjunction(never found at the beginning of a sentence or verse) = ca; whenकर्मणः  (कर्मन्)noun, neuter ablative singularact; action; performance; businessते  (त्वद्)pronoun, genitive singularyou
+T	मता	मताthought	मता  (मन्)participle, feminine nominative singularto think; to believe; to imagine; to suppose
+T	बुद्धिर्जनार्दन	बुद्धिःintellectजनार्दनO Janardana	बुद्धिः  (बुद्धि)noun, feminine nominative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectजनार्दनnoun, masculine vocative singularKrishnaVishnu or Krishna; name of several men; name of a locality
+T	तत्किं	तत्thatकिम्what	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherकिम्adverbwhywhy?; what for?
+T	कर्मणि	कर्मणिin action	कर्मणि  (कर्मन्)noun, neuter locative singularact; action; performance; business
+T	घोरे	घोरेterrible	घोरे  (घोर)adjective, neuter locative singularvenerable; awful; terrific; dreadful
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	नियोजयसि	नियोजयसिyou put	नियोजयसि  (नियोजय्)verb: present 2nd person singularto put or tie to; to set or lay (a trap or snare etc.); to enjoin; to urge
+T	केशव	केशवO Keshava	केशवnoun, masculine vocative singularKrishnaname of Vishnu or Krishna; name of the month Mârgashîrsha; Rottleria tinctoria; name of the author of a lexicon called Kalpadru
+V	3.2		With these perplexing words Thou only confusest my understanding; therefore tell me with certainty the one way by which I may reach bliss.	Buddhi.	व्यामिश्रेणेववाक्येनबुद्धिंमोहयसीवमे~।तदेकंवदनिश्चित्ययेनश्रेयोऽहमाप्नुयाम्~॥ २ ॥	10
+T	व्यामिश्रेणेव	व्यामिश्रेणmixed togetherएवindeed	व्यामिश्रेण  (व्यामिश्र)adjective, neuter instrumental singularmixed together; manifold; of various kinds; mingled withएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	वाक्येन	वाक्येनwith word	वाक्येन  (वाक्य)noun, neuter instrumental singularspeech; saying; assertion; statement
+T	बुद्धिं	बुद्धिम्intellect	बुद्धिम्  (बुद्धि)noun, feminine accusative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	मोहयसीव	मोहयसिyou deludeइवlike	मोहयसि  (मोहय्)verb: present 2nd person singularto stupefy; to bewilder; to confound; to perplexइवparticlelike; in the same manner as (in this sense = yathâ); as it were; as if
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	तदेकं	तत्thatएकम्one	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherएकम्  (एक)number, neuter accusative singularone; alone; happening only once; single of its kind
+T	वद	वदspeak!	वद  (वद्)verb: present imperative 2nd person singularto speak; to say; to tell; to talk with
+T	निश्चित्य	निश्चित्यhaving ascertained	निश्चित्य  (निश्चि)absolutive (having ...)to ascertain; to investigate; to decide; to settle
+T	येन	येनby which	येन  (यद्)pronoun, neuter instrumental singularwhat; which; who
+T	श्रेयोऽहमाप्नुयाम्	श्रेयःbetterअहम्Iआप्नुयाम्I should obtain	श्रेयः  (श्रेयस्)noun, neuter accusative singularthe better state; the better fortune or condition (sometimes used when the subject of a sentence would seem to require the masc. form)अहम्  (मद्)pronoun, nominative singularI; weआप्नुयाम्  (आप्)verb: present optative 1st person singularto reach; to overtake; to meet with; to fall upon
+V	3.3	The Blessed Lord said:	In this world there is a twofold path, as I before said, O sinless one: that of yoga by knowledge, of the Sânkhyas; and that of yoga by action, of the Yogis.		श्रीभगवानुवाच~।लोकेऽस्मिन्द्विविधानिष्ठापुराप्रोक्तामयाऽनघ~।ज्ञानयोगेनसाङ्ख्यानांकर्मयोगेनयोगिनाम्~॥ ३ ॥	10
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	लोकेऽस्मिन्द्विविधा	लोकेin worldअस्मिन्in thisद्विविधाtwofold	लोके  (लोक)noun, masculine locative singularfree or open space; room; place; scopeअस्मिन्  (इदम्)pronoun, masculine locative singularthis; (near deictic pronoun in Vedic)द्विविधा  (द्विविध)adjective, feminine nominative singulartwo fold; of 2 kinds
+T	निष्ठा	निष्ठाpath	निष्ठाnoun, feminine nominative singularstate; condition; position; firmness
+T	पुरा	पुराof old	पुराadverbbefore; formerly; of old; soon
+T	प्रोक्ता	प्रोक्ताdeclared	प्रोक्ता  (प्रवच्)participle, feminine nominative singularto proclaim; to announce; to praise; to commend
+T	मयाऽनघ	मयाby meअनघO sinless one	मया  (मद्)pronoun, instrumental singularI; weअनघadjective, masculine vocative singularsinless; faultless; uninjured; handsome
+T	ज्ञानयोगेन	ज्ञान-योगेनwith knowledge-yoga	ज्ञानfirst part of a compoundknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)योगेन  (योग)noun, masculine instrumental singularthe act of yoking; joining; attaching; harnessing
+T	साङ्ख्यानां	सांख्यानाम्of Sankhyas	सांख्यानाम्  (सांख्य)noun, masculine genitive pluralone who calculates or discriminates well; an adherent of the Sâmkhya doctrine; name of a man; patr. of the Vedic Rishi Atri
+T	कर्मयोगेन	कर्म-योगेनwith action-yoga	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessयोगेन  (योग)noun, masculine instrumental singularthe act of yoking; joining; attaching; harnessing
+T	योगिनाम्	योगिनाम्of yogis	योगिनाम्  (योगिन्)noun, masculine genitive plurala follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+V	3.4		Man winneth not freedom from action by abstaining from activity, nor by mere renunciation doth he rise to perfection.		नकर्मणामनारम्भान्नैष्कर्म्यंपुरुषोऽश्नुते~।नचसंन्यसनादेवसिद्धिंसमधिगच्छति~॥ ४ ॥	8
+T	न	नnot	नparticlenot; no; nor; neither
+T	कर्मणामनारम्भान्नैष्कर्म्यं	कर्मणाम्of actionsअनारम्भात्from absence of beginningनैष्कर्म्यम्inactivity	कर्मणाम्  (कर्मन्)noun, neuter genitive pluralact; action; performance; businessअनारम्भात्  (अनारम्भ)noun, masculine ablative singularabsence of beginning; non-commencement; not attempting or undertakingनैष्कर्म्यम्  (नैष्कर्म्य)noun, neuter accusative singularinactivity; abstinence or exemption from acts and their consequences
+T	पुरुषोऽश्नुते	पुरुषःpersonअश्नुतेattains	पुरुषः  (पुरुष)noun, masculine nominative singulara man; male; human being (people); a personअश्नुते  (अश्)verb: present 3rd person singularto come to; to reach; to arrive at; to get
+T	न	नnot	नparticlenot; no; nor; neither
+T	च	चand	चconjunctionand; both; also; moreover
+T	संन्यसनादेव	संन्यसनात्from throwing downएवindeed	संन्यसनात्  (संन्यसन)noun, neuter ablative singularthrowing down; laying aside; giving up; resignationएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	सिद्धिं	सिद्धिम्success	सिद्धिम्  (सिद्धि)noun, feminine accusative singularaccomplishment; performance; fulfilment; complete attainment (of any object)
+T	समधिगच्छति	समधिगच्छतिgoes towards together	समधिगच्छति  (समधिगम्)verb: present 3rd person singularto go towards together; to come quite near; to approach; to acquire
+V	3.5		Nor can anyone, even for an instant, remain really actionless; for helplessly is everyone driven to action by the qualities born of nature.	Gunas.Prakriti.	नहिकश्चित्क्षणमपिजातुतिष्ठत्यकर्मकृत्~।कार्यतेह्यवशःकर्मसर्वःप्रकृतिजैर्गुणैः~॥ ५ ॥	10
+T	न	नnot	नparticlenot; no; nor; neither
+T	हि	हिfor	हिparticlefor; because; on account of
+T	कश्चित्क्षणमपि	कश्चिद्someoneक्षणम्killingअपिalso	कश्चिद्  (कश्चित्)pronoun, masculine nominative singularsomeone; something; anyक्षणम्  (क्षण)noun, masculine accusative singularkilling (= mârana); any instantaneous point of time; instant; twinkling of an eyeअपिparticlealso; moreover; besides; assuredly
+T	जातु	जातुever	जातुadverbat all; ever; once
+T	तिष्ठत्यकर्मकृत्	तिष्ठतिstandsअकर्म-कृत्not action-making	तिष्ठति  (स्था)verb: present 3rd person singularto stand; to station one's self; to get upon; to stayअnegative prefixnotnot; un-; in-कर्म  (कर्मन्)first part of a compoundact; action; performance; businessकृत्adjective, masculine nominative singularmaking; doing; performing; accomplishing
+T	कार्यते	कार्यतेis made someone do something	कार्यते  (कारय्)verb: passive present 3rd person singularto make someone do something; to put; schlachten lassen
+T	ह्यवशः	हिforअवशःhelpless	हिparticlefor; because; on account ofअवशः  (अवश)adjective, masculine nominative singularunsubmissive to another's will; independent; unrestrained; free
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	सर्वः	सर्वःall	सर्वः  (सर्व)pronoun, masculine nominative singularwhole; entire; all; every
+T	प्रकृतिजैर्गुणैः	प्रकृति-जैःnature-bornगुणैःwith qualities	प्रकृतिfirst part of a compoundthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; originजैः  (ज)adjective, masculine instrumental pluralifc. born or descended from; produced or caused by; born or produced in or at or upon; growing inगुणैः  (गुण)noun, masculine instrumental plurala single thread or strand of a cord or twine; string or thread; rope; a garland
+V	3.6		Who sitteth, controlling the organs of action, but dwelling in his mind on the objects of the senses, that bewildered man is called a hypocrite.	Manah.	कर्मेन्द्रियाणिसंयम्ययआस्तेमनसास्मरन्~।इन्द्रियार्थान्विमूढात्मामिथ्याचारःसउच्यते~॥ ६ ॥	10
+T	कर्मेन्द्रियाणि	कर्मेन्द्रियाणिorgans of action	कर्मेन्द्रियाणि  (कर्मेन्द्रिय)noun, neuter accusative pluralan organ of action (five in number like the five organs of sense)
+T	संयम्य	संयम्यhaving restrained	संयम्य  (संयम्)absolutive (having ...)to hold together; to hold in; to hold fast; to restrain
+T	य	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	आस्ते	आस्तेsits	आस्ते  (आस्)verb: present 3rd person singularto sit; to sit down; to rest; to lie
+T	मनसा	मनसाwith mind	मनसा  (मनस्)noun, neuter instrumental singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	स्मरन्	स्मरन्remembering	स्मरन्  (स्मृ)present participle, masculine nominative singularto remember; to recollect; to bear in mind; to think of
+T	इन्द्रियार्थान्विमूढात्मा	इन्द्रिय-अर्थान्sense-purposesविमूढ-आत्माbewildered-self	इन्द्रियfirst part of a compoundpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerअर्थान्  (अर्थ)noun, masculine accusative pluralaim; purpose; cause; motiveविमूढ  (विमुह्)first part of a compound (verb)to be confused; to become bewildered or stupefied; to faint awayआत्मा  (आत्मन्)noun, masculine nominative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	मिथ्याचारः	मिथ्याinvertedlyआचारःconduct	मिथ्याadverbinvertedly; contrarily; incorrectly; wronglyआचारः  (आचार)noun, masculine nominative singularconduct; manner of action; behaviour; good behaviour
+T	स	सःhe	सः  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	उच्यते	उच्यतेis said	उच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare

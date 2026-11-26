@@ -1,0 +1,72 @@
+V	3.7		But who, controlling the senses by the mind, O Arjuna, with the organs of action without attachment, performeth yoga by action, he is worthy.	Manah.Karma-Yoga is the consecration of physical energy on the divine Altar; i.e., the using of one's organs of action simply in service, in obedience to Law and Duty.	यस्त्विन्द्रियाणिमनसानियम्यारभतेऽर्जुन~।कर्मेन्द्रियैःकर्मयोगमसक्तःसविशिष्यते~॥ ७ ॥	7
+T	यस्त्विन्द्रियाणि	यःwhoतुbutइन्द्रियाणिsenses	यः  (यद्)pronoun, masculine nominative singularwhat; which; whoतुparticledo; now; then; butइन्द्रियाणि  (इन्द्रिय)noun, neuter accusative pluralpower; force; the quality which belongs especially to the mighty Indra; exhibition of power
+T	मनसा	मनसाwith mind	मनसा  (मनस्)noun, neuter instrumental singularmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	नियम्यारभतेऽर्जुन	नियम्यhaving controlledआरभतेlaysअर्जुनO Arjuna	नियम्य  (नियम्)absolutive (having ...)to stop (trans.); to hold back; to detain with; to stop (intrans.)आरभते  (आरभ्)verb: present 3rd person singularto lay or take hold of; to keep fast; to cling to; to gain a footingअर्जुनnoun, masculine vocative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	कर्मेन्द्रियैः	कर्मेन्द्रियैःwith Karmendriyas	कर्मेन्द्रियैः  (कर्मेन्द्रिय)noun, neuter instrumental pluralKarmendriyaan organ of action (five in number like the five organs of sense)
+T	कर्मयोगमसक्तः	कर्म-योगम्action-yogaअसक्तःnot clung	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessयोगम्  (योग)noun, masculine accusative singularthe act of yoking; joining; attaching; harnessingअnegative prefixnotnot; un-; in-सक्तः  (सञ्ज्)participle, masculine nominative singularto cling or stick or adhere to; to be attached to or engaged in or occupied with; to be attached or fastened; to adhere
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	विशिष्यते	विशिष्यतेis excelled	विशिष्यते  (विशिष्)verb: passive present 3rd person singularto distinguish; to make distinct or different; to particularize; to specify
+V	3.8		Perform thou right action, for, action is superior to inaction, and, inactive, even the maintenance of thy body would not be possible.	Regulated, prescribed as a duty; or, regularly.	नियतंकुरुकर्मत्वंकर्मज्यायोह्यकर्मणः~।शरीरयात्राऽपिचतेनप्रसिध्येदकर्मणः~॥ ८ ॥	12
+T	नियतं	नियतम्controlled	नियतम्  (नियम्)participle, neuter accusative singularto stop (trans.); to hold back; to detain with; to stop (intrans.)
+T	कुरु	कुरुdo!	कुरु  (कृ)verb: present imperative 2nd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	त्वं	त्वम्you	त्वम्  (त्वद्)pronoun, nominative singularyou
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter nominative singularact; action; performance; business
+T	ज्यायो	ज्यायःsuperior	ज्यायः  (ज्यायस्)adjective, neuter nominative singularsuperior; more excellent; greater; larger
+T	ह्यकर्मणः	हिforअकर्मणःfrom inaction	हिparticlefor; because; on account ofअकर्मणः  (अकर्मन्)noun, neuter ablative singularabsence of work; observances; improper work; crime
+T	शरीरयात्राऽपि	शरीर-यात्राbody-goingअपिalso	शरीरfirst part of a compoundthe body; bodily frame; solid parts of the body; any solid body (opp. to udaka etc.)यात्राnoun, feminine nominative singulargoing; setting off; journey; marchअपिparticlealso; moreover; besides; assuredly
+T	च	चand	चconjunctionand; both; also; moreover
+T	ते	तेyour	ते  (त्वद्)pronoun, genitive singularyou
+T	न	नnot	नparticlenot; no; nor; neither
+T	प्रसिध्येदकर्मणः	प्रसिध्येत्should be accomplishedअकर्मणःof not action	प्रसिध्येत्  (प्रसिध्)verb: present optative 3rd person singularto be accomplished or effected; to succeed; to result from (abl.); to be explained or made clearअnegative prefixnotnot; un-; in-कर्मणः  (कर्मन्)noun, masculine genitive singularact; action; performance; business
+V	3.9		The world is bound by action, unless performed for the sake of sacrifice; for that sake, free from attachment, O son of Kuntî, perform thou action.		यज्ञार्थात्कर्मणोऽन्यत्रलोकोऽयंकर्मबन्धनः~।तदर्थंकर्मकौन्तेयमुक्तसङ्गःसमाचर~॥ ९ ॥	8
+T	यज्ञार्थात्कर्मणोऽन्यत्र	यज्ञ-अर्थात्from sacrifice-purposeकर्मणःfrom actionअन्यत्रelsewhere	यज्ञfirst part of a compoundworship; devotion; prayer; praiseअर्थात्  (अर्थ)noun, neuter ablative singularaim; purpose; cause; motiveकर्मणः  (कर्मन्)noun, neuter ablative singularact; action; performance; businessअन्यत्रadverbelsewhere; in another place (with abl.); on another occasion; at another time than
+T	लोकोऽयं	लोकःworldअयम्this	लोकः  (लोक)noun, masculine nominative singularfree or open space; room; place; scopeअयम्  (इदम्)pronoun, masculine nominative singularthis; (near deictic pronoun in Vedic)
+T	कर्मबन्धनः	कर्म-बन्धनःaction-act of binding	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessबन्धनः  (बन्धन)noun, masculine nominative singularthe act of binding; tying; fastening; fettering
+T	तदर्थं	तद्-अर्थम्that-purpose	तद्first part of a compound (pronoun)this; gleicherअर्थम्  (अर्थ)noun, masculine accusative singularaim; purpose; cause; motive
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularArjunametron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	मुक्तसङ्गः	मुक्त-सङ्गःfreed-attachment	मुक्त  (मुच्)first part of a compound (verb)to loose; to let loose; to release; to liberate fromसङ्गः  (सङ्ग)noun, masculine nominative singularsticking; clinging to; touch; contact with
+T	समाचर	समाचरperform!	समाचर  (समाचर्)verb: present imperative 2nd person singularto act or behave or conduct one's self towards; to practise; to perform thoroughly; to do
+V	3.10		Having in ancient times emanated mankind together with sacrifice, the Lord of emanation said: "By this shall ye propagate; be this to you the giver of desire;	Prajâpati.Kâmadhuk, the cow of Indra, from which each could milk what he wished for; hence the giver of desired objects.	सहयज्ञाःप्रजाःसृष्ट्वापुरोवाचप्रजापतिः~।अनेनप्रसविष्यध्वमेषवोऽस्त्विष्टकामधुक्~॥ १० ॥	8
+T	सहयज्ञाः	सहwithयज्ञाःsacrifices	सहadverbtogether with; along with; withयज्ञाः  (यज्ञ)noun, feminine accusative pluralworship; devotion; prayer; praise
+T	प्रजाः	प्रजाःcreatures	प्रजाः  (प्रजा)noun, feminine accusative pluralprocreation; propagation; birth; offspring
+T	सृष्ट्वा	सृष्ट्वाhaving created	सृष्ट्वा  (सृज्)absolutive (having ...)to let go or fly; to discharge; to throw; to cast
+T	पुरोवाच	पुराof oldउवाचsaid	पुराadverbbefore; formerly; of old; soonउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	प्रजापतिः	प्रजापतिःPrajapati	प्रजापतिः  (प्रजापति)noun, masculine nominative singularPrajapatiname of Savitri; a divinity presiding over procreation; protector of life; lord of creatures
+T	अनेन	अनेनby this	अनेन  (इदम्)pronoun, masculine instrumental singularthis; (near deictic pronoun in Vedic)
+T	प्रसविष्यध्वमेष	प्रसविष्यध्वम्you will set in motionएषthis	प्रसविष्यध्वम्  (प्रसू)verb: future 2nd person pluralto set in motion; to rouse to activity; to urge; to inciteएष  (एतद्)pronoun, masculine nominative singularthis
+T	वोऽस्त्विष्टकामधुक्	वःyourअस्तुlet it beइष्ट-कामधुक्desired-cow of plenty	वः  (त्वद्)pronoun, genitive pluralyouअस्तु  (अस्)verb: present imperative 3rd person singularto be; to live; to exist; to be presentइष्ट  (इष्)first part of a compound (verb)to seek for; to desire; to intend; to assentकामधुक्  (कामदुह्)noun, nominative singularthe cow of plenty
+V	3.11		"With this nourish ye the Shining Ones, andmay the Shining Ones nourish you; thus nourishing one another ye shall reap the supremest good.		देवान्भावयतानेनतेदेवाभावयन्तुवः~।परस्परंभावयन्तःश्रेयःपरमवाप्स्यथ~॥ ११ ॥	9
+T	देवान्भावयतानेन	देवान्godsभावयतnourish!अनेनby this	देवान्  (देव)noun, masculine accusative plurala deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining onesभावयत  (भावय्)verb: present imperative 2nd person pluralto cause to be or become; to call into existence or life; to originate; to produceअनेन  (इदम्)pronoun, masculine instrumental singularthis; (near deictic pronoun in Vedic)
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralthis; gleicher
+T	देवा	देवाःgods	देवाः  (देव)noun, masculine nominative plurala deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining ones
+T	भावयन्तु	भावयन्तुlet them nourish	भावयन्तु  (भावय्)verb: present imperative 3rd person pluralto cause to be or become; to call into existence or life; to originate; to produce
+T	वः	वःyou	वः  (त्वद्)pronoun, accusative pluralyou
+T	परस्परं	परस्परम्mutual	परस्परम्  (परस्पर)pronoun, masculine accusative singularmutual; each other's; like one another
+T	भावयन्तः	भावयन्तःnourishing	भावयन्तः  (भावय्)present participle, masculine nominative pluralto cause to be or become; to call into existence or life; to originate; to produce
+T	श्रेयः	श्रेयःbetter	श्रेयः  (श्रेयस्)noun, neuter accusative singularthe better state; the better fortune or condition (sometimes used when the subject of a sentence would seem to require the masc. form)
+T	परमवाप्स्यथ	परम्supremeअवाप्स्यथyou will attain	परम्  (पर)pronoun, neuter accusative singularfar; remote; opposite; previousअवाप्स्यथ  (अवाप्)verb: future 2nd person pluralto reach; to attain; to obtain; to gain
+V	3.12		"For, nourished by sacrifice, the Shining Ones shall bestow on you the enjoyments you desire." A thief verily is he who enjoyeth what is given by Them without returning Them aught.		इष्टान्भोगान्हिवोदेवादास्यन्तेयज्ञभाविताः~।तैर्दत्तानप्रदायैभ्योयोभुङ्क्तेस्तेनएवसः~॥ १२ ॥	11
+T	इष्टान्भोगान्हि	इष्टान्desiredभोगान्enjoymentsहिfor	इष्टान्  (इष्)participle, masculine accusative pluralto seek for; to desire; to intend; to assentभोगान्  (भोग)noun, masculine accusative pluralenjoyment; eating; feeding on; possessionहिparticlefor; because; on account of
+T	वो	वःfor you	वः  (त्वद्)pronoun, dative pluralyou
+T	देवा	देवाःgods	देवाः  (देव)noun, masculine nominative pluralDevaa deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining ones
+T	दास्यन्ते	दास्यन्तेwill give	दास्यन्ते  (दा)verb: future 3rd person pluralgiveto give; to offer to; to yield; to give (a daughter) in marriage
+T	यज्ञभाविताः	यज्ञ-भाविताःsacrifice-nourished	यज्ञfirst part of a compoundyajnaworship; devotion; prayer; praiseभाविताः  (भावय्)participle, masculine nominative pluralto cause to be or become; to call into existence or life; to originate; to produce
+T	तैर्दत्तानप्रदायैभ्यो	तैःby themदत्तान्givenअप्रदायnot having givenएभ्यःfor these	तैः  (तद्)pronoun, masculine instrumental pluralhe,she,it (pers. pron.)this; gleicherदत्तान्  (दा)participle, masculine accusative pluralgiveto give; to offer to; to yield; to give (a daughter) in marriageअnegative prefixnotnot; un-; in-प्रदाय  (प्रदा)absolutive (having ...)giveto give away; to give; to offer; to presentएभ्यः  (इदम्)pronoun, masculine dative pluralthisthis; (near deictic pronoun in Vedic)
+T	यो	यःwho	यः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	भुङ्क्ते	भुङ्क्तेenjoys	भुङ्क्ते  (भुज्)verb: present 3rd person singularenjoyto enjoy; to use; to eat; to consume
+T	स्तेन	स्तेनःthief	स्तेनः  (स्तेन)noun, masculine nominative singularthiefa thief; robber; a kind of perfume; thieving
+T	एव	एवindeed	एवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	सः	सःhe	सः  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicher
+V	3.13		The righteous, who eat the remains of the sacrifice, are freed from all sins; but the impious, who dress food for their own sakes, they verily eat sin.		यज्ञशिष्टाशिनःसन्तोमुच्यन्तेसर्वकिल्बिषैः~।भुञ्जतेतेत्वघंपापायेपचन्त्यात्मकारणात्~॥ १३ ॥	10
+T	यज्ञशिष्टाशिनः	यज्ञ-शिष्ट-आशिनःsacrifice-anything that remains-ifc. eating	यज्ञfirst part of a compoundworship; devotion; prayer; praiseशिष्टfirst part of a compoundanything that remains or is left; remains; remnantआशिनः  (आशिन्)adjective, masculine nominative pluralifc. eating; consuming
+T	सन्तो	सन्तःreal	सन्तः  (सत्)adjective, masculine nominative pluralgood; right; virtuous; genuine
+T	मुच्यन्ते	मुच्यन्तेare freed	मुच्यन्ते  (मुच्)verb: passive present 3rd person pluralto loose; to let loose; to release; to liberate from
+T	सर्वकिल्बिषैः	सर्व-किल्बिषैःwith all-guilts	सर्वfirst part of a compound (pronoun)whole; entire; all; everyकिल्बिषैः  (किल्बिष)noun, neuter instrumental pluralfault; offence; sin; injustice
+T	भुञ्जते	भुञ्जतेenjoy	भुञ्जते  (भुज्)verb: present 3rd person pluralto enjoy; to use; to eat; to consume
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralthis; gleicher
+T	त्वघं	तुbutअघम्evil	तुparticledo; now; then; butअघम्  (अघ)noun, neuter accusative singularevil; mishap; sin; impurity
+T	पापा	पापाःsin	पापाः  (पाप)adjective, masculine nominative pluralbad; wicked; evil; vile
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhat; which; who
+T	पचन्त्यात्मकारणात्	पचन्तिcookआत्म-कारणात्from self-cause	पचन्ति  (पच्)verb: present 3rd person pluralto cook; to bake; to roast; to boilआत्म  (आत्मन्)first part of a compoundthe breath; the soul; principle of life and sensation; the individual soulकारणात्  (कारण)noun, neuter ablative singularcause; reason; the cause of anything; instrument

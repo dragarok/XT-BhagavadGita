@@ -1,0 +1,63 @@
+V	5.9		Speaking, giving, grasping, opening and closingthe eyes, he holdeth: "The senses move among the objects of the senses."		प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि~।इन्द्रियाणीन्द्रियार्थेषुवर्तन्तइतिधारयन्~॥ ९ ॥	5
+T	प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि	प्रलपन्conversingविसृजन्casting asideगृह्णन्graspingउन्मिषन्opening the eyesनिमिषन्blinkingअपिalso	प्रलपन्  (प्रलप्)present participle, masculine nominative singularconverseto speak forth (inconsiderately or at random); to prattle; to talk idly or incoherently; to trifleविसृजन्  (विसृज्)present participle, masculine nominative singularemitto send or pour forth; to let go or run or flow; to discharge; to emitगृह्णन्  (ग्रह्)present participle, masculine nominative singulargraspto seize; to take (by the hand); to grasp; to lay hold ofउन्मिषन्  (उन्मिष्)present participle, masculine nominative singularopen the eyesto open the eyes; to draw up the eyelids; to open (as eyes or buds); to come forthनिमिषन्  (निमिष्)present participle, masculine nominative singularblinkto shut the eyelids; to wink; to fall asleep; to be shut (said of the eyelids)अपिparticleevenalso; moreover; besides; assuredly
+T	इन्द्रियाणीन्द्रियार्थेषु	इन्द्रियाणिsensesइन्द्रिय-अर्थेषुin sense-purposes	इन्द्रियाणि  (इन्द्रिय)noun, neuter nominative pluralsense organpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerइन्द्रियfirst part of a compoundsense organpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerअर्थेषु  (अर्थ)noun, masculine locative pluralobject of senseaim; purpose; cause; motive
+T	वर्तन्त	वर्तन्तेabide	वर्तन्ते  (वृत्)verb: present 3rd person pluraldwellto turn; to turn round; to revolve; to roll
+T	इति	इतिthus	इतिparticlesoin this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	धारयन्	धारयन्holding	धारयन्  (धारय्)present participle, masculine nominative singularunderstandto hold; to keep; to possess; to maintain
+V	5.10		He who acteth, placing all actions in the Eternal, abandoning attachment, is unaffected by sin as a lotus leaf by the waters.		ब्रह्मण्याधायकर्माणिसङ्गंत्यक्त्वाकरोतियः~।लिप्यतेनसपापेनपद्मपत्रमिवाम्भसा~॥ १० ॥	11
+T	ब्रह्मण्याधाय	ब्रह्मणिin Brahmanआधायhaving placed	ब्रह्मणि  (ब्रह्मन्)noun, neuter locative singularbrahmanpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)आधाय  (आधा)absolutive (having ...)putto place on; to put down; to deposit; to put
+T	कर्माणि	कर्माणिactions	कर्माणि  (कर्मन्)noun, neuter accusative pluralactionact; action; performance; business
+T	सङ्गं	सङ्गम्attachment	सङ्गम्  (सङ्ग)noun, masculine accusative singularattachmentsticking; clinging to; touch; contact with
+T	त्यक्त्वा	त्यक्त्वाhaving abandoned	त्यक्त्वा  (त्यज्)absolutive (having ...)abandonto leave; to abandon; to quit; to leave a place
+T	करोति	करोतिdoes	करोति  (कृ)verb: present 3rd person singularactto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	लिप्यते	लिप्यतेis stained	लिप्यते  (लिप्)verb: passive present 3rd person singulartarnishto smear; to besmear; to anoint with (instr.); to stain
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicher
+T	पापेन	पापेनwith sin	पापेन  (पाप)noun, neuter instrumental singularevildoingevil; misfortune; ill-luck; trouble
+T	पद्मपत्रमिवाम्भसा	पद्म-पत्रम्lotus-leafइवlikeअम्भसाwith water	पद्मfirst part of a compoundlotusa lotus (esp. the flower of the lotus-plant Nelumbium Speciosum which closes towards evening)पत्रम्  (पत्त्र)noun, neuter nominative singularleafthe wing of a bird; pinion; feather; the feather of an arrowइवparticlelikelike; in the same manner as (in this sense = yathâ); as it were; as ifअम्भसा  (अम्भस्)noun, neuter instrumental singularwaterwater; the celestial waters; power; fruitfulness
+V	5.11		Yogis, having abandoned attachment, perform action only by the body, by the mind, by the Reason, and even by the senses, for the purification of the self.	Manah.Buddhi.	कायेनमनसाबुद्ध्याकेवलैरिन्द्रियैरपि~।योगिनःकर्मकुर्वन्तिसङ्गंत्यक्त्वाऽऽत्मशुद्धये~॥ ११ ॥	9
+T	कायेन	कायेनwith body	कायेन  (काय)noun, masculine instrumental singularbodythe body; the trunk of a tree; the body of a lute (the whole except the wires); assemblage
+T	मनसा	मनसाwith mind	मनसा  (मनस्)noun, neuter instrumental singularmindmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	बुद्ध्या	बुद्ध्याwith intellect	बुद्ध्या  (बुद्धि)noun, feminine instrumental singularintelligencethe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	केवलैरिन्द्रियैरपि	केवलैःallइन्द्रियैःwith sensesअपिalso	केवलैः  (केवल)adjective, neuter instrumental pluralall(a)alone; only; mere; soleइन्द्रियैः  (इन्द्रिय)noun, neuter instrumental pluralsense organpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerअपिparticlebesidesalso; moreover; besides; assuredly
+T	योगिनः	योगिनःyogis	योगिनः  (योगिन्)noun, masculine nominative pluralyogina follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularactionact; action; performance; business
+T	कुर्वन्ति	कुर्वन्तिdo	कुर्वन्ति  (कृ)verb: present 3rd person pluralmaketo make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	सङ्गं	सङ्गम्attachment	सङ्गम्  (सङ्ग)noun, masculine accusative singularattachmentsticking; clinging to; touch; contact with
+T	त्यक्त्वाऽऽत्मशुद्धये	त्यक्त्वाhaving abandonedआत्म-शुद्धयेfor self-purification	त्यक्त्वा  (त्यज्)absolutive (having ...)abandonto leave; to abandon; to quit; to leave a placeआत्म  (आत्मन्)first part of a compoundselfthe breath; the soul; principle of life and sensation; the individual soulशुद्धये  (शुद्धि)noun, feminine dative singularpurificationcleansing; purification; purity (lit. and fig.); holiness
+V	5.12		The harmonised man, having abandoned the fruit of action, attaineth to the eternal Peace; the non-harmonised, impelled by desire, attached to fruit, are bound.		युक्तःकर्मफलंत्यक्त्वाशान्तिमाप्नोतिनैष्ठिकीम्~।अयुक्तःकामकारेणफलेसक्तोनिबध्यते~॥ १२ ॥	10
+T	युक्तः	युक्तःharmonized	युक्तः  (युज्)participle, masculine nominative singularto practice Yogato yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	कर्मफलं	कर्म-फलम्action-fruit	कर्म  (कर्मन्)first part of a compoundactionact; action; performance; businessफलम्  (फल)noun, neuter accusative singularfruitfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	त्यक्त्वा	त्यक्त्वाhaving abandoned	त्यक्त्वा  (त्यज्)absolutive (having ...)abandonto leave; to abandon; to quit; to leave a place
+T	शान्तिमाप्नोति	शान्तिम्peaceआप्नोतिobtains	शान्तिम्  (शान्ति)noun, feminine accusative singularcalmnesstranquillity; peace; quiet; peace or calmness of mindआप्नोति  (आप्)verb: present 3rd person singularreachto reach; to overtake; to meet with; to fall upon
+T	नैष्ठिकीम्	नैष्ठिकीम्perfect	नैष्ठिकीम्  (नैष्ठिक)adjective, feminine accusative singularperfectforming the end; final; last; definitive
+T	अयुक्तः	अयुक्तःnot harmonized	अnegative prefixnotnot; un-; in-युक्तः  (युज्)participle, masculine nominative singularto practice Yogato yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	कामकारेण	कामकारेणwith free will	कामकारेण  (कामकार)noun, masculine instrumental singularfree willthe act of following one's own inclinations; spontaneous deed; voluntary action; acting of one's own free will
+T	फले	फलेin fruit	फले  (फल)noun, neuter locative singularfruitfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	सक्तो	सक्तःclung	सक्तः  (सञ्ज्)participle, masculine nominative singularadhereto cling or stick or adhere to; to be attached to or engaged in or occupied with; to be attached or fastened; to adhere
+T	निबध्यते	निबध्यतेis bound	निबध्यते  (निबन्ध्)verb: passive present 3rd person singularbindto bind on; to tie; to fasten to; to enchain
+V	5.13		Mentally renouncing all actions, the sovereign dweller in the body resteth serenely in the nine-gated city, neither acting nor causing to act.	The body, often called the city of the Eternal.	सर्वकर्माणिमनसासंन्यस्यास्तेसुखंवशी~।नवद्वारेपुरेदेहीनैवकुर्वन्नकारयन्~॥ १३ ॥	11
+T	सर्वकर्माणि	सर्व-कर्माणिall-actions	सर्वfirst part of a compound (pronoun)all(a)whole; entire; all; everyकर्माणि  (कर्मन्)noun, neuter accusative pluralactionact; action; performance; business
+T	मनसा	मनसाwith mind	मनसा  (मनस्)noun, neuter instrumental singularmindmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	संन्यस्यास्ते	संन्यस्यhaving renouncedआस्तेsits	संन्यस्य  (संन्यस्)absolutive (having ...)renounceto throw down together; to place or put or lay together; to impose; to put or lay uponआस्ते  (आस्)verb: present 3rd person singularstayto sit; to sit down; to rest; to lie
+T	सुखं	सुखम्pleasantly	सुखम्adverbpleasantlyeasily; pleasantly; well
+T	वशी	वशीpowerful	वशी  (वशिन्)adjective, masculine nominative singularpowerfulhaving will or power; having authority; a ruler; lord
+T	नवद्वारे	नव-द्वारेin nine-gate	नव  (नवन्)first part of a compound (number)nine9द्वारे  (द्वार)noun, neuter locative singulardoordoor; gate; passage; entrance
+T	पुरे	पुरेin town	पुरे  (पुर)noun, neuter locative singulartowna town; a stronghold
+T	देही	देहीembodied one	देही  (देहिन्)noun, masculine nominative singularmana living creature; man; the spirit; soul (enveloped in the body)
+T	नैव	नnotएवindeed	नparticlenotnot; no; nor; neitherएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	कुर्वन्न	कुर्वन्doingनnot	कुर्वन्  (कृ)present participle, masculine nominative singularactto make like or similar; to consider equivalent; to reduce anything to; to cause to becomeनparticlenotnot; no; nor; neither
+T	कारयन्	कारयन्causing	कारयन्  (कारय्)present participle, masculine nominative singularcauseto make someone do something; to put; schlachten lassen
+V	5.14		The Lord of the world produceth not the idea of agency, nor actions, nor the union together of action and its fruit; nature, however, manifesteth.		नकर्तृत्वंनकर्माणिलोकस्यसृजतिप्रभुः~।नकर्मफलसंयोगंस्वभावस्तुप्रवर्तते~॥ १४ ॥	11
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	कर्तृत्वं	कर्तृ-त्वम्doerness	कर्तृfirst part of a compoundactorthe creator of the world; name of Vishnu; name of Brahman; name of Shivaत्वम्  (त्व)noun, neuter accusative singularstate(suffix creating abstract nouns)
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	कर्माणि	कर्माणिactions	कर्माणि  (कर्मन्)noun, neuter accusative pluralactionact; action; performance; business
+T	लोकस्य	लोकस्यof world	लोकस्य  (लोक)noun, masculine genitive singularworldfree or open space; room; place; scope
+T	सृजति	सृजतिcreates	सृजति  (सृज्)verb: present 3rd person singularcreateto let go or fly; to discharge; to throw; to cast
+T	प्रभुः	प्रभुःlord	प्रभुः  (प्रभु)adjective, masculine nominative singularmightyexcelling; mighty; powerful; rich
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	कर्मफलसंयोगं	कर्म-फल-संयोगम्action-fruit-contact	कर्म  (कर्मन्)first part of a compoundactionact; action; performance; businessफलfirst part of a compoundfruitfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalansसंयोगम्  (संयोग)noun, masculine accusative singularattachmentconjunction; combination; union; absorption
+T	स्वभावस्तु	स्वभावःown natureतुbut	स्वभावः  (स्वभाव)noun, masculine nominative singularnaturenative place; own condition or state of being; natural state or constitution; innate or inherent dispositionतुparticlebutdo; now; then; but
+T	प्रवर्तते	प्रवर्ततेengages	प्रवर्तते  (प्रवृत्)verb: present 3rd person singularissueto roll or go onwards (as a carriage); to be set in motion or going; to set out; to depart

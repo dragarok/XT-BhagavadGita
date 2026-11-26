@@ -1,0 +1,69 @@
+V	6.17		Yoga killeth out all pain for him who is regulated in eating and amusement, regulated in performing actions, regulated in sleeping and waking.		युक्ताहारविहारस्ययुक्तचेष्टस्यकर्मसु~।युक्तस्वप्नावबोधस्ययोगोभवतिदुःखहा~॥ १७ ॥	7
+T	युक्ताहारविहारस्य	युक्त-आहार-विहारस्यof harmonized-food-distribution	युक्त  (युज्)first part of a compound (verb)to yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrangeआहारfirst part of a compoundtaking; fetching; bringing near; employingविहारस्य  (विहार)noun, masculine genitive singulardistribution; transposition (of words); arrangement or disposition (of the 3 sacred fires)
+T	युक्तचेष्टस्य	युक्त-चेष्टस्यof harmonized-moving any limb	युक्तfirst part of a compound (adjective)yoked or joined or fastened or attached or harnessed to; set to work; made use of; employedचेष्टस्य  (चेष्टा)noun, masculine genitive singularmoving any limb; gesture; action; activity
+T	कर्मसु	कर्मसुin actions	कर्मसु  (कर्मन्)noun, neuter locative pluralact; action; performance; business
+T	युक्तस्वप्नावबोधस्य	युक्त-स्वप्न-अवबोधस्यof harmonized-dream-waking	युक्त  (युज्)first part of a compound (verb)to yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrangeस्वप्नfirst part of a compoundsleep; sleeping; sleepiness; drowsinessअवबोधस्य  (अवबोध)noun, masculine genitive singularwaking; being awake; perception; knowledge
+T	योगो	योगःyoga	योगः  (योग)noun, masculine nominative singularthe act of yoking; joining; attaching; harnessing
+T	भवति	भवतिis	भवति  (भू)verb: present 3rd person singularto be; to become; to come into being; to happen
+T	दुःखहा	दुःख-हाpain-slay	दुःखfirst part of a compounduneasiness; pain; sorrow; troubleहा  (हन्)adjective, masculine nominative singularkilling; destroying
+V	6.18		When his subdued thought is fixed on the Self, free from longing after all desirable things, then it is said, "he is harmonised."		यदाविनियतंचित्तमात्मन्येवावतिष्ठते~।निःस्पृहःसर्वकामेभ्योयुक्तइत्युच्यतेतदा~॥ १८ ॥	8
+T	यदा	यदाwhen	यदाconjunctionwhen; at what time; whenever
+T	विनियतं	विनियतम्restrained	विनियतम्  (विनियम्)participle, neuter nominative singularto restrain; to check; to control; to keep in check
+T	चित्तमात्मन्येवावतिष्ठते	चित्तम्mindआत्मनिin selfएवindeedअवतिष्ठतेis situated	चित्तम्  (चित्त)noun, neuter nominative singularattending; observing; thinking; reflectingआत्मनि  (आत्मन्)noun, masculine locative singularthe breath; the soul; principle of life and sensation; the individual soulएवparticleso; just so; exactly so (in the sense of the later evam); indeedअवतिष्ठते  (अवस्था)verb: present 3rd person singularto reach down to; to remain standing; to be separated from; to abide
+T	निःस्पृहः	निःस्पृहःfree from desire	निःस्पृहः  (निःस्पृह)adjective, masculine nominative singularfree from desire; not longing for
+T	सर्वकामेभ्यो	सर्व-कामेभ्यःfrom all-desires	सर्वfirst part of a compound (pronoun)whole; entire; all; everyकामेभ्यः  (काम)noun, masculine ablative pluralwish; desire; longing; desire for
+T	युक्त	युक्तःharmonized	युक्तः  (युज्)participle, masculine nominative singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	इत्युच्यते	इतिthusउच्यतेis said	इतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soउच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare
+T	तदा	तदाthen	तदाadverbat that time; then; in that case (often used redundantly)
+V	6.19		As a lamp in a windless place flickereth not, to such is likened the Yogî of subdued thought, absorbed in the yoga of the Self.		यथादीपोनिवातस्थोनेङ्गतेसोपमास्मृता~।योगिनोयतचित्तस्ययुञ्जतोयोगमात्मनः~॥ १९ ॥	10
+T	यथा	यथाas	यथाparticleaccording; as; like
+T	दीपो	दीपःlight	दीपः  (दीप)noun, masculine nominative singulara light; lamp; lantern; name of a king
+T	निवातस्थो	निवात-स्थःsheltered from the wind-abiding	निवातfirst part of a compound (adjective)sheltered from the wind; calmस्थः  (स्थ)adjective, masculine nominative singularstanding; staying; abiding; being situated in
+T	नेङ्गते	नnotइङ्गतेgoes	नparticlenot; no; nor; neitherइङ्गते  (इङ्ग्)verb: present 3rd person singularto go; to go to or towards; to move or agitate; (in Gr.) to divide or separate the members of a compound word
+T	सोपमा	साsheउपमाcomparison	सा  (तद्)pronoun, feminine nominative singularthis; gleicherउपमाnoun, feminine nominative singularcomparison; resemblance; equality; similarity
+T	स्मृता	स्मृताremembered	स्मृता  (स्मृ)participle, feminine nominative singularto remember; to recollect; to bear in mind; to think of
+T	योगिनो	योगिनःof yogi	योगिनः  (योगिन्)noun, masculine genitive singulara follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; ascetic
+T	यतचित्तस्य	यत-चित्तस्यof controlled-mind	यत  (यम्)first part of a compound (verb)to sustain; to hold; to support; to raiseचित्तस्य  (चित्त)noun, masculine genitive singularattending; observing; thinking; reflecting
+T	युञ्जतो	युञ्जतःharmonizing	युञ्जतः  (युज्)present participle, masculine genitive singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	योगमात्मनः	योगम्yogaआत्मनःof self	योगम्  (योग)noun, masculine accusative singularthe act of yoking; joining; attaching; harnessingआत्मनः  (आत्मन्)noun, masculine genitive singularthe breath; the soul; principle of life and sensation; the individual soul
+V	6.20		That in which the mind finds rest, quieted by the practice of yoga: that in which he, seeing the Self by the Self, in the Self is satisfied;		यत्रोपरमतेचित्तंनिरुद्धंयोगसेवया~।यत्रचैवात्मनाऽऽत्मानंपश्यन्नात्मनितुष्यति~॥ २० ॥	8
+T	यत्रोपरमते	यत्रwhereउपरमतेceases	यत्रconjunctionwhere; wherein; wherever; whitherउपरमते  (उपरम्)verb: present 3rd person singularto cease from motion; to stop; to cease from action; to be inactive or quiet (as a quietist)
+T	चित्तं	चित्तम्mind	चित्तम्  (चित्त)noun, neuter nominative singularattending; observing; thinking; reflecting
+T	निरुद्धं	निरुद्धम्held back	निरुद्धम्  (निरुध्)participle, neuter nominative singularto hold back; to stop; to hinder; to shut up
+T	योगसेवया	योग-सेवयाwith yoga-going	योगfirst part of a compoundthe act of yoking; joining; attaching; harnessingसेवया  (सेवा)noun, feminine instrumental singulargoing or resorting to; visiting; frequenting; service
+T	यत्र	यत्रwhere	यत्रconjunctionwhere; wherein; wherever; whither
+T	चैवात्मनाऽऽत्मानं	चandएवindeedआत्मनाwith selfआत्मानम्self	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeedआत्मना  (आत्मन्)noun, masculine instrumental singularthe breath; the soul; principle of life and sensation; the individual soulआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	पश्यन्नात्मनि	पश्यन्seeingआत्मनिin self	पश्यन्  (दृश्)present participle, masculine nominative singularto behold; to look at; to regard; to considerआत्मनि  (आत्मन्)noun, masculine locative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	तुष्यति	तुष्यतिis pleased	तुष्यति  (तुष्)verb: present 3rd person singularto become calm; to be satisfied; to satisfy; to appease
+V	6.21		That in which he findeth the supreme delight which the Reason can grasp beyond the senses, wherein established he moveth not from the Reality;	Buddhi.	सुखमात्यन्तिकंयत्तद्बुद्धिग्राह्यमतीन्द्रियम्~।वेत्तियत्रनचैवाऽयंस्थितश्चलतितत्त्वतः~॥ २१ ॥	9
+T	सुखमात्यन्तिकं	सुखम्happinessआत्यन्तिकम्continual	सुखम्  (सुख)noun, neuter nominative singularease; easiness; comfort; prosperityआत्यन्तिकम्  (आत्यन्तिक)adjective, neuter nominative singularcontinual; uninterrupted; infinite; endless
+T	यत्तद्	यत्तद्	
+T	बुद्धिग्राह्यमतीन्द्रियम्	यत्whichतत्thatबुद्धि-ग्राह्यम्intellect-to be graspedअतीन्द्रियम्beyond the senses	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoतत्  (तद्)pronoun, neuter nominative singularthis; gleicherबुद्धिfirst part of a compoundthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectग्राह्यम्  (ग्रह्)gerundive (to be ...), neuter nominative singularto seize; to take (by the hand); to grasp; to lay hold ofअतीन्द्रियम्  (अतीन्द्रिय)adjective, neuter nominative singularbeyond the (cognisance of the) senses
+T	वेत्ति	वेत्तिknows	वेत्ति  (विद्)verb: present 3rd person singularto know; to understand; to learn; to be conscious of
+T	यत्र	यत्रwhere	यत्रconjunctionwhere; wherein; wherever; whither
+T	न	नnot	नparticlenot; no; nor; neither
+T	चैवाऽयं	चandएवindeedअयम्this	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeedअयम्  (इदम्)pronoun, masculine nominative singularthis; (near deictic pronoun in Vedic)
+T	स्थितश्चलति	स्थितःstoodचलतिis moved	स्थितः  (स्था)participle, masculine nominative singularto stand; to station one's self; to get upon; to stayचलति  (चल्)verb: present 3rd person singularto be moved; to stir; to tremble; to shake
+T	तत्त्वतः	तत्त्वतःfrom truth	तत्त्वतः  (तत्त्व)noun, neuter ablative singulartrue or real state; truth; reality; (in phil.) a true principle
+V	6.22		Which, having obtained, he thinketh there is no greater gain beyond it; wherein, established, he is not shaken even by heavy sorrow;		यंलब्ध्वाचापरंलाभंमन्यतेनाधिकंततः~।यस्मिन्स्थितोनदुःखेनगुरुणाऽपिविचाल्यते~॥ २२ ॥	12
+T	यं	यम्whom	यम्  (यद्)pronoun, masculine accusative singularwhat; which; who
+T	लब्ध्वा	लब्ध्वाhaving obtained	लब्ध्वा  (लभ्)absolutive (having ...)to take; to seize; to catch; to meet with
+T	चापरं	चandअपरम्other	चconjunctionand; both; also; moreoverअपरम्  (अपर)pronoun, masculine accusative singularthe other; another; future; next
+T	लाभं	लाभम्gain	लाभम्  (लाभ)noun, masculine accusative singularmeeting with; finding; obtaining; getting
+T	मन्यते	मन्यतेthinks	मन्यते  (मन्)verb: present 3rd person singularto think; to believe; to imagine; to suppose
+T	नाधिकं	नnotअधिकम्greater	नparticlenot; no; nor; neitherअधिकम्  (अधिक)adjective, masculine accusative singularadditional; subsequent; later; surpassing (in number or quantity or quality)
+T	ततः	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	यस्मिन्स्थितो	यस्मिन्in whomस्थितःstood	यस्मिन्  (यद्)pronoun, masculine locative singularwhat; which; whoस्थितः  (स्था)participle, masculine nominative singularto stand; to station one's self; to get upon; to stay
+T	न	नnot	नparticlenot; no; nor; neither
+T	दुःखेन	दुःखेनwith pain	दुःखेन  (दुःख)noun, neuter instrumental singularuneasiness; pain; sorrow; trouble
+T	गुरुणाऽपि	गुरुणाelderअपिalso	गुरुणा  (गुरु)adjective, neuter instrumental singularheavy; weighty; heavy in the stomach (food); (in prosody) longअपिparticlealso; moreover; besides; assuredly
+T	विचाल्यते	विचाल्यतेis unsettled	विचाल्यते  (विचालय्)verb: passive present 3rd person singularto agitate; to excite; to stir up; to trouble
+V	6.23		That should be known by the name of yoga, this disconnection from the union with pain. This yoga must be clung to with a firm conviction and with undesponding mind.	Chetah.	तंविद्याद्‌दुःखसंयोगवियोगंयोगसंज्ञितम्~।सनिश्चयेनयोक्तव्योयोगोऽनिर्विण्णचेतसा~॥ २३ ॥	8
+T	तं	तम्him	तम्  (तद्)pronoun, masculine accusative singularthis; gleicher
+T	विद्याद्‌	विद्याद्‌	
+T	दुःखसंयोगवियोगं	विद्यात्should knowदुःख-संयोग-वियोगम्pain-contact-disjunction	विद्यात्  (विद्)verb: present optative 3rd person singularto know; to understand; to learn; to be conscious ofदुःखfirst part of a compounduneasiness; pain; sorrow; troubleसंयोगfirst part of a compoundconjunction; combination; union; absorptionवियोगम्  (वियोग)noun, masculine accusative singulardisjunction; separation (esp. of lovers); loss or absence or want of; giving up
+T	योगसंज्ञितम्	योग-संज्ञितम्yoga-called	योगfirst part of a compoundthe act of yoking; joining; attaching; harnessingसंज्ञितम्  (संज्ञित)adjective, masculine accusative singularmade known; communicated; apprised by a sign or gesture; called
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	निश्चयेन	निश्चयेनwith certainty	निश्चयेन  (निश्चय)noun, masculine instrumental singularinquiry; ascertainment; fixed opinion; conviction
+T	योक्तव्यो	योक्तव्यःto be harmonized	योक्तव्यः  (युज्)gerundive (to be ...), masculine nominative singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	योगोऽनिर्विण्णचेतसा	योगःyogaअनिर्विण्ण-चेतसाwith not downcast-mind	योगः  (योग)noun, masculine nominative singularthe act of yoking; joining; attaching; harnessingअनिर्विण्णfirst part of a compound (adjective)not downcastचेतसा  (चेतस्)noun, masculine instrumental singularsplendour; consciousness; intelligence; thinking soul

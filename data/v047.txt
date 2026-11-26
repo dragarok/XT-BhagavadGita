@@ -1,0 +1,71 @@
+V	7.23		Finite indeed the fruit that belongeth to those who are of small intelligence. To the Shining Ones go the worshippers of the Shining Ones, but my devotees come unto Me.		अन्तवत्तुफलंतेषांतद्भवत्यल्पमेधसाम्~।देवान्देवयजोयान्तिमद्भक्तायान्तिमामपि~॥ २३ ॥	9
+T	अन्तवत्तु	अन्तवत्perishableतुbut	अन्तवत्adjective, neuter nominative singularlimitedhaving an end or term; limited; perishable; containing a word which has the meaning of antaतुparticlebutdo; now; then; but
+T	फलं	फलम्fruit	फलम्  (फल)noun, neuter nominative singularfruitfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	तेषां	तेषाम्their	तेषाम्  (तद्)pronoun, masculine genitive pluralthisthis; gleicher
+T	तद्भवत्यल्पमेधसाम्	तत्thatभवतिisअल्प-मेधसाम्of small-intelligences	तत्  (तद्)pronoun, neuter nominative singularthisthis; gleicherभवति  (भू)verb: present 3rd person singularbeto be; to become; to come into being; to happenअल्पfirst part of a compound (adjective)lowsmall; minute; trifling; littleमेधसाम्  (मेधस्)noun, masculine genitive pluralintelligencename of a son of Manu Svâyambhuva; intelligence; knowledge; understanding
+T	देवान्देवयजो	देवान्godsदेव-यजःgod-sacrifice	देवान्  (देव)noun, masculine accusative pluralDevaa deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining onesदेवfirst part of a compoundDevaa deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining onesयजः  (यज्)adjective, masculine nominative pluralsacrificingsacrificing; offering
+T	यान्ति	यान्तिgo	यान्ति  (या)verb: present 3rd person pluralgoto go; to move; to set out; to travel
+T	मद्भक्ता	मद्-भक्ताःmy-devotees	मद्first part of a compound (pronoun)II; weभक्ताः  (भक्त)noun, masculine nominative pluralBhaktaa worshipper; votary (esp. as name of a division of the Shâktas)
+T	यान्ति	यान्तिgo	यान्ति  (या)verb: present 3rd person pluralgoto go; to move; to set out; to travel
+T	मामपि	माम्meअपिalso	माम्  (मद्)pronoun, accusative singularII; weअपिparticlesurelyalso; moreover; besides; assuredly
+V	7.24		Those devoid of Reason think of Me, the unmanifest, as having manifestation, knowing not My supreme nature, imperishable, most excellent.	Buddhi.	अव्यक्तंव्यक्तिमापन्नंमन्यन्तेमामबुद्धयः~।परंभावमजानन्तोममाव्ययमनुत्तमम्~॥ २४ ॥	7
+T	अव्यक्तं	अव्यक्तम्unmanifest	अव्यक्तम्  (अव्यक्त)noun, neuter accusative singularPrakriti(in Sânkhya phil.) "the unevolved (Evolver of all things)"; the primary germ of nature
+T	व्यक्तिमापन्नं	व्यक्तिम्manifestationआपन्नम्entered	व्यक्तिम्  (व्यक्ति)noun, feminine accusative singularmanifestationvisible appearance or manifestation; becoming evident or known or public; specific appearance; distinctnessआपन्नम्  (आपद्)participle, neuter accusative singularenter (a state)to come; to walk near; to approach; to enter
+T	मन्यन्ते	मन्यन्तेthink	मन्यन्ते  (मन्)verb: present 3rd person pluralthink ofto think; to believe; to imagine; to suppose
+T	मामबुद्धयः	माम्meअबुद्धयःignorant	माम्  (मद्)pronoun, accusative singularII; weअबुद्धयः  (अबुद्धि)adjective, masculine nominative pluralignorantignorant; stupid
+T	परं	परम्supreme	परम्  (पर)pronoun, masculine accusative singularhighestfar; remote; opposite; previous
+T	भावमजानन्तो	भावम्stateअजानन्तःnot knowing	भावम्  (भाव)noun, masculine accusative singularbecoming; being; existing; occurringअnegative prefixnotnot; un-; in-जानन्तः  (ज्ञा)present participle, masculine nominative pluralto know; to have knowledge; to become acquainted with; to perceive
+T	ममाव्ययमनुत्तमम्	ममmyअव्ययम्imperishableअनुत्तमम्unexcelled	मम  (मद्)pronoun, genitive singularII; weअव्ययम्  (अव्यय)adjective, masculine accusative singularimperishablenot liable to change; imperishable; undecaying; parsimoniousअनुत्तमम्  (अनुत्तम)adjective, masculine accusative singularunexcelledunsurpassed; incomparably the best or chief; excellent; excessive
+V	7.25		Nor am I of all discovered, enveloped in My creation-illusion. This deluded world knoweth Me not, the unborn, the imperishable.	Yoga-Maya, the creative power of Yoga, all things being the thought-forms of the One.	नाहंप्रकाशःसर्वस्ययोगमायासमावृतः~।मूढोऽयंनाभिजानातिलोकोमामजमव्ययम्~॥ २५ ॥	8
+T	नाहं	नnotअहम्I	नparticlenotnot; no; nor; neitherअहम्  (मद्)pronoun, nominative singularII; we
+T	प्रकाशः	प्रकाशःlight	प्रकाशः  (प्रकाश)adjective, masculine nominative singularvisiblevisible; shining; bright; clear
+T	सर्वस्य	सर्वस्यall	सर्वस्य  (सर्व)pronoun, neuter genitive singularall(a)whole; entire; all; every
+T	योगमायासमावृतः	योग-माया-समावृतःyoga-illusion-covered	योगfirst part of a compoundyogathe act of yoking; joining; attaching; harnessingमायाfirst part of a compoundMâyâart; wisdom; extraordinary or supernatural power (only in the earlier language); illusionसमावृतः  (समावृ)participle, masculine nominative singularcoverto cover all over; to conceal; to veil; to envelop
+T	मूढोऽयं	मूढःdeludedअयम्this	मूढः  (मुह्)participle, masculine nominative singularconfuseto become stupefied or unconscious; to be bewildered or perplexed; to err; to be mistakenअयम्  (इदम्)pronoun, masculine nominative singularthisthis; (near deictic pronoun in Vedic)
+T	नाभिजानाति	नnotअभिजानातिknows	नparticlenotnot; no; nor; neitherअभिजानाति  (अभिज्ञा)verb: present 3rd person singularknowto recognize; to perceive; to know; to be or become aware of
+T	लोको	लोकःworld	लोकः  (लोक)noun, masculine nominative singularworldfree or open space; room; place; scope
+T	मामजमव्ययम्	माम्meअजम्unbornअव्ययम्imperishable	माम्  (मद्)pronoun, accusative singularII; weअजम्  (अज)adjective, masculine accusative singularunbornnot born; existing from all eternityअव्ययम्  (अव्यय)adjective, masculine accusative singularimperishablenot liable to change; imperishable; undecaying; parsimonious
+V	7.26		I know the beings that are past, that are present, that are to come, O Arjuna, but no one knoweth Me.		वेदाहंसमतीतानिवर्तमानानिचार्जुन~।भविष्याणिचभूतानिमांतुवेदनकश्चन~॥ २६ ॥	12
+T	वेदाहं	वेदI knewअहम्I	वेद  (विद्)verb: perfect 1st person singularknowto know; to understand; to learn; to be conscious ofअहम्  (मद्)pronoun, nominative singularII; we
+T	समतीतानि	समतीतानिelapsed	समतीतानि  (समती)participle, neuter accusative pluralelapseto go or pass by entirely; to go through or beyond; to cross over; to surpass
+T	वर्तमानानि	वर्तमानानिabiding	वर्तमानानि  (वृत्)present participle, neuter accusative pluralhappento turn; to turn round; to revolve; to roll
+T	चार्जुन	चandअर्जुनO Arjuna	चconjunctionandand; both; also; moreoverअर्जुनnoun, masculine vocative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	भविष्याणि	भविष्याणिfuture	भविष्याणि  (भविष्य)adjective, neuter accusative pluralfutureto be about to become or come to pass; future; imminent; impending
+T	च	चand	चconjunctionandand; both; also; moreover
+T	भूतानि	भूतानिbeings	भूतानि  (भूत)noun, neuter accusative pluralbeingthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularII; we
+T	तु	तुbut	तुparticlebutdo; now; then; but
+T	वेद	वेदknew	वेद  (विद्)verb: perfect 3rd person singularknowto know; to understand; to learn; to be conscious of
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	कश्चन	कश्चनanyone	कश्चनpronoun, masculine nominative singularany(a)something; anything
+V	7.27		By the delusion of the pairs of opposites, sprung from attraction and repulsion, O Bhârata, all beings walk this universe wholly deluded, O Parantapa.		इच्छाद्वेषसमुत्थेनद्वन्द्वमोहेनभारत~।सर्वभूतानिसम्मोहंसर्गेयान्तिपरन्तप~॥ २७ ॥	8
+T	इच्छाद्वेषसमुत्थेन	इच्छा-द्वेष-समुत्थेनdesire-hatred-caused	इच्छाfirst part of a compounddesirewish; desire; inclination; (in math.) a question or problemद्वेषfirst part of a compoundhatehatred; dislike; repugnance; enmity to (comp.)समुत्थेन  (समुत्थ)adjective, masculine instrumental singularcausedrising up; risen; appearing; occurring in
+T	द्वन्द्वमोहेन	द्वंद्व-मोहेनwith duality-delusion	द्वंद्वfirst part of a compounddualismpair; couple; male and female; a pair of opposites (e.g. heat and cold)मोहेन  (मोह)noun, masculine instrumental singulardelusionloss of consciousness; bewilderment; perplexity; distraction
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularBhârataactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+T	सर्वभूतानि	सर्व-भूतानिall-beings	सर्वfirst part of a compound (pronoun)all(a)whole; entire; all; everyभूतानि  (भूत)noun, neuter nominative pluralbeingthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	सम्मोहं	संमोहम्bewilderment	संमोहम्  (सम्मोह)noun, masculine accusative singularconfusionstupefaction; bewilderment; confusion; insensibility
+T	सर्गे	सर्गेin creation	सर्गे  (सर्ग)noun, masculine locative singularCreationletting go; discharging; voiding (as excrement); starting (a race-horse)
+T	यान्ति	यान्तिgo	यान्ति  (या)verb: present 3rd person pluralenter (a state)to go; to move; to set out; to travel
+T	परन्तप	परंतपO scorcher of foes	परंतपadjective, masculine vocative singulardestroying foes (said of heroes)
+V	7.28		But those men of pure deeds, in whom sin is come to an end, they, freed from the delusive pairs of opposites, worship Me, steadfast in vows.		येषांत्वन्तगतंपापंजनानांपुण्यकर्मणाम्~।तेद्वन्द्वमोहनिर्मुक्ताभजन्तेमांदृढव्रताः~॥ २८ ॥	10
+T	येषां	येषाम्whose	येषाम्  (यद्)pronoun, masculine genitive pluralwhowhat; which; who
+T	त्वन्तगतं	तुbutअन्त-गतम्end-gone	तुparticlebutdo; now; then; butअन्तfirst part of a compoundendend; limit; boundary; termगतम्  (गम्)participle, neuter nominative singularenter (a state)to go; to move; to approach; to understand
+T	पापं	पापम्sin	पापम्  (पाप)noun, neuter nominative singularsinevil; misfortune; ill-luck; trouble
+T	जनानां	जनानाम्of people	जनानाम्  (जन)noun, masculine genitive pluralpeopleliving being; man; person; name of a man
+T	पुण्यकर्मणाम्	पुण्य-कर्मणाम्of holy-actions	पुण्यfirst part of a compound (adjective)auspiciousauspicious; propitious; fair; pleasantकर्मणाम्  (कर्मन्)noun, masculine genitive pluralactionact; action; performance; business
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralhe,she,it (pers. pron.)this; gleicher
+T	द्वन्द्वमोहनिर्मुक्ता	द्वंद्व-मोह-निर्मुक्ताःduality-delusion-got rid of	द्वंद्वfirst part of a compounddualismpair; couple; male and female; a pair of opposites (e.g. heat and cold)मोहfirst part of a compounddelusionloss of consciousness; bewilderment; perplexity; distractionनिर्मुक्ताः  (निर्मुच्)participle, masculine nominative pluralget rid ofto loosen; to free from (abl.); to liberate
+T	भजन्ते	भजन्तेworship	भजन्ते  (भज्)verb: present 3rd person pluralworshipto divide; to distribute; to allot or apportion to (dat. or gen.); to share with (instr.)
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularII; we
+T	दृढव्रताः	दृढ-व्रताःfirm-vows	दृढfirst part of a compound (adjective)resolutefixed; firm; hard; strongव्रताः  (व्रत)noun, masculine nominative pluralvrata (vote)will; command; law; ordinance
+V	7.29		They who, refuged in Me, strive for liberation from birth and death, they know the Eternal, the whole Self-knowledge, and all action.		जरामरणमोक्षायमामाश्रित्ययतन्तिये~।तेब्रह्मतद्विदुःकृत्स्नमध्यात्मंकर्मचाखिलम्~॥ २९ ॥	10
+T	जरामरणमोक्षाय	जरा-मरण-मोक्षायfor old age-death-liberation	जराfirst part of a compoundold agethe act of becoming old; old age; digestion; decrepitudeमरणfirst part of a compounddeaththe act of dying; death; passing away; cessation (as of lightning or rain)मोक्षाय  (मोक्ष)noun, masculine dative singularliberationemancipation; liberation; release from; release from worldly existence or transmigration
+T	मामाश्रित्य	माम्meआश्रित्यhaving resorted to	माम्  (मद्)pronoun, accusative singularII; weआश्रित्य  (आश्रि)absolutive (having ...)call onto affix; to apply anything; to join; to adhere
+T	यतन्ति	यतन्तिstrive	यतन्ति  (यत्)verb: present 3rd person pluralendeavorto place in order; to marshal; to join; to connect
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralhe,she,it (pers. pron.)this; gleicher
+T	ब्रह्म	ब्रह्मBrahman	ब्रह्म  (ब्रह्मन्)noun, neuter accusative singularbrahmanpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	तद्विदुः	तत्thatविदुःknew	तत्  (तद्)pronoun, neuter accusative singularthisthis; gleicherविदुः  (विद्)verb: perfect 3rd person pluralknowto know; to understand; to learn; to be conscious of
+T	कृत्स्नमध्यात्मं	कृत्स्नम्wholeअध्यात्मम्inner Self	कृत्स्नम्  (कृत्स्न)adjective, neuter accusative singularwholeall; whole; entireअध्यात्मम्  (अध्यात्म)noun, neuter accusative singularsupreme spiritthe Supreme spirit
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularkarmanact; action; performance; business
+T	चाखिलम्	चandअखिलम्entire	चconjunctionandand; both; also; moreoverअखिलम्  (अखिल)adjective, neuter accusative singularwholewithout a gap; complete; whole

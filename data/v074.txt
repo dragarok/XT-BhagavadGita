@@ -1,0 +1,70 @@
+V	12.2	The Blessed Lord said:	They who with mind fixed on Me ever harmonised worship Me, with faith supreme endowed, these, in My opinion, are best in yoga.	Manah.	श्रीभगवानुवाच~।मय्यावेश्यमनोयेमांनित्ययुक्ताउपासते~।श्रद्धयापरयोपेतास्तेमेयुक्ततमामताः~॥ २ ॥	12
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundmisterlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularKrishnaname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	मय्यावेश्य	मयिin meआवेश्यhaving fixed	मयि  (मद्)pronoun, locative singularII; weआवेश्य  (आवेशय्)absolutive (having ...)restto cause to reach or obtain; to deliver; to offer; to present
+T	मनो	मनःmind	मनः  (मनस्)noun, neuter accusative singularmindmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularII; we
+T	नित्ययुक्ता	नित्य-युक्ताःeternal-harmonized	नित्यfirst part of a compound (adjective)continuousinnate; native; one's own (opp. to arana); continualयुक्ताः  (युज्)participle, masculine nominative pluralconcentrateto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	उपासते	उपासतेworship	उपासते  (उपास्)verb: present 3rd person pluralworshipto employ; to use; to make subservient; to sit by the side of
+T	श्रद्धया	श्रद्धयाwith faith	श्रद्धया  (श्रद्धा)noun, feminine instrumental singularfaithfaith; confidence; trustfulness; faithfulness
+T	परयोपेतास्ते	परयाsupremeउपेताःcome toतेthey	परया  (पर)pronoun, feminine instrumental singularhighestfar; remote; opposite; previousउपेताः  (उपे)participle, masculine nominative pluralendowto go or come or step near; to approach; to betake one's self to; to arrive atते  (तद्)pronoun, masculine nominative pluralthisthis; gleicher
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularII; we
+T	युक्ततमा	युक्ततमाःpracticing highest Yoga	युक्ततमाः  (युक्ततम)adjective, masculine nominative pluralpracticing highest Yogamost fit or intent upon; devoted to
+T	मताः	मताःthought	मताः  (मन्)participle, masculine nominative pluralthink ofto think; to believe; to imagine; to suppose
+V	12.3		They who worship the Indestructible, the Ineffable, the unmanifested, Omnipresent, and Unthinkable, the Unchanging, Immutable, Eternal,		येत्वक्षरमनिर्देश्यमव्यक्तंपर्युपासते~।सर्वत्रगमचिन्त्यंचकूटस्थमचलंध्रुवम्~॥ ३ ॥	7
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	त्वक्षरमनिर्देश्यमव्यक्तं	तुbutअक्षरम्imperishableअनिर्देश्यम्not to be pointed toअव्यक्तम्unmanifest	तुparticledo; now; then; butअक्षरम्  (अक्षर)adjective, neuter accusative singularimperishable; unalterableअnegative prefixnotnot; un-; in-निर्देश्यम्  (निर्दिश्)gerundive (to be ...), neuter accusative singularto point to (acc.); to show; to assign anything to; to destine for (dat. or gen.)अव्यक्तम्  (अव्यक्त)noun, neuter accusative singular(in Sânkhya phil.) "the unevolved (Evolver of all things)"; the primary germ of nature
+T	पर्युपासते	पर्युपासतेworships	पर्युपासते  (पर्युपास्)verb: present 3rd person singularworshipto sit round; to surround; to encompass; to be present at
+T	सर्वत्रगमचिन्त्यं	सर्वत्रगम्all-pervadingअचिन्त्यम्not to be thought of	सर्वत्रगम्  (सर्वत्रग)adjective, neuter accusative singularall-pervading; omnipresentअnegative prefixnotnot; un-; in-चिन्त्यम्  (चिन्तय्)gerundive (to be ...), neuter accusative singularto think; to have a thought or idea; to reflect; to consider
+T	च	चand	चconjunctionandand; both; also; moreover
+T	कूटस्थमचलं	कूटस्थम्unchangingअचलम्unmoving	कूटस्थम्  (कूटस्थ)adjective, neuter accusative singularimmovablestanding at the top; keeping the highest position; standing in a multitude of or in the midst of; immovableअचलम्  (अचल)adjective, neuter accusative singularfastnot moving; immovable; firm
+T	ध्रुवम्	ध्रुवम्certain	ध्रुवम्  (ध्रुव)adjective, neuter accusative singularchangelessfixed; firm; immovable; constant
+V	12.4		Restraining and subduing the senses, regarding everything equally, in the welfare of all rejoicing, these also come unto Me.		संनियम्येन्द्रियग्रामंसर्वत्रसमबुद्धयः~।तेप्राप्नुवन्तिमामेवसर्वभूतहितेरताः~॥ ४ ॥	8
+T	संनियम्येन्द्रियग्रामं	संनियम्यhaving restrainedइन्द्रिय-ग्रामम्sense-multitude	संनियम्य  (संनियम्)absolutive (having ...)restrainto hold together; to keep back; to restrain; to subdueइन्द्रियfirst part of a compoundsense organpower; force; the quality which belongs especially to the mighty Indra; exhibition of powerग्रामम्  (ग्राम)noun, masculine accusative singulargroupan inhabited place; village; hamlet; the collective inhabitants of a place
+T	सर्वत्र	सर्वत्रeverywhere	सर्वत्रadverbalwayseverywhere; in every case; always; at all times
+T	समबुद्धयः	सम-बुद्धयःequal-intellects	समfirst part of a compound (pronoun)imperturbableeven; flat; level; parallelबुद्धयः  (बुद्धि)noun, masculine nominative pluralmindthe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	ते	तेthey	ते  (तद्)pronoun, masculine nominative pluralthisthis; gleicher
+T	प्राप्नुवन्ति	प्राप्नुवन्तिattain	प्राप्नुवन्ति  (प्राप्)verb: present 3rd person pluralreachto attain to; to reach; to arrive at; to meet with
+T	मामेव	माम्meएवindeed	माम्  (मद्)pronoun, accusative singularII; weएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	सर्वभूतहिते	सर्व-भूत-हितेin all-being-welfare	सर्वfirst part of a compound (pronoun)all(a)whole; entire; all; everyभूतfirst part of a compoundbeingthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased personहिते  (हित)noun, neuter locative singularbenefitanything useful or salutary or suitable or proper; benefit; advantage; profit
+T	रताः	रताःdelighted	रताः  (रम्)participle, masculine nominative pluraldelightto stop; to calm; to set at rest; to delight
+V	12.5		The difficulty of those whose minds are set on the Unmanifested is greater; for the path of the Unmanifested is hard for the embodied to reach.		क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम्~।अव्यक्ताहिगतिर्दुःखंदेहवद्भिरवाप्यते~॥ ५ ॥	5
+T	क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम्	क्लेशःtroubleअधिकतरःmoreतेषाम्theirअव्यक्त-आसक्त-चेतसाम्of unmanifest-adhered-minds	क्लेशः  (क्लेश)noun, masculine nominative singulartroublepain; affliction; distress; pain from diseaseअधिकतरः  (अधिकतर)adjective, masculine nominative singularmore(a)even moreतेषाम्  (तद्)pronoun, masculine genitive pluralthatthis; gleicherअव्यक्तfirst part of a compoundPrakriti(in Sânkhya phil.) "the unevolved (Evolver of all things)"; the primary germ of natureआसक्त  (आसञ्ज्)first part of a compound (verb)adhereto fasten on; to attach; to fix; to fasten on one's selfचेतसाम्  (चेतस्)noun, masculine genitive pluralmindsplendour; consciousness; intelligence; thinking soul
+T	अव्यक्ता	अव्यक्ताunmanifest	अव्यक्ता  (अव्यक्त)adjective, feminine nominative singularindistinctundeveloped; not manifest; unapparent; indistinct
+T	हि	हिfor	हिparticlebecausefor; because; on account of
+T	गतिर्दुःखं	गतिःgoalदुःखम्hardly	गतिः  (गति)noun, feminine nominative singularwaygoing; moving; gait; deportmentदुःखम्adverbhardlyunpleasantly; with difficulties
+T	देहवद्भिरवाप्यते	देहवद्भिःbodiedअवाप्यतेis attained	देहवद्भिः  (देहवत्)adjective, masculine instrumental pluralbodiedfurnished with a body; embodiedअवाप्यते  (अवाप्)verb: passive present 3rd person singularreachto reach; to attain; to obtain; to gain
+V	12.6		Those verily who, renouncing all actions in Me and intent on Me, worship meditating on Me, with whole-hearted yoga,		येतुसर्वाणिकर्माणिमयिसंन्यस्यमत्पराः~।अनन्येनैवयोगेनमांध्यायन्तउपासते~॥ ६ ॥	12
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	तु	तुbut	तुparticlebutdo; now; then; but
+T	सर्वाणि	सर्वाणिall	सर्वाणि  (सर्व)pronoun, neuter accusative pluralall(a)whole; entire; all; every
+T	कर्माणि	कर्माणिactions	कर्माणि  (कर्मन्)noun, neuter accusative pluralactionact; action; performance; business
+T	मयि	मयिin me	मयि  (मद्)pronoun, locative singularII; we
+T	संन्यस्य	संन्यस्यhaving renounced	संन्यस्य  (संन्यस्)absolutive (having ...)renounceto throw down together; to place or put or lay together; to impose; to put or lay upon
+T	मत्पराः	मद्-पराःmy-supreme	मद्first part of a compound (pronoun)II; weपराः  (पर)pronoun, masculine nominative pluraldevoted(p)far; remote; opposite; previous
+T	अनन्येनैव	अनन्येनnot otherएवindeed	अन्negative prefixnotnot; un-; in-अन्येन  (अन्य)pronoun, masculine instrumental singularother; anotherएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	योगेन	योगेनwith yoga	योगेन  (योग)noun, masculine instrumental singularyogathe act of yoking; joining; attaching; harnessing
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularII; we
+T	ध्यायन्त	ध्यायन्तःcontemplating	ध्यायन्तः  (ध्या)present participle, masculine nominative pluralcontemplateto think of; to imagine; to contemplate; to meditate on
+T	उपासते	उपासतेworship	उपासते  (उपास्)verb: present 3rd person pluralworshipto employ; to use; to make subservient; to sit by the side of
+V	12.7		These I speedily lift up from the ocean of death and existence, O Pârtha, their minds being fixed on Me.	Chetah.	तेषामहंसमुद्धर्तामृत्युसंसारसागरात्~।भवामिनचिरात्पार्थमय्यावेशितचेतसाम्~॥ ७ ॥	7
+T	तेषामहं	तेषाम्theirअहम्I	तेषाम्  (तद्)pronoun, masculine genitive pluralthisthis; gleicherअहम्  (मद्)pronoun, nominative singularII; we
+T	समुद्धर्ता	समुद्धर्ताredemptive	समुद्धर्ता  (समुद्धर्तृ)adjective, masculine nominative singularredemptiveone who lifts up or raises or extricates from (abl.); saving
+T	मृत्युसंसारसागरात्	मृत्यु-संसार-सागरात्from death-worldly existence-ocean	मृत्युfirst part of a compounddeathdeath; dying; Death personified; the god of disease (sometimes identified with Yama or with Vishnu)संसारfirst part of a compoundSamsâragoing or wandering through; undergoing transmigration; course; passageसागरात्  (सागर)noun, masculine ablative singularoceanthe ocean; an ocean (as expressing any vast body or inexhaustible mass); a symbolical expression for the number four; a particular high number (= 10 Padmas)
+T	भवामि	भवामिI am	भवामि  (भू)verb: present 1st person singularbeto be; to become; to come into being; to happen
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	चिरात्पार्थ	नचिरात्soonपार्थO son of Pritha	नचिरात्adverbsoonsoonपार्थnoun, masculine vocative singularArjunapatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	मय्यावेशितचेतसाम्	मयिin meआवेशित-चेतसाम्of fixed-minds	मयि  (मद्)pronoun, locative singularII; weआवेशित  (आवेशय्)first part of a compound (verb)restto cause to reach or obtain; to deliver; to offer; to presentचेतसाम्  (चेतस्)noun, masculine genitive pluralmindsplendour; consciousness; intelligence; thinking soul
+V	12.8		Place thy mind in me, into Me let thy Reason enter; then without doubt thou shalt abide in Me hereafter.	Manah.Buddhi.	मय्येवमनआधत्स्वमयिबुद्धिंनिवेशय~।निवसिष्यसिमय्येवअतऊर्ध्वंनसंशयः~॥ ८ ॥	12
+T	मय्येव	मयिin meएवindeed	मयि  (मद्)pronoun, locative singularII; weएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	मन	मनःmind	मनः  (मनस्)noun, neuter accusative singularmindmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	आधत्स्व	आधत्स्वplace!	आधत्स्व  (आधा)verb: present imperative 2nd person singulardirectto place on; to put down; to deposit; to put
+T	मयि	मयिin me	मयि  (मद्)pronoun, locative singularII; we
+T	बुद्धिं	बुद्धिम्intellect	बुद्धिम्  (बुद्धि)noun, feminine accusative singularintelligencethe power of forming and retaining conceptions and general notions; intelligence; reason; intellect
+T	निवेशय	निवेशयfix!	निवेशय  (निवेशय्)verb: present imperative 2nd person singularfixto introduce; to cause to sit or lie or settle down on; to cause (a man) to marry; to draw up or encamp (an army)
+T	निवसिष्यसि	निवसिष्यसिyou will dwell	निवसिष्यसि  (निवस्)verb: future 2nd person singulardwellto sojourn; to pass or spend time; to dwell or live or be in; to keep one's ground
+T	मय्येव	मयिin meएवindeed	मयि  (मद्)pronoun, locative singularII; weएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	अत	अतःhence	अतः  (अतस्)adverbnowfrom this; than this; hence; henceforth
+T	ऊर्ध्वं	ऊर्ध्वम्upward	ऊर्ध्वम्adverbsubsequentlyfurthermore; after; upward
+T	न	नnot	नparticlenonot; no; nor; neither
+T	संशयः	संशयःdoubt	संशयः  (संशय)noun, masculine nominative singulardoubtlying down to rest or sleep; uncertainty; irresolution; hesitation

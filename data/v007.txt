@@ -1,0 +1,65 @@
+V	1.42		This confusion draggeth to hell the slayers of the family, and the family; for their ancestors fall, deprived of rice-balls and libations.		सङ्करोनरकायैवकुलघ्नानांकुलस्यच~।पतन्तिपितरोह्येषांलुप्तपिण्डोदकक्रियाः~॥ ४२ ॥	9
+T	सङ्करो	संकरःconfusion	संकरः  (संकर)noun, masculine nominative singularmixmixing together; commingling; intermixture; the offspring of a mixed marriage
+T	नरकायैव	नरकायfor hellएवindeed	नरकाय  (नरक)noun, masculine dative singularhellhell; place of tormentएवparticlesurelyso; just so; exactly so (in the sense of the later evam); indeed
+T	कुलघ्नानां	कुल-घ्नानाम्family-destroying	कुलfirst part of a compoundfamilya herd; troop; flock; assemblageघ्नानाम्  (घ्न)adjective, masculine genitive pluraldestroyingstriking with; killing; killer; murderer
+T	कुलस्य	कुलस्यof family	कुलस्य  (कुल)noun, neuter genitive singularfamilya herd; troop; flock; assemblage
+T	च	चand	चconjunctionandand; both; also; moreover
+T	पतन्ति	पतन्तिfall	पतन्ति  (पत्)verb: present 3rd person pluralfall downto fly; to soar; to rush on; to fall down
+T	पितरो	पितरःfathers	पितरः  (पितृ)noun, masculine nominative pluralfathera father; parents; the fathers; forefathers
+T	ह्येषां	हिforएषाम्of these	हिparticlebecausefor; because; on account ofएषाम्  (इदम्)pronoun, masculine genitive pluralthisthis; (near deictic pronoun in Vedic)
+T	लुप्तपिण्डोदकक्रियाः	लुप्त-पिण्ड-उदक-क्रियाःinterrupted-Shrâddha-Udaka-activities	लुप्त  (लुप्)first part of a compound (verb)interruptto break; to hurt; to spoil; to seizeपिण्डfirst part of a compoundShrâddhaany round or roundish mass or heap; a ball; globe; knobउदकfirst part of a compoundUdakawater; the ceremony of offering water to a dead person; ablution (as a ceremony); a particular metreक्रियाः  (क्रिया)noun, masculine nominative pluralritualdoing; performing; performance; occupation with (in comp.)
+V	1.43		By these caste-confusing misdeeds of the slayers of the family, the everlasting caste customs and family customs are abolished.	Dharma.Dharma.	दोषैरेतैःकुलघ्नानांवर्णसङ्करकारकैः~।उत्साद्यन्तेजातिधर्माःकुलधर्माश्चशाश्वताः~॥ ४३ ॥	7
+T	दोषैरेतैः	दोषैःwith faultsएतैःby these	दोषैः  (दोष)noun, masculine instrumental pluralsinfault; vice; deficiency; wantएतैः  (एतद्)pronoun, masculine instrumental pluralthisthis
+T	कुलघ्नानां	कुल-घ्नानाम्family-destroying	कुलfirst part of a compoundfamilya herd; troop; flock; assemblageघ्नानाम्  (घ्न)adjective, masculine genitive pluraldestroyingstriking with; killing; killer; murderer
+T	वर्णसङ्करकारकैः	वर्ण-संकर-कारकैःcaste-confusion-causing	वर्णfirst part of a compoundcastea covering; cloak; mantle; a coverसंकरfirst part of a compoundmixmixing together; commingling; intermixture; the offspring of a mixed marriageकारकैः  (कारक)adjective, masculine instrumental pluralcausingproducing; making
+T	उत्साद्यन्ते	उत्साद्यन्तेare abolished	उत्साद्यन्ते  (उत्सादय्)verb: passive present 3rd person pluralabolishto abolish; to destroy; to annihilate; to anoint
+T	जातिधर्माः	जाति-धर्माःcaste-dharmas	जातिfirst part of a compoundcastebirth; production; re-birth; the form of existenceधर्माः  (धर्म)noun, masculine nominative pluralDharmathat which is established or firm; steadfast decree; statute; ordinance
+T	कुलधर्माश्च	कुल-धर्माःfamily-dharmasचand	कुलfirst part of a compoundfamilya herd; troop; flock; assemblageधर्माः  (धर्म)noun, masculine nominative pluralDharmathat which is established or firm; steadfast decree; statute; ordinanceचconjunctionandand; both; also; moreover
+T	शाश्वताः	शाश्वताःeverlasting	शाश्वताः  (शाश्वत)adjective, masculine nominative pluraleverlastingeternal; constant; perpetual; all
+V	1.44		The abode of the men whose family customs are extinguished, O Janârdana, is everlastingly in hell. Thus have we heard.	Dharma.	उत्सन्नकुलधर्माणांमनुष्याणांजनार्दन~।नरकेनियतंवासोभवतीत्यनुशुश्रुम~॥ ४४ ॥	7
+T	उत्सन्नकुलधर्माणां	उत्सन्न-कुल-धर्माणाम्of vanished-family-dharmas	उत्सन्न  (उत्सद्)first part of a compound (verb)vanishto sit upwards; to raise one's self or rise up to (acc.); to withdraw; to leave offकुलfirst part of a compoundfamilya herd; troop; flock; assemblageधर्माणाम्  (धर्म)noun, masculine genitive pluralDharmathat which is established or firm; steadfast decree; statute; ordinance
+T	मनुष्याणां	मनुष्याणाम्of humans	मनुष्याणाम्  (मनुष्य)noun, masculine genitive pluralmana man; human being; a man (as opp. to woman); a husband
+T	जनार्दन	जनार्दनO Janardana	जनार्दनnoun, masculine vocative singularKrishnaVishnu or Krishna; name of several men; name of a locality
+T	नरके	नरकेin hell	नरके  (नरक)noun, masculine locative singularhellhell; place of torment
+T	नियतं	नियतम्surely	नियतम्adverbsurelycertainly; invariably
+T	वासो	वासःdwelling	वासः  (वास)noun, masculine nominative singulardwellingstaying; remaining (esp. "overnight"); abiding; dwelling
+T	भवतीत्यनुशुश्रुम	भवतिisइतिthusअनुशुश्रुमwe learned	भवति  (भू)verb: present 3rd person singularbecometo be; to become; to come into being; to happenइतिparticlesoin this manner; thus (in its original signification iti refers to something that has been said or thought); soअनुशुश्रुम  (अनुश्रु)verb: perfect 1st person plurallearnto hear repeatedly (especially what is handed down in the Veda)
+V	1.45		Alas! in committing a great sin are we engaged, we who are endeavouring to kill our kindred from greed of the pleasures of kingship.		अहोबतमहत्पापंकर्तुंव्यवसितावयम्~।यद्राज्यसुखलोभेनहन्तुंस्वजनमुद्यताः~॥ ४५ ॥	9
+T	अहो	अहोalas	अहोinterjectionunfortunatelya particle (implying joyful or painful surprise)
+T	बत	बतalas	बतinterjectiondeplorablyan interjection expressing astonishment or regret
+T	महत्पापं	महत्greatपापम्sin	महत्adjective, neuter accusative singulargreatgreat; large; big; hugeपापम्  (पाप)noun, neuter accusative singularevildoingevil; misfortune; ill-luck; trouble
+T	कर्तुं	कर्तुम्to do	कर्तुम्  (कृ)infinitivemaketo make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	व्यवसिता	व्यवसिताःdecided	व्यवसिताः  (व्यवसा)participle, masculine nominative pluraldecideto settle down or dwell separately; to differ (in opinion); to contest; to quarrel
+T	वयम्	वयम्we	वयम्  (मद्)pronoun, nominative pluralII; we
+T	यद्राज्यसुखलोभेन	यत्striveराज्य-सुख-लोभेनwith kingdom-happiness-greed	यत्conjunctionbecauseas often; how many or often; as many as (= Lat. quot); becauseराज्यfirst part of a compoundkingdomroyalty; kingship; sovereignty; empireसुखfirst part of a compoundpleasureease; easiness; comfort; prosperityलोभेन  (लोभ)noun, masculine instrumental singulardesireperplexity; confusion; impatience; eager desire for or longing after
+T	हन्तुं	हन्तुम्to slay	हन्तुम्  (हन्)infinitivekillto strike; to beat; to pound; to hammer
+T	स्वजनमुद्यताः	स्व-जनम्own-personउद्यताःraised	स्वfirst part of a compound (adjective)own(a)own; one's own; related; akinजनम्  (जन)noun, masculine accusative singularrelativeliving being; man; person; name of a manउद्यताः  (उद्यम्)participle, masculine nominative pluralprepareto lift up; to raise; to set up; to elevate
+V	1.46		If the sons of Dhritarâshtra, weapon in hand, should slay me, unresisting, unarmed, in the battle, that would for me be the better.		यदिमामप्रतीकारमशस्त्रंशस्त्रपाणयः~।धार्तराष्ट्रारणेहन्युस्तन्मेक्षेमतरंभवेत्~॥ ४६ ॥	8
+T	यदि	यदिif	यदिconjunctionifin case that; if; whether
+T	मामप्रतीकारमशस्त्रं	माम्meअप्रतीकारम्resistlessअशस्त्रम्unarmed	माम्  (मद्)pronoun, accusative singularII; weअप्रतीकारम्  (अप्रतीकार)adjective, masculine accusative singularresistlessnot admitting of any relief or remedy; unresistingअशस्त्रम्  (अशस्त्र)adjective, masculine accusative singularunarmedweaponless; unarmed
+T	शस्त्रपाणयः	शस्त्र-पाणयःweapon-hands	शस्त्रfirst part of a compoundweaponan instrument for cutting or wounding; knife; sword; daggerपाणयः  (पाणि)noun, masculine nominative pluralhandthe hand; a hoof
+T	धार्तराष्ट्रा	धार्तराष्ट्राःsons of Dhritarashtra	धार्तराष्ट्राः  (धार्तराष्ट्र)noun, masculine nominative pluralDhârtarâshtraa son of Dhritarâshtra; a Kuru; patr. of Duryodhana; a kind of snake
+T	रणे	रणेin battle	रणे  (रण)noun, masculine locative singularbattledelight; pleasure; gladness; joy
+T	हन्युस्तन्मे	हन्युःshould slayतत्thatमेmy	हन्युः  (हन्)verb: present optative 3rd person pluralkillto strike; to beat; to pound; to hammerतत्  (तद्)pronoun, neuter nominative singularthisthis; gleicherमे  (मद्)pronoun, genitive singularII; we
+T	क्षेमतरं	क्षेमतरम्easier	क्षेमतरम्  (क्षेमतर)adjective, neuter nominative singulareasiereasier
+T	भवेत्	भवेत्should be	भवेत्  (भू)verb: present optative 3rd person singularbeto be; to become; to come into being; to happen
+V	1.47	Sanjaya said:	Having thus spoken on the battle-field, Arjuna sank down on the seat of the chariot, casting away his bow and arrow, his mind overborne by grief.		सञ्जयउवाच~।एवमुक्त्वाऽर्जुनःसङ्ख्येरथोपस्थउपाविशत्~।विसृज्यसशरंचापंशोकसंविग्नमानसः~॥ ४७ ॥	10
+T	सञ्जय	संजयO Sanjaya	संजयnoun, masculine vocative singularSamjayaconquest; victory; a kind of military array; name of a chief of the Yakshas
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	एवमुक्त्वाऽर्जुनः	एवम्thusउक्त्वाhaving saidअर्जुनःArjuna	एवम्adverbsothus; in this way; in such a manner; suchउक्त्वा  (वच्)absolutive (having ...)speakto speak; to say; to tell; to declareअर्जुनः  (अर्जुन)noun, masculine nominative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	सङ्ख्ये	संख्येin battle	संख्ये  (संख्य)noun, neuter locative singularbattleconflict; battle; war
+T	रथोपस्थ	रथोपस्थेin seat of a chariots	रथोपस्थे  (रथोपस्थ)noun, masculine locative singularthe seat of a chariots; driving-box (as lower than the main body of the car); the hinder part of a car
+T	उपाविशत्	उपाविशत्sat down	उपाविशत्  (उपविश्)verb: imperfect 3rd person singularsit downto go or come near; to approach; to sit down; to take a seat (as men)
+T	विसृज्य	विसृज्यhaving cast aside	विसृज्य  (विसृज्)absolutive (having ...)throwto send or pour forth; to let go or run or flow; to discharge; to emit
+T	सशरं	सwithशरम्arrow	सadverbwith(ibc.) withशरम्  (शर)noun, masculine accusative singulararrowa sort of reed or grass; Saccharum sara Linn. (used for arrows) = Erianthus munja Jesw. = Saccharum munja Roxb. = Saccharum ciliare Anders.; an arrow; shaft
+T	चापं	चापम्bow	चापम्  (चाप)noun, masculine accusative singularbowa bow; (in geom.) an arc; Sagittarius; a rainbow
+T	शोकसंविग्नमानसः	शोक-संविग्न-मानसःgrief-trembled-mind	शोकfirst part of a compoundsorrowflame; glow; heat; sorrowसंविग्न  (संविज्)first part of a compound (verb)trembleto tremble or start with fear; to start up; to run away; to fall to piecesमानसः  (मानस)noun, masculine nominative singularheartthe mental powers; mind; spirit; heart
+V	2.1	Sanjaya said:	To him thus with pity overcome, with smarting brimming eyes, despondent, Madhusûdana spake these words:		सञ्जयउवाच~।तंतथाकृपयाऽऽविष्टमश्रुपूर्णाकुलेक्षणम्~।विषीदन्तमिदंवाक्यमुवाचमधुसूदनः~॥ १ ॥	8
+T	सञ्जय	संजयःSanjaya	संजयः  (संजय)noun, masculine nominative singularSamjayaconquest; victory; a kind of military array; name of a chief of the Yakshas
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	तं	तम्him	तम्  (तद्)pronoun, masculine accusative singularhe,she,it (pers. pron.)this; gleicher
+T	तथा	तथाlikewise	तथाadverbthusin that manner; so; thus; yes
+T	कृपयाऽऽविष्टमश्रुपूर्णाकुलेक्षणम्	कृपयाwith compassionआविष्टम्enteredअश्रु-पूर्ण-आकुल-ईक्षणम्tear-filled-perplexed-eye	कृपया  (कृपा)noun, feminine instrumental singularcompassionpity; tenderness; name of a riverआविष्टम्  (आविश्)past participle, masculine accusative singularoverwhelmto go or drive in or towards; to approach; to enter; to take possession ofअश्रुfirst part of a compoundteara tearपूर्ण  (पृ)first part of a compound (verb)fillto fill with air; to blow into (acc.); to sate; to cherishआकुलfirst part of a compound (adjective)perplexedconfounded; confused; agitated; flurriedईक्षणम्  (ईक्षण)noun, masculine accusative singulareyea look; view; aspect sight; regarding
+T	विषीदन्तमिदं	विषीदन्तम्being dejectedइदम्this	विषीदन्तम्  (विषद्)present participle, masculine accusative singulardespairto be exhausted or dejected; to despond; to despair; to sink downइदम्pronoun, neuter accusative singularthisthis; (near deictic pronoun in Vedic)
+T	वाक्यमुवाच	वाक्यम्wordउवाचsaid	वाक्यम्  (वाक्य)noun, neuter accusative singularstatementspeech; saying; assertion; statementउवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	मधुसूदनः	मधुसूदनःMadhusudana	मधुसूदनः  (मधुसूदन)noun, masculine nominative singularKrishnaa bee; name of Vishnu-Krishna; name of various scholars

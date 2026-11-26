@@ -1,0 +1,85 @@
+V	4.12		They who long after success in action on earth worship the Shining Ones; for in brief space verily, in this world of men, success is born of action.		काङ्क्षन्तःकर्मणांसिद्धिंयजन्तइहदेवताः~।क्षिप्रंहिमानुषेलोकेसिद्धिर्भवतिकर्मजा~॥ १२ ॥	12
+T	काङ्क्षन्तः	काङ्क्षन्तःdesiring	काङ्क्षन्तः  (काङ्क्ष्)present participle, masculine nominative pluralto wish; to desire; to long for; to hope for (with acc.)
+T	कर्मणां	कर्मणाम्of actions	कर्मणाम्  (कर्मन्)noun, neuter genitive pluralact; action; performance; business
+T	सिद्धिं	सिद्धिम्success	सिद्धिम्  (सिद्धि)noun, feminine accusative singularaccomplishment; performance; fulfilment; complete attainment (of any object)
+T	यजन्त	यजन्तःsacrificing	यजन्तः  (यज्)present participle, masculine nominative pluralto worship; to adore; to honour (esp. with sacrifice or oblations); to consecrate
+T	इह	इहhere	इहadverbin this place; here; to this place; in this world
+T	देवताः	देवताःdeities	देवताः  (देवता)noun, feminine accusative pluralgodhead; divinity (abstr. & concr.); image of a deity; idol
+T	क्षिप्रं	क्षिप्रम्quickly	क्षिप्रम्adverbquickly
+T	हि	हिfor	हिparticlefor; because; on account of
+T	मानुषे	मानुषेhuman	मानुषे  (मानुष)adjective, masculine locative singularbelonging to mankind; human; favourable or propitious to men; humane
+T	लोके	लोकेin world	लोके  (लोक)noun, masculine locative singularfree or open space; room; place; scope
+T	सिद्धिर्भवति	सिद्धिःsuccessभवतिis	सिद्धिः  (सिद्धि)noun, feminine nominative singularaccomplishment; performance; fulfilment; complete attainment (of any object)भवति  (भू)verb: present 3rd person singularto be; to become; to come into being; to happen
+T	कर्मजा	कर्म-जाaction-born	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessजा  (ज)adjective, feminine nominative singularifc. born or descended from; produced or caused by; born or produced in or at or upon; growing in
+V	4.13		The four castes were emanated by Me, by the different distribution of qualities and actions; know Me to be the author of them, though the actionless and inexhaustible.	Gunas.	चातुर्वर्ण्यंमयासृष्टंगुणकर्मविभागशः~।तस्यकर्तारमपिमांविद्ध्यकर्तारमव्ययम्~॥ १३ ॥	8
+T	चातुर्वर्ण्यं	चातुर्वर्ण्यम्four castes	चातुर्वर्ण्यम्  (चातुर्वर्ण्य)noun, neuter nominative singularthe four castes
+T	मया	मयाby me	मया  (मद्)pronoun, instrumental singularI; we
+T	सृष्टं	सृष्टम्created	सृष्टम्  (सृज्)participle, neuter nominative singularto let go or fly; to discharge; to throw; to cast
+T	गुणकर्मविभागशः	गुण-कर्म-विभागशःquality-action-according to their parts	गुणfirst part of a compounda single thread or strand of a cord or twine; string or thread; rope; a garlandकर्म  (कर्मन्)first part of a compoundact; action; performance; businessविभागशःadverbaccording to their parts
+T	तस्य	तस्यof that	तस्य  (तद्)pronoun, neuter genitive singularthis; gleicher
+T	कर्तारमपि	कर्तारम्doerअपिalso	कर्तारम्  (कर्तृ)noun, masculine accusative singularthe creator of the world; name of Vishnu; name of Brahman; name of Shivaअपिparticlealso; moreover; besides; assuredly
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	विद्ध्यकर्तारमव्ययम्	विद्धिknow!अकर्तारम्not an agentअव्ययम्imperishable	विद्धि  (विद्)verb: present imperative 2nd person singularto know; to understand; to learn; to be conscious ofअकर्तारम्  (अकर्तृ)noun, masculine accusative singularnot an agent; not activeअव्ययम्  (अव्यय)adjective, masculine accusative singularnot liable to change; imperishable; undecaying; parsimonious
+V	4.14		Nor do actions affect Me, nor is the fruit of action desired by Me. He who thus knoweth Me is not bound by actions.		नमांकर्माणिलिम्पन्तिनमेकर्मफलेस्पृहा~।इतिमांयोऽभिजानातिकर्मभिर्नसबद्ध्यते~॥ १४ ॥	14
+T	न	नnot	नparticlenot; no; nor; neither
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	कर्माणि	कर्माणिactions	कर्माणि  (कर्मन्)noun, neuter nominative pluralact; action; performance; business
+T	लिम्पन्ति	लिम्पन्तिstain	लिम्पन्ति  (लिप्)verb: present 3rd person pluralto smear; to besmear; to anoint with (instr.); to stain
+T	न	नnot	नparticlenot; no; nor; neither
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularI; we
+T	कर्मफले	कर्म-फलेin action-fruit	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessफले  (फल)noun, neuter locative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	स्पृहा	स्पृहाlonging	स्पृहाnoun, feminine nominative singulareager desire; desire; covetousness; envy
+T	इति	इतिthus	इतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	योऽभिजानाति	यःwhoअभिजानातिknows	यः  (यद्)pronoun, masculine nominative singularwhat; which; whoअभिजानाति  (अभिज्ञा)verb: present 3rd person singularto recognize; to perceive; to know; to be or become aware of
+T	कर्मभिर्न	कर्मभिःwith actionsनnot	कर्मभिः  (कर्मन्)noun, neuter instrumental pluralact; action; performance; businessनparticlenot; no; nor; neither
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	बद्ध्यते	बध्यतेis bound	बध्यते  (बन्ध्)verb: passive present 3rd person singularto bind; to tie; to fix; to chain
+V	4.15		Having thus known, our forefathers, ever seeking liberation, performed action; therefore do thou also perform action, as did our forefathers in the olden time.		एवंज्ञात्वाकृतंकर्मपूर्वैरपिमुमुक्षुभिः~।कुरुकर्मैवतस्मात्त्वंपूर्वैःपूर्वतरंकृतम्~॥ १५ ॥	12
+T	एवं	एवम्thus	एवम्adverbthus; in this way; in such a manner; such
+T	ज्ञात्वा	ज्ञात्वाhaving known	ज्ञात्वा  (ज्ञा)absolutive (having ...)to know; to have knowledge; to become acquainted with; to perceive
+T	कृतं	कृतम्done	कृतम्  (कृ)participle, neuter accusative singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	पूर्वैरपि	पूर्वैःformerअपिalso	पूर्वैः  (पूर्व)pronoun, masculine instrumental pluralbeing before or in front fore; first; eastern; to the east of (abl.)अपिparticlealso; moreover; besides; assuredly
+T	मुमुक्षुभिः	मुमुक्षुभिःdesirous of freeing	मुमुक्षुभिः  (मुमुक्षु)adjective, masculine instrumental pluraldesirous of freeing; wishing to deliver from (abl.); eager to be free (from mundane existence); striving after emancipation
+T	कुरु	कुरुdo!	कुरु  (कृ)verb: present imperative 2nd person singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	कर्मैव	कर्मactionएवindeed	कर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; businessएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	तस्मात्त्वं	तस्मात्thereforeत्वम्you	तस्मात्adverbthereforeत्वम्  (त्वद्)pronoun, nominative singularyou
+T	पूर्वैः	पूर्वैःformer	पूर्वैः  (पूर्व)pronoun, masculine instrumental pluralbeing before or in front fore; first; eastern; to the east of (abl.)
+T	पूर्वतरं	पूर्वतरम्earlier	पूर्वतरम्  (पूर्वतर)adjective, neuter accusative singularearlier; previous; prior; anterior
+T	कृतम्	कृतम्done	कृतम्  (कृ)participle, neuter accusative singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+V	4.16		"What is action, what inaction"? Even the wise are herein perplexed. Therefore I will declare to thee the action by knowing which thou shalt be loosed from evil.		किंकर्मकिमकर्मेतिकवयोऽप्यत्रमोहिताः~।तत्तेकर्मप्रवक्ष्यामियज्ज्ञात्वामोक्ष्यसेऽशुभात्~॥ १६ ॥	10
+T	किं	किम्what	किम्  (क)pronoun, neuter nominative singularwho?; what?
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter nominative singularact; action; performance; business
+T	किमकर्मेति	किम्whatअकर्मinactionइतिthus	किम्  (क)pronoun, neuter nominative singularwho?; what?अकर्म  (अकर्मन्)noun, neuter nominative singularabsence of work; observances; improper work; crimeइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	कवयोऽप्यत्र	कवयःseersअपिalsoअत्रhere	कवयः  (कवि)noun, masculine nominative plurala thinker; intelligent man; man of understanding; leaderअपिparticlealso; moreover; besides; assuredlyअत्रadverbin this matter; in this respect; in this place; here
+T	मोहिताः	मोहिताःdeluded	मोहिताः  (मोहय्)participle, masculine nominative pluralto stupefy; to bewilder; to confound; to perplex
+T	तत्ते	तत्thatतेfor you	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherते  (त्वद्)pronoun, dative singularyou
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	प्रवक्ष्यामि	प्रवक्ष्यामिI will declare	प्रवक्ष्यामि  (प्रवच्)verb: future 1st person singularto proclaim; to announce; to praise; to commend
+T	यज्ज्ञात्वा	यत्whichज्ञात्वाhaving known	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoज्ञात्वा  (ज्ञा)absolutive (having ...)to know; to have knowledge; to become acquainted with; to perceive
+T	मोक्ष्यसेऽशुभात्	मोक्ष्यसेyou will freeअशुभात्evil	मोक्ष्यसे  (मुच्)verb: future 2nd person singularto loose; to let loose; to release; to liberate fromअशुभात्  (अशुभ)adjective, neuter ablative singularnot beautiful or agreeable; disagreeable; inauspicious; bad
+V	4.17		It is needful to discriminate action, to discriminate unlawful action, and to discriminate inaction; mysterious is the path of action.		कर्मणोह्यपिबोद्धव्यंबोद्धव्यंचविकर्मणः~।अकर्मणश्चबोद्धव्यंगहनाकर्मणोगतिः~॥ १७ ॥	11
+T	कर्मणो	कर्मणःof action	कर्मणः  (कर्मन्)noun, neuter genitive singularact; action; performance; business
+T	ह्यपि	हिforअपिalso	हिparticlefor; because; on account ofअपिparticlealso; moreover; besides; assuredly
+T	बोद्धव्यं	बोद्धव्यम्to be understood	बोद्धव्यम्  (बुध्)gerundive (to be ...), neuter nominative singularto wake; to wake up; to be awake; to recover consciousness (after a swoon)
+T	बोद्धव्यं	बोद्धव्यम्to be understood	बोद्धव्यम्  (बुध्)gerundive (to be ...), neuter nominative singularto wake; to wake up; to be awake; to recover consciousness (after a swoon)
+T	च	चand	चconjunctionand; both; also; moreover
+T	विकर्मणः	विकर्मणःof prohibited	विकर्मणः  (विकर्मन्)noun, neuter genitive singularprohibited or unlawful act; fraud; various business or duty; name of a Sâman
+T	अकर्मणश्च	अकर्मणःof inactionचand	अकर्मणः  (अकर्मन्)noun, neuter genitive singularabsence of work; observances; improper work; crimeचconjunctionand; both; also; moreover
+T	बोद्धव्यं	बोद्धव्यम्to be understood	बोद्धव्यम्  (बुध्)gerundive (to be ...), neuter nominative singularto wake; to wake up; to be awake; to recover consciousness (after a swoon)
+T	गहना	गहनाdeep	गहना  (गहन)adjective, feminine nominative singulardeep; dense; thick; impervious
+T	कर्मणो	कर्मणःof action	कर्मणः  (कर्मन्)noun, neuter genitive singularact; action; performance; business
+T	गतिः	गतिःgoal	गतिः  (गति)noun, feminine nominative singulargoing; moving; gait; deportment
+V	4.18		He who seeth inaction in action, and action in inaction, he is wise among men, he is harmonious, even while performing all action.		कर्मण्यकर्मयःपश्येदकर्मणिचकर्मयः~।सबुद्धिमान्मनुष्येषुसयुक्तःकृत्स्नकर्मकृत्~॥ १८ ॥	11
+T	कर्मण्यकर्म	कर्मणिin actionअकर्मinaction	कर्मणि  (कर्मन्)noun, neuter locative singularact; action; performance; businessअकर्म  (अकर्मन्)noun, neuter accusative singularabsence of work; observances; improper work; crime
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	पश्येदकर्मणि	पश्येत्should seeअकर्मणिin inaction	पश्येत्  (पश्)verb: present optative 3rd person singularto see; to see with the spiritual eye; to compose; to considerअकर्मणि  (अकर्मन्)noun, neuter locative singularabsence of work; observances; improper work; crime
+T	च	चand	चconjunctionand; both; also; moreover
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	बुद्धिमान्मनुष्येषु	बुद्धिमान्wiseमनुष्येषुin humans	बुद्धिमान्  (बुद्धिमत्)adjective, masculine nominative singularendowed with understanding; intelligent; learned; wiseमनुष्येषु  (मनुष्य)noun, masculine locative plurala man; human being; a man (as opp. to woman); a husband
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	युक्तः	युक्तःharmonized	युक्तः  (युज्)participle, masculine nominative singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	कृत्स्नकर्मकृत्	कृत्स्न-कर्म-कृत्whole-action-making	कृत्स्नfirst part of a compound (adjective)all; whole; entireकर्म  (कर्मन्)first part of a compoundact; action; performance; businessकृत्adjective, masculine nominative singularmaking; doing; performing; accomplishing

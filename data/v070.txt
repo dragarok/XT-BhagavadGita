@@ -1,0 +1,72 @@
+V	11.36	Arjuna said:	Hrishîkesha! in Thy magnificence Rightly the world rejoiceth, hymning Thee; The Râkshasas to every quarter fly In fear; the hosts of Siddhas prostrate fall.		अर्जुनउवाच~।स्थानेहृषीकेशतवप्रकीर्त्याजगत्प्रहृष्यत्यनुरज्यतेच~।रक्षांसिभीतानिदिशोद्रवन्तिसर्वेनमस्यन्तिचसिद्धसङ्घाः~॥ ३६ ॥	16
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	स्थाने	स्थानेin place	स्थाने  (स्थान)noun, neuter locative singularthe act of standing; standing firmly; being fixed or stationary; position or posture of the body (in shooting etc.)
+T	हृषीकेश	हृषीकेशO Hrishikesha	हृषीकेशnoun, masculine vocative singularname of the tenth month; name of a Tîrtha; name of a poet; lord of the senses (said of Manas)
+T	तव	तवyour	तव  (त्वद्)pronoun, genitive singularyou
+T	प्रकीर्त्या	प्रकीर्त्याwith celebration	प्रकीर्त्या  (प्रकीर्ति)noun, feminine instrumental singularcelebration; declaration
+T	जगत्प्रहृष्यत्यनुरज्यते	जगत्worldप्रहृष्यतिrejoicesअनुरज्यतेis become red in imitation of	जगत्  (जगन्त्)noun, neuter nominative singularthat which is alive; men and animals; the world; peopleप्रहृष्यति  (प्रहृष्)verb: present 3rd person singularto rejoice; to be glad or cheerful; to exultअनुरज्यते  (अनुरञ्ज्)verb: passive present 3rd person singularto become red in imitation of; to be attached or devoted; to find delight in
+T	च	चand	चconjunctionand; both; also; moreover
+T	रक्षांसि	रक्षांसिdemons	रक्षांसि  (रक्षस्)noun, neuter nominative pluralharm; injury; damage; an evil being or demon
+T	भीतानि	भीतानिfeared	भीतानि  (भी)participle, neuter nominative pluralto fear; to be afraid of
+T	दिशो	दिशःdirections	दिशः  (दिश्)noun, feminine accusative pluralquarter or region pointed at; direction; cardinal point (four in number); quarter
+T	द्रवन्ति	द्रवन्तिrun	द्रवन्ति  (द्रु)verb: present 3rd person pluralto run; to hasten; to flee; to attack
+T	सर्वे	सर्वेall	सर्वे  (सर्व)pronoun, masculine nominative pluralwhole; entire; all; every
+T	नमस्यन्ति	नमस्यन्तिworship	नमस्यन्ति  (नमस्य्)verb: present 3rd person pluralto worship; to honour
+T	च	चand	चconjunctionand; both; also; moreover
+T	सिद्धसङ्घाः	सिद्ध-संघाःperfected one-hosts	सिद्धfirst part of a compoundany inspired sage or prophet or seer (e.g. Vyâsa); any holy personage or great saint (esp. one who has attained to one of the states of beatitude)संघाः  (संघ)noun, masculine nominative pluralany collection or assemblage; heap; multitude; quantity
+V	11.37		How should they otherwise, O loftiest Self! First Cause! Brahmâ Himself less great than Thou. Infinite, God of Gods, home of all worlds, Unperishing, Sat, Asat, That supreme!	Being, Non-Being.	कस्माच्चतेननमेरन्महात्मन्गरीयसेब्रह्मणोऽप्यादिकर्त्रे~।अनन्तदेवेशजगन्निवासत्वमक्षरंसदसत्तत्परंयत्~॥ ३७ ॥	12
+T	कस्माच्च	कस्मात्?चand	कस्मात्adverbwhere from? whence? why? wherefore?चconjunctionand; both; also; moreover
+T	ते	तेfor you	ते  (त्वद्)pronoun, dative singularyou
+T	न	नnot	नparticlenot; no; nor; neither
+T	नमेरन्महात्मन्	नमेरन्should bowमहात्मन्O great-souledगरीयसेgreater	नमेरन्  (नम्)verb: present optative 3rd person pluralto bend or bow; to subject or submit; to turn away; to keep asideमहात्मन्adjective, masculine vocative singularmagnanimous; having a great or noble nature; high-minded; nobleगरीयसे  (गरीयस्)adjective, masculine dative singularheavier; extremely heavy; greater than (abl.); more precious or valuable
+T	गरीयसे	गरीयसे	
+T	ब्रह्मणोऽप्यादिकर्त्रे	ब्रह्मणःfrom Brahmanअपिalsoआदिकर्त्रेfor creator	ब्रह्मणः  (ब्रह्मन्)noun, masculine ablative singularone who Prays; a devot or religious man; a Brâhman who is a knower of Vedic texts or spells; one versed in sacred knowledgeअपिparticlealso; moreover; besides; assuredlyआदिकर्त्रे  (आदिकर्तृ)noun, masculine dative singularthe creator
+T	अनन्त	अनन्तO endless	अनन्तnoun, masculine vocative singularVishnuname of Vishnu; name of Shesha (the snake-god); name of Shesha's brother; name of Krishna
+T	देवेश	देवेशO lord of gods	देवेशnoun, masculine vocative singularname of Brahmâ; a king; prince; name of Vishnu
+T	जगन्निवास	जगन्निवासO abode of the universe	जगन्निवासnoun, masculine vocative singularVishnu or Krishna; Shiva
+T	त्वमक्षरं	त्वम्youअक्षरम्imperishable	त्वम्  (त्वद्)pronoun, nominative singularyouअक्षरम्  (अक्षर)adjective, neuter nominative singularimperishable; unalterable
+T	सदसत्तत्परं	सत्beingअसत्unrealतत्परम्following that	सत्  (अस्)present participle, neuter nominative singularto be; to live; to exist; to be presentअसत्adjective, neuter nominative singularuntrue; wrong; bad; not existingतत्परम्  (तत्पर)adjective, neuter nominative singularfollowing that or thereupon; having that as one's highest object or aim; totally devoted or addicted to; attending closely to
+T	यत्	यत्which	यत्  (यद्)pronoun, neuter nominative singularwhat; which; who
+V	11.38		First of the Gods, most ancient Man Thou art. Supreme receptacle of all that lives; Knower and known, the dwelling-place on high; In Thy vast Form the universe is spread.		त्वमादिदेवःपुरुषःपुराणस्त्वमस्यविश्वस्यपरंनिधानम्~।वेत्ताऽसिवेद्यंचपरंचधामत्वयाततंविश्वमनन्तरूप~॥ ३८ ॥	15
+T	त्वमादिदेवः	त्वम्youआदिदेवःBrahman	त्वम्  (त्वद्)pronoun, nominative singularyouआदिदेवः  (आदिदेव)noun, masculine nominative singularname of Brahman; Vishnu; Shiva; Ganesha
+T	पुरुषः	पुरुषःperson	पुरुषः  (पुरुष)noun, masculine nominative singulara man; male; human being (people); a person
+T	पुराणस्त्वमस्य	पुराणःancientत्वम्youअस्यof this	पुराणः  (पुराण)adjective, masculine nominative singularancient; old; traditionalत्वम्  (त्वद्)pronoun, nominative singularyouअस्य  (इदम्)pronoun, neuter genitive singularthis; (near deictic pronoun in Vedic)
+T	विश्वस्य	विश्वस्यall	विश्वस्य  (विश्व)adjective, neuter genitive singularall; every; every one; whole
+T	परं	परम्supreme	परम्  (पर)pronoun, neuter nominative singularfar; remote; opposite; previous
+T	निधानम्	निधानम्treasure-house	निधानम्  (निधान)noun, neuter nominative singularputting or laying down; depositing; keeping; preserving
+T	वेत्ताऽसि	वेत्तासिyou will know	वेत्तासि  (विद्)verb: future 2nd person singularto know; to understand; to learn; to be conscious of
+T	वेद्यं	वेद्यम्to be known	वेद्यम्  (विद्)gerundive (to be ...), neuter accusative singularto know; to understand; to learn; to be conscious of
+T	च	चand	चconjunctionand; both; also; moreover
+T	परं	परम्supreme	परम्  (पर)pronoun, neuter accusative singularfar; remote; opposite; previous
+T	च	चand	चconjunctionand; both; also; moreover
+T	धाम	धामabode	धाम  (धामन्)noun, neuter accusative singulardwelling-place; house; abode; domain (esp. seat of the gods)
+T	त्वया	त्वयाby you	त्वया  (त्वद्)pronoun, instrumental singularyou
+T	ततं	ततम्pervaded	ततम्  (तन्)participle, neuter nominative singularto extend; to spread; to be diffused (as light) over; to shine
+T	विश्वमनन्तरूप	विश्वम्allअनन्त-रूपO endless-form	विश्वम्  (विश्व)adjective, neuter nominative singularall; every; every one; wholeअनन्तfirst part of a compound (adjective)endless; boundless; eternal; infiniteरूपnoun, masculine vocative singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+V	11.39		Thou art Vâyu and Yama, Agni, moon, Varuna, Father, Grandsire of all; Hail, hail to Thee! a thousand times all hail! Hail unto Thee! again, again all hail!		वायुर्यमोऽग्निर्वरुणःशशाङ्कःप्रजापतिस्त्वंप्रपितामहश्च~।नमोनमस्तेऽस्तुसहस्रकृत्वःपुनश्चभूयोऽपिनमोनमस्ते~॥ ३९ ॥	11
+T	वायुर्यमोऽग्निर्वरुणः	वायुःwindयमःreinअग्निःfireवरुणःÂditya	वायुः  (वायु)noun, masculine nominative singularwind; air (as one of the 5 elements); the god of the wind; breathingयमः  (यम)noun, masculine nominative singulara rein; curb; bridle; a driverअग्निः  (अग्नि)noun, masculine nominative singularfire; sacrificial fire (of three kinds); the number three; the god of fireवरुणः  (वरुण)noun, masculine nominative singularname of an Âditya; the ocean; water; the sun
+T	शशाङ्कः	शशाङ्कःmoon	शशाङ्कः  (शशाङ्क)noun, masculine nominative singularthe moon; camphor; name of a king
+T	प्रजापतिस्त्वं	प्रजापतिःSavitriत्वम्you	प्रजापतिः  (प्रजापति)noun, masculine nominative singularname of Savitri; a divinity presiding over procreation; protector of life; lord of creaturesत्वम्  (त्वद्)pronoun, nominative singularyou
+T	प्रपितामहश्च	प्रपितामहःpaternal great-grandfatherचand	प्रपितामहः  (प्रपितामह)noun, masculine nominative singulara paternal great-grandfather; great-grandfathers; ancestors; name of Krishnaचconjunctionand; both; also; moreover
+T	नमो	नमःsalutation	नमः  (नमस्)noun, neuter nominative singularbow; obeisance; reverential salutation; adoration (by gesture or word)
+T	नमस्तेऽस्तु	नमःsalutationतेfor youअस्तुlet it be	नमः  (नमस्)noun, neuter nominative singularbow; obeisance; reverential salutation; adoration (by gesture or word)ते  (त्वद्)pronoun, dative singularyouअस्तु  (अस्)verb: present imperative 3rd person singularto be; to live; to exist; to be present
+T	सहस्रकृत्वः	सहस्र-कृत्वःthousand-at the end of a numeral	सहस्रfirst part of a compound (number)a thousandth; the thousandthकृत्वः  (कृत्वस्)adverbat the end of a numeral or numeral adjective: -fold
+T	पुनश्च	पुनःagainचand	पुनः  (पुनर्)adverbback; home; in an opposite direction; again and againचconjunctionand; both; also; moreover
+T	भूयोऽपि	भूयःagainअपिalso	भूयः  (भूयस्)adverbagain; further; furthermore; in additionअपिparticlealso; moreover; besides; assuredly
+T	नमो	नमःsalutation	नमः  (नमस्)noun, neuter nominative singularbow; obeisance; reverential salutation; adoration (by gesture or word)
+T	नमस्ते	नमःsalutationतेfor you	नमः  (नमस्)noun, neuter nominative singularbow; obeisance; reverential salutation; adoration (by gesture or word)ते  (त्वद्)pronoun, dative singularyou
+V	11.40		Prostrate in front of Thee, prostrate behind; Prostrate on every side to Thee, O All. In power boundless, measureless in strength, Thou holdest all: then Thou Thyself art All.		नमःपुरस्तादथपृष्ठतस्तेनमोऽस्तुतेसर्वतएवसर्व~।अनन्तवीर्यामितविक्रमस्त्वम्सर्वंसमाप्नोषिततोऽसिसर्वः~॥ ४० ॥	13
+T	नमः	नमःsalutation	नमः  (नमस्)noun, neuter nominative singularbow; obeisance; reverential salutation; adoration (by gesture or word)
+T	पुरस्तादथ	पुरस्तात्beforeअथnow	पुरस्तात्adverbbefore; forward; in or from the front; in the first placeअथadverban auspicious and inceptive particle (not easily expressed in English); now; then; moreover
+T	पृष्ठतस्ते	पृष्ठतःfromतेfor you	पृष्ठतः  (पृष्ठतस्)adverbfrom or on or behind the back; behind (with gen. or ifc.); to the back; backwardsते  (त्वद्)pronoun, dative singularyou
+T	नमोऽस्तु	नमःsalutationअस्तुlet it be	नमः  (नमस्)noun, neuter nominative singularbow; obeisance; reverential salutation; adoration (by gesture or word)अस्तु  (अस्)verb: present imperative 3rd person singularto be; to live; to exist; to be present
+T	ते	तेfor you	ते  (त्वद्)pronoun, dative singularyou
+T	सर्वत	सर्वतःeverywhere	सर्वतः  (सर्वतस्)adverbfrom all sides; in every direction; everywhere; around (acc.)
+T	एव	एवindeed	एवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	सर्व	सर्वO all	सर्वnoun, masculine vocative singularname of Shiva; name of Krishna; name of a Muni [<- Dhanusha <- Satyadhriti <- Punyavant]; name of a people
+T	अनन्तवीर्यामितविक्रमस्त्वम्	अनन्त-वीर्य-अमित-विक्रमःendless-manliness-unmeasured-stepत्वम्you	अनन्तfirst part of a compound (adjective)endless; boundless; eternal; infiniteवीर्यfirst part of a compoundmanliness; valour; strength; powerअमितfirst part of a compound (adjective)unmeasured; boundless; infinite; without a certain measureविक्रमः  (विक्रम)noun, masculine nominative singulara step; stride; pace; goingत्वम्  (त्वद्)pronoun, nominative singularyou
+T	सर्वं	सर्वम्all	सर्वम्  (सर्व)pronoun, neuter accusative singularwhole; entire; all; every
+T	समाप्नोषि	समाप्नोषिyou acquire	समाप्नोषि  (समाप्)verb: present 2nd person singularto acquire or obtain completely; to gain; to accomplish; to fulfil
+T	ततोऽसि	ततःthenअसिyou are	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequentlyअसि  (अस्)verb: present 2nd person singularto be; to live; to exist; to be present
+T	सर्वः	सर्वःall	सर्वः  (सर्व)pronoun, masculine nominative singularwhole; entire; all; every

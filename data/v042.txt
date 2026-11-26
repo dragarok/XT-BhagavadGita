@@ -1,0 +1,72 @@
+V	6.38		Fallen from both, is he destroyed like a rent cloud, unsteadfast, O mighty-armed, deluded in the path of the Eternal?		कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिवनश्यति~।अप्रतिष्ठोमहाबाहोविमूढोब्रह्मणःपथि~॥ ३८ ॥	7
+T	कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव	कच्चित्is it thatनnotउभय-विभ्रष्टःboth-unfortunateछिन्न-अभ्रम्cut-cloudइवlike	कच्चित्adverb(interrogative particle)नparticlenot; no; nor; neitherउभयfirst part of a compound (adjective)both; of both kinds; in both ways; in both mannersविभ्रष्टः  (विभ्रंश्)participle, masculine nominative singularto be unfortunate; to fail or be unsuccessful in; to be separated from; to desert (abl.)छिन्न  (छिद्)first part of a compound (verb)to cut off; to amputate; to hew; to chopअभ्रम्  (अभ्र)noun, neuter nominative singularcloud; thunder-cloud; rainy weather; skyइवparticlelike; in the same manner as (in this sense = yathâ); as it were; as if
+T	नश्यति	नश्यतिperishes	नश्यति  (नश्)verb: present 3rd person singularto be lost; to perish; to disappear; to be gone
+T	अप्रतिष्ठो	अप्रतिष्ठःhaving no solid ground	अप्रतिष्ठः  (अप्रतिष्ठ)adjective, masculine nominative singularhaving no solid ground; no value; fluctuating; unsafe
+T	महाबाहो	महा-बाहोO mighty-armed	महा  (महत्)first part of a compound (adjective)great; large; big; hugeबाहो  (बाहु)noun, masculine vocative singularthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	विमूढो	विमूढःbewildered	विमूढः  (विमुह्)participle, masculine nominative singularto be confused; to become bewildered or stupefied; to faint away
+T	ब्रह्मणः	ब्रह्मणःof Brahman	ब्रह्मणः  (ब्रह्मन्)noun, neuter genitive singularpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)
+T	पथि	पथिin road	पथि  (पथिन्)noun, masculine locative singulara road; a way
+V	6.39		Deign, O Krishna, to completely dispel thisdoubt of mine; for there is none to be found save Thyself able to destroy this doubt.		एतंमेसंशयंकृष्णछेत्तुमर्हस्यशेषतः~।त्वदन्यःसंशयस्यास्यछेत्तानह्युपपद्यते~॥ ३९ ॥	9
+T	एतं	एतत्thisमेmy	एतत्  (एतद्)pronoun, neuter accusative singularthisमे  (मद्)pronoun, genitive singularI; we
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularmineI; we
+T	संशयं	संशयम्doubt	संशयम्  (संशय)noun, masculine accusative singularlying down to rest or sleep; uncertainty; irresolution; hesitation
+T	कृष्ण	कृष्णO Krishna	कृष्णnoun, masculine vocative singularKrishnathe dark half of the lunar month from full to new moon; fourth or Kaliyuga; black; antelope
+T	छेत्तुमर्हस्यशेषतः	छेत्तुम्to cutअर्हसिyou oughtअशेषतःfully	छेत्तुम्  (छिद्)infinitiveto cut off; to amputate; to hew; to chopअर्हसि  (अर्ह्)verb: present 2nd person singularto deserve; to merit; to be worthy of; to be allowed toअशेषतः  (अशेषतस्)adverbtotally; without remainder
+T	त्वदन्यः	त्वत्from youअन्यःother	त्वत्  (त्वद्)pronoun, ablative singularyouअन्यः  (अन्य)pronoun, masculine nominative singularother; another
+T	संशयस्यास्य	संशयस्यof doubtअस्यof this	संशयस्य  (संशय)noun, masculine genitive singularlying down to rest or sleep; uncertainty; irresolution; hesitationअस्य  (इदम्)pronoun, masculine genitive singularthis; (near deictic pronoun in Vedic)
+T	छेत्ता	छेत्ताone who cuts off	छेत्ता  (छेत्तृ)adjective, masculine nominative singularone who cuts off; cutter; woodcutter; a remover (of doubts)
+T	नह्युपपद्यते	नnotहिforउपपद्यतेis fitting	नparticlenot; no; nor; neitherहिparticlefor; because; on account ofउपपद्यते  (उपपद्)verb: present 3rd person singularto go towards or against; to attack; to approach; to come to
+V	6.40	The Blessed Lord said:	O son of Prithâ, neither in this world nor in the life to come is there destruction for him; never doth any who worketh righteousness, O beloved, tread the path of woe.		श्रीभगवानुवाच~।पार्थनैवेहनामुत्रविनाशस्तस्यविद्यते~।नहिकल्याणकृत्कश्चिद्‌दुर्गतिंतातगच्छति~॥ ४० ॥	11
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularto speak; to say; to tell; to declare
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	नैवेह	नnotएवindeedइहhere	नparticlenot; no; nor; neitherएवparticleso; just so; exactly so (in the sense of the later evam); indeedइहadverbin this place; here; to this place; in this world
+T	नामुत्र	नnotअमुत्रthere	नparticlenot; no; nor; neitherअमुत्रadverbthere; there above; in the other world; in the life to come
+T	विनाशस्तस्य	विनाशःdestructionतस्यhis	विनाशः  (विनाश)noun, masculine nominative singularutter loss; annihilation; perdition; destructionतस्य  (तद्)pronoun, masculine genitive singularthis; gleicher
+T	विद्यते	विद्यतेis known	विद्यते  (विद्)verb: passive present 3rd person singularto find; to discover; to meet or fall in with; to obtain
+T	न	नnot	नparticlenot; no; nor; neither
+T	हि	हिfor	हिparticlefor; because; on account of
+T	कल्याणकृत्कश्चिद्‌दुर्गतिं	कल्याण-कृत्good-makingकश्चिद्someoneदुर्गतिम्misfortune	कल्याणfirst part of a compound (adjective)beautiful; noble; virtuous; beneficialकृत्adjective, masculine nominative singularmaking; doing; performing; accomplishingकश्चिद्  (कश्चित्)pronoun, masculine nominative singularsomeone; something; anyदुर्गतिम्  (दुर्गति)noun, feminine accusative singularmisfortune; distress; poverty; want of (gen.)
+T	तात	तातO father	तातnoun, masculine vocative singulara father
+T	गच्छति	गच्छतिgoes	गच्छति  (गम्)verb: present 3rd person singularto go; to move; to approach; to understand
+V	6.41		Having attained to the worlds of the pure-doing, and having dwelt there for immemorial years, he who fell from yoga is reborn in a pure and blessed house;		प्राप्यपुण्यकृतांलोकानुषित्वाशाश्वतीःसमाः~।शुचीनांश्रीमतांगेहेयोगभ्रष्टोऽभिजायते~॥ ४१ ॥	9
+T	प्राप्य	प्राप्यhaving attained	प्राप्य  (प्राप्)absolutive (having ...)to attain to; to reach; to arrive at; to meet with
+T	पुण्यकृतां	पुण्यकृतां	
+T	लोकानुषित्वा	पुण्य-कृताम्holy-makingलोकान्worldsउषित्वाhaving dwelt	पुण्यfirst part of a compound (adjective)auspicious; propitious; fair; pleasantकृताम्  (कृत्)adjective, masculine genitive pluralmaking; doing; performing; accomplishingलोकान्  (लोक)noun, masculine accusative pluralfree or open space; room; place; scopeउषित्वा  (वस्)absolutive (having ...)stayto dwell; to live; to stop (at a place); to stay (esp. "overnight")
+T	शाश्वतीः	शाश्वतीःeverlasting	शाश्वतीः  (शाश्वत)adjective, feminine accusative pluraleverlastingeternal; constant; perpetual; all
+T	समाः	समाःyears	समाः  (समा)noun, feminine accusative pluralyeara year; a half-year; season; weather
+T	शुचीनां	शुचीनाम्pure	शुचीनाम्  (शुचि)adjective, masculine genitive pluralshining; glowing; gleaming; radiant
+T	श्रीमतां	श्रीमताम्beautiful	श्रीमताम्  (श्रीमत्)adjective, masculine genitive pluralbeautiful; charming; lovely; pleasant
+T	गेहे	गेहेin house	गेहे  (गेह)noun, neuter locative singulara house; dwelling; habitation; the house and the body
+T	योगभ्रष्टोऽभिजायते	योग-भ्रष्टःyoga-fallenअभिजायतेis born	योगfirst part of a compoundthe act of yoking; joining; attaching; harnessingभ्रष्टः  (भ्रंश्)participle, masculine nominative singularto fall; to drop; to fall down or out or in pieces; to strike againstअभिजायते  (अभिजन्)verb: present 3rd person singularto be born for or to; to claim as one's birthright; to be born or produced; to be reproduced or born again
+V	6.42		Or he may even be born into a family of wise Yogîs; but such a birth as that is most difficult to obtain in this world.		अथवायोगिनामेवकुलेभवतिधीमताम्~।एतद्धिदुर्लभतरंलोकेजन्मयदीदृशम्~॥ ४२ ॥	10
+T	अथवा	अथवाor	अथवाconjunctionor; rather; (when repeated) either or; perhaps
+T	योगिनामेव	योगिनाम्of yogisएवindeed	योगिनाम्  (योगिन्)noun, masculine genitive plurala follower of the Yoga system; a Yogin (usually called Yogî) or contemplative saint; devotee; asceticएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	कुले	कुलेin family	कुले  (कुल)noun, neuter locative singulara herd; troop; flock; assemblage
+T	भवति	भवतिis	भवति  (भू)verb: present 3rd person singularto be; to become; to come into being; to happen
+T	धीमताम्	धीमताम्intelligent	धीमताम्  (धीमत्)adjective, masculine genitive pluralintelligent; wise; learned; sensible
+T	एतद्धि	एतत्thisहिfor	एतत्  (एतद्)pronoun, neuter nominative singularthisहिparticlefor; because; on account of
+T	दुर्लभतरं	दुर्लभतरम्very difficult to get	दुर्लभतरम्  (दुर्लभतर)adjective, neuter nominative singularvery difficult to get
+T	लोके	लोकेin world	लोके  (लोक)noun, masculine locative singularfree or open space; room; place; scope
+T	जन्म	जन्मbirth	जन्म  (जन्मन्)noun, neuter nominative singularbirth; origin; existence; life
+T	यदीदृशम्	यत्whichईदृशम्endowed with such	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoईदृशम्  (ईदृश)adjective, neuter nominative singularendowed with such qualities; such
+V	6.43		There he recovereth the characteristics belonging to this former body, and with these he again laboureth for perfection, O joy of the Kurus.		तत्रतंबुद्धिसंयोगंलभतेपौर्वदेहिकम्~।यततेचततोभूयःसंसिद्धौकुरुनन्दन~॥ ४३ ॥	11
+T	तत्र	तत्रthere	तत्रadverbin that place; there (in comp.); thither; to that place
+T	तं	तम्him	तम्  (तद्)pronoun, masculine accusative singularthis; gleicher
+T	बुद्धिसंयोगं	बुद्धि-संयोगम्intellect-contact	बुद्धिfirst part of a compoundthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectसंयोगम्  (संयोग)noun, masculine accusative singularconjunction; combination; union; absorption
+T	लभते	लभतेobtains	लभते  (लभ्)verb: present 3rd person singularto take; to seize; to catch; to meet with
+T	पौर्वदेहिकम्	पौर्वदेहिकम्belonging to	पौर्वदेहिकम्  (पौर्वदेहिक)adjective, masculine accusative singularbelonging to or derived from a former body or a; former existence; done in a former life
+T	यतते	यततेstrives	यतते  (यत्)verb: present 3rd person singularto place in order; to marshal; to join; to connect
+T	च	चand	चconjunctionand; both; also; moreover
+T	ततो	ततःthen	ततः  (ततस्)adverbfrom that; in consequence of that; for that reason; consequently
+T	भूयः	भूयःagain	भूयः  (भूयस्)adverbagain; further; furthermore; in addition
+T	संसिद्धौ	संसिद्धौin perfection	संसिद्धौ  (संसिद्धि)noun, feminine locative singularcomplete accomplishment or fulfilment; perfection; success; perfect state
+T	कुरुनन्दन	कुरु-नन्दनO joy of the Kurus	कुरुfirst part of a compoundname of a people of India and of their country (situated near the country of the Pancâlas); = ritvijas (priests); = kartâras ("doers")नन्दनnoun, masculine vocative singulara son; a frog; a kind of poisonous plant; a particular form of temple
+V	6.44		By that former practice he is irresistibly swept away. Only wishing to know yoga, even the seeker after yoga goeth beyond the Brâhmic world;	The Vedas.	पूर्वाभ्यासेनतेनैवह्रियतेह्यवशोऽपिसः~।जिज्ञासुरपियोगस्यशब्दब्रह्मातिवर्तते~॥ ४४ ॥	8
+T	पूर्वाभ्यासेन	पूर्व-अभ्यासेनwith former-practice	पूर्वfirst part of a compound (pronoun)being before or in front fore; first; eastern; to the east of (abl.)अभ्यासेन  (अभ्यास)noun, masculine instrumental singularthe act of adding anything; (in Gr.) "what is prefixed"; the first syllable of a reduplicated radical; reduplication
+T	तेनैव	तेनby himएवindeed	तेन  (तद्)pronoun, masculine instrumental singularthis; gleicherएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	ह्रियते	ह्रियतेis carried away	ह्रियते  (हृ)verb: passive present 3rd person singularto take; to bear; to carry in or on; to take away
+T	ह्यवशोऽपि	हिforअवशःhelplessअपिalso	हिparticlefor; because; on account ofअवशः  (अवश)adjective, masculine nominative singularunsubmissive to another's will; independent; unrestrained; freeअपिparticlealso; moreover; besides; assuredly
+T	सः	सःhe	सः  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	जिज्ञासुरपि	जिज्ञासुःdesirous of knowingअपिalso	जिज्ञासुः  (जिज्ञासु)adjective, masculine nominative singulardesirous of knowing; inquiring into; examining; testingअपिparticlealso; moreover; besides; assuredly
+T	योगस्य	योगस्यof yoga	योगस्य  (योग)noun, masculine genitive singularthe act of yoking; joining; attaching; harnessing
+T	शब्दब्रह्मातिवर्तते	शब्दब्रह्मVeda considered as aअतिवर्ततेpasses beyond	शब्दब्रह्म  (शब्दब्रह्मन्)noun, neuter accusative singularthe Veda considered as a revealed sound or word and identified with the Supremeअतिवर्तते  (अतिवृत्)verb: present 3rd person singularto pass beyond; to surpass; to cross; to get over

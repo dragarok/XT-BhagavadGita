@@ -1,0 +1,71 @@
+V	2.13		As the dweller in the body experienceth in the body childhood, youth, old age, so passeth he on to another body; the steadfast one grieveth not thereat.		देहिनोऽस्मिन्यथादेहेकौमारंयौवनंजरा~।तथादेहान्तरप्राप्तिर्धीरस्तत्रनमुह्यति~॥ १३ ॥	9
+T	देहिनोऽस्मिन्यथा	देहिनःof embodied oneअस्मिन्in thisयथाas	देहिनः  (देहिन्)noun, masculine genitive singularmana living creature; man; the spirit; soul (enveloped in the body)अस्मिन्  (इदम्)pronoun, neuter locative singularthisthis; (near deictic pronoun in Vedic)यथाparticleasaccording; as; like
+T	देहे	देहेin body	देहे  (देह)noun, neuter locative singularbodyform; shape; mass; bulk (as of a cloud)
+T	कौमारं	कौमारम्childhood	कौमारम्  (कौमार)noun, neuter nominative singularchildhoodchildhood; youth (from birth to the age of five); maidenhood (to the age of sixteen); name of the Varsha ruled by Kumâra
+T	यौवनं	यौवनम्youth	यौवनम्  (यौवन)noun, neuter nominative singularyouthyouth; youthfulness; adolescence; puberty
+T	जरा	जराold age	जराnoun, feminine nominative singularold agethe act of becoming old; old age; digestion; decrepitude
+T	तथा	तथाlikewise	तथाadverbsoin that manner; so; thus; yes
+T	देहान्तरप्राप्तिर्धीरस्तत्र	देह-अन्तर-प्राप्तिःbody-inner-adventधीरःwiseतत्रthere	देहfirst part of a compoundform; shape; mass; bulk (as of a cloud)अन्तरfirst part of a compound (adjective)being in the interior; interior; near; proximateप्राप्तिः  (प्राप्ति)noun, feminine nominative singularadvent; occurrence; reach; rangeधीरः  (धीर)adjective, masculine nominative singularsteady; firm; resolute; courageousतत्रadverbin that place; there (in comp.); thither; to that place
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	मुह्यति	मुह्यतिis deluded	मुह्यति  (मुह्)verb: present 3rd person singularerrto become stupefied or unconscious; to be bewildered or perplexed; to err; to be mistaken
+V	2.14		The contacts of matter, O son of Kuntî, giving cold and heat, pleasure and pain, they come and go, impermanent; endure them bravely, O Bhârata.		मात्रास्पर्शास्तुकौन्तेयशीतोष्णसुखदुःखदाः~।आगमापायिनोऽनित्यास्तांस्तितिक्षस्वभारत~॥ १४ ॥	5
+T	मात्रास्पर्शास्तु	मात्रा-स्पर्शाःmeasure-contactsतुbut	मात्राfirst part of a compoundmeasure (of any kind); quantity; duration; numberस्पर्शाः  (स्पर्श)noun, masculine nominative pluralcontacttouch; contact (fig. applied to the beginning of an eclipse or to any astron. contact)तुparticlebutdo; now; then; but
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularArjunametron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	शीतोष्णसुखदुःखदाः	शीत-उष्ण-सुख-दुःख-दाःcold-heat-happiness-pain-causing	शीतfirst part of a compoundcoldnesscold; coldness; cold weather; cold waterउष्णfirst part of a compoundhotnessheat; warmth; the hot season; any hot objectसुखfirst part of a compoundjoyease; easiness; comfort; prosperityदुःखfirst part of a compoundsufferinguneasiness; pain; sorrow; troubleदाः  (द)adjective, masculine nominative pluralcausinggranting; offering; effecting; producing
+T	आगमापायिनोऽनित्यास्तांस्तितिक्षस्व	आगम-अपायिनःcoming-vanishingअनित्याःnot everlastingतान्themतितिक्षस्वbear!	आगमfirst part of a compoundarrivalarrival; coming; approach; originअपायिनः  (अपायिन्)adjective, masculine nominative pluralvanishinggoing away; departing; vanishing; perishableअनित्याः  (अनित्य)adjective, masculine nominative pluralnot everlasting; transient; occasional; incidentalतान्  (तद्)pronoun, masculine accusative pluralthis; gleicherतितिक्षस्व  (तितिक्ष्)verb: present imperative 2nd person singularto bear; to want to leave; (einer Anschuldigung) trotzen
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularBhârataactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+V	2.15		The man whom these torment not, O chief of men, balanced in pain and pleasure, steadfast, he is fitted for immortality.		यंहिनव्यथयन्त्येतेपुरुषंपुरुषर्षभ~।समदुःखसुखंधीरंसोऽमृतत्वायकल्पते~॥ १५ ॥	10
+T	यं	यम्whom	यम्  (यद्)pronoun, masculine accusative singularwhowhat; which; who
+T	हि	हिfor	हिparticlebecausefor; because; on account of
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	व्यथयन्त्येते	व्यथयन्तिafflictएतेthese	व्यथयन्ति  (व्यथय्)verb: present 3rd person pluralafflictto cause to tremble or fall; to cause to swerve from (abl.); to disquiet; to frightenएते  (एतद्)pronoun, masculine nominative pluralhe,she,it (pers. pron.)this
+T	पुरुषं	पुरुषम्person	पुरुषम्  (पुरुष)noun, masculine accusative singularmana man; male; human being (people); a person
+T	पुरुषर्षभ	पुरुष-ऋषभO best of men	पुरुषfirst part of a compoundmana man; male; human being (people); a personऋषभnoun, masculine vocative singularbesta bull (as impregnating the flock); any male animal in general; the best or most excellent of any kind or race; the second of the seven notes of the Hindû gamut
+T	समदुःखसुखं	सम-दुःख-सुखम्equal-pain-happiness	समfirst part of a compound (pronoun)equaleven; flat; level; parallelदुःखfirst part of a compoundpainuneasiness; pain; sorrow; troubleसुखम्  (सुख)noun, masculine accusative singularpleasureease; easiness; comfort; prosperity
+T	धीरं	धीरम्wise	धीरम्  (धीर)adjective, masculine accusative singularcomposedsteady; firm; resolute; courageous
+T	सोऽमृतत्वाय	सःheअमृत-त्वायfor immortalness	सः  (तद्)pronoun, masculine nominative singularhe,she,it (pers. pron.)this; gleicherअमृतfirst part of a compound (adjective)immortalnot dead; immortal; imperishable; beautifulत्वाय  (त्व)noun, neuter dative singularstate(suffix creating abstract nouns)
+T	कल्पते	कल्पतेis fitting	कल्पते  (क्ﾱप्)verb: present 3rd person singularbefitto be well ordered or regulated; to be well managed; to succeed; to bear suitable relation to anything
+V	2.16		The unreal hath no being; the real never ceaseth to be; the truth about both hath been perceived by the seers of the essence of things.	Tattva.	नासतोविद्यतेभावोनाभावोविद्यतेसतः~।उभयोरपिदृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः~॥ १६ ॥	8
+T	नासतो	नnotअसतःunreal	नparticlenotnot; no; nor; neitherअसतः  (असत्)adjective, neuter genitive singularnonexistentuntrue; wrong; bad; not existing
+T	विद्यते	विद्यतेis known	विद्यते  (विद्)verb: passive present 3rd person singulardetectto find; to discover; to meet or fall in with; to obtain
+T	भावो	भावःstate	भावः  (भाव)noun, masculine nominative singularbeingbecoming; being; existing; occurring
+T	नाभावो	नnotअभावःnonexistence	नparticlenotnot; no; nor; neitherअभावः  (अभाव)noun, masculine nominative singularnonexistencenon-existence; nullity; absence; non-entity
+T	विद्यते	विद्यतेis known	विद्यते  (विद्)verb: passive present 3rd person singulardetectto find; to discover; to meet or fall in with; to obtain
+T	सतः	सतःbeing	सतः  (अस्)present participle, neuter genitive singularexistto be; to live; to exist; to be present
+T	उभयोरपि	उभयोःbothअपिalso	उभयोः  (उभय)adjective, neuter genitive dualboth(a)both; of both kinds; in both ways; in both mannersअपिparticlesurelyalso; moreover; besides; assuredly
+T	दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः	दृष्टःseenअन्तःendतुbutअनयोःof theseतत्त्व-दर्शिभिःtruth-seer	दृष्टः  (दृश्)participle, masculine nominative singularseeto behold; to look at; to regard; to considerअन्तः  (अन्त)noun, masculine nominative singularendend; limit; boundary; termतुparticlenowdo; now; then; butअनयोः  (इदम्)pronoun, neuter genitive dualthisthis; (near deictic pronoun in Vedic)तत्त्वfirst part of a compoundtruthtrue or real state; truth; reality; (in phil.) a true principleदर्शिभिः  (दर्शिन्)adjective, masculine instrumental pluralconversant(p)ifc. seeing; looking at; observing; examining
+V	2.17		Know That to be indestructible by whom all this is pervaded. Nor can any work the destruction of that imperishable One.		अविनाशितुतद्विद्धियेनसर्वमिदंततम्~।विनाशमव्ययस्यास्यनकश्चित्कर्तुमर्हति~॥ १७ ॥	9
+T	अविनाशि	अविनाशिnot perishing	अnegative prefixnotnot; un-; in-विनाशि  (विनाशिन्)adjective, neuter accusative singularperishing; undergoing transformation; (mostly ifc.) destructive; destroying
+T	तु	तुbut	तुparticlenowdo; now; then; but
+T	तद्विद्धि	तत्thatविद्धिknow!	तत्  (तद्)pronoun, neuter accusative singularthisthis; gleicherविद्धि  (विद्)verb: present imperative 2nd person singularknowto know; to understand; to learn; to be conscious of
+T	येन	येनby which	येन  (यद्)pronoun, neuter instrumental singularwhichwhat; which; who
+T	सर्वमिदं	सर्वम्allइदम्this	सर्वम्  (सर्व)pronoun, neuter nominative singularall(a)whole; entire; all; everyइदम्pronoun, neuter nominative singularthisthis; (near deictic pronoun in Vedic)
+T	ततम्	ततम्pervaded	ततम्  (तन्)participle, neuter nominative singularexpandto extend; to spread; to be diffused (as light) over; to shine
+T	विनाशमव्ययस्यास्य	विनाशम्destructionअव्ययस्यimperishableअस्यof this	विनाशम्  (विनाश)noun, masculine accusative singulardestructionutter loss; annihilation; perdition; destructionअव्ययस्य  (अव्यय)adjective, neuter genitive singularimperishablenot liable to change; imperishable; undecaying; parsimoniousअस्य  (इदम्)pronoun, neuter genitive singularthisthis; (near deictic pronoun in Vedic)
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	कश्चित्कर्तुमर्हति	कश्चिद्someoneकर्तुम्to doअर्हतिought	कश्चिद्  (कश्चित्)pronoun, masculine nominative singularany(a)someone; something; anyकर्तुम्  (कृ)infinitivecauseto make like or similar; to consider equivalent; to reduce anything to; to cause to becomeअर्हति  (अर्ह्)verb: present 3rd person singularcanto deserve; to merit; to be worthy of; to be allowed to
+V	2.18		These bodies of the embodied One, who is eternal, indestructible and immeasurable, are known as finite. Therefore fight, O Bhârata.		अन्तवन्तइमेदेहानित्यस्योक्ताःशरीरिणः~।अनाशिनोऽप्रमेयस्यतस्माद्युध्यस्वभारत~॥ १८ ॥	8
+T	अन्तवन्त	अन्तवन्तःperishable	अन्तवन्तः  (अन्तवत्)adjective, masculine nominative pluralperishablehaving an end or term; limited; perishable; containing a word which has the meaning of anta
+T	इमे	इमेthese	इमे  (इदम्)pronoun, masculine nominative pluralthisthis; (near deictic pronoun in Vedic)
+T	देहा	देहाःbodies	देहाः  (देह)noun, masculine nominative pluralbodyform; shape; mass; bulk (as of a cloud)
+T	नित्यस्योक्ताः	नित्यस्यeternalउक्ताःsaid	नित्यस्य  (नित्य)adjective, masculine genitive singulareverlastinginnate; native; one's own (opp. to arana); continualउक्ताः  (वच्)participle, masculine nominative pluralsayto speak; to say; to tell; to declare
+T	शरीरिणः	शरीरिणःof man	शरीरिणः  (शरीरिन्)noun, masculine genitive singularmanan embodied being; creature; a man; the soul
+T	अनाशिनोऽप्रमेयस्य	अनाशिनःnot perishingअप्रमेयस्यnot to be measured	अnegative prefixnotnot; un-; in-नाशिनः  (नाशिन्)adjective, masculine genitive singularperishing; perishable; ifc. destroying; removingअnegative prefixnotnot; un-; in-प्रमेयस्य  (प्रमा)gerundive (to be ...), masculine genitive singularto measure; to mete out; to estimate; to form
+T	तस्माद्युध्यस्व	तस्मात्thereforeयुध्यस्वfight!	तस्मात्adverbthereforethereforeयुध्यस्व  (युध्)verb: present imperative 2nd person singularfightto fight; to wage war; to fight with
+T	भारत	भारतO Bharata	भारतnoun, masculine vocative singularBhârataactor; fire; a descendant of Bharata; name of the author of RV, V. 27
+V	2.19		He who regardeth this as a slayer, and he who thinketh he is slain, both of them are ignorant. He slayeth not, nor is he slain.	The dweller in the body.	यएनंवेत्तिहन्तारंयश्चैनंमन्यतेहतम्~।उभौतौनविजानीतोनायंहन्तिनहन्यते~॥ १९ ॥	15
+T	य	यःwho	यः  (यद्)pronoun, masculine nominative singularwhowhat; which; who
+T	एनं	एनम्him	एनम्  (एनद्)pronoun, masculine accusative singularthisthis; (anaphoric pronoun in Vedic)
+T	वेत्ति	वेत्तिknows	वेत्ति  (विद्)verb: present 3rd person singularknowto know; to understand; to learn; to be conscious of
+T	हन्तारं	हन्तारम्killer	हन्तारम्  (हन्तृ)adjective, masculine accusative singularkillerkilling; robber; destroyer
+T	यश्चैनं	यःwhoचandएनम्him	यः  (यद्)pronoun, masculine nominative singularwhowhat; which; whoचconjunctionandand; both; also; moreoverएनम्  (एनद्)pronoun, masculine accusative singularthisthis; (anaphoric pronoun in Vedic)
+T	मन्यते	मन्यतेthinks	मन्यते  (मन्)verb: present 3rd person singularthink ofto think; to believe; to imagine; to suppose
+T	हतम्	हतम्slain	हतम्  (हन्)participle, masculine accusative singularkillto strike; to beat; to pound; to hammer
+T	उभौ	उभौboth	उभौ  (उभ्)pronoun, masculine nominative dualboth(a)both
+T	तौ	तौthey	तौ  (तद्)pronoun, masculine nominative dualhe,she,it (pers. pron.)this; gleicher
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	विजानीतो	विजानीतःunderstand	विजानीतः  (विज्ञा)verb: present 3rd person dualknowto distinguish; to discern; to observe; to investigate
+T	नायं	नnotअयम्this	नparticlenotnot; no; nor; neitherअयम्  (इदम्)pronoun, masculine nominative singularthisthis; (near deictic pronoun in Vedic)
+T	हन्ति	हन्तिslays	हन्ति  (हन्)verb: present 3rd person singularkillto strike; to beat; to pound; to hammer
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	हन्यते	हन्यतेis slain	हन्यते  (हन्)verb: passive present 3rd person singularkillto strike; to beat; to pound; to hammer

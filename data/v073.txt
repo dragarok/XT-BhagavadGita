@@ -1,0 +1,74 @@
+V	11.51	Arjuna said:	Beholding again Thy gentle human Form, O Janârdana, I am now collected, and am restored to my own nature.		अर्जुनउवाच~।दृष्ट्वेदंमानुषंरूपंतवसौम्यंजनार्दन~।इदानीमस्मिसंवृत्तःसचेताःप्रकृतिंगतः~॥ ५१ ॥	13
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	दृष्ट्वेदं	दृष्ट्वाhaving seenइदम्this	दृष्ट्वा  (दृश्)absolutive (having ...)seeto behold; to look at; to regard; to considerइदम्pronoun, neuter accusative singularthisthis; (near deictic pronoun in Vedic)
+T	मानुषं	मानुषम्human	मानुषम्  (मानुष)adjective, neuter accusative singularhumanbelonging to mankind; human; favourable or propitious to men; humane
+T	रूपं	रूपम्form	रूपम्  (रूप)noun, neuter accusative singularappearanceany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	तव	तवyour	तव  (त्वद्)pronoun, genitive singularyouyou
+T	सौम्यं	सौम्यम्gentle	सौम्यम्  (सौम्य)adjective, neuter accusative singularmildrelating to Soma; cool and moist; northern; placid
+T	जनार्दन	जनार्दनO Janardana	जनार्दनnoun, masculine vocative singularKrishnaVishnu or Krishna; name of several men; name of a locality
+T	इदानीमस्मि	इदानीम्nowअस्मिI am	इदानीम्adverbnownow; at this moment; in this case; justअस्मि  (अस्)verb: present 1st person singularbeto be; to live; to exist; to be present
+T	संवृत्तः	संवृत्तःbecome	संवृत्तः  (संवृत्)participle, masculine nominative singularbecometo turn or go towards; to approach near to; to arrive at; to go against
+T	सचेताः	सwithचेताःmind	सadverb(ibc.) withचेताः  (चेतस्)noun, masculine nominative singularsplendour; consciousness; intelligence; thinking soul
+T	प्रकृतिं	प्रकृतिम्nature	प्रकृतिम्  (प्रकृति)noun, feminine accusative singularthe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; origin
+T	गतः	गतःgone	गतः  (गम्)participle, masculine nominative singularto go; to move; to approach; to understand
+V	11.52	The Blessed Lord said:	This Form of Mine beholden by thee is very hard to see. Verily the Shining Ones ever long to behold this form.		श्रीभगवानुवाच~।सुदुर्दर्शमिदंरूपंदृष्टवानसियन्मम~।देवाअप्यस्यरूपस्यनित्यंदर्शनकाङ्क्षिणः~॥ ५२ ॥	10
+T	श्रीभगवानुवाच	श्री-भगवान्Blessed Lordउवाचsaid	श्रीfirst part of a compoundmisterlight; lustre; radiance; splendourभगवान्  (भगवन्त्)noun, masculine nominative singularKrishnaname of Krishna; name of Shiva; name of a Buddha or a Bodhisattva or a Jina; name of Vishnuउवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	सुदुर्दर्शमिदं	सुwellदुर्दर्शम्unobservableइदम्this	सुadverbvery[ibc.] good-; [ibc.] very; quite; feinदुर्दर्शम्  (दुर्दर्श)adjective, neuter accusative singularunobservabledifficult to be seen or met with; disagreeable or painful to the sightइदम्pronoun, neuter accusative singularthisthis; (near deictic pronoun in Vedic)
+T	रूपं	रूपम्form	रूपम्  (रूप)noun, neuter accusative singularappearanceany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	दृष्टवानसि	दृष्टवान्seenअसिyou are	दृष्टवान्  (दृश्)participle, masculine nominative singularto behold; to look at; to regard; to considerअसि  (अस्)verb: present 2nd person singularto be; to live; to exist; to be present
+T	यन्मम	यत्whichममmy	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoमम  (मद्)pronoun, genitive singularI; we
+T	देवा	देवाःgods	देवाः  (देव)noun, masculine nominative plurala deity; god; (rarely applied to) evil demons; the gods as the heavenly or shining ones
+T	अप्यस्य	अपिalsoअस्यof this	अपिparticlealso; moreover; besides; assuredlyअस्य  (इदम्)pronoun, neuter genitive singularthis; (near deictic pronoun in Vedic)
+T	रूपस्य	रूपस्यof form	रूपस्य  (रूप)noun, neuter genitive singularany outward appearance or phenomenon or colour (often pl.); form; shape; phantom shapes
+T	नित्यं	नित्यम्always	नित्यम्adverbalways
+T	दर्शनकाङ्क्षिणः	दर्शन-काङ्क्षिणःvision-desiring	दर्शनfirst part of a compoundseeing; observing; looking; noticingकाङ्क्षिणः  (काङ्क्षिन्)adjective, masculine nominative pluraldesiring; longing for; expecting; waiting for (acc. or in comp.)
+V	11.53		Nor can I be seen as thou hast seen Me by the Vedas, nor by austerities, nor by alms, or by offerings;		नाहंवेदैर्नतपसानदानेननचेज्यया~।शक्यएवंविधोद्रष्टुंदृष्टवानसिमांयथा~॥ ५३ ॥	13
+T	नाहं	नnotअहम्I	नparticlenot; no; nor; neitherअहम्  (मद्)pronoun, nominative singularI; we
+T	वेदैर्न	वेदैःwith Vedasनnot	वेदैः  (वेद)noun, masculine instrumental pluralknowledge; true or sacred knowledge or lore; knowledge of ritualनparticlenot; no; nor; neither
+T	तपसा	तपसाwith austerity	तपसा  (तपस्)noun, neuter instrumental singularwarmth; heat; pain; suffering
+T	न	नnot	नparticlenot; no; nor; neither
+T	दानेन	दानेनwith giving	दानेन  (दान)noun, neuter instrumental singularthe act of giving; giving in marriage; giving up; communicating
+T	न	नnot	नparticlenot; no; nor; neither
+T	चेज्यया	चandइज्ययाwith sacrifice	चconjunctionand; both; also; moreoverइज्यया  (इज्या)noun, feminine instrumental singulara sacrifice; making offerings to the gods or manes; a gift; donation
+T	शक्य	शक्यःpossible	शक्यः  (शक्य)adjective, masculine nominative singularable; possible; practicable; capable of being
+T	एवंविधो	एवंविधःof such a kind	एवंविधः  (एवंविध)adjective, masculine nominative singularof such a kind; in such a form or manner; such
+T	द्रष्टुं	द्रष्टुम्to see	द्रष्टुम्  (दृश्)infinitiveto behold; to look at; to regard; to consider
+T	दृष्टवानसि	दृष्टवान्seenअसिyou are	दृष्टवान्  (दृश्)participle, masculine nominative singularto behold; to look at; to regard; to considerअसि  (अस्)verb: present 2nd person singularto be; to live; to exist; to be present
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularI; we
+T	यथा	यथाas	यथाparticleaccording; as; like
+V	11.54		But by devotion to Me alone I may thus be perceived, Arjuna, and known and seen in essence, and entered, O Parantapa.		भक्त्यात्वनन्ययाशक्यअहमेवंविधोऽर्जुन~।ज्ञातुंद्रष्टुंचतत्त्वेनप्रवेष्टुंचपरन्तप~॥ ५४ ॥	11
+T	भक्त्या	भक्त्याwith devotion	भक्त्या  (भक्ति)noun, feminine instrumental singulardistribution; partition; separation; a division
+T	त्वनन्यया	तुbutअनन्ययाnot other	तुparticledo; now; then; butअन्negative prefixnotnot; un-; in-अन्यया  (अन्य)pronoun, feminine instrumental singularother; another
+T	शक्य	शक्यpossible	शक्यadjective, masculine nominative singularable; possible; practicable; capable of being
+T	अहमेवंविधोऽर्जुन	अहम्Iएवंविधःof such a kindअर्जुनO Arjuna	अहम्  (मद्)pronoun, nominative singularI; weएवंविधः  (एवंविध)adjective, masculine nominative singularof such a kind; in such a form or manner; suchअर्जुनnoun, masculine vocative singulara peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	ज्ञातुं	ज्ञातुम्to know	ज्ञातुम्  (ज्ञा)infinitiveto know; to have knowledge; to become acquainted with; to perceive
+T	द्रष्टुं	द्रष्टुम्to see	द्रष्टुम्  (दृश्)infinitiveto behold; to look at; to regard; to consider
+T	च	चand	चconjunctionand; both; also; moreover
+T	तत्त्वेन	तत्त्वेनwith truth	तत्त्वेन  (तत्त्व)noun, neuter instrumental singulartrue or real state; truth; reality; (in phil.) a true principle
+T	प्रवेष्टुं	प्रवेष्टुम्to enter	प्रवेष्टुम्  (प्रविश्)infinitiveto enter; to go into; to resort to (acc. or loc.); to marry
+T	च	चand	चconjunctionand; both; also; moreover
+T	परन्तप	परंतपO scorcher of foes	परंतपadjective, masculine vocative singulardestroying foes (said of heroes)
+V	11.55		He who doeth actions for Me, whose supreme good I am, My devotee, freed from attachment without hatred of any being, he cometh unto Me, O Pândava.		मत्कर्मकृन्मत्परमोमद्भक्तःसङ्गवर्जितः~।निर्वैरःसर्वभूतेषुयःसमामेतिपाण्डव~॥ ५५ ॥	9
+T	मत्कर्मकृन्मत्परमो	मद्-कर्म-कृत्my-action-makingमद्-परमःmy-supreme	मद्first part of a compound (pronoun)I; weकर्म  (कर्मन्)first part of a compoundact; action; performance; businessकृत्adjective, masculine nominative singularmaking; doing; performing; accomplishingमद्first part of a compound (pronoun)I; weपरमः  (परम)adjective, masculine nominative singularremotest; extreme; last; chief
+T	मद्भक्तः	मद्-भक्तःmy-devotee	मद्first part of a compound (pronoun)I; weभक्तः  (भक्त)noun, masculine nominative singulara worshipper; votary (esp. as name of a division of the Shâktas)
+T	सङ्गवर्जितः	सङ्ग-वर्जितःattachment-avoided	सङ्गfirst part of a compoundsticking; clinging to; touch; contact withवर्जितः  (वर्जय्)participle, masculine nominative singularto avoid
+T	निर्वैरः	निर्वैरःfree from enmity	निर्वैरः  (निर्वैर)adjective, masculine nominative singularfree from enmity; peaceable; amicable
+T	सर्वभूतेषु	सर्व-भूतेषुin all-beings	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतेषु  (भूत)noun, neuter locative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	मामेति	माम्meएतिgoes	माम्  (मद्)pronoun, accusative singularI; weएति  (इ)verb: present 3rd person singularto go; to walk; to flow; to blow
+T	पाण्डव	पाण्डवO son of Pandu	पाण्डवnoun, masculine vocative singulara son or descendant of Pându; the 5 reputed sons of Pându (pl.); name of a mountain; name of a country
+V	12.1	Arjuna said:	Those devotees who ever harmonised worship Thee, and those also who worship the Indestructible, the Unmanifested, whether of these is the more learned in yoga?		अर्जुनउवाच~।एवंसततयुक्तायेभक्तास्त्वांपर्युपासते~।येचाप्यक्षरमव्यक्तंतेषांकेयोगवित्तमाः~॥ १ ॥	12
+T	अर्जुन	अर्जुनःArjuna	अर्जुनः  (अर्जुन)noun, masculine nominative singularArjunaa peacock; cutaneous disease; Terminalia arjuna Bedd.; name of a man
+T	उवाच	उवाचsaid	उवाच  (वच्)verb: perfect 3rd person singularsayto speak; to say; to tell; to declare
+T	एवं	एवम्thus	एवम्adverbsothus; in this way; in such a manner; such
+T	सततयुक्ता	सतत-युक्ताःcontinual-harmonized	सततfirst part of a compound (adjective)continualconstant; perpetual; continualयुक्ताः  (युज्)participle, masculine nominative pluraluniteto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	भक्तास्त्वां	भक्ताःdevoteesत्वाम्you	भक्ताः  (भक्त)noun, masculine nominative pluralBhaktaa worshipper; votary (esp. as name of a division of the Shâktas)त्वाम्  (त्वद्)pronoun, accusative singularyouyou
+T	पर्युपासते	पर्युपासतेworship	पर्युपासते  (पर्युपास्)verb: present 3rd person pluralworshipto sit round; to surround; to encompass; to be present at
+T	ये	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	चाप्यक्षरमव्यक्तं	चandअपिalsoअक्षरम्imperishableअव्यक्तम्unmanifest	चconjunctionandand; both; also; moreoverअपिparticlebesidesalso; moreover; besides; assuredlyअक्षरम्  (अक्षर)adjective, neuter accusative singularimperishableimperishable; unalterableअव्यक्तम्  (अव्यक्त)noun, neuter accusative singularPrakriti(in Sânkhya phil.) "the unevolved (Evolver of all things)"; the primary germ of nature
+T	तेषां	तेषाम्their	तेषाम्  (तद्)pronoun, masculine genitive pluralthisthis; gleicher
+T	के	केwho	के  (क)pronoun, masculine nominative pluralwhowho?; what?
+T	योगवित्तमाः	योग-वित्तमाःyoga-knowing most	योगfirst part of a compoundyogathe act of yoking; joining; attaching; harnessingवित्तमाः  (वित्तम)adjective, masculine nominative pluralknowing mostmost conversant with; finding most

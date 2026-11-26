@@ -1,0 +1,19 @@
+0	0	The Bhagavad Gita	श्रीमद्भगवद्गीता
+1	47	The Despondency of Arjuna	अर्जुनविषादयोगः
+2	72	Yoga by the Sankhya	साङ्ख्ययोगः
+3	43	The Yoga of Action	कर्मयोगः
+4	42	The Yoga of Wisdom	ज्ञानविभागयोगः
+5	29	The Yoga of the Renunciation of Action	संन्यासयोगः
+6	47	The Yoga of Self-Subdual	अध्यात्मयोगः
+7	30	The Yoga of Discriminative Knowledge	ज्ञानयोगः
+8	28	The Yoga of the Indestructible Supreme Eternal	अक्षरब्रह्मयोगः
+9	34	The Yoga of the Kingly Science and the Kingly Secret	राजविद्याराजगुह्ययोगः
+10	42	The Yoga of Sovereignty	विभूतियोगः
+11	55	The Yoga of the Vision of the Universal Form	विश्वरूपदर्शनयोगः
+12	20	The Yoga of Devotion	भक्तियोगः
+13	35	The Yoga of the Distinction between the Field and the Knower of the Field	क्षेत्रक्षेत्रज्ञविभागयोगः
+14	27	The Yoga of Separation from the Three Qualities	गुणत्रयविभागयोगः
+15	20	The Yoga of Attaining the Supreme Spirit	पुरुषोत्तमयोगः
+16	24	The Yoga of Division between the Divine and the Demoniacal	दैवासुरसम्पद्विभागयोगः
+17	28	The Yoga of the Division of Threefold Faith	श्रद्धात्रयविभागयोगः
+18	78	The Yoga of Liberation by Renunciation	संन्यासयोगः

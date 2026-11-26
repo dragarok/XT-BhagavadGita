@@ -1,0 +1,86 @@
+V	2.20		He is not born, nor doth he die; nor having been, ceaseth he any more to be; unborn, perpetual, eternal and ancient, he is not slain when the body is slaughtered.		नजायतेम्रियतेवाकदाचिन्नायंभूत्वाभवितावानभूयः~।अजोनित्यःशाश्वतोऽयंपुराणोनहन्यतेहन्यमानेशरीरे~॥ २० ॥	18
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	जायते	जायतेis born	जायते  (जन्)verb: present 3rd person singularbe bornto come into existence; to grow (as plants); to be born as; to be by birth or nature
+T	म्रियते	म्रियतेdies	म्रियते  (मृ)verb: passive present 3rd person singulardieto decease; to calcine
+T	वा	वाor	वाconjunctionoreither - or; on the one side - on the other side; optionally
+T	कदाचिन्नायं	कदाचिद्everनnotअयम्this	कदाचिद्adverbeverirgendwannनparticlenotnot; no; nor; neitherअयम्  (इदम्)pronoun, masculine nominative singularthisthis; (near deictic pronoun in Vedic)
+T	भूत्वा	भूत्वाhaving been	भूत्वा  (भू)absolutive (having ...)existto be; to become; to come into being; to happen
+T	भविता	भविताwill be	भविता  (भू)verb: future 3rd person singularexistto be; to become; to come into being; to happen
+T	वा	वाor	वाconjunctionoreither - or; on the one side - on the other side; optionally
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	भूयः	भूयःagain	भूयः  (भूयस्)adverbagainagain; further; furthermore; in addition
+T	अजो	अजःunborn	अजः  (अज)adjective, masculine nominative singularunbornnot born; existing from all eternity
+T	नित्यः	नित्यःeternal	नित्यः  (नित्य)adjective, masculine nominative singularchangelessinnate; native; one's own (opp. to arana); continual
+T	शाश्वतोऽयं	शाश्वतःeverlastingअयम्this	शाश्वतः  (शाश्वत)adjective, masculine nominative singulareverlastingeternal; constant; perpetual; allअयम्  (इदम्)pronoun, masculine nominative singularthisthis; (near deictic pronoun in Vedic)
+T	पुराणो	पुराणःancient	पुराणः  (पुराण)adjective, masculine nominative singularoldancient; old; traditional
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	हन्यते	हन्यतेis slain	हन्यते  (हन्)verb: passive present 3rd person singularkillto strike; to beat; to pound; to hammer
+T	हन्यमाने	हन्यमानेbeing slain	हन्यमाने  (हन्)present participle, neuter locative singulardestroyto strike; to beat; to pound; to hammer
+T	शरीरे	शरीरेin body	शरीरे  (शरीर)noun, neuter locative singularbodythe body; bodily frame; solid parts of the body; any solid body (opp. to udaka etc.)
+V	2.21		Who knoweth him indestructible, perpetual, unborn, undiminishing, how can that man slay, O Pârtha, or cause to be slain?		वेदाऽविनाशिनंनित्यंयएनमजमव्ययम्~।कथंसपुरुषःपार्थकंघातयतिहन्तिकम्~॥ २१ ॥	12
+T	वेदाऽविनाशिनं	वेदाऽविनाशिनं	
+T	नित्यं	नित्यम्eternal	नित्यम्  (नित्य)adjective, masculine accusative singularcontinuousinnate; native; one's own (opp. to arana); continual
+T	य	येwho	ये  (यद्)pronoun, masculine nominative pluralwhowhat; which; who
+T	एनमजमव्ययम्	एनमजमव्ययम्	
+T	कथं	कथम्how	कथम्adverbhowhow?
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthisthis; gleicher
+T	पुरुषः	पुरुषःperson	पुरुषः  (पुरुष)noun, masculine nominative singularmana man; male; human being (people); a person
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularArjunapatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	कं	कम्whom	कम्  (क)pronoun, masculine accusative singularwhowho?; what?
+T	घातयति	घातयतिkills	घातयति  (घातय्)verb: present 3rd person singularkillto kill; [alchemy] = *mâray
+T	हन्ति	हन्तिslays	हन्ति  (हन्)verb: present 3rd person singularkillto strike; to beat; to pound; to hammer
+T	कम्	कम्whom	कम्  (क)pronoun, masculine accusative singularwhowho?; what?
+V	2.22		As a man, casting off worn-out garments, taketh new ones, so the dweller in the body, casting off worn-out bodies, entereth into others that are new.		वासांसिजीर्णानियथाविहायनवानिगृह्णातिनरोऽपराणि~।तथाशरीराणिविहायजीर्णान्यन्यानिसंयातिनवानिदेही~॥ २२ ॥	14
+T	वासांसि	वासांसिgarments	वासांसि  (वासस्)noun, neuter accusative pluralgarmentcloth; clothes; dress; a garment
+T	जीर्णानि	जीर्णानिold	जीर्णानि  (जीर्ण)adjective, neuter accusative pluraloldold; worn out; withered; wasted
+T	यथा	यथाas	यथाparticleasaccording; as; like
+T	विहाय	विहायhaving abandoned	विहाय  (विहा)absolutive (having ...)take offto leave behind; to relinquish; to quit; to abandon
+T	नवानि	नवानिnew	नवानि  (नव)adjective, neuter accusative pluralnewnew; fresh; recent; young
+T	गृह्णाति	गृह्णातिgrasps	गृह्णाति  (ग्रह्)verb: present 3rd person singulartaketo seize; to take (by the hand); to grasp; to lay hold of
+T	नरोऽपराणि	नरःmanअपराणिother	नरः  (नर)noun, masculine nominative singularmana man; a male; a person; husbandअपराणि  (अपर)pronoun, neuter accusative pluralotherthe other; another; future; next
+T	तथा	तथाlikewise	तथाadverbsoin that manner; so; thus; yes
+T	शरीराणि	शरीराणिbodies	शरीराणि  (शरीर)noun, neuter accusative pluralbodythe body; bodily frame; solid parts of the body; any solid body (opp. to udaka etc.)
+T	विहाय	विहायhaving abandoned	विहाय  (विहा)absolutive (having ...)take offto leave behind; to relinquish; to quit; to abandon
+T	जीर्णान्यन्यानि	जीर्णानिoldअन्यानिothers	जीर्णानि  (जीर्ण)adjective, neuter accusative pluraloldold; worn out; withered; wastedअन्यानि  (अन्य)pronoun, neuter accusative pluralotherother; another
+T	संयाति	संयातिgoes	संयाति  (संया)verb: present 3rd person singulargoto go or proceed together; to go; to wander; to travel
+T	नवानि	नवानिnew	नवानि  (नव)adjective, neuter accusative pluralnewnew; fresh; recent; young
+T	देही	देहीembodied one	देही  (देहिन्)noun, masculine nominative singularmana living creature; man; the spirit; soul (enveloped in the body)
+V	2.23		Weapons cleave him not, nor fire burneth him, nor waters wet him, nor wind drieth him away.		नैनंछिन्दन्तिशस्त्राणिनैनंदहतिपावकः~।नचैनंक्लेदयन्त्यापोनशोषयतिमारुतः~॥ २३ ॥	12
+T	नैनं	नnotएनम्him	नparticlenotnot; no; nor; neitherएनम्  (एनद्)pronoun, masculine accusative singularthisthis; (anaphoric pronoun in Vedic)
+T	छिन्दन्ति	छिन्दन्तिcut	छिन्दन्ति  (छिद्)verb: present 3rd person pluralcutto cut off; to amputate; to hew; to chop
+T	शस्त्राणि	शस्त्राणिweapons	शस्त्राणि  (शस्त्र)noun, neuter nominative pluralweaponan instrument for cutting or wounding; knife; sword; dagger
+T	नैनं	नnotएनम्him	नparticlenotnot; no; nor; neitherएनम्  (एनद्)pronoun, masculine accusative singularthisthis; (anaphoric pronoun in Vedic)
+T	दहति	दहतिburns	दहति  (दह्)verb: present 3rd person singularburnto burn; to roast; to cauterise; to destroy completely
+T	पावकः	पावकःfire	पावकः  (पावक)noun, masculine nominative singularfirename of a particular Agni (in the Purânas said to be a son of Agni Abhimânin and Svâhâ or of Antardhâna and Shikhandinî); fire; a saint; Premna Spinosa
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	चैनं	चandएनम्him	चconjunctionandand; both; also; moreoverएनम्  (एनद्)pronoun, masculine accusative singularthisthis; (anaphoric pronoun in Vedic)
+T	क्लेदयन्त्यापो	क्लेदयन्तिmoistenआपःwaters	क्लेदयन्ति  (क्लेदय्)verb: present 3rd person pluralmoistento moistenआपः  (अप्)noun, feminine nominative pluralwaterwater
+T	न	नnot	नparticlenotnot; no; nor; neither
+T	शोषयति	शोषयतिdries	शोषयति  (शोषय्)verb: present 3rd person singulardryto make dry; to dry up; to wither; to parch
+T	मारुतः	मारुतःwind	मारुतः  (मारुत)noun, masculine nominative singularwindname of Vishnu; name of Rudra; a son of the Maruts; wind
+V	2.24		Uncleavable he, incombustible he, and indeed neither to be wetted nor dried away; perpetual, all-pervasive, stable, immovable, ancient.		अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्यएवच~।नित्यःसर्वगतःस्थाणुरचलोऽयंसनातनः~॥ २४ ॥	7
+T	अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य	अछेद्यःnot to be cutअयम्thisअदाह्यःnot to be burntअयम्thisअक्लेद्यःnot to be wettedअशोष्यःnot to be dried	अnegative prefixnotnot; un-; in-छेद्यः  (छिद्)gerundive (to be ...), masculine nominative singularto cut off; to amputate; to hew; to chopअयम्  (इदम्)pronoun, masculine nominative singularthis; (near deictic pronoun in Vedic)अnegative prefixnotnot; un-; in-दाह्यः  (दाहय्)gerundive (to be ...), masculine nominative singularto burn; to be burned; to cause to be cookedअयम्  (इदम्)pronoun, masculine nominative singularthis; (near deictic pronoun in Vedic)अnegative prefixnotnot; un-; in-क्लेद्यः  (क्लिद्)gerundive (to be ...), masculine nominative singularto be or become wet or damp; to rot; to putrefyअnegative prefixnotnot; un-; in-शोष्यः  (शुष्)gerundive (to be ...), masculine nominative singularto dry; to become dry or withered; to fade; to languish
+T	एव	एवindeed	एवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionandand; both; also; moreover
+T	नित्यः	नित्यःeternal	नित्यः  (नित्य)adjective, masculine nominative singulareverlastinginnate; native; one's own (opp. to arana); continual
+T	सर्वगतः	सर्व-गतःall-gone	सर्वfirst part of a compound (pronoun)all(a)whole; entire; all; everyगतः  (गम्)participle, masculine nominative singulargoto go; to move; to approach; to understand
+T	स्थाणुरचलोऽयं	स्थाणुःfixedअचलःunmovingअयम्this	स्थाणुः  (स्थाणु)adjective, masculine nominative singularfixedstanding firmly; stationary; firm; fixedअचलः  (अचल)adjective, masculine nominative singularimmovablenot moving; immovable; firmअयम्  (इदम्)pronoun, masculine nominative singularthisthis; (near deictic pronoun in Vedic)
+T	सनातनः	सनातनःeternal	सनातनः  (सनातन)adjective, masculine nominative singulareverlastingperpetual; permanent; everlasting; primeval
+V	2.25		Unmanifest, unthinkable, immutable, he is called; therefore knowing him as such, thou shouldst not grieve.		अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते~।तस्मादेवंविदित्वैनंनानुशोचितुमर्हसि~॥ २५ ॥	4
+T	अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते	अव्यक्तःunmanifestअयम्thisअचिन्त्यःnot to be thought ofअयम्thisअविकार्यःnot to be made differentअयम्thisउच्यतेis said	अव्यक्तः  (अव्यक्त)adjective, masculine nominative singularimperceptibleundeveloped; not manifest; unapparent; indistinctअयम्  (इदम्)pronoun, masculine nominative singularthis; (near deictic pronoun in Vedic)अnegative prefixnotnot; un-; in-चिन्त्यः  (चिन्तय्)gerundive (to be ...), masculine nominative singularto think; to have a thought or idea; to reflect; to considerअयम्  (इदम्)pronoun, masculine nominative singularthis; (near deictic pronoun in Vedic)अnegative prefixnotnot; un-; in-विकार्यः  (विकृ)gerundive (to be ...), masculine nominative singularto make different; to transform; to change the shape (or the mind); to cause to alter or change (esp. for the worse)अयम्  (इदम्)pronoun, masculine nominative singularthisthis; (near deictic pronoun in Vedic)उच्यते  (वच्)verb: passive present 3rd person singularcallto speak; to say; to tell; to declare
+T	तस्मादेवं	तस्मात्thereforeएवम्thus	तस्मात्adverbthereforethereforeएवम्adverbsothus; in this way; in such a manner; such
+T	विदित्वैनं	विदित्वाhaving knownएनम्him	विदित्वा  (विद्)absolutive (having ...)knowto know; to understand; to learn; to be conscious ofएनम्  (एनद्)pronoun, masculine accusative singularthisthis; (anaphoric pronoun in Vedic)
+T	नानुशोचितुमर्हसि	नnotअनुशोचितुम्to grieveअर्हसिyou ought	नparticlenotnot; no; nor; neitherअनुशोचितुम्  (अनुशुच्)infinitivegrieveto mourn over; to regret; to bewailअर्हसि  (अर्ह्)verb: present 2nd person singularshouldto deserve; to merit; to be worthy of; to be allowed to
+V	2.26		Or if thou thinkest of him as being constantlyborn and constantly dying, even then, O mighty-armed, thou shouldst not grieve.		अथचैनंनित्यजातंनित्यंवामन्यसेमृतम्~।तथापित्वंमहाबाहोनैनंशोचितुमर्हसि~॥ २६ ॥	12
+T	अथ	अथnow	अथadverbnowan auspicious and inceptive particle (not easily expressed in English); now; then; moreover
+T	चैनं	चandएनम्him	चconjunctionandand; both; also; moreoverएनम्  (एनद्)pronoun, masculine accusative singularthisthis; (anaphoric pronoun in Vedic)
+T	नित्यजातं	नित्य-जातम्eternal-born	नित्यfirst part of a compound (adjective)continuousinnate; native; one's own (opp. to arana); continualजातम्  (जन्)participle, masculine accusative singularbe bornto come into existence; to grow (as plants); to be born as; to be by birth or nature
+T	नित्यं	नित्यम्eternal	नित्यम्  (नित्य)adjective, masculine accusative singularcontinuousinnate; native; one's own (opp. to arana); continual
+T	वा	वाor	वाconjunctionoreither - or; on the one side - on the other side; optionally
+T	मन्यसे	मन्यसेyou think	मन्यसे  (मन्)verb: present 2nd person singularthink ofto think; to believe; to imagine; to suppose
+T	मृतम्	मृतम्died	मृतम्  (मृ)participle, masculine accusative singulardieto decease; to calcine
+T	तथापि	तथाlikewiseअपिalso	तथाadverbin that manner; so; thus; yesअपिparticlealso; moreover; besides; assuredly
+T	त्वं	त्वम्you	त्वम्  (त्वद्)pronoun, nominative singularyouyou
+T	महाबाहो	महा-बाहोO mighty-armed	महा  (महत्)first part of a compound (adjective)largegreat; large; big; hugeबाहो  (बाहु)noun, masculine vocative singulararmthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	नैनं	नnotएनम्him	नparticlenotnot; no; nor; neitherएनम्  (एनद्)pronoun, masculine accusative singularthisthis; (anaphoric pronoun in Vedic)
+T	शोचितुमर्हसि	शोचितुम्to grieveअर्हसिyou ought	शोचितुम्  (शुच्)infinitivegrieveto shine; to gleam; to glow; to burnअर्हसि  (अर्ह्)verb: present 2nd person singularshouldto deserve; to merit; to be worthy of; to be allowed to

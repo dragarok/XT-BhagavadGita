@@ -1,0 +1,78 @@
+V	18.15		Whatever action a man performeth by his body, speech and mind, whether right or the reverse, these five are the cause thereof.	Manah.	शरीरवाङ्‌मनोभिर्यत्कर्मप्रारभतेनरः~।न्याय्यंवाविपरीतंवापञ्चैतेतस्यहेतवः~॥ १५ ॥	10
+T	शरीरवाङ्‌मनोभिर्यत्कर्म	शरीर-वाच्-मनोभिःwith body-speech-mindsयत्whichकर्मaction	शरीरfirst part of a compoundthe body; bodily frame; solid parts of the body; any solid body (opp. to udaka etc.)वाच्first part of a compoundspeech; voice; talk; languageमनोभिः  (मनस्)noun, neuter instrumental pluralmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understandingयत्  (यद्)pronoun, neuter accusative singularwhat; which; whoकर्म  (कर्मन्)noun, neuter accusative singularact; action; performance; business
+T	प्रारभते	प्रारभतेseizes	प्रारभते  (प्रारभ्)verb: present 3rd person singularto seize; to lay hold on (acc.); to begin; to commence
+T	नरः	नरःman	नरः  (नर)noun, masculine nominative singulara man; a male; a person; husband
+T	न्याय्यं	न्याय्यम्regular	न्याय्यम्  (न्याय्य)adjective, neuter accusative singularregular; customary; usual; correct
+T	वा	वाor	वाconjunctioneither - or; on the one side - on the other side; optionally
+T	विपरीतं	विपरीतम्contrary	विपरीतम्  (विपरीत)adjective, neuter accusative singularturned round; reversed; inverted; being the reverse of anything
+T	वा	वाor	वाconjunctioneither - or; on the one side - on the other side; optionally
+T	पञ्चैते	पञ्चाfiveएतेthese	पञ्चा  (पञ्चन्)number, masculine nominative singularfiveएते  (एतद्)pronoun, masculine nominative pluralthis
+T	तस्य	तस्यof that	तस्य  (तद्)pronoun, neuter genitive singularthis; gleicher
+T	हेतवः	हेतवःcauses	हेतवः  (हेतु)noun, masculine nominative pluralmotive; cause; cause of; reason for
+V	18.16		That being so, he verily who - owing to untrained Reason - looketh on his Self, which is isolated, as the actor, he of perverted intelligence, seeth not.	Buddhi.	तत्रैवंसतिकर्तारमात्मानंकेवलंतुयः~।पश्यत्यकृतबुद्धित्वान्नसपश्यतिदुर्मतिः~॥ १६ ॥	10
+T	तत्रैवं	तत्रthereएवम्thus	तत्रadverbin that place; there (in comp.); thither; to that placeएवम्adverbthus; in this way; in such a manner; such
+T	सति	सतिbeing	सति  (अस्)present participle, neuter locative singularto be; to live; to exist; to be present
+T	कर्तारमात्मानं	कर्तारम्doerआत्मानम्self	कर्तारम्  (कर्तृ)noun, masculine accusative singularthe creator of the world; name of Vishnu; name of Brahman; name of Shivaआत्मानम्  (आत्मन्)noun, masculine accusative singularthe breath; the soul; principle of life and sensation; the individual soul
+T	केवलं	केवलम्only	केवलम्adverbonly; wholly; totally
+T	तु	तुbut	तुparticledo; now; then; but
+T	यः	यःwho	यः  (यद्)pronoun, masculine nominative singularwhat; which; who
+T	पश्यत्यकृतबुद्धित्वान्न	पश्यतिseesअकृतबुद्धि-त्वात्from having an unformed mindnessनnot	पश्यति  (दृश्)verb: present 3rd person singularto behold; to look at; to regard; to considerअकृतबुद्धिfirst part of a compound (adjective)having an unformed mind; stupidत्वात्  (त्व)noun, neuter ablative singular(suffix creating abstract nouns)नparticlenot; no; nor; neither
+T	स	सhe	स  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	पश्यति	पश्यतिsees	पश्यति  (दृश्)verb: present 3rd person singularto behold; to look at; to regard; to consider
+T	दुर्मतिः	दुर्मतिःweak-minded	दुर्मतिः  (दुर्मति)adjective, masculine nominative singularweak-minded; silly; ignorant (rarely "malicious")
+V	18.17		He who is free from the egoistic notion, whose Reason is not affected, though he slay these peoples, he slayeth not, nor is bound.	Buddhi.	यस्यनाहंकृतोभावोबुद्धिर्यस्यनलिप्यते~।हत्वाऽपिसइमाँल्लोकान्नहन्तिननिबध्यते~॥ १७ ॥	12
+T	यस्य	यस्यwhose	यस्य  (यद्)pronoun, masculine genitive singularwhat; which; who
+T	नाहंकृतो	नnotअहंकृतःconscious of one's	नparticlenot; no; nor; neitherअहंकृतः  (अहंकृत)adjective, masculine nominative singularconscious of one's individuality; egotistic; proud; haughty
+T	भावो	भावःstate	भावः  (भाव)noun, masculine nominative singularbecoming; being; existing; occurring
+T	बुद्धिर्यस्य	बुद्धिःintellectयस्यwhose	बुद्धिः  (बुद्धि)noun, feminine nominative singularthe power of forming and retaining conceptions and general notions; intelligence; reason; intellectयस्य  (यद्)pronoun, masculine genitive singularwhat; which; who
+T	न	नnot	नparticlenot; no; nor; neither
+T	लिप्यते	लिप्यतेis stained	लिप्यते  (लिप्)verb: passive present 3rd person singularto smear; to besmear; to anoint with (instr.); to stain
+T	हत्वाऽपि	हत्वाhaving slainअपिalso	हत्वा  (हन्)absolutive (having ...)to strike; to beat; to pound; to hammerअपिparticlealso; moreover; besides; assuredly
+T	स	सःhe	सः  (तद्)pronoun, masculine nominative singularthis; gleicher
+T	इमाँल्लोकान्न	इमान्theseलोकान्worldsनnot	इमान्  (इदम्)pronoun, masculine accusative pluralthis; (near deictic pronoun in Vedic)लोकान्  (लोक)noun, masculine accusative pluralfree or open space; room; place; scopeनparticlenot; no; nor; neither
+T	हन्ति	हन्तिslays	हन्ति  (हन्)verb: present 3rd person singularto strike; to beat; to pound; to hammer
+T	न	नnot	नparticlenot; no; nor; neither
+T	निबध्यते	निबध्यतेis bound	निबध्यते  (निबन्ध्)verb: passive present 3rd person singularto bind on; to tie; to fasten to; to enchain
+V	18.18		Knowledge, the knowable and the knower, the threefold impulse to action; the organ, the action, the actor, the threefold constituents of action.		ज्ञानंज्ञेयंपरिज्ञातात्रिविधाकर्मचोदना~।करणंकर्मकर्तेतित्रिविधःकर्मसङ्ग्रहः~॥ १८ ॥	10
+T	ज्ञानं	ज्ञानम्knowledge	ज्ञानम्  (ज्ञान)noun, neuter nominative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	ज्ञेयं	ज्ञेयम्to be known	ज्ञेयम्  (ज्ञा)gerundive (to be ...), neuter nominative singularto know; to have knowledge; to become acquainted with; to perceive
+T	परिज्ञाता	परिज्ञाताone who knows	परिज्ञाता  (परिज्ञातृ)adjective, masculine nominative singularone who knows or perceives; an observer; knower; wise
+T	त्रिविधा	त्रिविधाthreefold	त्रिविधा  (त्रिविध)adjective, feminine nominative singularof 3 kinds; triple; threefold
+T	कर्मचोदना	कर्म-चोदनाaction-impelling	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessचोदना  (चोदन)noun, feminine nominative singularimpelling; invitation; direction; rule
+T	करणं	करणम्act of making	करणम्  (करण)noun, neuter nominative singularact of making; doing; producing; effecting
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter nominative singularact; action; performance; business
+T	कर्तेति	कर्ताdoerइतिthus	कर्ता  (कर्तृ)noun, masculine nominative singularthe creator of the world; name of Vishnu; name of Brahman; name of Shivaइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	त्रिविधः	त्रिविधःthreefold	त्रिविधः  (त्रिविध)adjective, masculine nominative singularof 3 kinds; triple; threefold
+T	कर्मसङ्ग्रहः	कर्म-संग्रहःaction-welfare	कर्म  (कर्मन्)first part of a compoundact; action; performance; businessसंग्रहः  (संग्रह)noun, masculine nominative singularholding together; seizing; grasping; taking
+V	18.19		Knowledge, action and actor in the category of qualities are also said to be severally threefold, from the difference of qualities; hear thou duly these also.	Gunas.Gunas.	ज्ञानंकर्मचकर्ताचत्रिधैवगुणभेदतः~।प्रोच्यतेगुणसङ्ख्यानेयथावच्छृणुतान्यपि~॥ १९ ॥	11
+T	ज्ञानं	ज्ञानम्knowledge	ज्ञानम्  (ज्ञान)noun, neuter nominative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter nominative singularact; action; performance; business
+T	च	चand	चconjunctionand; both; also; moreover
+T	कर्ता	कर्ताdoer	कर्ता  (कर्तृ)noun, masculine nominative singularthe creator of the world; name of Vishnu; name of Brahman; name of Shiva
+T	च	चand	चconjunctionand; both; also; moreover
+T	त्रिधैव	त्रिधाin 3 waysएवindeed	त्रिधाadverbin 3 ways; in 3 parts; in 3 places; triplyएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	गुणभेदतः	गुण-भेदतःfrom quality-distinction	गुणfirst part of a compounda single thread or strand of a cord or twine; string or thread; rope; a garlandभेदतः  (भेद)noun, masculine ablative singularbreaking; splitting; cleaving; rending
+T	प्रोच्यते	प्रोच्यतेis declared	प्रोच्यते  (प्रवच्)verb: passive present 3rd person singularto proclaim; to announce; to praise; to commend
+T	गुणसङ्ख्याने	गुण-संख्यानेin quality-becoming seen	गुणfirst part of a compounda single thread or strand of a cord or twine; string or thread; rope; a garlandसंख्याने  (संख्यान)noun, neuter locative singularbecoming seen; appearance; reckoning up; enumeration
+T	यथावच्छृणु	यथावत्dulyशृणुhear!	यथावत्adverbduly; properly; rightly; suitablyशृणु  (श्रु)verb: present imperative 2nd person singularto hear; to listen to; to study
+T	तान्यपि	तानिthoseअपिalso	तानि  (तद्)pronoun, neuter accusative pluralthis; gleicherअपिparticlealso; moreover; besides; assuredly
+V	18.20		That by which one indestructible Being is seen in all beings, inseparate in the separated, know thou that knowledge as pure.		सर्वभूतेषुयेनैकंभावमव्ययमीक्षते~।अविभक्तंविभक्तेषुतज्ज्ञानंविद्धिसात्त्विकम्~॥ २० ॥	8
+T	सर्वभूतेषु	सर्व-भूतेषुin all-beings	सर्वfirst part of a compound (pronoun)whole; entire; all; everyभूतेषु  (भूत)noun, neuter locative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	येनैकं	येनby whichएकम्one	येन  (यद्)pronoun, neuter instrumental singularwhat; which; whoएकम्  (एक)number, masculine accusative singularone; alone; happening only once; single of its kind
+T	भावमव्ययमीक्षते	भावम्stateअव्ययम्imperishableईक्षतेsees	भावम्  (भाव)noun, masculine accusative singularbecoming; being; existing; occurringअव्ययम्  (अव्यय)adjective, masculine accusative singularnot liable to change; imperishable; undecaying; parsimoniousईक्षते  (ईक्ष्)verb: present 3rd person singularto see; to look; to view; to behold
+T	अविभक्तं	अविभक्तम्undivided	अविभक्तम्  (अविभक्त)adjective, masculine accusative singularundivided; joint (as co-heirs who have not divided their inheritance); unaltered
+T	विभक्तेषु	विभक्तेषुdivided	विभक्तेषु  (विभज्)participle, neuter locative pluralto divide; to distribute; to apportion; to assign
+T	तज्ज्ञानं	तत्thatज्ञानम्knowledge	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherज्ञानम्  (ज्ञान)noun, neuter accusative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	विद्धि	विद्धिknow!	विद्धि  (विद्)verb: present imperative 2nd person singularto know; to understand; to learn; to be conscious of
+T	सात्त्विकम्	सात्त्विकम्pure	सात्त्विकम्  (सात्त्विक)adjective, neuter accusative singularspirited; vigorous; energetic; relating to or endowed with the quality Sattva
+V	18.21		But that knowledge which regardeth theseveral manifold existences in all beings as separate, that knowledge know thou as of passion;		पृथक्त्वेनतुयज्ज्ञानंनानाभावान्पृथग्विधान्~।वेत्तिसर्वेषुभूतेषुतज्ज्ञानंविद्धिराजसम्~॥ २१ ॥	10
+T	पृथक्त्वेन	पृथक्त्वेनwith separateness	पृथक्त्वेन  (पृथक्त्व)noun, neuter instrumental singularseparateness
+T	तु	तुbut	तुparticledo; now; then; but
+T	यज्ज्ञानं	यत्whichज्ञानम्knowledge	यत्  (यद्)pronoun, neuter accusative singularwhat; which; whoज्ञानम्  (ज्ञान)noun, neuter accusative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	नानाभावान्पृथग्विधान्	नानाvariousभावान्statesपृथग्विधान्diverse	नानाadverbdifferently; variously; distinctly; separatelyभावान्  (भाव)noun, masculine accusative pluralbecoming; being; existing; occurringपृथग्विधान्  (पृथग्विध)adjective, masculine accusative pluralof distinct kinds; manifold; various; distinct from (abl.)
+T	वेत्ति	वेत्तिknows	वेत्ति  (विद्)verb: present 3rd person singularto know; to understand; to learn; to be conscious of
+T	सर्वेषु	सर्वेषुall	सर्वेषु  (सर्व)pronoun, neuter locative pluralwhole; entire; all; every
+T	भूतेषु	भूतेषुin beings	भूतेषु  (भूत)noun, neuter locative pluralthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	तज्ज्ञानं	तत्thatज्ञानम्knowledge	तत्  (तद्)pronoun, neuter accusative singularthis; gleicherज्ञानम्  (ज्ञान)noun, neuter accusative singularknowing; becoming acquainted with; knowledge; (esp.) the higher knowledge (derived from meditation on the one Universal spirit)
+T	विद्धि	विद्धिknow!	विद्धि  (विद्)verb: present imperative 2nd person singularto know; to understand; to learn; to be conscious of
+T	राजसम्	राजसम्passionate	राजसम्  (राजस)adjective, neuter accusative singularbelonging or relating to the quality rajas; endowed with or influenced by the quality of passion

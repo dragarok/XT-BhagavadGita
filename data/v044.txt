@@ -1,0 +1,74 @@
+V	7.4		Earth, water, fire, air, ether, Mind, and Reason also and Egoism - these are the eightfold division of My nature.	Manah.Buddhi.Ahankâra.Prakriti, matter in the widest sense of the term, including all that has extension. The "Higher Prakriti," of the next verse, is sometimes called Daivîprakriti, the Light of the Logos.	भूमिरापोऽनलोवायुःखंमनोबुद्धिरेवच~।अहङ्कारइतीयंमेभिन्नाप्रकृतिरष्टधा~॥ ४ ॥	11
+T	भूमिरापोऽनलो	भूमिःearthआपःwatersअनलःfire	भूमिः  (भूमि)noun, feminine nominative singularearthearth; territory; country; positionआपः  (अप्)noun, feminine nominative pluralwaterwaterअनलः  (अनल)noun, masculine nominative singularfirefire; the god of fire; digestive power; gastric juice
+T	वायुः	वायुःwind	वायुः  (वायु)noun, masculine nominative singularwindwind; air (as one of the 5 elements); the god of the wind; breathing
+T	खं	खम्âkâsha	खम्  (ख)noun, neuter nominative singularâkâshaa cavity; hollow; cave; cavern
+T	मनो	मनःmind	मनः  (मनस्)noun, neuter nominative singularmindmind (in its widest sense as applied to all the mental powers); intellect; intelligence; understanding
+T	बुद्धिरेव	बुद्धिःintellectएवindeed	बुद्धिः  (बुद्धि)noun, feminine nominative singularBuddhithe power of forming and retaining conceptions and general notions; intelligence; reason; intellectएवparticleindeedso; just so; exactly so (in the sense of the later evam); indeed
+T	च	चand	चconjunctionandand; both; also; moreover
+T	अहङ्कार	अहंकारःegoism	अहंकारः  (अहंकार)noun, masculine nominative singularAhamkâraconception of one's individuality; self-consciousness; the making of self; thinking of self
+T	इतीयं	इतिthusइयम्this	इतिparticlesoin this manner; thus (in its original signification iti refers to something that has been said or thought); soइयम्  (इदम्)pronoun, feminine nominative singularthisthis; (near deictic pronoun in Vedic)
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularII; we
+T	भिन्ना	भिन्नाdivided	भिन्ना  (भिद्)participle, feminine nominative singulardivideto split; to cleave; to break; to cut or rend asunder
+T	प्रकृतिरष्टधा	प्रकृतिःnatureअष्टधाeightfold	प्रकृतिः  (प्रकृति)noun, feminine nominative singularnaturethe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; originअष्टधाadverbeightfoldeight-fold; in eight parts or sections
+V	7.5		This the inferior. Know My other nature, the higher, the life-element, O mighty-armed, by which the universe is upheld.	Prakriti, matter in the widest sense of the term, including all that has extension. The "Higher Prakriti," of the next verse, is sometimes called Daivîprakriti, the Light of the Logos.	अपरेयमितस्त्वन्यांप्रकृतिंविद्धिमेपराम्~।जीवभूतांमहाबाहोययेदंधार्यतेजगत्~॥ ५ ॥	10
+T	अपरेयमितस्त्वन्यां	अपराotherइयम्thisइतःfrom henceतुbutअन्याम्other	अपरा  (अपर)pronoun, feminine nominative singularthe other; another; future; nextइयम्  (इदम्)pronoun, feminine nominative singularthis; (near deictic pronoun in Vedic)इतः  (इतस्)adverbfrom hence; hence; hereतुparticledo; now; then; butअन्याम्  (अन्य)pronoun, feminine accusative singularother; another
+T	प्रकृतिं	प्रकृतिम्nature	प्रकृतिम्  (प्रकृति)noun, feminine accusative singularnaturethe original or natural form or condition of anything; original or primary substance (opp. to vi-kriti); cause; origin
+T	विद्धि	विद्धिknow!	विद्धि  (विद्)verb: present imperative 2nd person singularknowto know; to understand; to learn; to be conscious of
+T	मे	मेmy	मे  (मद्)pronoun, genitive singularII; we
+T	पराम्	पराम्supreme	पराम्  (पर)pronoun, feminine accusative singularhighestfar; remote; opposite; previous
+T	जीवभूतां	जीव-भूताम्soul-been	जीवfirst part of a compoundlifeanything living; life; existence; any living beingभूताम्  (भू)participle, feminine accusative singularbecometo be; to become; to come into being; to happen
+T	महाबाहो	महा-बाहोO mighty-armed	महा  (महत्)first part of a compound (adjective)largegreat; large; big; hugeबाहो  (बाहु)noun, masculine vocative singulararmthe arm; the fore-arm; the arm between the elbow and the wrist (opp. to pra-ganda); the whole upper extremity of the body
+T	ययेदं	ययाby whomइदम्this	यया  (यद्)pronoun, feminine instrumental singularwhichwhat; which; whoइदम्pronoun, neuter nominative singularthisthis; (near deictic pronoun in Vedic)
+T	धार्यते	धार्यतेis held	धार्यते  (धारय्)verb: passive present 3rd person singularsustainto hold; to keep; to possess; to maintain
+T	जगत्	जगत्world	जगत्  (जगन्त्)noun, neuter nominative singularuniversethat which is alive; men and animals; the world; people
+V	7.6		Know this to be the womb of all beings. I am the source of the forthgoing of the whole universe and likewise the place of its dissolving.		एतद्योनीनिभूतानिसर्वाणीत्युपधारय~।अहंकृत्स्नस्यजगतःप्रभवःप्रलयस्तथा~॥ ६ ॥	8
+T	एतद्योनीनि	एतद्-योनीनिthis-wombs	एतद्first part of a compound (pronoun)thisthisयोनीनि  (योनि)noun, neuter nominative pluralbirthplacethe womb; uterus; vulva; vagina
+T	भूतानि	भूतानिbeings	भूतानि  (भूत)noun, neuter nominative pluralbeingthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	सर्वाणीत्युपधारय	सर्वाणिallइतिthusउपधारयlearn!	सर्वाणि  (सर्व)pronoun, neuter nominative pluralall(a)whole; entire; all; everyइतिparticlesoin this manner; thus (in its original signification iti refers to something that has been said or thought); soउपधारय  (उपधारय्)verb: present imperative 2nd person singularlearnto hold up; to support; to bear; to hold as
+T	अहं	अहम्I	अहम्  (मद्)pronoun, nominative singularII; we
+T	कृत्स्नस्य	कृत्स्नस्यwhole	कृत्स्नस्य  (कृत्स्न)adjective, neuter genitive singularentireall; whole; entire
+T	जगतः	जगतःof world	जगतः  (जगन्त्)noun, neuter genitive singularuniversethat which is alive; men and animals; the world; people
+T	प्रभवः	प्रभवःorigin	प्रभवः  (प्रभव)noun, masculine nominative singularoriginproduction; source; origin; cause of existence (as father or mother)
+T	प्रलयस्तथा	प्रलयःdissolutionतथाlikewise	प्रलयः  (प्रलय)noun, masculine nominative singularannihilationdissolution; reabsorption; destruction; annihilationतथाadverbandin that manner; so; thus; yes
+V	7.7		There is naught whatsoever higher than I, O Dhananjaya. All this is threaded on Me, as rows of pearls on a string.		मत्तःपरतरंनान्यत्किञ्चिदस्तिधनञ्जय~।मयिसर्वमिदंप्रोतंसूत्रेमणिगणाइव~॥ ७ ॥	10
+T	मत्तः	मत्तःfrom me	मत्तः  (मद्)pronoun, masculine ablative singularII; we
+T	परतरं	परतरम्higher	परतरम्  (परतर)adjective, neuter nominative singularhigherhigher; better
+T	नान्यत्किञ्चिदस्ति	नnotअन्यत्otherकिंचिद्someoneअस्तिis	नparticlenotnot; no; nor; neitherअन्यत्  (अन्य)pronoun, neuter nominative singularotherother; anotherकिंचिद्  (कश्चित्)pronoun, neuter nominative singularany(a)someone; something; anyअस्ति  (अस्)verb: present 3rd person singularexistto be; to live; to exist; to be present
+T	धनञ्जय	धनंजयO Dhananjaya	धनंजयnoun, masculine vocative singularArjunafire; a particular vital air supposed to nourish the body; Plumbago Zeylanica; name of Arjuna
+T	मयि	मयिin me	मयि  (मद्)pronoun, locative singularII; we
+T	सर्वमिदं	सर्वम्allइदम्this	सर्वम्  (सर्व)pronoun, neuter nominative singularall(a)whole; entire; all; everyइदम्pronoun, neuter nominative singularthisthis; (near deictic pronoun in Vedic)
+T	प्रोतं	प्रोतम्weaved	प्रोतम्  (प्रवे)participle, neuter nominative singularweaveto weave on; to attach to; to hitch
+T	सूत्रे	सूत्रेin thread	सूत्रे  (सूत्र)noun, neuter locative singularthreada thread; yarn; string; line
+T	मणिगणा	मणि-गणाःjewel-hosts	मणिfirst part of a compoundjewela jewel; gem; pearl; any ornament or amuletगणाः  (गण)noun, masculine nominative pluralseta flock; troop; multitude; number
+T	इव	इवlike	इवparticlelikelike; in the same manner as (in this sense = yathâ); as it were; as if
+V	7.8		I the sapidity in waters, O son of Kuntî, I the radiance in moon and sun; the Word of Power in all the Vedas, sound in ether, and virility in men;	The Pranava, the Aum.	रसोऽहमप्सुकौन्तेयप्रभाऽस्मिशशिसूर्ययोः~।प्रणवःसर्ववेदेषुशब्दःखेपौरुषंनृषु~॥ ८ ॥	10
+T	रसोऽहमप्सु	रसःtasteअहम्Iअप्सुin waters	रसः  (रस)noun, masculine nominative singularliquidthe sap or juice of plants; Juice of fruit; any liquid or fluid; the best or finest or prime part of anythingअहम्  (मद्)pronoun, nominative singularI; weअप्सु  (अप्)noun, feminine locative pluralwaterwater
+T	कौन्तेय	कौन्तेयO son of Kunti	कौन्तेयnoun, masculine vocative singularArjunametron. from Kuntî; name of Yudhishthira; Bhîmasena; Arjuna
+T	प्रभाऽस्मि	प्रभाlightअस्मिI am	प्रभाnoun, feminine nominative singularlightlight; splendour; radiance; beautiful appearanceअस्मि  (अस्)verb: present 1st person singularbeto be; to live; to exist; to be present
+T	शशिसूर्ययोः	शशि-सूर्ययोःin moon-suns	शशि  (शशिन्)first part of a compoundmoonthe moon; name of the number one; camphor; a kind of metreसूर्ययोः  (सूर्य)noun, masculine locative dualsunthe sun or its deity; a symbolical expression for the number "twelve" (in allusion to the sun in the 12 signs of the zodiac); the swallow-wort
+T	प्रणवः	प्रणवःOm	प्रणवः  (प्रणव)noun, masculine nominative singularOma kind of small drum or tabor; the mystical syllable om; insertion d'un o soit plut￩ soit pur soit termin￩ par m
+T	सर्ववेदेषु	सर्व-वेदेषुin all-Vedas	सर्वfirst part of a compound (pronoun)all(a)whole; entire; all; everyवेदेषु  (वेद)noun, masculine locative pluralVedaknowledge; true or sacred knowledge or lore; knowledge of ritual
+T	शब्दः	शब्दःsound	शब्दः  (शब्द)noun, masculine nominative singularsoundnoise; voice; tone; note
+T	खे	खेin âkâsha	खे  (ख)noun, neuter locative singularâkâshaa cavity; hollow; cave; cavern
+T	पौरुषं	पौरुषम्manhood	पौरुषम्  (पौरुष)noun, neuter nominative singularmanhoodmanhood; virility (opp. to strîtva); manliness; manly strength or courage or deed
+T	नृषु	नृषुin men	नृषु  (नृ)noun, masculine locative pluralmanman; people; human being; a hero
+V	7.9		The pure fragrance of earths and the brilliance in fire am I; the life in all beings am I, and the austerity in ascetics.		पुण्योगन्धःपृथिव्यांचतेजश्चास्मिविभावसौ~।जीवनंसर्वभूतेषुतपश्चास्मितपस्विषु~॥ ९ ॥	10
+T	पुण्यो	पुण्यःholy	पुण्यः  (पुण्य)adjective, masculine nominative singularpleasantauspicious; propitious; fair; pleasant
+T	गन्धः	गन्धःfragrance	गन्धः  (गन्ध)noun, masculine nominative singularsmellsmell; odour; a fragrant substance; fragrance
+T	पृथिव्यां	पृथिव्याम्in earth	पृथिव्याम्  (पृथिवी)noun, feminine locative singularearththe earth or wide world; land; ground; soil
+T	च	चand	चconjunctionandand; both; also; moreover
+T	तेजश्चास्मि	तेजःsplendourचandअस्मिI am	तेजः  (तेजस्)noun, neuter nominative singularluminositythe sharp edge (of a knife etc.); point or top of a flame or ray; glow; glareचconjunctionandand; both; also; moreoverअस्मि  (अस्)verb: present 1st person singularbeto be; to live; to exist; to be present
+T	विभावसौ	विभावसौin fire	विभावसौ  (विभावसु)noun, masculine locative singularfirefire; the sun
+T	जीवनं	जीवनम्life	जीवनम्  (जीवन)noun, neuter nominative singularlifelife; manner of living; living by (instr. or in comp.); livelihood
+T	सर्वभूतेषु	सर्व-भूतेषुin all-beings	सर्वfirst part of a compound (pronoun)all(a)whole; entire; all; everyभूतेषु  (भूत)noun, masculine locative pluralbeingthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	तपश्चास्मि	तपःausterityचandअस्मिI am	तपः  (तपस्)noun, neuter nominative singularpenancewarmth; heat; pain; sufferingचconjunctionandand; both; also; moreoverअस्मि  (अस्)verb: present 1st person singularbeto be; to live; to exist; to be present
+T	तपस्विषु	तपस्विषुin ascetics	तपस्विषु  (तपस्विन्)noun, masculine locative pluralascetica kind of plant; Asket; name of a man
+V	7.10		Know Me, O Pârtha! as the eternal seed of all beings. I am the Reason of the Reason-endowed, the splendour of splendid things am I.	Buddhi.Buddhi.	बीजंमांसर्वभूतानांविद्धिपार्थसनातनम्~।बुद्धिर्बुद्धिमतामस्मितेजस्तेजस्विनामहम्~॥ १० ॥	8
+T	बीजं	बीजम्seed	बीजम्  (बीज)noun, neuter accusative singularseedseed (of plants); semen (of men and animals); seed-corn; grain
+T	मां	माम्me	माम्  (मद्)pronoun, accusative singularII; we
+T	सर्वभूतानां	सर्व-भूतानाम्of all-beings	सर्वfirst part of a compound (pronoun)all(a)whole; entire; all; everyभूतानाम्  (भूत)noun, masculine genitive pluralbeingthat which is or exists; any living being; a spirit (good or evil); the ghost of a deceased person
+T	विद्धि	विद्धिknow!	विद्धि  (विद्)verb: present imperative 2nd person singularknowto know; to understand; to learn; to be conscious of
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularArjunapatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	सनातनम्	सनातनम्eternal	सनातनम्  (सनातन)adjective, neuter accusative singulareverlastingperpetual; permanent; everlasting; primeval
+T	बुद्धिर्बुद्धिमतामस्मि	बुद्धिःintellectबुद्धिमताम्wiseअस्मिI am	बुद्धिः  (बुद्धि)noun, feminine nominative singularintelligencethe power of forming and retaining conceptions and general notions; intelligence; reason; intellectबुद्धिमताम्  (बुद्धिमत्)adjective, masculine genitive pluralintelligentendowed with understanding; intelligent; learned; wiseअस्मि  (अस्)verb: present 1st person singularbeto be; to live; to exist; to be present
+T	तेजस्तेजस्विनामहम्	तेजःsplendourतेजस्विनाम्brilliantअहम्I	तेजः  (तेजस्)noun, neuter nominative singularbrilliancethe sharp edge (of a knife etc.); point or top of a flame or ray; glow; glareतेजस्विनाम्  (तेजस्विन्)adjective, masculine genitive pluralbrilliantsharp (the eye); brilliant; splendid; brightअहम्  (मद्)pronoun, nominative singularII; we

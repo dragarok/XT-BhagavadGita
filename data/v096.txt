@@ -1,0 +1,70 @@
+V	17.22		That alms given at unfit place and time, and to unworthy persons, disrespectfully and contemptuously, that is declared of darkness.		अदेशकालेयद्दानमपात्रेभ्यश्चदीयते~।असत्कृतमवज्ञातंतत्तामसमुदाहृतम्~॥ २२ ॥	5
+T	अदेशकाले	अदेश-कालेin not place-time	अnegative prefixnotnot; un-; in-देशfirst part of a compoundpoint; region; spot; placeकाले  (काल)noun, masculine locative singulartime; the proper time or season for; a spot; tense
+T	यद्दानमपात्रेभ्यश्च	यत्whichदानम्givingअपात्रेभ्यःfor worthlessesचand	यत्  (यद्)pronoun, neuter nominative singularwhat; which; whoदानम्  (दान)noun, neuter nominative singularthe act of giving; giving in marriage; giving up; communicatingअपात्रेभ्यः  (अपात्र)noun, neuter dative plurala worthless or common utensil; an undeserving or worthless object; unfit recipient; unworthyचconjunctionand; both; also; moreover
+T	दीयते	दीयतेis given	दीयते  (दा)verb: passive present 3rd person singularto give; to offer to; to yield; to give (a daughter) in marriage
+T	असत्कृतमवज्ञातं	असत्कृतम्treated badlyअवज्ञातम्disesteemed	असत्कृतम्  (असत्कृ)participle, neuter nominative singularto treat badlyअवज्ञातम्  (अवज्ञा)participle, neuter nominative singularto disesteem; to have a low opinion of; to despise; to treat with contempt
+T	तत्तामसमुदाहृतम्	तत्thatतामसम्dullउदाहृतम्declared	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherतामसम्  (तामस)adjective, neuter nominative singulardark; appertaining to or affected by the quality tamas; ignorant; variousउदाहृतम्  (उदाहृ)participle, neuter nominative singularto set up; to put up; to relate; to declare
+V	17.23		"Aum Tat Sat," this has been considered to be the threefold designation of the Eternal. Bythat were ordained of old Brâhmanas, Vedas and sacrifices.		ओंतत्सदितिनिर्देशोब्रह्मणस्त्रिविधःस्मृतः~।ब्राह्मणास्तेनवेदाश्चयज्ञाश्चविहिताःपुरा~॥ २३ ॥	10
+T	ओं	ॐOm	ॐinterjectiona word of solemn affirmation and respectful assent
+T	तत्सदिति	तत्thatसत्beingइतिthus	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherसत्  (अस्)present participle, neuter nominative singularto be; to live; to exist; to be presentइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	निर्देशो	निर्देशःpointing out	निर्देशः  (निर्देश)noun, masculine nominative singularpointing out; indicating; directing; order
+T	ब्रह्मणस्त्रिविधः	ब्रह्मणःof Brahmanत्रिविधःthreefold	ब्रह्मणः  (ब्रह्मन्)noun, neuter genitive singularpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)त्रिविधः  (त्रिविध)adjective, masculine nominative singularof 3 kinds; triple; threefold
+T	स्मृतः	स्मृतःremembered	स्मृतः  (स्मृ)participle, masculine nominative singularto remember; to recollect; to bear in mind; to think of
+T	ब्राह्मणास्तेन	ब्राह्मणाःbrahminतेनby him	ब्राह्मणाः  (ब्राह्मण)adjective, masculine nominative pluralrelating to or given by a Brâhman; befitting or becoming a Brâhman; Brâhmanicalतेन  (तद्)pronoun, masculine instrumental singularthis; gleicher
+T	वेदाश्च	वेदाःVedasचand	वेदाः  (वेद)noun, masculine nominative pluralknowledge; true or sacred knowledge or lore; knowledge of ritualचconjunctionand; both; also; moreover
+T	यज्ञाश्च	यज्ञाःsacrificesचand	यज्ञाः  (यज्ञ)noun, masculine nominative pluralworship; devotion; prayer; praiseचconjunctionand; both; also; moreover
+T	विहिताः	विहिताःordained	विहिताः  (विधा)participle, masculine nominative pluralto distribute; to apportion; to grant; to bestow
+T	पुरा	पुराof old	पुराadverbbefore; formerly; of old; soon
+V	17.24		Therefore with the pronunciation of "Aum" the acts of sacrifice, gift and austerity as laid down in the ordinances are always commenced by the knowers of the Eternal.		तस्मादोमित्युदाहृत्ययज्ञदानतपःक्रियाः~।प्रवर्तन्तेविधानोक्ताःसततंब्रह्मवादिनाम्~॥ २४ ॥	6
+T	तस्मादोमित्युदाहृत्य	तस्मात्thereforeॐOmइतिthusउदाहृत्यhaving declared	तस्मात्adverbthereforeॐinterjectiona word of solemn affirmation and respectful assentइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soउदाहृत्य  (उदाहृ)absolutive (having ...)to set up; to put up; to relate; to declare
+T	यज्ञदानतपःक्रियाः	यज्ञ-दान-तपः-क्रियाःsacrifice-giving-austerity-activities	यज्ञfirst part of a compoundworship; devotion; prayer; praiseदानfirst part of a compoundthe act of giving; giving in marriage; giving up; communicatingतपः  (तपस्)first part of a compoundwarmth; heat; pain; sufferingक्रियाः  (क्रिया)noun, feminine nominative pluraldoing; performing; performance; occupation with (in comp.)
+T	प्रवर्तन्ते	प्रवर्तन्तेengage	प्रवर्तन्ते  (प्रवृत्)verb: present 3rd person pluralto roll or go onwards (as a carriage); to be set in motion or going; to set out; to depart
+T	विधानोक्ताः	विधान-उक्ताःorder-said	विधानfirst part of a compoundorder; measure; disposition; arrangementउक्ताः  (वच्)participle, feminine nominative pluralto speak; to say; to tell; to declare
+T	सततं	सततम्always	सततम्adverbalways
+T	ब्रह्मवादिनाम्	ब्रह्म-वादिनाम्Brahman-saying	ब्रह्म  (ब्रह्मन्)first part of a compoundpious effusion or utterance; outpouring of the heart in worshipping the gods; prayer; the sacred word (as opp. to vâc)वादिनाम्  (वादिन्)adjective, masculine genitive pluralsaying; discoursing; speaking; talking
+V	17.25		With the pronunciation of "Tat" and without aiming at fruit are performed the various acts of sacrifice, austerity and gift, by those desiring liberation.		तदित्यनभिसन्धायफलंयज्ञतपःक्रियाः~।दानक्रियाश्चविविधाःक्रियन्तेमोक्षकाङ्क्षिभिः~॥ २५ ॥	7
+T	तदित्यनभिसन्धाय	तत्thatइतिthusअनभिसंधायnot having snaped at for devouring	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soअन्negative prefixnotnot; un-; in-अभिसंधाय  (अभिसंधा)absolutive (having ...)to snap at (acc.) for devouring; to take aim at (dat. or acc.); to aim at; to have in view
+T	फलं	फलम्fruit	फलम्  (फल)noun, neuter accusative singularfruit (esp. of trees); the kernel or seed of a fruit; a nutmeg; the 3 myrobalans
+T	यज्ञतपःक्रियाः	यज्ञ-तपः-क्रियाःsacrifice-austerity-activities	यज्ञfirst part of a compoundworship; devotion; prayer; praiseतपः  (तपस्)first part of a compoundwarmth; heat; pain; sufferingक्रियाः  (क्रिया)noun, feminine nominative pluraldoing; performing; performance; occupation with (in comp.)
+T	दानक्रियाश्च	दान-क्रियाःgiving-activitiesचand	दानfirst part of a compoundthe act of giving; giving in marriage; giving up; communicatingक्रियाः  (क्रिया)noun, feminine nominative pluraldoing; performing; performance; occupation with (in comp.)चconjunctionand; both; also; moreover
+T	विविधाः	विविधाःvarious	विविधाः  (विविध)adjective, feminine nominative pluralof various sorts; manifold; divers; eventful
+T	क्रियन्ते	क्रियन्तेare done	क्रियन्ते  (कृ)verb: passive present 3rd person pluralto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	मोक्षकाङ्क्षिभिः	मोक्ष-काङ्क्षिभिःliberation-desiring	मोक्षfirst part of a compoundemancipation; liberation; release from; release from worldly existence or transmigrationकाङ्क्षिभिः  (काङ्क्षिन्)adjective, masculine instrumental pluraldesiring; longing for; expecting; waiting for (acc. or in comp.)
+V	17.26		"Sat" is used in the sense of reality andgoodness; likewise, O Pârtha, the word "Sat" is used in the sense of a good work.		सद्भावेसाधुभावेचसदित्येतत्प्रयुज्यते~।प्रशस्तेकर्मणितथासच्छब्दःपार्थयुज्यते~॥ २६ ॥	10
+T	सद्भावे	सद्भावेin real being	सद्भावे  (सद्भाव)noun, masculine locative singularreal being; existence; the being true; truth
+T	साधुभावे	साधु-भावेin righteous-state	साधुfirst part of a compound (adjective)straight; right; leading to a goal; unerringभावे  (भाव)noun, masculine locative singularbecoming; being; existing; occurring
+T	च	चand	चconjunctionand; both; also; moreover
+T	सदित्येतत्प्रयुज्यते	सत्realइतिthusएतत्thisप्रयुज्यतेis yoked	सत्adjective, neuter nominative singulargood; right; virtuous; genuineइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soएतत्  (एतद्)pronoun, neuter nominative singularthisप्रयुज्यते  (प्रयुज्)verb: passive present 3rd person singularto yoke or join or harness to; to unite with (instr.); to turn (the mind) to; to prepare for (dat.)
+T	प्रशस्ते	प्रशस्तेproclaimed	प्रशस्ते  (प्रशंस्)participle, neuter locative singularto proclaim; to declare; to praise; to laud
+T	कर्मणि	कर्मणिin action	कर्मणि  (कर्मन्)noun, neuter locative singularact; action; performance; business
+T	तथा	तथाlikewise	तथाadverbin that manner; so; thus; yes
+T	सच्छब्दः	सत्-शब्दःreal-sound	सत्first part of a compound (adjective)good; right; virtuous; genuineशब्दः  (शब्द)noun, masculine nominative singularnoise; voice; tone; note
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	युज्यते	युज्यतेis harmonized	युज्यते  (युज्)verb: passive present 3rd person singularto yoke or join or fasten or harness (horses or a chariot); to make ready; to prepare; to arrange
+V	17.27		Steadfastness in sacrifice, austerity and gift is also called "Sat", and action for the sake of the Supreme is also named "Sat."	Tat.	यज्ञेतपसिदानेचस्थितिःसदितिचोच्यते~।कर्मचैवतदर्थीयंसदित्येवाभिधीयते~॥ २७ ॥	11
+T	यज्ञे	यज्ञेin sacrifice	यज्ञे  (यज्ञ)noun, masculine locative singularworship; devotion; prayer; praise
+T	तपसि	तपसिin austerity	तपसि  (तपस्)noun, neuter locative singularwarmth; heat; pain; suffering
+T	दाने	दानेin giving	दाने  (दान)noun, neuter locative singularthe act of giving; giving in marriage; giving up; communicating
+T	च	चand	चconjunctionand; both; also; moreover
+T	स्थितिः	स्थितिःsteadiness	स्थितिः  (स्थिति)noun, feminine nominative singularstanding upright or firmly; not falling; standing; staying
+T	सदिति	सत्realइतिthus	सत्adjective, neuter nominative singulargood; right; virtuous; genuineइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); so
+T	चोच्यते	चandउच्यतेis said	चconjunctionand; both; also; moreoverउच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare
+T	कर्म	कर्मaction	कर्म  (कर्मन्)noun, neuter nominative singularact; action; performance; business
+T	चैव	चandएवindeed	चconjunctionand; both; also; moreoverएवparticleso; just so; exactly so (in the sense of the later evam); indeed
+T	तदर्थीयं	तद्-अर्थीयम्that-related	तद्first part of a compound (pronoun)this; gleicherअर्थीयम्  (अर्थीय)adjective, neuter nominative singularrelatedifc. destined for; relating to
+T	सदित्येवाभिधीयते	सत्realइतिthusएवindeedअभिधीयतेis called	सत्adjective, neuter nominative singulargood; right; virtuous; genuineइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soएवparticleso; just so; exactly so (in the sense of the later evam); indeedअभिधीयते  (अभिधा)verb: passive present 3rd person singularto surrender any one to; to bring upon (dat.); to put on the furniture of a horse; to cover (a country) with an army
+V	17.28		Whatsoever is wrought without faith, oblation, gift, austerity, or other deed, "Asat" it is called, O Pârtha; it is nought, here or hereafter.		अश्रद्धयाहुतंदत्तंतपस्तप्तंकृतंचयत्~।असदित्युच्यतेपार्थनचतत्प्रेत्यनोइह~॥ २८ ॥	14
+T	अश्रद्धया	अश्रद्धयाwith want of trust	अश्रद्धया  (अश्रद्धा)noun, feminine instrumental singularwant of trust; unbelief
+T	हुतं	हुतम्offered	हुतम्  (हु)participle, neuter nominative singularto sacrifice (esp. pour butter into the fire); to offer or present an oblation (acc. or gen.) to (dat.) or in; to sacrifice to
+T	दत्तं	दत्तम्given	दत्तम्  (दा)participle, neuter nominative singularto give; to offer to; to yield; to give (a daughter) in marriage
+T	तपस्तप्तं	तपःausterityतप्तम्heated	तपः  (तपस्)noun, neuter nominative singularwarmth; heat; pain; sufferingतप्तम्  (तप्)participle, neuter nominative singularto give out heat; to be hot; to shine (as the sun); to make hot or warm
+T	कृतं	कृतम्done	कृतम्  (कृ)participle, neuter nominative singularto make like or similar; to consider equivalent; to reduce anything to; to cause to become
+T	च	चand	चconjunctionand; both; also; moreover
+T	यत्	यत्which	यत्  (यद्)pronoun, neuter nominative singularwhat; which; who
+T	असदित्युच्यते	असत्unrealइतिthusउच्यतेis said	असत्adjective, neuter nominative singularuntrue; wrong; bad; not existingइतिparticlein this manner; thus (in its original signification iti refers to something that has been said or thought); soउच्यते  (वच्)verb: passive present 3rd person singularto speak; to say; to tell; to declare
+T	पार्थ	पार्थO son of Pritha	पार्थnoun, masculine vocative singularpatr. of Tânva; metron. of Yudhishthira; name of a king of Kashmîra (son of Pangu) and of another man; the tree Terminalia Arjuna
+T	न	नnot	नparticlenot; no; nor; neither
+T	च	चand	चconjunctionand; both; also; moreover
+T	तत्प्रेत्य	तत्thatप्रेत्यhaving come forth	तत्  (तद्)pronoun, neuter nominative singularthis; gleicherप्रेत्य  (प्रे)absolutive (having ...)to come forth; to appear; to begin; to go on
+T	नो	नो= na + u	नोparticle= na + u
+T	इह	इहhere	इहadverbin this place; here; to this place; in this world
