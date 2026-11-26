@@ -1,0 +1,827 @@
+# Short English glosses for the word-by-word line under the padachheda (tools/gloss.py).
+# lemma<TAB>gloss. The lemma is the DCS base form (IAST). Write a noun in the singular, a verb in
+# its plain form ("say", "be born"): gloss.py adds the plural, "in"/"of"/"O", the person and the tense.
+# a+b<TAB>gloss: a whole compound, by its members' lemmas (mahat+bāhu: "mighty-armed").
+# Words not listed here take the corpus's sense or the first dictionary meaning.
+# These glosses are written for this app (not copied from any translation); edit freely, then
+# run tools/render.py again.
+
+# particles, conjunctions, adverbs
+ca	and
+na	not
+eva	indeed
+api	also
+hi	for
+tu	but
+iti	thus
+tathā	likewise
+evam	thus
+tatas	then
+vā	or
+tasmāt	therefore
+iha	here
+yathā	as
+iva	like
+punar	again
+tatra	there
+tadā	then
+atha	now
+bhūyas	again
+yadā	when
+su	well
+sa	with
+katham	how
+mā	not
+sarvatas	everywhere
+atra	here
+sarvaśas	wholly
+vat	like
+nityam	always
+sarvatra	everywhere
+pṛthak	separately
+yadi	if
+satatam	always
+yatra	where
+ced	if
+sadā	always
+saha	with
+atas	hence
+yatas	whence
+antar	within
+ati	very
+yāvat	as long as
+kim	what
+svayam	oneself
+aśeṣatas	fully
+adhas	below
+nānā	various
+uta	also
+kutas	whence
+jātu	ever
+kadācana	ever
+kadācid	ever
+hanta	well now
+aho	alas
+bata	alas
+ha	indeed
+sma	indeed
+nu	now
+tāvat	so long
+param	beyond
+paścāt	afterwards
+purā	of old
+ūrdhvam	upward
+samantatas	on all sides
+abhitas	all around
+nūnam	surely
+iyat	so much
+yat	strive
+
+# pronouns (gloss.py gives case forms: me, my, in me ...)
+mad	I
+tvad	you
+tad	that
+yad	which
+idam	this
+etad	this
+enad	it
+adas	that
+ka	who
+kaścit	someone
+kaścana	anyone
+sarva	all
+anya	other
+para	supreme
+apara	other
+sama	equal
+pūrva	former
+ubhaya	both
+ubh	both
+aneka	many
+viśva	all
+bhavat	you, sir
+sva	own
+
+# names and epithets
+arjuna	Arjuna
+pārtha	son of Pritha
+kaunteya	son of Kunti
+bhārata	Bharata
+kṛṣṇa	Krishna
+bhagavant	Lord
+śrī	blessed
+pāṇḍava	son of Pandu
+dhanaṃjaya	Dhananjaya
+saṃjaya	Sanjaya
+paraṃtapa	scorcher of foes
+bharata	Bharata
+bhīṣma	Bhishma
+hṛṣīkeśa	Hrishikesha
+dhārtarāṣṭra	son of Dhritarashtra
+keśava	Keshava
+janārdana	Janardana
+madhusūdana	Madhusudana
+kuru	Kuru
+guḍākeśa	Gudakesha
+droṇa	Drona
+vāsudeva	Vasudeva
+drupada	Drupada
+bhīma	Bhima
+acyuta	Achyuta
+anagha	sinless one
+govinda	Govinda
+mādhava	Madhava
+dhṛtarāṣṭra	Dhritarashtra
+duryodhana	Duryodhana
+yudhiṣṭhira	Yudhishthira
+kṛpa	Kripa
+karṇa	Karna
+āditya	Aditya
+īśvara	Lord
+prabhu	lord
+puruṣottama	Supreme Person
+paramātman	Supreme Self
+
+# compounds as a whole (members' lemmas joined by +)
+mahat+bāhu	mighty-armed
+bharata+ṛṣabha	best of the Bharatas
+bharata+sattama	best of the Bharatas
+bharata+śreṣṭha	best of the Bharatas
+kuru+nandana	joy of the Kurus
+kuru+sattama	best of the Kurus
+kuru+śreṣṭha	best of the Kurus
+kuru+pravīra	hero of the Kurus
+puruṣa+ṛṣabha	best of men
+puruṣa+vyāghra	tiger among men
+ari+sūdana	slayer of foes
+jagant+pati	lord of the world
+jagant+nivāsa	abode of the universe
+deva+īśa	lord of gods
+deva+deva	god of gods
+deva+vara	best of gods
+viśva+īśvara	lord of the universe
+viśva+mūrti	of universal form
+sahasra+bāhu	thousand-armed
+yoga+īśvara	lord of yoga
+bhūta+bhāvana	source of beings
+bhūta+īśa	lord of beings
+śrī+bhagavant	Blessed Lord
+kapi+dhvaja	monkey-bannered
+sthita+prajña	of steady wisdom
+sthita+dhī	of steady mind
+
+# nouns
+karman	action
+ātman	self
+yoga	yoga
+bhūta	being
+jñāna	knowledge
+brahman	Brahman
+buddhi	intellect
+loka	world
+yajña	sacrifice
+manas	mind
+indriya	sense
+kāma	desire
+phala	fruit
+guṇa	quality
+sukha	happiness
+artha	purpose
+bhāva	state
+prakṛti	nature
+yogin	yogi
+duḥkha	pain
+tapas	austerity
+puruṣa	person
+deva	god
+dharma	dharma
+rūpa	form
+tva	-ness
+sattva	goodness
+saṅga	attachment
+bāhu	arm
+pāpa	sin
+deha	body
+gati	goal
+kāla	time
+dāna	giving
+cetas	mind
+anta	end
+śraddhā	faith
+jana	person
+tattva	truth
+janman	birth
+siddhi	success
+moha	delusion
+bhakta	devotee
+jagant	world
+tamas	darkness
+veda	Veda
+dhṛti	firmness
+nara	man
+prāṇa	breath
+ādi	beginning
+krodha	anger
+rajas	passion
+agni	fire
+citta	mind
+bhakti	devotion
+kula	family
+bhaya	fear
+kartṛ	doer
+tejas	splendour
+tyāga	relinquishment
+kṣetra	field
+śarīra	body
+svabhāva	own nature
+dehin	embodied one
+amṛta	immortality
+śānti	peace
+ṛṣi	sage
+madhya	middle
+pitṛ	father
+bhoga	enjoyment
+prajñā	wisdom
+rāga	passion
+saṃśaya	doubt
+ajñāna	ignorance
+saṃnyāsa	renunciation
+yoni	womb
+bala	strength
+viṣaya	sense-object
+prasāda	serenity
+ahaṃkāra	egoism
+rājan	king
+putra	son
+yuddha	battle
+doṣa	fault
+kriyā	activity
+ṛṣabha	best
+mṛtyu	death
+muni	sage
+adhyātma	inner Self
+rājya	kingdom
+hetu	cause
+kṣaya	destruction
+manuṣya	human
+sāṃkhya	Sankhya
+vrata	vow
+abhyāsa	practice
+vibhūti	glory
+vaktra	mouth
+namas	salutation
+pravṛtti	activity
+ratha	chariot
+sakhi	friend
+mānasa	mind
+antara	inner
+dvāra	gate
+akarman	inaction
+pada	abode
+dveṣa	hatred
+vāyu	wind
+kāraṇa	cause
+kārya	duty
+śatru	enemy
+māyā	illusion
+parāyaṇa	devoted to
+sampad	endowment
+cakṣus	eye
+māna	honour
+prabhava	origin
+pralaya	dissolution
+guhya	secret
+saṃgha	host
+pramāda	heedlessness
+śāstra	scripture
+dambha	hypocrisy
+ācārya	teacher
+śastra	weapon
+śaṅkha	conch
+śabda	sound
+senā	army
+lobha	greed
+adharma	adharma
+varṇa	caste
+śoka	grief
+guru	elder
+āgama	coming
+āścarya	wonder
+svadharma	own dharma
+niścaya	certainty
+nāśa	loss
+vāc	speech
+brāhmaṇa	brahmin
+rasa	taste
+smṛti	memory
+nirvāṇa	nirvana
+sambhava	origin
+samudbhava	arising
+udbhava	arising
+saṃsiddhi	perfection
+vijñāna	realization
+kavi	seer
+dvaṃdva	duality
+apāna	out-breath
+āhāra	food
+hṛd	heart
+sthāna	place
+kāya	body
+saṃyoga	contact
+sarga	creation
+jyotis	light
+hita	welfare
+mokṣa	liberation
+deśa	place
+grāma	multitude
+sahasra	thousand
+ahar	day
+satya	truth
+kṣetrajña	knower of the field
+śauca	purity
+vidhi	ordinance
+pitāmaha	grandfather
+vākya	word
+raṇa	battle
+suhṛd	well-wisher
+bandhu	kinsman
+mukha	face
+mitra	friend
+saṃkara	confusion
+naraka	hell
+sura	god
+vacas	word
+vāda	talk
+paṇḍita	learned one
+jarā	old age
+uṣṇa	heat
+ap	water
+svarga	heaven
+bandha	bondage
+vyavasāya	resolve
+samādhi	samadhi
+śaraṇa	refuge
+spṛhā	longing
+vaśa	control
+sammoha	bewilderment
+niṣṭhā	path
+kilbiṣa	guilt
+anna	food
+saṃgraha	welfare
+bheda	distinction
+anala	fire
+yuga	age
+saṃkalpa	intention
+kalmaṣa	impurity
+pavitra	purifier
+saṃnyāsin	renouncer
+vidyā	learning
+vega	impulse
+śama	calm
+agra	tip
+diś	direction
+darśana	vision
+mati	mind
+sūrya	sun
+bīja	seed
+rātri	night
+dhāman	abode
+ahiṃsā	non-violence
+siddha	perfected one
+netra	eye
+dhyāna	meditation
+ārambha	undertaking
+ārjava	uprightness
+vacana	word
+harṣa	joy
+pṛthivī	earth
+dhana	wealth
+prīti	love
+strī	woman
+kīrti	fame
+īśa	lord
+jīva	soul
+jīvita	life
+mūrti	form
+pati	lord
+nandana	joy
+sattama	best
+śreṣṭha	best
+vyāghra	tiger
+nivāsa	abode
+dhvaja	banner
+sūdana	slayer
+ari	foe
+tapasvin	ascetic
+kṣatriya	warrior
+vaiśya	merchant
+śūdra	labourer
+dhanus	bow
+bāṇa	arrow
+gāṇḍīva	Gandiva
+asura	demon
+rākṣasa	demon
+pitṛ	father
+ācāra	conduct
+upadeśa	teaching
+nidrā	sleep
+svapna	dream
+ālasya	sloth
+nāsikā	nose
+kūrma	tortoise
+aśvattha	fig tree
+mūla	root
+śākhā	branch
+parṇa	leaf
+chandas	hymn
+oṃ	Om
+mahābhūta	great element
+ākāśa	space
+kṣānti	patience
+dama	self-control
+tyāgin	relinquisher
+sukṛta	good deed
+duṣkṛta	evil deed
+
+# adjectives
+mahat	great
+parama	supreme
+avyaya	imperishable
+priya	dear
+eka	one
+stha	abiding
+nitya	eternal
+divya	divine
+ja	born
+avyakta	unmanifest
+sāttvika	pure
+rājasa	passionate
+tāmasa	dull
+bahu	many
+śreyas	better
+akṣara	imperishable
+kṛtsna	whole
+amṛta	immortal
+trividha	threefold
+ananta	endless
+uttama	highest
+śāśvata	everlasting
+daiva	divine
+puṇya	holy
+āsura	demonic
+maya	made of
+mahātman	great-souled
+sanātana	eternal
+asat	unreal
+acala	unmoving
+kṛt	making
+tri	three
+jñānin	wise
+sthira	steady
+anvita	endowed with
+aśubha	evil
+ātmaka	of the nature of
+śakya	possible
+dharmya	righteous
+aja	unborn
+avaśa	helpless
+sat	real
+bhoktṛ	enjoyer
+adbhuta	wondrous
+ugra	fierce
+tulya	equal
+sukhin	happy
+kara	making
+purāṇa	ancient
+dhruva	certain
+śubha	auspicious
+nirmama	unpossessive
+mogha	vain
+śraddhāvat	full of faith
+sadṛśa	like
+sādhu	righteous
+samagra	entire
+udāsīna	neutral
+adhika	greater
+dṛḍha	firm
+kṣara	perishable
+ādya	primal
+aiśvara	sovereign
+anādi	beginningless
+māmaka	mine
+viparīta	contrary
+dvividha	twofold
+caturvidha	fourfold
+kalyāṇa	good
+pāpin	sinful
+durlabha	hard to find
+sūkṣma	subtle
+mūḍha	deluded
+yukta	harmonized
+sthita	established
+mukta	freed
+pūjya	worthy of worship
+
+# verbs (plain form; "be X" for a state: be born, be deluded)
+vac	say
+as	be
+vid	know
+kṛ	do
+bhū	be
+dṛś	see
+yuj	harmonize
+gam	go
+jñā	know
+sthā	stand
+man	think
+śru	hear
+han	slay
+tyaj	abandon
+yā	go
+prāp	attain
+iṣ	desire
+pravac	declare
+labh	obtain
+yaj	sacrifice
+avasthā	be situated
+sañj	cling
+muc	free
+paś	see
+avāp	attain
+niyam	control
+vṛt	abide
+bhaj	worship
+ji	conquer
+arh	ought
+dā	give
+jan	be born
+bhuj	enjoy
+muh	be deluded
+āp	obtain
+aś	attain
+āvṛ	cover
+yam	control
+yudh	fight
+ah	say
+āśri	resort to
+smṛ	remember
+nibandh	bind
+viś	enter
+nivṛt	turn back
+śuc	grieve
+chid	cut
+dviṣ	hate
+adhigam	attain
+i	go
+hu	offer
+upe	come to
+udāhṛ	declare
+brū	tell
+kāṅkṣ	desire
+naś	perish
+prapad	take refuge in
+grah	grasp
+ās	sit
+vigam	go away
+pratiṣṭhā	be established
+vimuh	be bewildered
+āsthā	resort to
+vimuc	liberate
+bhī	fear
+viśiṣ	excel
+pravṛt	engage
+praṇaś	perish
+vijñā	understand
+ram	delight
+vidhā	ordain
+saṃyam	restrain
+abhijan	be born
+prasad	be gracious
+prāh	call
+atī	transcend
+dhāray	hold
+upapad	be fitting
+utthā	stand up
+tan	pervade
+cintay	think of
+vad	speak
+kathay	tell
+abhidhā	call
+car	move
+sṛj	create
+bhāvay	nourish
+saṃnyas	renounce
+budh	understand
+sambhū	come into being
+lip	stain
+abhijñā	know
+paryupās	worship
+upās	worship
+tap	heat
+darśay	show
+hṛṣ	rejoice
+śak	be able
+anupaś	see
+visṛj	cast aside
+hā	cast off
+hṛ	carry away
+upajan	arise
+saṃtuṣ	be content
+ācar	perform
+anuṣṭhā	follow
+āgam	come
+upāśri	resort to
+vinaś	be destroyed
+prayā	depart
+dīp	blaze
+pravyath	be shaken
+saṃsmṛ	remember
+nibudh	know
+abhirakṣ	guard
+dham	blow
+udyam	raise
+viṣad	be dejected
+upahan	ruin
+prapaś	behold
+dṛś	see
+īkṣ	see
+draṣṭum	see
+vas	dwell
+nī	lead
+kṣip	cast
+klid	wet
+dah	burn
+śoṣ	dry
+vyath	be troubled
+tuṣ	be pleased
+pūj	worship
+nam	bow
+stu	praise
+kamp	tremble
+plu	float
+sev	serve
+rakṣ	protect
+prīṇ	please
+spṛś	touch
+jīv	live
+mṛ	die
+vṛdh	grow
+pat	fall
+
+# more words, from the list of words used 3+ times
+samave	assemble
+yuyutsu	eager to fight
+adhikāra	right
+ṛte	without
+parityaj	abandon
+juṣ	practise
+ārya	noble
+kaśmala	dejection
+samupasthā	come upon
+viṣama	crisis
+āviś	enter
+garīyas	greater
+anuśuc	grieve
+dhīra	wise
+sparśa	contact
+śīta	cold
+kḷp	be fitting
+darśin	seer
+vināśa	destruction
+antavat	perishable
+pramā	measure
+vihā	abandon
+pāvaka	fire
+uparam	cease
+lābha	gain
+prahā	cast off
+alpa	small
+pravad	declare
+prada	giving
+ātmavat	self-possessed
+asiddhi	failure
+manīṣin	wise
+vī	pass
+saṃjan	arise
+ayukta	unharmonized
+śam	be calm
+jāgṛ	be awake
+praviś	enter
+sthiti	steadiness
+ghora	terrible
+mohay	delude
+niści	ascertain
+samācar	perform
+prajā	creature
+paraspara	mutual
+tṛp	be satisfied
+mānava	man
+anuvṛt	follow
+vartman	path
+vicālay	unsettle
+nirāśī	desireless
+mata	opinion
+acetas	senseless
+jñānavat	wise
+dhūma	smoke
+vivasvant	Vivasvan
+manu	Manu
+adya	today
+punarjanman	rebirth
+pū	purify
+devatā	deity
+mānuṣa	human
+bandh	bind
+buddhimat	wise
+budha	wise one
+svādhyāya	scripture study
+yati	ascetic
+akhila	entire
+samyak	rightly
+ādhā	place
+pattra	leaf
+prakāśay	illumine
+udvij	be agitated
+asaṃmūḍha	undeluded
+icchā	desire
+āruh	ascend
+praśam	become calm
+samādhā	fix
+avamāna	dishonour
+kūṭastha	unchanging
+śuci	pure
+āsana	seat
+śiras	head
+saṃjñita	called
+cañcala	restless
+balavat	strong
+vairāgya	dispassion
+kaccit	is it that
+gaṇa	host
+śaśin	moon
+gandha	fragrance
+vivarjay	avoid
+adhama	lowest
+vyakti	manifestation
+prakāśa	light
+adhibhūta	physical being
+adhiyajña	lord of sacrifice
+adhidaiva	divine being
+prayāṇa	departure
+dehabhṛt	embodied one
+anusmṛ	remember
+dhātṛ	supporter
+āveśay	fix
+prabhū	come forth
+pralī	dissolve
+māsa	month
+guhyatama	most secret
+saṃsāra	worldly existence
+viśvatomukha	facing everywhere
+bhartṛ	supporter
+nidhāna	treasure-house
+utsṛj	give up
+div	heaven
+pūrvaka	preceded by
+yājin	worshipper
+namaskṛ	bow to
+kṣamā	forgiveness
+abhaya	fearlessness
+yaśas	fame
+pṛthagvidha	diverse
+vyāsa	Vyasa
+aśeṣeṇa	completely
+vistara	detail
+viṣṇu	Vishnu
+marut	Marut
+rudra	Rudra
+yakṣa	Yaksha
+rakṣas	demon
+vasu	Vasu
+aṃśa	part
+ekastha	gathered in one
+bhās	light
+praṇam	bow
+kirīṭin	crowned
+lokatraya	three worlds
+daṃṣṭra	tusk
+karāla	dreadful
+deveśa	lord of gods
+jagannivāsa	abode of the universe
+yodha	fighter
+samṛdh	prosper
+pravṛdh	grow
+he	O
+saumya	gentle
+parityāgin	relinquisher
+samāsena	briefly
+vividha	various
+pañcan	five
+vivṛdh	increase
+bhūya	more
+darpa	pride
+mada	arrogance
+aśuci	impure
+akārya	wrong action
+ākāṅkṣin	desiring
+saṃvāda	dialogue
