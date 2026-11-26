@@ -1,0 +1,76 @@
+# Test and pack the app on every push and pull request. On main, publish a GitHub release with the
+# .xtapp whenever manifest.json carries a version that has no release yet: bumping the version is
+# all a release takes.
+name: build and release
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Lint (the reader runs Lua 5.5)
+        run: python -I kit/lualint55.py src/*.lua
+
+      - name: Test (bundles src/ into index.lua, then runs all 701 verses under Lua 5.4)
+        run: python -I test_gita.py
+
+      - name: index.lua is up to date
+        run: git diff --exit-code -- index.lua
+
+      - name: Pack
+        id: pack
+        run: |
+          version=$(python -I -c 'import json; print(json.load(open("manifest.json"))["version"])')
+          mkdir -p dist
+          python -I kit/xtpack.py . -o dist/bhagavadgita.xtapp
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: bhagavadgita-${{ steps.pack.outputs.version }}
+          path: dist/bhagavadgita.xtapp
+
+      - name: Release (once per version)
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION: ${{ steps.pack.outputs.version }}
+        run: |
+          tag="v$VERSION"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            echo "$tag is already released; bump \"version\" in manifest.json for a new release."
+            exit 0
+          fi
+          cat > notes.md <<NOTES
+          Bhagavad Gita $VERSION for the Xteink X4 Pro (XT Licorice, Ink App API 2.18).
+
+          **Install**
+          1. Copy \`bhagavadgita.xtapp\` to the root of the reader's SD card.
+          2. Put \`TiroDevanagariHindi-Regular.ttf\` ([Google Fonts](https://fonts.google.com/specimen/Tiro+Devanagari+Hindi)) in the card's \`Pushed Fonts\` folder, and pick it in Ink App settings: the app's Devanagari is drawn in that font.
+          3. On the reader, open All Files, tap \`bhagavadgita.xtapp\`, then Install. Open it from ≡ → Ink App.
+          NOTES
+          gh release create "$tag" dist/bhagavadgita.xtapp \
+            --target "$GITHUB_SHA" --title "Bhagavad Gita $VERSION" \
+            --notes-file notes.md --generate-notes
